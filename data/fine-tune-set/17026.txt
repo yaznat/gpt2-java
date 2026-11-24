@@ -1,0 +1,15 @@
+Generate a recipe for a cocktail.<|endoftext|>Clear Gummy Bear Cocktail
+
+Ingredients:
+• Peach schnapps
+• Raspberry vodka
+• Diet sprite
+• Lime wedge
+• Ice
+
+Steps:
+1. Add ice to a double old-fashioned glass
+2. Add the peach schnapps and the raspberry vodka
+3. Top off with about 4 ounces of sprite
+4. Squeeze a wedge of fresh lime into the glass, and stir gently
+5. Garnish with a slice or wedge of lime, and serve<|endoftext|>

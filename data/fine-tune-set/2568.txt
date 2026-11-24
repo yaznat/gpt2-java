@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: First of all, you need to preview.If you do this and you'll have a clear idea about what are you going to learn in class.<|endoftext|>First of all, you need to preview. If you do this, you'll have a clear idea about what you are going to learn in class.<|endoftext|>

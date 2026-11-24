@@ -1,0 +1,1 @@
+Remove all grammatical errors from this text: Before, I lively in the daytime, and silent in the night.<|endoftext|>Before, I was lively in the daytime and silent at night.<|endoftext|>

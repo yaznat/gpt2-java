@@ -1,0 +1,15 @@
+Please generate a cocktail recipe.<|endoftext|>Ed S Seafood Cocktail Sauce
+
+Ingredients:
+• Catsup
+• Horseradish
+• Garlic cloves
+• Lemon juice
+• Onions
+• Worcestershire sauce
+• Dry mustard
+• Tabasco sauce
+
+Steps:
+1. Combine all ingredients and chill
+2. Use with fresh, cooked shrimp or any other seafood that you like with a spicy sauce<|endoftext|>

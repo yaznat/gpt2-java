@@ -1,0 +1,21 @@
+Please generate a muffin recipe.<|endoftext|>Apple N Spice Muffins
+
+Ingredients:
+• All-purpose flour
+• Brown sugar
+• Baking powder
+• Baking soda
+• Cinnamon
+• Salt
+• Nutmeg
+• Apple
+• Egg
+• Skim milk
+• Butter
+
+Steps:
+1. In large bowl, combine flour, sugar, baking powder, baking soda, cinnamon, salt and nutmeg
+2. Combine apple, egg milk and butter
+3. Add to dry ingredients, stirring just until combined but not over mixed
+4. Spoon into lightly greased or paper-lined muffin cups, filling almost to top
+5. Bake in 400 f oven for 15-18 minutes or until golden and tops are firm to touch<|endoftext|>

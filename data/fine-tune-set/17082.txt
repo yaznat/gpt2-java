@@ -1,0 +1,10 @@
+Give me a recipe for a cocktail.<|endoftext|>Cranberry Kir Champagne Cocktail
+
+Ingredients:
+• Cranberry juice
+• Sugar
+• Creme de cassis
+• Champagne
+
+Steps:
+1. Combine 1st 3 ingredients in a glass, top with champagne & serve<|endoftext|>

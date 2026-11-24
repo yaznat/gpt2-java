@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: When they reach a tenable age for retirement they are unable to pay for their medical bills since they do not have adequate savings.<|endoftext|>When they reach a tenable age for retirement, they will be unable to pay for their medical bills since they do not have adequate savings.<|endoftext|>

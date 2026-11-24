@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: I don't know myself why, but I almost every day go on the street in order to exercise.<|endoftext|>I don't know why, but I go on the street almost every day in order to exercise.<|endoftext|>

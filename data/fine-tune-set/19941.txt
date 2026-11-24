@@ -1,0 +1,18 @@
+Please generate a omelette recipe.<|endoftext|>Chinese Style Omelette
+
+Ingredients:
+• Peanut oil
+• Salt
+• Fresh bean sprout
+• Eggs
+• Green onion
+• Fresh cilantro
+• Oyster sauce
+• Water
+
+Steps:
+1. Heat a wok or large skillet
+2. Add oil, salt and bean sprouts
+3. Cook for 1 minute, then pour in the beaten eggs and add the green onions and cilantro
+4. Allow to cook for 2 minutes, then, when it still looks moist but is cooked through, with a spatula turn half of the omelette over the other half
+5. Drizzle the omelette with the oyster sauce mixture and serve<|endoftext|>

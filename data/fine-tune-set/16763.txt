@@ -1,0 +1,16 @@
+Can you give me a milkshake recipe?<|endoftext|>Dee S Horchata Milkshake
+
+Ingredients:
+• Rice milk
+• Almonds
+• Rice
+• Sugar
+• Vanilla
+• Cinnamon
+• Nutmeg
+• Ice
+
+Steps:
+1. Blend rice milk, almonds, rice if using, sugar, vanilla, cinnamon and nutmeg for 1 minute
+2. Add ice
+3. Blend until mixed<|endoftext|>

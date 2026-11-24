@@ -1,0 +1,1 @@
+Fix grammatical errors in this sentence: Design is the first stage, which contains three parts: background, artwork and security issues.<|endoftext|>Design is the first stage, which includes three parts: background, artwork, and security issues.<|endoftext|>

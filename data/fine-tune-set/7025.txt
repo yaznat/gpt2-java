@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: As far as the radioactive waste is concerned, lead-cooled fast reactor is designed best to cut back on the amount of high level waste.<|endoftext|>As far as radioactive waste is concerned, a lead-cooled fast reactor is designed best to cut back on the amount of high-level waste.<|endoftext|>

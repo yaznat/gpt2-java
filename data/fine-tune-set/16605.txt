@@ -1,0 +1,10 @@
+Please generate a smoothie recipe.<|endoftext|>Banana Smoothie
+
+Ingredients:
+• Banana
+• Fresh curds
+• Orange juice
+
+Steps:
+1. Combine all the ingredients in a blender and liquidise into a smooth pure
+2. Serve immediately<|endoftext|>

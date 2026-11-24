@@ -1,0 +1,10 @@
+Give me a chili recipe.<|endoftext|>5 Minute Chili
+
+Ingredients:
+• Tomatoes
+• Black beans
+• Mexican-style corn
+
+Steps:
+1. Pour all ingredients into a medium saucepan
+2. Heat over medium heat for about 4 minutes, stirring ocassionaly<|endoftext|>

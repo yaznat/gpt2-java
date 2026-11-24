@@ -1,0 +1,11 @@
+Give me a recipe for a sandwich.<|endoftext|>Apple Slaw Sandwich Filler
+
+Ingredients:
+• Mayonnaise
+• Fresh lemon juice
+• Cheddar cheese
+• Apple
+• Spring onions
+
+Steps:
+1. Mix all ingredients together<|endoftext|>

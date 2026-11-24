@@ -1,0 +1,21 @@
+Give me a salad recipe.<|endoftext|>A Famous Chicken Salad Sandwich
+
+Ingredients:
+• White chicken meat packed in water
+• Mayonnaise
+• Apples
+• Grapes
+• Celery
+• Pecans
+• Hard-boiled eggs
+• Honey-wheat bread
+• Lettuce
+• Tomatoes
+
+Steps:
+1. Drain chicken and put in bowl
+2. Add some mayo so that it does not have that dry appearance
+3. Next, start adding the apples, grapes, celery, and pecans
+4. Next, chop up the egg and add it to the salad
+5. Spread the salad on the bread with lettuce and tomato
+6. Enjoy!<|endoftext|>

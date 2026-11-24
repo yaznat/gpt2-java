@@ -1,0 +1,15 @@
+Give me a recipe for pancakes.<|endoftext|>Bisquick Fruity Yogurt Pancakes
+
+Ingredients:
+• Bisquick baking mix
+• Sugar
+• Milk
+• Fruit yogurt
+• Eggs
+
+Steps:
+1. Beat all ingredients with wire whisk or hand beater until well blended
+2. The batter will be thick
+3. Pour batter onto hot griddle, by spoonfuls, grease if necessary, spread lightly
+4. Cook until edges are dry
+5. Turn, cook until golden brown<|endoftext|>

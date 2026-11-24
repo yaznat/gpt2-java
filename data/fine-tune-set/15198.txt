@@ -1,0 +1,26 @@
+Please generate a pizza recipe.<|endoftext|>Beer Pizza
+
+Ingredients:
+• Pepperoni
+• Bacon
+• Mushrooms
+• Onion
+• Green pepper
+• Mozzarella cheese
+• Tomato sauce
+• Garlic
+• Oregano
+• Thyme
+• Salt
+• Beer
+• Olive oil
+• 15 inch pizza crusts
+
+Steps:
+1. Preheat oven to 450
+2. In large skillet brown pepperoni and bacon in oil
+3. Drain and set aside
+4. Saute mushrooms, green peppers and onions until soft
+5. Add all other ingredients except cheese and stir well, simmering for 15 minutes
+6. Divide sauce between 2 pizzas and cover with cheese
+7. Bake for 20-25 minutes, or until crust is golden brown<|endoftext|>

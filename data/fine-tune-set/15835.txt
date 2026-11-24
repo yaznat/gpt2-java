@@ -1,0 +1,11 @@
+Please generate a burrito recipe.<|endoftext|>Breakfast Burros Burritos
+
+Ingredients:
+• Flour tortilla
+• Eggs
+• Cheddar cheese
+
+Steps:
+1. Warm tortilla in skillet
+2. Top with scrambled eggs and sprinkle cheese on top
+3. Fold and serve<|endoftext|>

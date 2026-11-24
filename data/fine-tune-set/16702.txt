@@ -1,0 +1,13 @@
+Give me a recipe for a smoothie.<|endoftext|>Blackberry Smoothie
+
+Ingredients:
+• Blackberries
+• Plain fat-free yogurt
+• Apple juice
+• Honey
+• Banana
+
+Steps:
+1. Combine all ingredients in a blender and process until smooth
+2. Strain blackberry mixture through a sieve and discard seeds
+3. Enjoy!<|endoftext|>

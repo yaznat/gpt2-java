@@ -1,0 +1,11 @@
+Please generate a milkshake recipe.<|endoftext|>Papaya And Mango Batidos Milkshake
+
+Ingredients:
+• Papaya
+• Mango
+• Milk
+• Ice
+
+Steps:
+1. Combine the papaya, mango, milk, and ice in a blender process just until smooth
+2. Pour into glasses and garnish with mango and papaya slices<|endoftext|>

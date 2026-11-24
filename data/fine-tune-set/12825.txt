@@ -1,0 +1,17 @@
+Give me a recipe for steak.<|endoftext|>Bbq Steak Peppers Sandwich
+
+Ingredients:
+• Beef flank steak
+• Barbecue sauce
+• Red pepper
+• Yellow pepper
+• Mayonnaise
+• French baguettes
+• Lettuce leaves
+
+Steps:
+1. Preheat greased grill to medium-high heat
+2. Grill steak 8 to 10 mins on each side or until medium doneness
+3. Grill peppers 2 to 3 mins on each side or until crisp-tender, brushing both with barbecue sauce for the last few minutes
+4. Thinly slice steak and peppers
+5. Spread baguettes with mayo and fill with lettuce, steak and peppers<|endoftext|>

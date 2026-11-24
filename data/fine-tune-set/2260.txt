@@ -1,0 +1,1 @@
+Improve the grammaticality of this text: I was supposed to go to learn Hungarian this evening but I'd better go to the gym today.<|endoftext|>I was supposed to go to my Hungarian lesson this evening, but I'd better go to the gym today.<|endoftext|>

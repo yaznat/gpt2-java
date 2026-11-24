@@ -1,0 +1,20 @@
+Please generate a brownie recipe.<|endoftext|>Blonde Brownies
+
+Ingredients:
+• Flour
+• Baking powder
+• Salt
+• Butter
+• Brown sugar
+• Eggs
+• Walnuts
+• Semi-sweet chocolate chips
+
+Steps:
+1. Preheat oven to 350 degrees
+2. Grease a 9" x 13" pan
+3. Sift flour, baking powder and salt together, set aside
+4. Mix brown sugar and butter, add eggs one at a time
+5. Add the flour mixture, nuts, and chocolate chips
+6. Spread in the pan
+7. Bake 25 to 30 minutes<|endoftext|>

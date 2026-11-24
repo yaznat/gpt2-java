@@ -1,0 +1,19 @@
+Generate a recipe for a sandwich.<|endoftext|>Bacon N Egg Salad Sandwiches
+
+Ingredients:
+• Bacon
+• Cheddar cheese
+• Sour cream
+• Mayonnaise
+• Chives
+• Salt
+• Pepper
+• Hard-cooked eggs
+• Lettuce leaves
+• Croissants
+
+Steps:
+1. In a large bowl, combine the first seven ingredients
+2. Add the eggs and mix well
+3. Cover and refrigerate for at least 2 hours
+4. Serve on lettuce-lined croissants<|endoftext|>

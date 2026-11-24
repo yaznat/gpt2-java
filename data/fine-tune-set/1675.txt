@@ -1,0 +1,1 @@
+Improve the grammaticality of this text: Another factor that affects bar code's development is the economic concerns.<|endoftext|>Another factor that affects the bar code's development is economic concerns.<|endoftext|>

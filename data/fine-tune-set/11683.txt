@@ -1,0 +1,21 @@
+Can you give me a cake recipe?<|endoftext|>A Quick And Easy White Cake
+
+Ingredients:
+• Flour
+• Sugar
+• Baking powder
+• Salt
+• Vegetable shortening
+• Milk
+• Vanilla
+• Egg whites
+
+Steps:
+1. Heat oven to 350f degrees
+2. Grease and flour 9x13 pan
+3. Combine dry ingredients in mixing bowl
+4. Beat in shortening
+5. Add milk and vanilla
+6. Beat for 2 minutes
+7. Beat in egg whites, beat until very smooth
+8. Bake for 35 minutes, or until done<|endoftext|>

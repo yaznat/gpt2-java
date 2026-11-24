@@ -1,0 +1,13 @@
+Can you give me a cocktail recipe?<|endoftext|>Chilly Willy Cocktail
+
+Ingredients:
+• Midori melon liqueur
+• Coconut rum
+• Peach schnapps
+• Orange juice
+• Pineapple juice
+
+Steps:
+1. Pour into shaker
+2. Fill with orange and pineapple juice
+3. Shake well<|endoftext|>

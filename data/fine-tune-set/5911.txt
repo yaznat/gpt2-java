@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: There is also a food court on the third floor, catering to all sorts of customers, as well as a few restaruants on the first and second floors.<|endoftext|>There is also a food court on the third floor, catering to all sorts of customers, as well as a few restaurants on the first and second floors.<|endoftext|>

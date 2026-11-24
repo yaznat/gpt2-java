@@ -1,0 +1,16 @@
+Give me a recipe for a quesadilla.<|endoftext|>Grilled Turkey Club Quesadillas
+
+Ingredients:
+• Flour tortillas
+• Miracle whip
+• Chili powder
+• Turkey breast
+• Bacon
+• Cheese
+
+Steps:
+1. Preheat grill to medium heat
+2. Spread tortillas with dressing and sprinkle with chili powder
+3. Layer half each of the turkey and bacon and 1 / 2 slice of cheese for each tortilla
+4. Fold over tortillas to cover filling
+5. Grill 2-3 minutes on each side or until quesadillas are golden brown on both sides and cheese is melted<|endoftext|>

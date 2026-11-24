@@ -1,0 +1,1 @@
+Remove all grammatical errors from this text: Burger king in Japan began to sell amazing burger.<|endoftext|>Burger king in Japan began to sell an amazing burgers.<|endoftext|>

@@ -1,0 +1,23 @@
+Please generate a beans recipe.<|endoftext|>Awesome Healthy Black Bean Soup
+
+Ingredients:
+• Black beans
+• Onion
+• Broth
+• Water
+• Cumin
+• Rotel
+• Diced tomatoes
+• Dried cilantro
+• Sour cream
+• Tortilla chips
+
+Steps:
+1. Place onion, water, broth and cumin in a stock pot and bring to a boil
+2. Reduce to medium heat
+3. When onions are soft, place beans and rotel in the stock pot
+4. Simmer for 20 minutes
+5. Blend with a hand blender
+6. Add diced tomatoes and cilantro
+7. Simmer for 10-15 more minutes
+8. Serve topped with a bit of sour cream and crushed tortilla chips<|endoftext|>

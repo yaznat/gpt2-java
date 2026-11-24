@@ -1,0 +1,1 @@
+Fix grammar in this sentence: It has been argued for a long time whether the use of the nuclear power should be encouraged or prevented.<|endoftext|>It has been argued for a long time whether the use of nuclear power should be encouraged or opposed.<|endoftext|>

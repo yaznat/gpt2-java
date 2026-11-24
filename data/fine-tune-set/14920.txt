@@ -1,0 +1,16 @@
+Generate a recipe for fried rice.<|endoftext|>Fried Rice In A Flash
+
+Ingredients:
+• Cooked rice
+• Vegetable oil
+• Sesame oil
+• Soy sauce
+• Eggs
+• Green onions
+• Sesame seeds
+
+Steps:
+1. Heat vegetable oil and sesame oil in wok or large skillet over medium-high heat
+2. Add cooked rice and stir until rice is coated and heated through
+3. Stir in soy sauce, then eggs and green onions
+4. Garnish with toasted sesame seeds, if desired<|endoftext|>

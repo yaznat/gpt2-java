@@ -1,0 +1,1 @@
+Fix grammar in this sentence: The enthusiastic and clever Elizabeth stands out among them striving to put everything in a broader perspective.<|endoftext|>The enthusiastic and clever Elizabeth stands out among them, striving to put everything in a broader perspective.<|endoftext|>

@@ -1,0 +1,17 @@
+Can you give me a burger recipe?<|endoftext|>Barbecue Burgers
+
+Ingredients:
+• Lean ground beef
+• Barbecue sauce
+• Barbecue potato chips
+• Onion powder
+• Salt
+• Black pepper
+• Cheese slices
+
+Steps:
+1. Mix all the ingredients together in a bowl except the cheese
+2. Form the meat mixture into 6 patties
+3. Cook the patties on the grill until no longer pink in the middle
+4. Top with cheese slices, if using
+5. Remove from the grill once the cheese is melted<|endoftext|>

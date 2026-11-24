@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: However, I'm astonished at icy coldness of the seat during washing its seat cover.<|endoftext|>However, I'm astonished at the icy coldness of the seat when washing its seat cover.<|endoftext|>

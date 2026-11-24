@@ -1,0 +1,1 @@
+Fix grammar in the sentence: The modern times have raised the concern about the environment, climate change and energy.<|endoftext|>Modern times have raised concerns about the environment, climate change, and energy.<|endoftext|>

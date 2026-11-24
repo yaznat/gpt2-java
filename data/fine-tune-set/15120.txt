@@ -1,0 +1,18 @@
+Please generate a pizza recipe.<|endoftext|>Arugula Caramelized Onion And Goat Cheese Pizza
+
+Ingredients:
+• Olive oil
+• Red onion
+• Baby arugula
+• Salt and pepper
+• Whole wheat tortillas
+• Goat cheese
+
+Steps:
+1. Preheat oven to 400 degrees
+2. Heat the oil in a large skillet to med
+3. Heat and add onions
+4. Cook until they are soft and golden in color, about 12-15 minute
+5. Add the arugula and cook until it is wilted, about 1 minute
+6. Season with salt and pepper
+7. Place tortillas on baking sheet and top with arugula mixture, crumble goat cheese over top and bake until tortillas are crisped and cheese is slightly melted, about 10-12 minute<|endoftext|>

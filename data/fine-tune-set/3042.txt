@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: There were many kind of buns in the shop, and they were relatively cheap.<|endoftext|>There were many kind kinds of buns in the shop, and they were relatively cheap.<|endoftext|>

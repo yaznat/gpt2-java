@@ -1,0 +1,11 @@
+Generate a recipe for a smoothie.<|endoftext|>Banoffee Smoothie
+
+Ingredients:
+• Bananas
+• Milk
+• Toffee ice cream
+
+Steps:
+1. Place all in blender
+2. Mix for 10 seconds then smooth for 20 seconds or if you don't have a fancy blender, just blend until smooth
+3. Serve imediately<|endoftext|>

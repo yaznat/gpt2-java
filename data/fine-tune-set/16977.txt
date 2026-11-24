@@ -1,0 +1,11 @@
+Please generate a cocktail recipe.<|endoftext|>Candy Bar Frozen Cocktail
+
+Ingredients:
+• Frangelico
+• Hersheys chocolate syrup
+• Coco lopez
+• Coconut
+• Vanilla ice cream
+
+Steps:
+1. Combine all ingredients in blender<|endoftext|>

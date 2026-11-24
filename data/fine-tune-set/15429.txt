@@ -1,0 +1,27 @@
+Generate a recipe for a burger.<|endoftext|>Bacon Cheeseburger Meatloaf Paula Deen
+
+Ingredients:
+• Ground chuck
+• Bacon
+• Sharp cheddar cheese
+• Eggs
+• Fine breadcrumbs
+• Mayonnaise
+• Worcestershire sauce
+• Salt
+• Pepper
+• Ketchup
+• Prepared mustard
+• French-fried onions
+
+Steps:
+1. Preheat oven to 350f
+2. Spray a baking dish with non-stick cooking spray
+3. In a large mixing bowl, combine the first 9 ingredients, mixing well by hand
+4. In a small bowl, combine ketchup and mustard
+5. Stir in 1 / 4 cup ketchup mixture into the meat mixture
+6. Place meat mixture in baking dish and shape into a loaf
+7. Spread remaining ketchup mixture over meatloaf
+8. Bake for 40 minutes
+9. Remove from oven and top with french fried onions
+10. Return to oven and bake 10-15 minutes longer, or until meat is no longer pink<|endoftext|>

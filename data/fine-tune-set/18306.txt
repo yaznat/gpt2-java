@@ -1,0 +1,19 @@
+Please generate a pancake recipe.<|endoftext|>Blender Pancakes Food Storage
+
+Ingredients:
+• Whole oats
+• Barley
+• Cornmeal
+• Water
+• Oil
+• Baking powder
+• Salt
+• Powdered milk
+• Baking soda
+• Vinegar
+
+Steps:
+1. Blend grains and first portion of water until smooth
+2. Add oil, baking powder, salt, and powdered milk and blend
+3. Gently mix in baking soda, remaining water, and vinegar
+4. Pour portions onto hot griddle and cook until browned on each side<|endoftext|>

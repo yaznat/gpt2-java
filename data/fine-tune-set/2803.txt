@@ -1,0 +1,1 @@
+Write a better readable version of the sentence: We propose a novel methodology for analyzing the encoding of grammatical structure in neural language models through transfer learning.<|endoftext|>We propose transfer learning as a method for analyzing the encoding of grammatical structure in neural language models through transfer learning.<|endoftext|>

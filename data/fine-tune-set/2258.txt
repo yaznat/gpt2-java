@@ -1,0 +1,1 @@
+Improve the grammar of this text: To partly offset this gigantic demand for energy, China had launched an ambitious program to produce 16% of its electricity from nuclear power by 2030.<|endoftext|>To partly offset this gigantic demand for energy, China has launched an ambitious program to produce 16% of its electricity from nuclear power by 2030.<|endoftext|>

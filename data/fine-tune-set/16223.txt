@@ -1,0 +1,17 @@
+Generate a recipe for a quesadilla.<|endoftext|>Low Carb Quesadilla
+
+Ingredients:
+• Low-carb tortillas
+• Low-fat cheddar cheese
+• Butter
+• Fat free sour cream
+• Sugar-free salsa
+• Egg
+
+Steps:
+1. Melt one teaspoon of butter in a skillet and add tortilla
+2. Place shredded cheese on one half of tortilla and when tortilla softens, fold top half over it
+3. Add the other teaspoon of butter to the pan and flip the tortilla with your spatula, just like a grilled cheese
+4. When it browns, serve it with sour cream and salsa on top
+5. For breakfast, top tortilla with a fried egg and a little more salsa if you like
+6. Otherwise just serve it plain<|endoftext|>

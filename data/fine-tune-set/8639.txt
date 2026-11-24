@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: I heard that scientists from China want to try help this people.<|endoftext|>I heard that scientists from China want to try help these people.<|endoftext|>

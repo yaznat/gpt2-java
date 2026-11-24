@@ -1,0 +1,13 @@
+Give me a cocktail recipe.<|endoftext|>Coconut Cocktail
+
+Ingredients:
+• Pineapple juice
+• Coconut milk
+• Passion fruit juice
+• Lemon juice
+• Grenadine
+• Cream of coconut
+
+Steps:
+1. Shake all ingredients together with ice
+2. Strain into a champagne glass<|endoftext|>

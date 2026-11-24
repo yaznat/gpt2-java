@@ -1,0 +1,1 @@
+Fix grammar in this sentence: I had shocked the score and content, in this instance by some chance.<|endoftext|>I was shocked by the score and content, in this instance, by some chance.<|endoftext|>

@@ -1,0 +1,21 @@
+Give me a recipe for a burrito.<|endoftext|>Burritos For The Crock Pot
+
+Ingredients:
+• Rump roast
+• Taco seasoning
+• Diced tomatoes
+• Green chilies
+• Onion
+• Bell pepper
+• Flour tortilla
+• Guacamole
+• Sour cream
+• Salsa
+• Cheddar cheese
+
+Steps:
+1. Place first 6 ingredients in the crock pot
+2. Cook on low for about 8 hours
+3. Remove the roast from the crock pot & shred using 2 forks
+4. Put the shredded roast in a serving bowl and add enough of the remaining crock pot sauce to moisten
+5. Serve burrito-style with flour tortillas, guacamole, cheese, sour cream, and salsa<|endoftext|>

@@ -1,0 +1,1 @@
+Fix grammar in this sentence: After this, he became the Director of the International Trade Center based in London and he was in charge of all relationships with international companies.<|endoftext|>After that, he became the Director of the International Trade Center based in London, and he was in charge of all relationships with international companies.<|endoftext|>

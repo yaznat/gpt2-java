@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: And the amount of gift money have to be odd-numbered.<|endoftext|>And the amount of gift money as a gift have has to be odd-numbered.<|endoftext|>

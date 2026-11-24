@@ -1,0 +1,19 @@
+Generate a recipe for curry.<|endoftext|>Cashew And Green Peas Curry
+
+Ingredients:
+• Cashew nuts
+• Green peas
+• Mustard seeds
+• Turmeric powder
+• Onion
+• Oil
+• Curry leaves
+• Salt
+
+Steps:
+1. Heat oil in a pan
+2. Add mustard seeds and allow to crackle
+3. Add curry leaves and saute for a few brief seconds
+4. Add all the remaining ingredients
+5. Cook for 15 minutes
+6. Serve hot with plain white basmati rice or ghee rice and papaddams<|endoftext|>

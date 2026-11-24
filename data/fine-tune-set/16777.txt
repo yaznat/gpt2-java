@@ -1,0 +1,16 @@
+Generate a recipe for a milkshake.<|endoftext|>Favorite Milkshake
+
+Ingredients:
+• Milk
+• Chocolate malt powder
+• Cocoa powder
+• French vanilla ice cream
+• Chocolate syrup
+
+Steps:
+1. Scoop ice cream into tall glass
+2. Add chocolate powder, you can tweak the amounts, i just guessed--it depends on how chocolatey you want it!
+3. Fill the glass halfway with milk and start mushing it all around with a good strong spoon, keep on stirring and adding milk till the glass is full
+4. This usually is a bit hard to do since the ice cream is thick, but it makes the shake nice and thick
+5. If you like chocolate syrup you can add it as well
+6. Enjoy the shake!<|endoftext|>

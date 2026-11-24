@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: News on TV tell us what is happening in the world.<|endoftext|>News on TV tells us what is happening in the world.<|endoftext|>

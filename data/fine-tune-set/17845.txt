@@ -1,0 +1,25 @@
+Please generate a brownie recipe.<|endoftext|>Fabulous Brownies
+
+Ingredients:
+• Sugar
+• Butter
+• Water
+• Eggs
+• Vanilla
+• Flour
+• Cocoa
+• Baking powder
+• Salt
+• Nuts
+
+Steps:
+1. Preheat oven to 350 degrees
+2. Grease a 9x13 pan
+3. Mix together sugar, butter, and water
+4. Beat until smooth and creamy
+5. Add eggs and vanilla to sugar mixture
+6. Beat in completely
+7. Mix dry ingredients in a separate bowl until evenly combined
+8. Add dry ingredients to sugar mixture, mix thoroughly
+9. Pour batter into the 9x13 pan and spread well
+10. Bake 18-25 minutes, until a wooden pick inserted in the center comes out clean<|endoftext|>

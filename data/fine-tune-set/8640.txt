@@ -1,0 +1,1 @@
+Fix grammar in the sentence: Therefore, we can conclude that this research and development can help to decrease healthcare spending and improve quality of service efficiently.<|endoftext|>Therefore, we can conclude that research and development can help to decrease healthcare spending and improve the quality of service efficiently.<|endoftext|>

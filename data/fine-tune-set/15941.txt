@@ -1,0 +1,23 @@
+Please generate a burrito recipe.<|endoftext|>Easy Burritos
+
+Ingredients:
+• Onion
+• Lean beef chuck roast
+• Water
+• Taco seasoning mix
+• Flour tortillas
+• Fat-free cheddar cheese
+• Tomatoes
+• Iceberg lettuce
+• Fat free sour cream
+
+Steps:
+1. Place onion rings in bottom of crockpot
+2. Place meat on top
+3. Add water
+4. Sprinkle one package of seasoning on top
+5. Cook on low for 8 hours
+6. Shred roast with forks
+7. Add second package of seasoning and stir well
+8. Turn on high for 1 / 2 hour
+9. Assemble burritos using tortillas, cheese, tomatoes, lettuce, and sour cream<|endoftext|>

@@ -1,0 +1,21 @@
+Give me a pasta recipe.<|endoftext|>4 Cheese Summer Pasta Supper
+
+Ingredients:
+• Linguine
+• Zucchini
+• Cheese
+• Tomatoes
+• Garlic cloves
+• Parsley
+• Dried basil
+
+Steps:
+1. Cook pasta
+2. Add zucchini during last 2 minutes of cooking
+3. Drain and then return to saucepan
+4. Add half the cheese to pasta
+5. Mix
+6. Combine tomatoes, garlic, parsley and basil
+7. Stir into pasta mixture
+8. Garnish with remaining cheese
+9. Serve immediately<|endoftext|>

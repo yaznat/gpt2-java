@@ -1,0 +1,20 @@
+Generate a recipe for cookies.<|endoftext|>Almond Tea Cookies
+
+Ingredients:
+• Sugar
+• Butter
+• Vegetable oil
+• Almond extract
+• Baking soda
+• Salt
+• Flour
+• Almonds
+• Powdered sugar
+
+Steps:
+1. Preheat oven to 350f
+2. In a mixing bowl, cream sugar and butter
+3. Beat in the oil, extract, baking soda, salt, flour, and nuts
+4. Mix well and form into small balls
+5. Bake for 12-15 minutes on a greased cookie sheet
+6. Roll in powdered sugar and cool on cake rack<|endoftext|>

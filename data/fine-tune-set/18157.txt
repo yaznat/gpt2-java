@@ -1,0 +1,20 @@
+Please give me a recipe for pancakes.<|endoftext|>Apple Pancake Bake
+
+Ingredients:
+• Eggs
+• Flour
+• Skim milk
+• Salt
+• Butter
+• Brown sugar
+• Apple
+
+Steps:
+1. Preheat oven to 425
+2. Beat eggs vigorously 30 seconds
+3. Stir in flour, milk, mix to blend well but do not over mix
+4. Divide butter into 6 muffin tins, place in oven until melted
+5. Place 1 tsp brown sugar in each muffin tin
+6. Divide apple among muffins
+7. Pour batter equally on top of apples
+8. Bake for 10-15 minutes or until top is golden brown<|endoftext|>

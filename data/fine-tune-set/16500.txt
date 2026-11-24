@@ -1,0 +1,12 @@
+Can you give me a smoothie recipe?<|endoftext|>Amaretto Iced Smoothie
+
+Ingredients:
+• Amaretto
+• Kahlua
+• Espresso
+• Chocolate ice cream
+• Whipped cream
+
+Steps:
+1. Blend all ingredients, except whipped cream, in a blender until smooth
+2. Serve immediately, topped with whipped cream<|endoftext|>

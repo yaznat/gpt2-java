@@ -1,0 +1,15 @@
+Please generate a cocktail recipe.<|endoftext|>Christmas Cheer Cocktail Alcoholic
+
+Ingredients:
+• Passion fruit
+• Peach schnapps
+• Vodka
+• Cranberry juice
+• Ice cube
+
+Steps:
+1. Strain passionfruit pulp to remove seeds
+2. Place half of each of the schnapps, vodka, cranberry juice, passionfruit juice and ice into a cocktail shaker
+3. Cover and shake well
+4. Strain mixture and pour into 2 glasses
+5. Repeat with remaining ingredients for 2 more cocktails<|endoftext|>

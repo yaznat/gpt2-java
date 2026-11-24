@@ -1,0 +1,16 @@
+Give me a recipe for a sandwich.<|endoftext|>Avocado And Tomato Sandwiches
+
+Ingredients:
+• Avocado
+• Tomatoes
+• Mayonnaise
+• Salt
+• Pepper
+• White bread
+
+Steps:
+1. Evenly spread mayo on 2 slices of bread
+2. Arrange slices of tomato and avocado on top of mayo
+3. Salt and pepper to taste
+4. Top off with last two pieces of bread
+5. Enjoy!<|endoftext|>

@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: My name is Cristina and I am 19 years old. I think I am the suitable person because I have been working with children for quite long.<|endoftext|>My name is Cristina, and I am 19 years old. I think I am a suitable person because I have been working with children for quite a long time.<|endoftext|>

@@ -1,0 +1,17 @@
+Generate a recipe for chili.<|endoftext|>A W Chili Dog Sauce
+
+Ingredients:
+• Onions
+• Ground beef
+• Vinegar
+• Sugar
+• Salt
+• Celery seeds
+• Tomato puree
+• Chili powder
+• Pepper
+
+Steps:
+1. Saut onion and brown the hamburger
+2. Add the remaining ingredients and simmer, stirring often, until desired consistency
+3. This freezes very well<|endoftext|>

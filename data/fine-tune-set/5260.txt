@@ -1,0 +1,1 @@
+Make the sentence grammatical: As we know it, for women shopping is the best way to relax but for men is just a torture.<|endoftext|>As we know, for women, shopping is the best way to relax, but for men, it is just torture.<|endoftext|>

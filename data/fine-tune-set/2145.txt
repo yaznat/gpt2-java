@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: When I correct someone's post in lang-8, I read others' corrections.<|endoftext|>When I correct someone's posts in lang-8, I read others' corrections.<|endoftext|>

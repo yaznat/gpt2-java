@@ -1,0 +1,16 @@
+Generate a recipe for waffles.<|endoftext|>Easy Basic Waffles
+
+Ingredients:
+• Flour
+• Baking powder
+• Salt
+• Sugar
+• Eggs
+• Oil
+• Milk
+
+Steps:
+1. Sift flour, baking powder, salt and sugar
+2. Mix the eggs, oil and milk
+3. Combine dry and wet ingredients
+4. Pour onto hot skillet, and cook for 3-4 minutes<|endoftext|>

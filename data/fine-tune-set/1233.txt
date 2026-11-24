@@ -1,0 +1,1 @@
+Fix grammatical mistakes in this sentence: Even though she had forgotten to turn on her alarm clock, she woke up at 7 sharp as she wanted the day before.<|endoftext|>Even though she had forgotten to turn on her alarm clock, she woke up at 7 sharp, as she had wanted the day before.<|endoftext|>

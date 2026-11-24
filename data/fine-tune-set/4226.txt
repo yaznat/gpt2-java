@@ -1,0 +1,1 @@
+Fix grammar in this sentence: In conclusion, catastrophes such as drought have produced immense economic and social impacts.<|endoftext|>In conclusion, catastrophes such as drought have had immense economic and social impacts.<|endoftext|>

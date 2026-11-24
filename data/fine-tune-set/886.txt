@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: He had chosen to study Amsterdam because he loves that city, it's his dream city and he loves canals and the Amsterdam's lifestyle.<|endoftext|>He chose to study in Amsterdam because he loves that city, it's his dream city, and he loves the canals and Amsterdam's lifestyle.<|endoftext|>

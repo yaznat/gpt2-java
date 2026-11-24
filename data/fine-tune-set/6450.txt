@@ -1,0 +1,1 @@
+Fix grammaticality of the sentence: She asked him when the bus is going to depart but Michael replied that he was also not aware of the departure time.<|endoftext|>She asked him when the bus was going to depart, but Michael replied that he was also not aware of the departure time.<|endoftext|>

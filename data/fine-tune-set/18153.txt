@@ -1,0 +1,25 @@
+Give me a recipe for pancakes.<|endoftext|>Apple Walnut Pancakes
+
+Ingredients:
+• All-purpose flour
+• Whole wheat flour
+• Brown sugar
+• Baking powder
+• Salt
+• Egg whites
+• Egg
+• Milk
+• Canola oil
+• Apple
+• Walnuts
+• Maple syrup
+
+Steps:
+1. In a large bowl, combine the flours, brown sugar, baking powder and salt
+2. Combine the egg whites, egg, milk and oil
+3. Add to dry ingredients just until moistened
+4. Fold in apple and walnuts
+5. Pour batter by 1 / 4 cupfuls onto a hot griddle coated with cooking spray
+6. Turn when bubbles form on top
+7. Cook until the second side is golden brown
+8. Serve with syrup<|endoftext|>

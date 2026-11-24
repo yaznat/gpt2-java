@@ -1,0 +1,1 @@
+Remove all grammatical errors from this text: The cost of the restaurant dishes is expensive and the cost is around 150-300 pesos.<|endoftext|>The cost of restaurant dishes is expensive and is around 150-300 pesos.<|endoftext|>

@@ -1,0 +1,1 @@
+Fix grammatical mistakes in this sentence: At the last of the video, the screen shows a tagline and the website of Trivago.<|endoftext|>At the end of the video, the screen shows a tagline and the website of Trivago.<|endoftext|>

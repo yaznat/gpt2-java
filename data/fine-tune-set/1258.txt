@@ -1,0 +1,1 @@
+Fix all grammatical errors: He is tall and smart he looks like a movie star.<|endoftext|>He is tall and smart. He looks like a movie star.<|endoftext|>

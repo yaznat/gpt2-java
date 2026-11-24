@@ -1,0 +1,15 @@
+Please generate a sandwich recipe.<|endoftext|>Bacon Tomato Avocado Sandwich
+
+Ingredients:
+• Whole wheat bread
+• Mayonnaise
+• Butter
+• Tomatoes
+• Crisp bacon
+• Avocado
+
+Steps:
+1. Toast the bread and then spread on the butter then the mayo while the bread is still warm
+2. Top one slice of bread with the sliced tomato, sliced avocado and bacon
+3. Top the sandwich with the second slice of bread
+4. Enjoy!<|endoftext|>

@@ -1,0 +1,10 @@
+Give me a recipe for a cocktail.<|endoftext|>Creamsicle Cocktail
+
+Ingredients:
+• Triple sec
+• Vodka
+• Orange juice
+• Vanilla ice cream
+
+Steps:
+1. Blenderize all and serve in tall glasses<|endoftext|>

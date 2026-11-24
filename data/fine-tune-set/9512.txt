@@ -1,0 +1,1 @@
+Fix grammar in the sentence: Although the development and research of Generation IV reactors produces less nuclear wastes, the main problem lies in getting rid of it rather than storing it.<|endoftext|>Although the development and research of Generation IV reactors produce less nuclear waste, the main problem lies in getting rid of it rather than in storing it.<|endoftext|>

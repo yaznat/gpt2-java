@@ -1,0 +1,14 @@
+Give me a recipe for a cocktail.<|endoftext|>Caipirinha Brazilian Cocktail
+
+Ingredients:
+• Lime
+• Superfine sugar
+• Cachaca
+• Ice
+• Lime wedge
+
+Steps:
+1. Place lime and sugar in bottom of cocktail shaker
+2. Muddle lime to release all the citrus juice
+3. Add crushed ice and cachaca to the shaker, and shake well
+4. Pour shaken cocktail into an old-fashioned glass, and serve with a garnish of fresh lime wedge<|endoftext|>

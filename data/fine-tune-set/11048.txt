@@ -1,0 +1,19 @@
+Give me a recipe for a sandwich.<|endoftext|>Appetizer Sandwiches
+
+Ingredients:
+• Butter
+• Prepared mustard
+• Poppy seeds
+• Worcestershire sauce
+• Onion
+• Dinner rolls
+• Cooked ham
+• Swiss cheese
+
+Steps:
+1. Melt butter or margarine and mix with mustard, poppy seeds, worcestershire sauce, and onion
+2. Open rolls and spread mixture on both sides
+3. Top each roll with ham and cheese
+4. Close rolls
+5. Heat in 350 oven until cheese is melted
+6. Cut sandwiches into small pieces<|endoftext|>

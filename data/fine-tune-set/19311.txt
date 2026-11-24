@@ -1,0 +1,11 @@
+Please give me a recipe for a popsicle.<|endoftext|>Pineapple Popsicles
+
+Ingredients:
+• Milk
+• Crushed pineapple
+• Sugar
+• Vanilla
+
+Steps:
+1. Blend in blender until smooth
+2. Pour into molds and freeze<|endoftext|>

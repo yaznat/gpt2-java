@@ -1,0 +1,1 @@
+Remove all grammatical errors from this text: He is the man and I am the woman who live in the world, in which the man wears a short skirt and the woman is as tough as a crocodile.<|endoftext|>He is a man, and I am a woman who lives in a world in which the man wears a short skirt, and the woman is as tough as a crocodile.<|endoftext|>

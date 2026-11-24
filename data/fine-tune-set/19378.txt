@@ -1,0 +1,13 @@
+Give me a recipe for donuts.<|endoftext|>Dunkin Donuts Coffee
+
+Ingredients:
+• Coffee
+• Water
+• Granulated sugar
+• Half-and-half
+
+Steps:
+1. Brew fresh ground coffee with 9 cups of water measured in coffee maker pot
+2. Pour in 1 standard coffee cup add 3 teaspoons of sugar stir till mixed
+3. Add 1-2 tablespoons half and half
+4. Serve and enjoy<|endoftext|>

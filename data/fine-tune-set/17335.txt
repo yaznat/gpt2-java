@@ -1,0 +1,14 @@
+Please generate a tea recipe.<|endoftext|>Balsamic Steak Sauce
+
+Ingredients:
+• Balsamic vinegar
+• Butter
+• Sugar
+• Shallots
+
+Steps:
+1. Mince shallots
+2. Place butter in pan over medium heat and saute shallots until clear
+3. Add sugar and balsamic vinegar
+4. Bring to boil and stir constantly until sauce thickens slightly
+5. Immediately ladle over freshly grilled steaks<|endoftext|>

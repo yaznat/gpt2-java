@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: In conclusion, nuclear technology development had always been driven by social factors.<|endoftext|>In conclusion, nuclear technology development has always been driven by social factors.<|endoftext|>

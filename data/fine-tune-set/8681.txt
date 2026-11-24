@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: This week we are flexible to come over from Thursday to Saturday, and the days before only in the evening.<|endoftext|>This week we are flexible and could come over from Thursday to Saturday, and only in the evening the days before.<|endoftext|>

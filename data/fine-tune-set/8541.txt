@@ -1,0 +1,1 @@
+Fix grammar in the sentence: I sewed gauze the back not to hurt his skin.<|endoftext|>I sewed gauze on the back to not hurt his skin.<|endoftext|>

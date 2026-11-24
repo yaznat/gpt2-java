@@ -1,0 +1,21 @@
+Give me a salad recipe.<|endoftext|>Almond Mandarin Salad
+
+Ingredients:
+• Bacon
+• White wine vinegar
+• Honey
+• Hot dry mustard
+• Celery salt
+• Ground paprika
+• Olive oil
+• Red leaf lettuce
+• Mandarin oranges
+• Green onion
+• Almonds
+
+Steps:
+1. In a medium skillet over medium-high heat, cook bacon until evenly browned
+2. Drain, cool and crumble
+3. To make the dressing, thoroughly blend the vinegar, honey, dry mustard, celery salt, paprika, and olive oil
+4. Place lettuce, oranges, green onion, bacon, and almonds in a serving bowl
+5. Toss with dressing and serve<|endoftext|>

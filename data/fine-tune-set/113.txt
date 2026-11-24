@@ -1,0 +1,1 @@
+Fix grammatical errors in this sentence: The people is very kind and funny, and is a very cheap city.<|endoftext|>The people are very kind and funny, and it is a very cheap city.<|endoftext|>

@@ -1,0 +1,1 @@
+Fix grammatical errors in this sentence: Implementation takes time and money, but if the project does not work all of that could be spent in vain.<|endoftext|>Implementation takes time and money, but if the project does not work, all of that could be spent in vain.<|endoftext|>

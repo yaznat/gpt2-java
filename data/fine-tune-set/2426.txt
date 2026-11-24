@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: But, fortunately, people living in this area all use these bikes carefully, so we don't care so much that thing.<|endoftext|>But fortunately, people living in this area all use these bikes carefully, so we don't care so much about that.<|endoftext|>

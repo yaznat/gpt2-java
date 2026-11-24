@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: Once on a weekend, it was my last year in middle school, I was at the park practicing as usual.<|endoftext|>Once, on the weekend, it was my last year in middle school; I was at the park practicing as usual.<|endoftext|>

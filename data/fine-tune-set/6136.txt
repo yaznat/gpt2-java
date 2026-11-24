@@ -1,0 +1,1 @@
+Fix grammar in the sentence: It would be great if all of us have a healthy life.<|endoftext|>It would be great if all of us had a healthy life.<|endoftext|>

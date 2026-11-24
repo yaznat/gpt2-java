@@ -1,0 +1,12 @@
+Generate a recipe for a milkshake.<|endoftext|>Blueberry Mango Milkshake
+
+Ingredients:
+• Vanilla ice cream
+• Frozen blueberries
+• Frozen mango chunks
+• Passion fruit
+
+Steps:
+1. Put fruit and juice in a magic bullet and puree till blended
+2. Add ice cream and quickly pulse until blended
+3. Add more pog juice as necessary for desired consistency<|endoftext|>

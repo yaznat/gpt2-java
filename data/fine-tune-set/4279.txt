@@ -1,0 +1,1 @@
+Fix grammaticality of the sentence: I think the boat is the best way to travel and I have three reasons for my idea.<|endoftext|>I think the boat is the best way to travel and I have three reasons for my opinion.<|endoftext|>

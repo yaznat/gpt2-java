@@ -1,0 +1,1 @@
+Fix grammar in this sentence: The purpose of this literature review is to provide the clear picture about motivation and business strategy of entrepreneurs in their start-ups.<|endoftext|>The purpose of this literature review is to provide a clear picture of the motivation and business strategy of entrepreneurs in their start-ups.<|endoftext|>

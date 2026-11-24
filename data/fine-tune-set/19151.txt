@@ -1,0 +1,14 @@
+Can you give me a ice cream recipe?<|endoftext|>Butterfinger Ice Cream Cake
+
+Ingredients:
+• Vanilla ice cream
+• Chocolate ice cream
+• Cream
+• Butterfinger bar
+
+Steps:
+1. Break up bars
+2. Cut ice cream into slabs
+3. Layer 1 white, then butterfinger, chocolate, then butterfinger, then white again
+4. Top with cream and butterfinger
+5. Put back into freezer until needed<|endoftext|>

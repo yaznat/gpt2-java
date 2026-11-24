@@ -1,0 +1,13 @@
+Please generate a cocktail recipe.<|endoftext|>Blue Mountain Cocktail
+
+Ingredients:
+• Jamaican rum
+• Vodka
+• Tia maria
+• Orange juice
+• Lime juice
+• Ice cubes
+
+Steps:
+1. Combine all the ingredients and shake well
+2. Servie in a old fashioned glass and serve<|endoftext|>

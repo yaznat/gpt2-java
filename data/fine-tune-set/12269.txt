@@ -1,0 +1,27 @@
+Generate a recipe for soup.<|endoftext|>10 Bean Soup
+
+Ingredients:
+• Beans
+• Onion
+• Red bell pepper
+• Green bell pepper
+• Celery
+• Basil
+• Carrots
+• Tomatoes
+• Garlic
+• Black pepper
+• Smoked turkey
+• Ham hock
+• Chicken stock
+
+Steps:
+1. Finely chop onion, red and green bell pepper, celery, carrot, tomatoes, and garlic
+2. Rinse beans and drain
+3. Add chicken stock
+4. Stir in onion, bell peppers, celery, basil, carrot, tomatoes, garlic, and black pepper
+5. Stir in ham hock and smoked turkey
+6. Cover and bring to a boil
+7. Reduce heat to medium
+8. Uncover and simmer for 2 1 / 2 hours, until beans are tender
+9. Remove ham hock and remove any meat from the bone and return to beans<|endoftext|>

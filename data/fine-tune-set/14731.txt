@@ -1,0 +1,19 @@
+Give me a rice recipe.<|endoftext|>Arroz Con Leche Spanish Rice Pudding
+
+Ingredients:
+• Milk
+• Cinnamon stick
+• Lemon rind
+• Salt
+• Short-grain white rice
+• Egg yolks
+• Sugar
+• Butter
+• Ground nutmeg
+
+Steps:
+1. In a large saucepan, slowly bring the milk, cinnamon stick, strips of lemon rind, and salt to a boil
+2. With a slotted spoon, remove the cinnamon and lemon rind
+3. Stir in the rice and egg yolks, reduce the heat, and allow the rice to simmer for about 15 minutes, stirring constantly
+4. When the rice is soft, add the sugar and butter and combine well
+5. Pour the mixture into a serving dish, sprinkle with nutmeg, and serve warm<|endoftext|>

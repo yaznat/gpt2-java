@@ -1,0 +1,14 @@
+Please give me a recipe for soup.<|endoftext|>Apple And Peanut Butter Soup
+
+Ingredients:
+• Milk
+• Cooking apple
+• Peanut butter
+• Lemon, juice of
+• Porridge oats
+• Ground ginger
+
+Steps:
+1. Heat milk to just below boiling point
+2. Add all other ingredients and simmer for 15 minutes
+3. Liquidise and reheat if needed<|endoftext|>

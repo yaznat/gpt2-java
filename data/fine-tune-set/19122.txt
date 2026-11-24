@@ -1,0 +1,20 @@
+Generate a recipe for ice cream.<|endoftext|>Black Currant Yogurt Ice Cream
+
+Ingredients:
+• Yogurt
+• Vanilla extract
+• Honey
+• Black currants
+• Orange juice
+• Raw sugar
+• Egg whites
+
+Steps:
+1. Mix together the yogurt, vanilla extract and honey and freeze until mushy - about an hour
+2. Put the black-currants in a saucepan with the orange juice and sugar
+3. Cover and simmer over low heat for 5 minutes
+4. Remove from the heat and let the fruit steep for 30 minutes
+5. Strain and allow to cool completely
+6. Stir the fruit into the yogurt
+7. Freeze for an hour
+8. Beat the egg whites until stiff, fold them in and freeze for 1-2 hours, or until firm<|endoftext|>

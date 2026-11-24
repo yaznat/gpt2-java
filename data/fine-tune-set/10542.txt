@@ -1,0 +1,24 @@
+Generate a recipe for pasta.<|endoftext|>Allison S Creamy Veggie Pasta Salad
+
+Ingredients:
+• Shell pasta
+• Cheddar cheese
+• Red pepper
+• Yellow pepper
+• Cucumber
+• Tomatoes
+• Red onion
+• Plain yogurt
+• Sour cream
+• Mayonnaise
+• Salt
+• Sugar
+• Balsamic vinegar
+• Dijon mustard
+
+Steps:
+1. Cook pasta as directed on box
+2. Combine other ingredients except for vegetables and cheese in a separate bowl
+3. When pasta is done, combine mixture with pasta
+4. Toss in cheese and vegetables
+5. Chill for at least 3 hours<|endoftext|>

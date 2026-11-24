@@ -1,0 +1,1 @@
+Fix grammar in the sentence: In contrast, in Japan, summer starts at the end of July, because now is rainy season.<|endoftext|>In contrast, in Japan, summer starts at the end of July because now it is the rainy season.<|endoftext|>

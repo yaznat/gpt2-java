@@ -1,0 +1,20 @@
+Generate a recipe for a quesadilla.<|endoftext|>Crockpot Chicken Quesadillas
+
+Ingredients:
+• Chicken breast
+• Salsa
+• Corn
+• Tortillas
+• Mexican cheese
+• Taco seasoning
+• Sour cream
+
+Steps:
+1. Combine chicken, salsa, corn, and taco seasoning in a crock pot
+2. Cook on low for 6-8 hours
+3. Before serving, shred chicken with a fork
+4. Spray a skillet with cooking spray and add a tortilla
+5. On half, add chicken mixture
+6. Top with cheese
+7. Fold tortilla over and let brown
+8. After 1 minute, flip to other side<|endoftext|>

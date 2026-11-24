@@ -1,0 +1,1 @@
+Improve the grammar of this text: The shrine is very famous around the our area and a lot of people went to pray.<|endoftext|>The shrine is very famous around our area, and a lot of people go there to pray.<|endoftext|>

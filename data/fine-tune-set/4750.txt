@@ -1,0 +1,1 @@
+Improve the grammar of this text: I've been studying applied linguistics, so I read articles about it almost everyday.<|endoftext|>I've been studying applied linguistics, so I read articles about it in English almost every day.<|endoftext|>

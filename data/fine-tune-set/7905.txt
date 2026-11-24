@@ -1,0 +1,1 @@
+Fix grammaticality of the sentence: I put on my costume and walked on stage, I had to wait untill I opened the curtains.<|endoftext|>I put on my costume and walked on stage. I had to wait until the curtains opened.<|endoftext|>

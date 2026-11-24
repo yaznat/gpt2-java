@@ -1,0 +1,11 @@
+Can you give me a pizza recipe?<|endoftext|>Ange S Pizza Sauce
+
+Ingredients:
+• Sun-dried tomatoes
+• Garlic
+• Fresh basil
+
+Steps:
+1. Place all ingredients into a processor
+2. Mix for a few minutes or until all ingredients are mixed
+3. Pour into a container, or use straight away<|endoftext|>

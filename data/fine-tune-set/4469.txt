@@ -1,0 +1,1 @@
+Improve the grammaticality: The movie was first released in 1982 and directed by Ridley Scott who is the director of Alien.<|endoftext|>The movie was first released in 1982 and was directed by Ridley Scott, who was the director of Alien.<|endoftext|>

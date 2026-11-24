@@ -1,0 +1,21 @@
+Please generate a muffin recipe.<|endoftext|>Baked Donut Muffins
+
+Ingredients:
+• Margarine
+• Sugar
+• Baking powder
+• Nutmeg
+• Egg
+• Milk
+• Salt
+• Flour
+• Cinnamon sugar
+
+Steps:
+1. Preheat oven to 350 degrees
+2. In a mixing bowl, cream the margarine and sugar
+3. Beat in the egg
+4. Add the dry ingredients and then the milk
+5. In a greased 12-muffin pan, fill each cup 2 / 3 full with batter
+6. Bake 20-25 minutes until done
+7. When done, but not completely cooled, roll each muffin top in the cinnamon sugar<|endoftext|>

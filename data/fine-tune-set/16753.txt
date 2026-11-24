@@ -1,0 +1,15 @@
+Generate a recipe for a milkshake.<|endoftext|>Coffee And Donut Milkshakes
+
+Ingredients:
+• Coffee
+• Milk
+• Vanilla ice cream
+• Doughnuts
+• Ice cubes
+• Cinnamon
+• Sugar
+
+Steps:
+1. Combine all ingredients in a blender and process until smooth
+2. Mix the cinnamon and sugar in a shallow dish
+3. Wet the rim of the glass with a little coffee or milk and coat it in cinnamon sugar before pouring the milkshake inches<|endoftext|>

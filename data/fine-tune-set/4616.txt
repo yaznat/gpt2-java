@@ -1,0 +1,1 @@
+Fix grammar in the sentence: Although healthy diet is quite expensive young people follow special diet in order to have better body shape or healthy life.<|endoftext|>Although a healthy diet is quite expensive, young people follow special diets in order to have a better body shape or a healthy life.<|endoftext|>

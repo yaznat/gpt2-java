@@ -1,0 +1,12 @@
+Give me a recipe for a sandwich.<|endoftext|>Aprikoosivoileipa Hot Apricot Sandwich Finland
+
+Ingredients:
+• Whole wheat bread
+• Apricots
+• Mild cheddar cheese
+
+Steps:
+1. Preheat oven to 375 degrees f
+2. Butter one side of each slice of bread, then cut in half
+3. Arrange 2 halves of an apricot on each half slice of bread, cut side down, then top with a slice of cheddar
+4. Bake 5 to 10 minutes or until cheese melts & bubbles<|endoftext|>

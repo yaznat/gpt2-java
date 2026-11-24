@@ -1,0 +1,19 @@
+Please generate a fried rice recipe.<|endoftext|>New Year Fried Rice
+
+Ingredients:
+• Bacon
+• Green onion
+• Red bell pepper
+• Green peas
+• Egg
+• Cooked rice
+• Soy sauce
+
+Steps:
+1. Cook bacon in wok until crisp
+2. Add green onions, red peppers and peas stir fry 1 minute
+3. Add egg and scramble
+4. Stir in rice and cook until heated, gently separating grains
+5. Add soy sauce
+6. Cook until heated through
+7. Serve immediately<|endoftext|>

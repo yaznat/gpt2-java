@@ -1,0 +1,1 @@
+Make the sentence grammatical: After coming back to Taiwan, I usually stay home all day because I am so lazy to go out.<|endoftext|>After coming back to Taiwan, I usually stay home all day because I am so too lazy to go out.<|endoftext|>

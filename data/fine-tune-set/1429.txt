@@ -1,0 +1,1 @@
+Remove all grammatical errors from this text: However, if I watch movies at home and suddenly burst into laughter, my family think I am weird and I feel embarrassed and inhibited.<|endoftext|>However, if I watch movies at home and suddenly burst into laughter, my family thinks I am weird, and I feel embarrassed and inhibited.<|endoftext|>

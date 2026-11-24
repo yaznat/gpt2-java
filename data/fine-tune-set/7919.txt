@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: Japanese summer is usually very muggy, but today is hot and dry day.<|endoftext|>The Japanese summer is usually very muggy, but today is a hot and dry day.<|endoftext|>

@@ -1,0 +1,17 @@
+Give me a cocktail recipe.<|endoftext|>Apple Pie Cocktail
+
+Ingredients:
+• Apple juice
+• Apple cider
+• Sugar
+• Cinnamon sticks
+• Whole cloves
+• Everclear alcohol
+
+Steps:
+1. Combine apple juice and cider and bring to a near boil
+2. Remove from heat and add sugar, cloves, and cinnamon sticks then stir
+3. Let mixture cool to at least room temperature and strain / remove cloves and cinnamon sticks
+4. Add half gallon of everclear
+5. Bottle it up
+6. Enjoy warm or on the rocks<|endoftext|>

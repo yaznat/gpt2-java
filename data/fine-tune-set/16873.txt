@@ -1,0 +1,11 @@
+Give me a cocktail recipe.<|endoftext|>Sexy Greek Cocktail
+
+Ingredients:
+• Ouzo
+• Orange juice
+• Ice cube
+• Orange slice
+
+Steps:
+1. Just mix together ouzo and orange juice and pour over ice in a collins glass
+2. Garnish with an orange slice and get friendly<|endoftext|>

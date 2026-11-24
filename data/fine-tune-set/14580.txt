@@ -1,0 +1,14 @@
+Please give me a recipe for rice.<|endoftext|>1 2 3 Ground Turkey Mexican Rice
+
+Ingredients:
+• Mexican rice
+• Black beans
+• Mexicorn
+• Lean ground turkey
+
+Steps:
+1. Cook rice according to package directions
+2. Brown turkey in seperate skillet until no longer pink
+3. Drain and rinse black beans, and drain mexi corn
+4. Mix turkey, beans and corn into rice
+5. Serve with tortillas, sour cream, shredded cheese<|endoftext|>

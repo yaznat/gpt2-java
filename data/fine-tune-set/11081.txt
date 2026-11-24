@@ -1,0 +1,14 @@
+Generate a recipe for a sandwich.<|endoftext|>Avocado Bacon Sandwich
+
+Ingredients:
+• Whole wheat toast
+• Bacon
+• Avocado
+• Tomatoes
+• Mozzarella cheese
+• Kosher salt
+
+Steps:
+1. Cook bacon in oven and slice avocado and tomato
+2. Split the avocado between two pieces of toast and sprinkle with salt to taste
+3. Layer rest of ingredients and enjoy<|endoftext|>

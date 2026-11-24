@@ -1,0 +1,1 @@
+Fix grammar in the sentence: After freshman year I decided that I would always give my best effort.<|endoftext|>After freshman year, I decided that I would always give my best.<|endoftext|>

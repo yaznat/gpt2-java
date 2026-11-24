@@ -1,0 +1,21 @@
+Give me a recipe for a casserole.<|endoftext|>Artichoke Shrimp Casserole W A Scandinavian Twist
+
+Ingredients:
+• Linguine
+• Shrimp
+• Cream cheese
+• Green onions
+• Dill
+• Lemon juice
+• Worcestershire sauce
+• Artichoke hearts
+• Milk
+
+Steps:
+1. Heat oven to 350
+2. Cook linguine
+3. Drain
+4. Mix cream cheese, green onions, dill, lemon juice, worcestershire sauce, & artichoke hearts
+5. Add enough milk needed to make a sauce
+6. Mix linguine, shrimp, and sauce together in an 11x7 pan
+7. Cover and bake for 20 minutes<|endoftext|>

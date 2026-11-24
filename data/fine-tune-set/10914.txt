@@ -1,0 +1,19 @@
+Generate a recipe for salad.<|endoftext|>All American Cowboy Salad
+
+Ingredients:
+• Corn kernels
+• Cooked ham
+• Tomatoes
+• Monterey jack cheese
+• Red onion
+• Low-fat ranch dressing
+• Parsley
+• Boston lettuce
+• Smoked almonds
+
+Steps:
+1. Toss first 7 ingredients in a large bowl to mix and coat
+2. Line a large serving platter with lettuce
+3. Top with ham mixture
+4. Sprinkle with almonds and serve immediately
+5. Any kind of lettuce may be used if can't use boston<|endoftext|>

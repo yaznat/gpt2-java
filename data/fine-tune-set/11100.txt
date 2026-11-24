@@ -1,0 +1,15 @@
+Please generate a sandwich recipe.<|endoftext|>Awesome Breakfast Bagel Sandwich
+
+Ingredients:
+• Bagel
+• Egg
+• Cheddar cheese
+• Deli turkey
+
+Steps:
+1. First, scramble the egg and cook it in a pan
+2. Now, open or slice the bagel and place lunch meat on the bottom half
+3. Now when the eggs are done, place them on the meat
+4. Finally, put the cheese on the egg
+5. Put the sandwich in the microwave for 45 seconds to warm the other parts of the sandwich
+6. Enjoy!<|endoftext|>

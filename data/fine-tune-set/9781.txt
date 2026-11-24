@@ -1,0 +1,1 @@
+Improve the grammar of this text: But this month I'm going to go to SMAP concert.<|endoftext|>But this month I'm going to go to a SMAP concert.<|endoftext|>

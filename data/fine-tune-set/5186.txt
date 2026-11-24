@@ -1,0 +1,1 @@
+Remove all grammatical errors from this text: Generally, many bands have shows with bands which are same genre.<|endoftext|>Generally, many bands have shows with bands that are the same genre.<|endoftext|>

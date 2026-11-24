@@ -1,0 +1,21 @@
+Generate a recipe for stew.<|endoftext|>Amish Cabbage Patch Stew
+
+Ingredients:
+• Extra lean ground beef
+• Onion
+• Celery
+• Cabbage
+• Worcestershire sauce
+• Chili powder
+• Salt
+• Sugar
+• Stewed tomatoes
+• Kidney beans
+• Water
+
+Steps:
+1. Brown the meat in a dutch oven and drain
+2. Add onions, celery cabbage and cook until wilted
+3. Add water worcestershire sauce, chili powder, salt and sugar
+4. Add tomatoes and beans
+5. Cover and cook 30 minutes<|endoftext|>

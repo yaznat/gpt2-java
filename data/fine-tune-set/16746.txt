@@ -1,0 +1,11 @@
+Please generate a milkshake recipe.<|endoftext|>Chocolate Mocha Milkshake
+
+Ingredients:
+• Ice cubes
+• Mocha syrup
+• Milk
+
+Steps:
+1. Pour the syrup in the blender
+2. Add the ice cubes and milk
+3. Blend until smooth and enjoy!<|endoftext|>

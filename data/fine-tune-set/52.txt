@@ -1,0 +1,1 @@
+Improve the grammaticality: The boy was dead by the time it arrived at the hospital.<|endoftext|>By the time it arrived at the hospital, the boy was dead.<|endoftext|>

@@ -1,0 +1,1 @@
+Make the sentence grammatical: Most of those plans would not be possible, if there were not for means of transport.<|endoftext|>Most of those plans would not be possible if it were not for means of transport.<|endoftext|>

@@ -1,0 +1,17 @@
+Please generate a potato recipe.<|endoftext|>Aaloo Fry Spicy Fried Potatoes
+
+Ingredients:
+• Potatoes
+• Chili powder
+• Turmeric
+• Coriander powder
+• Cumin powder
+• Salt
+• Oil
+
+Steps:
+1. After washing potatoes, add spices
+2. Toss potatoes in spices until well coated
+3. Heat oil in saucepan
+4. When oil medium hot, add salt to potatoes and fry in batches until potatoes develop a crisp outer layer to it but soft inside
+5. Drain and serve hot with dhal<|endoftext|>

@@ -1,0 +1,1 @@
+Remove all grammatical errors from this text: Despite having insurance coverage, it is still possible that the medical bills are insufficiently covered.<|endoftext|>Despite having insurance coverage, it is still possible that medical bills are insufficiently covered.<|endoftext|>

@@ -1,0 +1,22 @@
+Give me a recipe for soup.<|endoftext|>25 Clove Garlic Soup
+
+Ingredients:
+• Garlic
+• Leek
+• Potatoes
+• Vegetable broth
+• Tomato paste
+• Cumin
+• Thyme
+• Salt
+• Creme fraiche
+
+Steps:
+1. Peel garlic
+2. Cut the leek in chunks
+3. Peel potatoes and cut in chunks
+4. Boil the vegetable broth with tomato paste and herbes
+5. Add garlic, leek and potatoes
+6. Cover and cook on low heat for appr 40 minutes
+7. Puree the soup
+8. Add creme fraiche and heat soup for 1 minute<|endoftext|>

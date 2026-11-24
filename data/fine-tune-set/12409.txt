@@ -1,0 +1,27 @@
+Please generate a soup recipe.<|endoftext|>American Hamburger Goulash Soup
+
+Ingredients:
+• Ground sirloin
+• Celery ribs
+• Carrots
+• Onion
+• Fresh garlic cloves
+• Frozen baby peas
+• Potatoes
+• Diced tomatoes
+• Red wine
+• Beef consomme
+• Worcestershire sauce
+• Salt and pepper
+• Bay leaf
+• Shell macaroni
+• Parmesan cheese
+• Crushed red pepper flakes
+
+Steps:
+1. In a large pot, brown the ground beef with onion and garlic
+2. Drain any fat
+3. Add in all remaining ingredients except parmesan cheese, wine, and pasta and simmer for 3 hours or more
+4. 1 hour before serving add uncooked pasta
+5. 1 / 2 an hour before serving add red wine
+6. Serve with grated parmesan cheese<|endoftext|>

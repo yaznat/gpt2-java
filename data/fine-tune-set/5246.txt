@@ -1,0 +1,1 @@
+Fix grammar in the sentence: The main advantage of it is that the ocean is always near at hand, no matter in what part of the town you are.<|endoftext|>The main advantage of it is that the ocean is always near hand, no matter in what part of the town you are in.<|endoftext|>

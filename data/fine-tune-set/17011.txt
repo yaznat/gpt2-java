@@ -1,0 +1,11 @@
+Generate a recipe for a cocktail.<|endoftext|>Chocolate Hurricane Cocktail
+
+Ingredients:
+• Lemon juice
+• Chocolate liqueur
+• Coconut rum
+• Orange juice
+
+Steps:
+1. Pour all ingredients into a cocktail shaker half-filled with ice cubes
+2. Shake well, strain into a cocktail glass, and serve<|endoftext|>

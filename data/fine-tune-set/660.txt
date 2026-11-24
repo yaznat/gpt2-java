@@ -1,0 +1,1 @@
+Improve the grammar of this text: If you live in Halifax, Canada, please tell me where is the most famous souvenir shop?<|endoftext|>And, if you live in Halifax, Canada, would you please tell me where the most famous souvenir shop is?<|endoftext|>

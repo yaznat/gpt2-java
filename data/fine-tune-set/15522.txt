@@ -1,0 +1,19 @@
+Please generate a taco recipe.<|endoftext|>10 Minute Tvp Tacos
+
+Ingredients:
+• Textured vegetable protein
+• Water
+• Soy sauce
+• Olive oil
+• Taco seasoning
+• Red pepper
+• Salsa
+• Flour tortillas
+
+Steps:
+1. In a large skillet, heat the water over medium heat, and add the tvp, stirring well
+2. Allow the tvp to reconstitute for 2-3 minutes
+3. Add oil and soy sauce, then peppers and taco seasoning, stirring well
+4. Allow to cook for another 3-5 minutes, stirring frequently
+5. Mix in salsa and remove from heat
+6. Serve wrapped in a flour tortilla or hard taco shells with your choice of toppings<|endoftext|>

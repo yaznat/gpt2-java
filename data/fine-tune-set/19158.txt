@@ -1,0 +1,13 @@
+Give me a recipe for ice cream.<|endoftext|>Cafe Con Leche Ice Cream
+
+Ingredients:
+• Sweetened condensed milk
+• Milk
+• Light cream
+• Coffee
+
+Steps:
+1. Brew the espresso
+2. Put brewed espresso into bowl along with other ingredients and mix gently until the condensed milk is incorporated fully
+3. Put this mix into the ice cream maker and process for 25 minutes
+4. Transfer soft set ice cream to a freezer-appropriate container and freeze at least 1 hour before serving<|endoftext|>

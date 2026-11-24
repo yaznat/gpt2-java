@@ -1,0 +1,13 @@
+Generate a recipe for a cocktail.<|endoftext|>Bourbon Cocktail
+
+Ingredients:
+• Bourbon
+• Orange juice
+• Tonic water
+• Orange peel
+• Ice
+
+Steps:
+1. Fill a glass with ice
+2. Add the bourbon and oj, then stir in the tonic
+3. Garnish with lemon peel<|endoftext|>

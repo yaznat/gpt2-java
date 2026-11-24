@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: To sum up, I suppose our town offers many interesting shops.<|endoftext|>To sum up, I think our town offers many interesting shops.<|endoftext|>

@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: You often use emoticons that stand sideways like the Sleeping Buddha, and I can't read them while maintaining the upright position.<|endoftext|>You often use emoticons that stand sideways, like the Sleeping Buddha, and I can't read them while maintaining an upright position.<|endoftext|>

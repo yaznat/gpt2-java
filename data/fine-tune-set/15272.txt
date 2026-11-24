@@ -1,0 +1,21 @@
+Generate a recipe for pizza.<|endoftext|>Bubble Up Pizza
+
+Ingredients:
+• Green pepper
+• Onion
+• Mushroom
+• Black olives
+• Spaghetti sauce
+• Garlic
+• Refrigerated buttermilk biscuits
+• Mozzarella cheese
+
+Steps:
+1. Preheat oven to 350 degrees f
+2. Add peppers, onion, mushrooms, olives, garlic and sauce in a bowl mix well
+3. Cut each biscuit into quarters
+4. Put half the biscuits in the bottom of a 9 by 13 inch baking pan
+5. Spread with half the sauce mixture and half the cheese
+6. Repeat layer
+7. Bake for 23 to 28 minutes or until golden brown
+8. Bottom of pan will not be completely covered with the biscuits<|endoftext|>

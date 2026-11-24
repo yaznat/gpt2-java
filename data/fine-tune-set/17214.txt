@@ -1,0 +1,19 @@
+Please generate a tea recipe.<|endoftext|>Apple Annie S Tea Room S Chicken Salad
+
+Ingredients:
+• Chicken breasts
+• Celery
+• Red bell peppers
+• Dried dill weed
+• Dry ranch dressing mix
+• Mayonnaise
+
+Steps:
+1. Preheat oven to 325 degrees
+2. Wash chicken breasts and pat dry
+3. Place on large foil-lined baking sheet and bake until cooked through, about 30-35 minutes
+4. Remove and set aside to cool
+5. Cut into chunks and transfer to large bowl
+6. Add celery, red pepper, dill, ranch dressing and mayonnaise
+7. Stir gently but thoroughly to blend
+8. Refrigerate to allow flavors to meld for at least a couple of hours before serving<|endoftext|>

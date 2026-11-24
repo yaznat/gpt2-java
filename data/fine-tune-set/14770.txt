@@ -1,0 +1,17 @@
+Can you give me a rice recipe?<|endoftext|>Asparagus Fried Rice
+
+Ingredients:
+• Cooked rice
+• Chicken stock
+• Asparagus spear
+• Red onion
+• Garlic clove
+• Red chile
+• Salt & pepper
+• Butter
+
+Steps:
+1. Stir-fry onion, garlic and asparagus in oil or butter over high heat until asparagus is crisp-tender
+2. Add cooked rice and chillies and stir-fry until rice is heated through
+3. Season to taste
+4. Serve hot<|endoftext|>

@@ -1,0 +1,13 @@
+Generate a recipe for a milkshake.<|endoftext|>Pumpkin Milkshake
+
+Ingredients:
+• Pumpkin puree
+• Vanilla frozen yogurt
+• Ice
+• Honey
+• Lemon juice
+• Pumpkin pie spice
+
+Steps:
+1. Pulse all the ingredients in a blender until fully mixed
+2. Garnish with a cinnamon stick or mint leaves<|endoftext|>

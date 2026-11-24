@@ -1,0 +1,1 @@
+Fix grammar in the sentence: After that I met another friends, and they brought me to internet company.<|endoftext|>After that, I met some other friends, and they brought me to the internet company.<|endoftext|>

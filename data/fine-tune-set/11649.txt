@@ -1,0 +1,19 @@
+Give me a cake recipe.<|endoftext|>5 Minute Vegan Pancakes
+
+Ingredients:
+• Flour
+• Sugar
+• Baking powder
+• Salt
+• Soymilk
+• Vegetable oil
+
+Steps:
+1. Set out all your ingredients
+2. Set a stove element with a pan to medium heat
+3. Combine the 4 dry ingredients in a bowl
+4. Add the soy milk and vegetable oil to your mixture
+5. Mix until smooth
+6. Now the pan should be ready for your batter, so spoon one pancakes' worth of the mixture into the pan
+7. Flip [carefully] when you see bubbles in the middle of the pancake, or if the edges are looking stiffened
+8. Repeat until the batter is gone, and try not to eat them all while you're cooking them<|endoftext|>

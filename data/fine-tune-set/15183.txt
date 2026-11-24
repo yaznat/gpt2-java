@@ -1,0 +1,18 @@
+Can you give me a pizza recipe?<|endoftext|>Bbq Chicken Pizza With Feta
+
+Ingredients:
+• Prepared pizza crust
+• Mozzarella cheese
+• Grilled chicken breast
+• Barbecue sauce
+• Feta cheese
+• Red onion
+
+Steps:
+1. Preheat oven to 450f
+2. Place pizza crust on ungreased baking sheet and sprinkle with 1 / 2 cup of the mozzarella cheese
+3. Toss chicken with barbecue sauce
+4. Spoon evenly onto crust
+5. Top with feta cheese, onions and the remaining 1 / 2 cup mozzarella cheese
+6. Bake 10 to 12 minute or until cheese is melted and crust is golden brown
+7. Let stand 5 minute before cutting to serve<|endoftext|>

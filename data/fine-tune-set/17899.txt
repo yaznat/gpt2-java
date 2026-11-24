@@ -1,0 +1,22 @@
+Give me a recipe for brownies.<|endoftext|>Aunt Eileen S Sauce Pan Brownies
+
+Ingredients:
+• Butter
+• Unsweetened chocolate
+• Vanilla
+• Sugar
+• Eggs
+• Flour
+• Salt
+• Chocolate chips
+
+Steps:
+1. Preheat oven to 325f
+2. Melt butter and chocolate in pan over low heat, stirring
+3. Cool
+4. Beat in vanilla and sugar
+5. Add eggs one at a time, stir well
+6. Sift flour and salt, add to chocolate
+7. Gently stir in chocolate chips
+8. Pour into 8x8x2 pan
+9. Bake 25 minutes<|endoftext|>

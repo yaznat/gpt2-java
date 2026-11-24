@@ -1,0 +1,22 @@
+Generate a recipe for potatoes.<|endoftext|>Aaa Potato Salad
+
+Ingredients:
+• Mayonnaise
+• Cider vinegar
+• Salt
+• Pepper
+• Sugar
+• Potatoes
+• Celery
+• Onion
+• Hard-boiled eggs
+• Garlic powder
+• Dijon mustard
+
+Steps:
+1. Peel, cube, and cook potaotes in boiling water for 15 minutes
+2. In a large bowl, blend mayonnaise, vinegar, salt, sugar, pepper, mustard, and garlic powder
+3. Remove 1 / 2 of the sauce and reserve for later use
+4. Fold in potatoes, celery, onion, and eggs
+5. Refrigerate overnight for best results
+6. Add needed reserved sauce to taste, but the salad is best when on the creamy side<|endoftext|>

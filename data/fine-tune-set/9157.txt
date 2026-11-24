@@ -1,0 +1,1 @@
+Fix grammar in the sentence: A girl came and sat in the seat next to him.<|endoftext|>A girl came and sat on the seat next to him.<|endoftext|>

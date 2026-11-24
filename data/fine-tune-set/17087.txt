@@ -1,0 +1,11 @@
+Please generate a cocktail recipe.<|endoftext|>Creamy Fruit Cocktail
+
+Ingredients:
+• Jello gelatin
+• Cool whip topping
+• Fruit cocktail
+
+Steps:
+1. Mix jello and cool whip together until the jelly powder is dissolved
+2. Add the fruit cocktail
+3. Refrigerate for about an hour before serving<|endoftext|>

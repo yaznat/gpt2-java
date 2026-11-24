@@ -1,0 +1,30 @@
+Give me a stew recipe.<|endoftext|>Audrey S Special Stew
+
+Ingredients:
+• Round steak
+• Oil
+• Boiling water
+• Lemon juice
+• Worcestershire sauce
+• Garlic
+• Onion
+• Catsup
+• Prepared mustard
+• Tomatoes
+• Salt
+• Pepper
+• Paprika
+• Sugar
+• Barbecue sauce
+• Potatoes
+• Carrots
+• Celery
+• Cooked rice
+
+Steps:
+1. Brown meat in oil
+2. Drain
+3. Add remaining ingredients, except potatoes, carrots, celery and cooked rice
+4. Simmer for 2 hours
+5. Add vegetables and contine to cook until vegetables are tender
+6. Serve over rice<|endoftext|>

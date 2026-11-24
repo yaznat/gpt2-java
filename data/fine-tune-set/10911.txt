@@ -1,0 +1,20 @@
+Generate a recipe for salad.<|endoftext|>All American Jello Salad
+
+Ingredients:
+• Raspberry gelatin powder
+• Berry blue gelatin mix
+• Boiling water
+• Crushed pineapple
+• Unsweetened blueberries
+• Unsweetened raspberry
+• Banana
+
+Steps:
+1. In a large bowl, combine dry gelatins and water
+2. Mix well to dissolve gelatin
+3. Stir in undrained pineapple
+4. Add frozen blueberries and raspberries
+5. Mix well to combine fold in bananas
+6. Pour mixture into an 8x8 dish
+7. Refrigerate until firm
+8. Cut and serve<|endoftext|>

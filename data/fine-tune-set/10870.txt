@@ -1,0 +1,16 @@
+Please generate a salad recipe.<|endoftext|>Acne Cleansing Salad
+
+Ingredients:
+• Olive oil
+• Apple cider vinegar
+• Garlic
+• Onion
+• Baby spinach
+• Rocket
+• Collard greens
+• Carrot
+
+Steps:
+1. Whisk oil and vinegar together
+2. Throw together onion, salad greens and carrot
+3. Pour vinaigrette over and toss together<|endoftext|>

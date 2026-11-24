@@ -1,0 +1,15 @@
+Generate a recipe for ice cream.<|endoftext|>Chocolate Coffee Ice Cream Soda
+
+Ingredients:
+• Chocolate flavored coffee
+• Milk
+• Coffee ice cream
+• Carbonated chocolate soda
+• Cherries
+
+Steps:
+1. Place coffee concentrate in tall glass
+2. Add ice cream
+3. Fill with chocolate soda
+4. Garnish with whipped cream and cherry
+5. Serve with a straw and a long-handled spoon<|endoftext|>

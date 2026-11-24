@@ -1,0 +1,18 @@
+Give me a recipe for a burger.<|endoftext|>Bacon Double Cheese Stuffed Burgers
+
+Ingredients:
+• Ground beef
+• Shredded cheddar cheese
+• Onion
+• Cooked bacon
+• Spike seasoning
+• Beer
+
+Steps:
+1. Combine bacon, onion and cheddar cheese
+2. Set aside
+3. Combine beef, spike and beer
+4. Mix thoroughly and shape into 6 thin patties
+5. Divide bacon / onion / cheese mixture onto three patties
+6. Top with remaining patties and press edges to seal
+7. Grill, broil or pan fry until well done, about 4 minutes per side<|endoftext|>

@@ -1,0 +1,24 @@
+Give me a pancake recipe.<|endoftext|>Amaretto Blueberry Pancakes
+
+Ingredients:
+• Vanilla ice cream
+• Amaretto
+• Almonds
+• Eggs
+• Milk
+• Butter
+• Flour
+• Baking powder
+• Sugar
+• Salt
+• Blueberries
+
+Steps:
+1. Sauce melt ice cream in fridge, stir in amaretto liquier or grand marnia, reserve almonds for garnish
+2. Pancakes combine eggs, milk and butter
+3. In seperate bowl add flour, baking powder, sugar and salt
+4. Stir flour mixture into egg mixture
+5. Do not overbeat
+6. Gently stir in blueberries
+7. Heat griddle, add a little butter and cook pancakes
+8. Serve with sauce and garnish with almonds<|endoftext|>

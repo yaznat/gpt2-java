@@ -1,0 +1,15 @@
+Give me a recipe for beans.<|endoftext|>Apple Butter Baked Beans
+
+Ingredients:
+• Baked beans
+• Fresh onion
+• Prepared mustard
+• Apple butter
+• Bacon
+• Black pepper
+
+Steps:
+1. Preheat oven to 375
+2. Combine all ingredients in a bowl
+3. Mix well
+4. Pour mixture into a casserole dish and bake at 375 for 30-35 minutes<|endoftext|>

@@ -1,0 +1,18 @@
+Give me a recipe for pizza.<|endoftext|>Amazing Ny Style White Garlic Pizza
+
+Ingredients:
+• Pizza crust
+• Italian sausage
+• Garlic alfredo sauce
+• Onion
+• Italian cheese blend
+
+Steps:
+1. Preheat oven to 425
+2. Brown sausage
+3. Add onion to pan and saute until soft and slightly brown
+4. Drain fat
+5. Spread alfredo sauce evenly on pizza crust
+6. Top with sausage / onion mixture and italian cheese blend
+7. Bake on center oven rack for 12 - 16 minute or until cheese is brown and bubbly
+8. Remove from oven and cool for 5 minutes to allow toppings to set<|endoftext|>

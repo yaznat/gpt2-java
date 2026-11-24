@@ -1,0 +1,10 @@
+Give me a milkshake recipe.<|endoftext|>Banana Milkshake Layered Shot
+
+Ingredients:
+• Amarula cream liqueur
+• Banana liqueur
+• Whipping cream
+
+Steps:
+1. Layer in a shot glass using the back of a spoon to separate the layers
+2. Layer in this order amarula, banana and top with whipping cream<|endoftext|>

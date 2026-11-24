@@ -1,0 +1,18 @@
+Please generate a salad recipe.<|endoftext|>American Kitchen Classic Chicken Salad
+
+Ingredients:
+• Mayonnaise
+• Cider vinegar
+• Dijon mustard
+• Cooked chicken breasts
+• Celery ribs
+• Red onion
+• Green apple
+• Raisins
+• Salt and pepper
+
+Steps:
+1. In a large bowl, whisk together the mayonnaise, cider vinegar and dijon mustard to form a dressing
+2. To the bowl, add the chicken, celery, onion, apple and raisins
+3. Toss everything together, taste and adjust the seasoning if desired
+4. Chill before serving<|endoftext|>

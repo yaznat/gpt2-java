@@ -1,0 +1,13 @@
+Can you give me a tea recipe?<|endoftext|>Applebee S Bourbon Street Steak
+
+Ingredients:
+• Beef tenderloin steaks
+• Bourbon
+• Brown sugar
+• Fresh ground black pepper
+• Salt
+
+Steps:
+1. Combine bourbon, brown sugar, salt, and pepper over steaks
+2. Preheat grill
+3. Place steaks on grill and cook for 13 minutes for rare, 17 for medium or 20 for well done, turning once during cooking<|endoftext|>

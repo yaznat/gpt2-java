@@ -1,0 +1,10 @@
+Give me a cocktail recipe.<|endoftext|>Blood Orange Cocktail
+
+Ingredients:
+• White rum
+• Cointreau liqueur
+• Blood orange juice
+
+Steps:
+1. Combine all ingredients with ice in a cocktail shaker
+2. Shake well& strain into a cocktail glass<|endoftext|>

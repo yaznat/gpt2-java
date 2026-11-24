@@ -1,0 +1,20 @@
+Please generate a sandwich recipe.<|endoftext|>The Mooch Zucchini Sandwich
+
+Ingredients:
+• Zucchini
+• Garlic cloves
+• Tomatoes
+• Mayonnaise
+• Salt
+• Pepper
+• Parmesan cheese
+• Whole wheat bread
+• Ghee
+
+Steps:
+1. Working in batches, pan fry the garlic and zucchini until lightly browned, turning once to brown both sides
+2. While sauting the above, toast the bread
+3. On each slice of bread spread layer of mayonnaise, salt and pepper to taste, and coat with layer of parmesan cheese
+4. On one half of sandwich put sauted zucchini
+5. On one half put fresh tomato slices
+6. Put halves together and you have a marriage of flavor made in heaven<|endoftext|>

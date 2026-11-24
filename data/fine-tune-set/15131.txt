@@ -1,0 +1,13 @@
+Give me a recipe for pizza.<|endoftext|>Awesome White Pizza Dip
+
+Ingredients:
+• Low-fat sour cream
+• Part-skim ricotta cheese
+• Reduced-fat mozzarella cheese
+• Herb with garlic soup mix
+• Red pepper flakes
+
+Steps:
+1. Mix all ingredients well
+2. Place in a casserole dish and bake at 350 for 25 - 30 minutes
+3. Serve with sliced italian bread or soft italian breadsticks<|endoftext|>

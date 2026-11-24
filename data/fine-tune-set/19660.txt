@@ -1,0 +1,16 @@
+Please generate a fries recipe.<|endoftext|>Italian Fries
+
+Ingredients:
+• Frozen french fries
+• Oil
+• Salt & freshly ground black pepper
+• Parmesan cheese
+• Oregano
+• Basil
+• Flat leaf parsley
+
+Steps:
+1. Deep fry french fries according to package directions
+2. Drain well on paper towels, and transfer to a serving platter
+3. Season with salt and pepper, then sprinkle on remaining ingredients
+4. Serve with your favorite condiments<|endoftext|>

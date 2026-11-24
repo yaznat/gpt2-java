@@ -1,0 +1,11 @@
+Give me a recipe for a cocktail.<|endoftext|>Class Act Cocktail
+
+Ingredients:
+• Southern comfort
+• Advocaat
+• Coconut rum
+• Pineapple juice
+
+Steps:
+1. Pour all ingredients into a shaker of ice, shake, then strain into a rocks glass full of ice
+2. Drinker will have to constantly mix the drink in his glass as the advocaat will settle<|endoftext|>

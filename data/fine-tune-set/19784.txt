@@ -1,0 +1,21 @@
+Generate a recipe for fries.<|endoftext|>Cumin Spiced Oven Fries
+
+Ingredients:
+• Sweet potatoes
+• Yukon gold potatoes
+• Olive oil
+• Salt
+• Black pepper
+• Ground cumin
+
+Steps:
+1. Preheat oven to 450f
+2. Spray baking sheet with cooking spray
+3. Slice potatoes into 12 wedges each
+4. Place all the potatoes into a large bowl
+5. Sprinkle salt, pepper, and cumin over potatoes, drizzle oil over seasonings and toss the potatoes until all are coated
+6. Spread potatoes onto baking sheet in a single layer
+7. Bake for 10, remove from oven and turn
+8. Place back into oven and cook for 10 more minutes, then turn again
+9. Return to oven and continue cooking until golden brown -- probably 5 - 10 more minutes
+10. Each serving size is 12 wedges<|endoftext|>

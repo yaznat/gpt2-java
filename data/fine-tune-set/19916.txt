@@ -1,0 +1,19 @@
+Generate a recipe for an omelette.<|endoftext|>Bauern Omelette German Omelette
+
+Ingredients:
+• Eggs
+• Potatoes
+• Onions
+• Turkey bacon
+• Butter
+• Salt
+• Pepper
+• Oil
+
+Steps:
+1. In a medium bowl, whisk eggs togeether well
+2. Add salt and pepper and whisk again
+3. Pour a little oil in a cast-iron pan and saute onion, bacon and potato
+4. Add the butter and allow it to melt before pouring in the egg
+5. Allow it to cook on low heat and, when golden-brown, garnish with chopped herbs
+6. Serve hot<|endoftext|>

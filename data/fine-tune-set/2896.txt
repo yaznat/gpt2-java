@@ -1,0 +1,1 @@
+Fix grammar in this sentence: Because the heart pacemaker should be implanted into patient's body before it can work well, it asks for higher safety requirement.<|endoftext|>Because the heart pacemaker should be implanted into the patient's body before it can work well, it calls for higher safety requirements.<|endoftext|>

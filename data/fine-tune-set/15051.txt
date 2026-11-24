@@ -1,0 +1,17 @@
+Please generate a pizza recipe.<|endoftext|>10 Minute Pizza Snacks
+
+Ingredients:
+• Crescent roll dough
+• Cream cheese
+• Italian seasoning
+• Pepperoni
+• Cheddar cheese
+
+Steps:
+1. Roll out cresents
+2. Spread cream cheese on each carefully
+3. Sprinkle seasoning
+4. Add 3 pepperoni slices per roll
+5. Top with cheese
+6. Roll up dough into crescent shape
+7. Bake for 10 minutes on 350 degrees<|endoftext|>

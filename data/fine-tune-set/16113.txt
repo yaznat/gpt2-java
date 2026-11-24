@@ -1,0 +1,16 @@
+Please generate a quesadilla recipe.<|endoftext|>Chocolate Quesadilla
+
+Ingredients:
+• Flour tortilla
+• Chocolate chips
+• Cinnamon
+• Sugar
+• Butter
+
+Steps:
+1. Lightly coat the flour tortilla with butter on both sides and start heating on a skillet
+2. Place chocolate chips on one half of the tortilla and lightly dust with cinnamon and sugar to taste
+3. Fold the tortilla in half and grill until lightly browned
+4. Turning to brown other side as well
+5. Serve hot
+6. Yum!<|endoftext|>

@@ -1,0 +1,21 @@
+Generate a recipe for pie.<|endoftext|>Apple Pie A La Zing
+
+Ingredients:
+• Apples
+• Fresh cranberries
+• Brown sugar
+• Sugar
+• Flour
+• Ground cinnamon
+• Walnuts
+• Pie crusts
+
+Steps:
+1. Preheat oven to 425
+2. Combine all ingredients, except pastry, in medium mixing bowl
+3. Mix well
+4. Pour into a pastry-lined pie plate
+5. Cover with top crust
+6. Seal edges and cut several slits in top crust
+7. Bake 50 minutes or until golden brown
+8. Cover edges with foil if they begin to brown too quickly<|endoftext|>

@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: Firstly, medical advancements helps to lighten the burden of healthcare costs.<|endoftext|>Firstly, medical advancements help to lighten the burden of healthcare costs.<|endoftext|>

@@ -1,0 +1,19 @@
+Give me a sandwich recipe.<|endoftext|>Bagel Chicken Salad Sandwiches
+
+Ingredients:
+• Cooked chicken
+• Bacon
+• Celery
+• Green onions
+• Dried basil leaves
+• Garlic powder
+• Mayonnaise
+• Bagels
+• Cucumber
+
+Steps:
+1. In medium bowl, mix chicken, bacon, celery, onions, basil, garlic powder and mayonnaise
+2. Spread chicken mixture on bottom halves of bagels
+3. Top with cucumber slices
+4. Cover with top halves of bagels
+5. Serve immediately, or wrap each sandwich in plastic wrap and refrigerate up to 24 hours<|endoftext|>

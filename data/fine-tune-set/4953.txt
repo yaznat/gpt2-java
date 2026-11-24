@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: Secondly, people may argue that nuclear power is not safe to human because of the radiation that radioactive materials give out.<|endoftext|>Secondly, people may argue that nuclear power is not safe because of the radiation that radioactive materials give out.<|endoftext|>

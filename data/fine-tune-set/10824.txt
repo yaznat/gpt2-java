@@ -1,0 +1,15 @@
+Generate a recipe for salad.<|endoftext|>7 Up Lime Salad
+
+Ingredients:
+• Lime jell-o gelatin
+• Pineapple juice
+• 7-up soda
+• Applesauce
+
+Steps:
+1. Dissolve jello in hot pineapple juice
+2. Add 7-up and applesauce
+3. Mix
+4. Pour in 3-cup mold
+5. Chill until set
+6. When ready to serve, unmold on serving plate<|endoftext|>

@@ -1,0 +1,1 @@
+Fix grammatical errors in this sentence: But we could see famous places and watch the musical and listen to the Jazz in the Jazzbar.<|endoftext|>But we could see famous places and watch musicals and listen to Jazz in the Jazzbar.<|endoftext|>

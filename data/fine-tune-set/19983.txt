@@ -1,0 +1,18 @@
+Give me a recipe for an omelette.<|endoftext|>Hazelnussomeletten
+
+Ingredients:
+• Flour
+• Milk
+• Egg
+• Sugar
+• Hazelnuts
+• Salt
+• Butter
+
+Steps:
+1. Combine flour and milk
+2. Stir in egg yolk
+3. Fold in sugar, hazelnuts and stiffly beaten egg white
+4. Add salt to taste
+5. Melt butter and fry omelet until golden brown on both sides
+6. Serve with stewed fruits or berries<|endoftext|>

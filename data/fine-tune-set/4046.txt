@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: One invented device uses optical sensors to supervise how these elderly pick things up and how they use them.<|endoftext|>One invented device uses optical sensors to monitor how these elderly pick things up and how they use them.<|endoftext|>

@@ -1,0 +1,1 @@
+Fix grammatical errors in this sentence: However I don't like them because they have a heavy battery in them and I sometimes have to change the battery.<|endoftext|>However, I didn't like any of them because they had heavy batteries in them, and I would sometimes have to change the battery.<|endoftext|>

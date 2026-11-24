@@ -1,0 +1,17 @@
+Generate a recipe for soup.<|endoftext|>8 Can Taco Soup
+
+Ingredients:
+• Black beans
+• Pinto beans
+• Diced tomatoes
+• Sweet corn
+• Chicken breasts
+• Cream of chicken soup
+• Green enchilada sauce
+• Chicken broth
+• Taco seasoning
+
+Steps:
+1. Mix all ingredients together in a large pot
+2. Heat until warm, stirring occasionally
+3. Serve with tortilla chips<|endoftext|>

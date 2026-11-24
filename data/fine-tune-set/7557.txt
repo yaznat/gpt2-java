@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: We have to prepare more healthcare teams to specialize in treating illness related to the old as it is commonly known that the old are more prone to illness.<|endoftext|>We have to prepare more healthcare teams to specialize in treating illnesses related to the old, as it is commonly known that the old are more prone to illness.<|endoftext|>

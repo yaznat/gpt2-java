@@ -1,0 +1,20 @@
+Generate a recipe for a burger.<|endoftext|>All American Hamburgers
+
+Ingredients:
+• Lean ground beef
+• Hamburger buns
+• Pepper
+• Garlic powder
+• Dried parsley
+• Dried onion flakes
+• Powdered milk
+• Beef bouillon
+
+Steps:
+1. Combine the hamburger mix ingredients
+2. Store in airtight container in fridge
+3. In a medium bowl, mix ground beef and 1 / 2 cup hamburger mix until well combined
+4. Divide the beef mixture into 5 equal parts and form each into 1 / 2-inch patties
+5. Grill until the internal temperature reaches 160, about 5 to 7 minutes per side
+6. Or you can cook on top of the stove
+7. Serve on buns with your favorite burger toppings<|endoftext|>

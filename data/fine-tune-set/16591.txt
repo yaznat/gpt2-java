@@ -1,0 +1,10 @@
+Give me a recipe for a smoothie.<|endoftext|>Banana Orange Smoothie
+
+Ingredients:
+• Banana
+• Orange juice
+• Honey
+
+Steps:
+1. Mix 1 cup orange juice, 1 banana, and 1 tablespoon honey in a blender on medium speed
+2. Serve chilled<|endoftext|>

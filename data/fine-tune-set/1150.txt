@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: People should not be complaining about anything even if they seem to be right.<|endoftext|>People should not complain about anything, even if they seem to be right.<|endoftext|>

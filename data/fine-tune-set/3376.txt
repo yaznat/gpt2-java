@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: If time period is long enough, like minute, we can see strict distinction between one and two.<|endoftext|>If a time period is long enough, like a minute, we can see a strict distinction between one and two.<|endoftext|>

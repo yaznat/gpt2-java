@@ -1,0 +1,21 @@
+Generate a recipe for an omelette.<|endoftext|>Artichoke Omelette
+
+Ingredients:
+• Light butter
+• Onion
+• Eggs
+• Artichoke hearts
+• Green olives
+• Milk
+• Cheese
+• Salt and pepper
+
+Steps:
+1. Saute onions in butter in 12 inch fry pan
+2. Beat eggs in bowl with artichoke hearts, olives, milk, salt and pepper
+3. Pour mixture over onions in pan and cover
+4. Cook over medium heat until the bottom of the omelette is golden brown, carefully lift edge with spatula to check
+5. Lay cheese over half of omelette
+6. Flip other half of omelette over cheese half
+7. Wait about 1 minute
+8. Slide out of pan and serve hot<|endoftext|>

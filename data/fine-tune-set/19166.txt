@@ -1,0 +1,12 @@
+Generate a recipe for ice cream.<|endoftext|>Cantaloupe Bowl Ice Cream
+
+Ingredients:
+• Cantaloupe
+• Ice cream
+• Whipped topping
+
+Steps:
+1. Cut cantaloupe around the middle instead of from end to end, as this will form a 'bowl' for your ice cream
+2. Remove seeds
+3. Add several scoops of your favorite ice cream flavors, mixing up flavors if desired
+4. Top with whipped cream<|endoftext|>

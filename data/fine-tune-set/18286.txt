@@ -1,0 +1,13 @@
+Give me a pancake recipe.<|endoftext|>Big Apple Pancakes
+
+Ingredients:
+• Bisquick
+• 2% low-fat milk
+• Eggs
+• Green apples
+
+Steps:
+1. Peel and cut apples into small chunks
+2. Mix everything together
+3. Dollop large spoonful into pan on medium heat
+4. Cook until done<|endoftext|>

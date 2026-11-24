@@ -1,0 +1,11 @@
+Please give me a recipe for a milkshake.<|endoftext|>Strawberry Yogurt Milkshake Smoothie
+
+Ingredients:
+• Strawberry protein powder
+• Vanilla yogurt
+• Milk
+• Frozen strawberries
+
+Steps:
+1. Add all ingredients to blender
+2. Blend and serve<|endoftext|>

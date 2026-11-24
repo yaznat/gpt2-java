@@ -1,0 +1,1 @@
+Fix grammatical mistakes in this sentence: All my life I practiced sports, but definitely my favorite sport is squash.<|endoftext|>All my life, I have practiced sports, but definitely, my favorite sport is squash.<|endoftext|>

@@ -1,0 +1,1 @@
+Improve the grammar of this text: After taking a bath I checked earlier post, eating an ice cream.<|endoftext|>After taking a bath, I checked my earlier post, and eating ice cream.<|endoftext|>

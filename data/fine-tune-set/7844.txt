@@ -1,0 +1,1 @@
+Fix grammar in the sentence: For the education, every developed country is concerning with the issue.<|endoftext|>For education, every developed country is concerned with the issue.<|endoftext|>

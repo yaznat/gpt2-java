@@ -1,0 +1,20 @@
+Please generate a soup recipe.<|endoftext|>Appenzell Style Oat Soup
+
+Ingredients:
+• Appenzeller cheese
+• Butter
+• Onions
+• Oatmeal
+• Parsley
+• Meat stock
+• Cream
+• Chives
+
+Steps:
+1. Fry onion in butter until golden
+2. Add oatmeal and simmer for 2-3 minutes, stirring constantly
+3. Add parsley and leek and allow to cook briefly
+4. Add stock and simmer for a further 15-20 minutes
+5. Lastly, enrich with cream and pour into soup plates or bowls
+6. Sprinkle thickly with the grated appenzeller cheese and diced chives
+7. Serve immediately<|endoftext|>

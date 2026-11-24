@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: He was a funny person, I thought maybe he was trying to let me relax.<|endoftext|>He was a funny person; I thought maybe he was trying to make me relax.<|endoftext|>

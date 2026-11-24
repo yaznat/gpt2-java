@@ -1,0 +1,10 @@
+Give me a milkshake recipe.<|endoftext|>Healthy Banana Chocolate Milkshake
+
+Ingredients:
+• Banana
+• Milk
+• Cocoa powder
+
+Steps:
+1. Combine all ingredients in blender, blend until smooth
+2. Enjoy!<|endoftext|>

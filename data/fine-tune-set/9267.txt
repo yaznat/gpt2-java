@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: Bonti is very old she is 13 and she are feeling pretty bad, so I don't think she will be alive so much more.<|endoftext|>Bonti is very old. She is 13, and she is feeling pretty bad, so I don't think she will be alive much longer.<|endoftext|>

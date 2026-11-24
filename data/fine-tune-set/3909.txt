@@ -1,0 +1,1 @@
+Fix grammar in the sentence: In a word today is bad for me, the weekend is bad for me I'm unhappy in the weekend.<|endoftext|>In a word, today is bad for me, the weekend is bad for me, and I'm unhappy at the weekend.<|endoftext|>

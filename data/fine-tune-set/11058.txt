@@ -1,0 +1,13 @@
+Give me a recipe for a sandwich.<|endoftext|>Apple Pie With Cheese Sandwich
+
+Ingredients:
+• Cinnamon raisin bread
+• American cheese
+• Apple
+• Butter
+
+Steps:
+1. Top 1 of the bread slices with singles and apple slices
+2. Cover with remaining bread slice
+3. Spread outside of sandwich with butter
+4. Cook in skillet on medium heat 2 minute on each side or until golden brown on both sides<|endoftext|>

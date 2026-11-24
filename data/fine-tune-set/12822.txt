@@ -1,0 +1,22 @@
+Please generate a steak recipe.<|endoftext|>Bbq Pork Steak Crock Pot
+
+Ingredients:
+• Pork steaks
+• Oil
+• Ketchup
+• Water
+• Vinegar
+• Worcestershire sauce
+• Salt
+• Chili powder
+• Paprika
+• Onions
+• Salt and pepper
+
+Steps:
+1. Season pork steaks with salt, pepper, and paprika
+2. Place steaks in crockpot with oil, turning to coat
+3. Slice onions very thin
+4. Add all other ingredients to crockpot
+5. Cover
+6. Cook on low for 8-9 hours<|endoftext|>

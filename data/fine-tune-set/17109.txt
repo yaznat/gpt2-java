@@ -1,0 +1,11 @@
+Please give me a recipe for a cocktail.<|endoftext|>Dog Biscuit Cocktail
+
+Ingredients:
+• Beer
+• Lemonade
+• Cinnamon schnapps
+• Baileys irish cream
+
+Steps:
+1. Pour all ingredients on the rocks
+2. Stir<|endoftext|>

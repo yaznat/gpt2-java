@@ -1,0 +1,9 @@
+Generate a recipe for a cocktail.<|endoftext|>Blueberry Buzz Non Alcoholic Cocktail
+
+Ingredients:
+• Blueberry juice
+• Ginger ale
+• Grenadine
+
+Steps:
+1. Mix all ingredients together and serve in glass<|endoftext|>

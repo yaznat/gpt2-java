@@ -1,0 +1,18 @@
+Generate a recipe for soup.<|endoftext|>0 Point Soup Crock Pot
+
+Ingredients:
+• Spinach
+• Carrots
+• Celery ribs
+• Onion
+• Garlic clove
+• Vegetable broth
+• Tomatoes
+• Bay leaves
+• Basil
+• Oregano
+• Red pepper flakes
+
+Steps:
+1. Place all ingredients in the crockpot and cook on high for 5 hours or on low for 8-10 hours
+2. Remove bay leaves<|endoftext|>

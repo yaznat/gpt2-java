@@ -1,0 +1,10 @@
+Please generate a cocktail recipe.<|endoftext|>Cherie S Cleansing Cocktail
+
+Ingredients:
+• Gingerroot
+• Beet
+• Apple
+• Carrots
+
+Steps:
+1. Push ginger, beet, and apple through hopper with carrots<|endoftext|>

@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: In addition, we have had the device more portable by minimizing the size and weight.<|endoftext|>In addition, we have made the device more portable by minimizing its size and weight.<|endoftext|>

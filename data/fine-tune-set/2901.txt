@@ -1,0 +1,1 @@
+Fix grammar in the sentence: When I opened my eyes I saw a beautiful chair with orange and green stripes.<|endoftext|>When I opened my eyes, I saw a beautiful chair with orange and green stripes.<|endoftext|>

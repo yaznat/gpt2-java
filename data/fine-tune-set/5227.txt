@@ -1,0 +1,1 @@
+Remove all grammatical errors from this text: The man in the car was very annoyed and pushed the horn seriously, but Stephan didn't hear that.<|endoftext|>The man in the car was very annoyed and pressed his horn seriously, but Stephan didn't hear that.<|endoftext|>

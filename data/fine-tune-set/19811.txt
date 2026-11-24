@@ -1,0 +1,14 @@
+Please give me a recipe for fries.<|endoftext|>Fast Fries
+
+Ingredients:
+• Potatoes
+• Oil
+• Salt
+
+Steps:
+1. Pierce each potato with fork
+2. Microwave on high for 3-4 minutes
+3. Cut into fries
+4. Fry in hot oil
+5. Drain on paper towel
+6. Season as desired<|endoftext|>

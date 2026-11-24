@@ -1,0 +1,1 @@
+Fix grammar in this sentence: Physiotherapist inspected my knee and showed me what exercises I have to do.<|endoftext|>The physiotherapist inspected my knee and showed me what exercises I had to do.<|endoftext|>

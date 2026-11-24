@@ -1,0 +1,11 @@
+Can you give me a cocktail recipe?<|endoftext|>Cocktail Quisi Night
+
+Ingredients:
+• Limoncello
+• Espresso coffee
+• Half-and-half
+• Lemon zest
+
+Steps:
+1. Combine all ingredients
+2. Serve in chilled glass<|endoftext|>

@@ -1,0 +1,12 @@
+Please give me a recipe for a casserole.<|endoftext|>Artichoke Cheese Casserole
+
+Ingredients:
+• Artichoke hearts
+• Longhorn cheese
+• Eggs
+
+Steps:
+1. Place artichokes on bottom of a greased 8x8 pan
+2. Top with grated cheese
+3. Pour beaten eggs over cheese
+4. Bake at 350 degrees for 45 minutes, serve<|endoftext|>

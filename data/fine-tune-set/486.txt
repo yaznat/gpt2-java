@@ -1,0 +1,1 @@
+Fix grammar in this sentence: This approach not only brings awareness to the country, but also educating on the people on what will happen to the elderly when they are neglected.<|endoftext|>This approach not only brings awareness to the people but also educates them people on what will happen to the elderly when they are neglected.<|endoftext|>

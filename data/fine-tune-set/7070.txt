@@ -1,0 +1,1 @@
+Improve the grammaticality of this text: I hadn't really much confidence in my dance skills, I felt like a rake!<|endoftext|>I didn't really have much confidence in my dance skills; I felt like a rake!<|endoftext|>

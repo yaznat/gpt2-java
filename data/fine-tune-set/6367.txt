@@ -1,0 +1,1 @@
+Improve the grammaticality of this text: I have no problem in being hired for three months because I do not go to the university in Summer.<|endoftext|>I have no problem with being hired for three months because I do not go to university in the summer.<|endoftext|>

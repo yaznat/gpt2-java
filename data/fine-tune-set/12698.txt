@@ -1,0 +1,20 @@
+Give me a steak recipe.<|endoftext|>Albert S Soy Sauce Steak
+
+Ingredients:
+• Top round steak
+• Soy sauce
+• Water
+• Garlic
+• Onion powder
+• Seasoning salt
+• Pepper
+• Dried parsley
+• Oregano
+• Ground thyme
+
+Steps:
+1. Preheat oven to 350 degrees
+2. Mix together ingredients
+3. Let meat marinate at least one hour
+4. Cook in 9x13 baking dish for 30 to 45 minutes
+5. Serve over rice<|endoftext|>

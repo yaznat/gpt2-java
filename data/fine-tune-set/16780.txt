@@ -1,0 +1,12 @@
+Please generate a milkshake recipe.<|endoftext|>Grandpa S Milkshake
+
+Ingredients:
+• Ice cube
+• Milk
+• Vanilla
+• Equal sugar substitute
+
+Steps:
+1. Put a handful of ice cubes in the blender
+2. Add the milk, vanilla, and sweetener
+3. Blend<|endoftext|>

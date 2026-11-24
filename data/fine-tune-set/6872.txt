@@ -1,0 +1,1 @@
+Improve the grammar of this text: We always rent a little cottages from a sheep farmer and now we know his family.<|endoftext|>We always rent a little cottage from a sheep farmer, and now we know his family.<|endoftext|>

@@ -1,0 +1,16 @@
+Give me a sushi recipe.<|endoftext|>Sushizu Sushi Vinegar
+
+Ingredients:
+• Rice vinegar
+• Sugar
+• Salt
+• Sake
+• Kombu
+
+Steps:
+1. Pour vinegar, sugar, and salt into a saucepan
+2. Heat on a low flame, stirring constantly with a wooden spoon, just until the sugar and salt are dissovled
+3. Cool to room temperature and add the kombu and sake
+4. Pour into a mason or other jar with a cover
+5. Keep out of sunlight in a cool dark place
+6. Keeps indefinitely<|endoftext|>

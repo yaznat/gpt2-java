@@ -1,0 +1,1 @@
+Fix grammaticality of the sentence: My favorite is to play with my puppy.<|endoftext|>My favorite activity is to play with my puppy.<|endoftext|>

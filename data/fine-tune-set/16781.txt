@@ -1,0 +1,12 @@
+Please give me a recipe for a milkshake.<|endoftext|>Grasshopper Milkshakes
+
+Ingredients:
+• Mint chocolate chip ice cream
+• Milk
+• Creme de menthe
+• Oreo cookies
+
+Steps:
+1. In a blender, combine ice cream, milk, and crme de menthe
+2. Whirl until smooth and pour into two chilled glasses
+3. Garnish with cookie pieces<|endoftext|>

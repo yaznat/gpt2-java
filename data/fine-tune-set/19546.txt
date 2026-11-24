@@ -1,0 +1,15 @@
+Please generate a potato recipe.<|endoftext|>Alton Brown S Chipotle Smashed Sweet Potatoes
+
+Ingredients:
+• Sweet potatoes
+• Unsalted butter
+• Chipotle chile in adobo
+• Adobo sauce
+• Salt
+
+Steps:
+1. Put cubed potatoes into steamer basket and place steamer into a large pot of simmering water
+2. Steam potatoes for 20 minutes or until the potatoes are fork tender
+3. Add butter to potatoes and mash with potato masher
+4. Add peppers, sauce, and salt and continue mashing to combine
+5. Serve immediately<|endoftext|>

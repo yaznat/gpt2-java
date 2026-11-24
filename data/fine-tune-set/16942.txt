@@ -1,0 +1,10 @@
+Please generate a cocktail recipe.<|endoftext|>Blackberry Champagne Cocktail
+
+Ingredients:
+• Chambord raspberry liquor
+• Champagne
+• Sorbet
+
+Steps:
+1. Pour the chambord into a champagne flute and top with champagne
+2. Add the sorbet and serve at once<|endoftext|>

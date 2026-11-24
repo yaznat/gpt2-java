@@ -1,0 +1,16 @@
+Please generate a soup recipe.<|endoftext|>4B S Old Fashioned Cream Of Tomato Soup
+
+Ingredients:
+• Tomatoes
+• Chicken broth
+• Butter
+• Sugar
+• Onion
+• Baking soda
+• Cream
+
+Steps:
+1. Mix tomatoes, chicken broth, butter, sugar, onions and soda
+2. Simmer over low heat for 1 hour
+3. Heat cream in a double boiler
+4. Add cream to hot tomato mixture and serve<|endoftext|>

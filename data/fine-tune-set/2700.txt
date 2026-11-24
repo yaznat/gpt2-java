@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: Kyoto is famous for japanese ancient capital and has lots of temples and shrines.<|endoftext|>Kyoto is famous for its ancient Japanese capital and has lots of temples and shrines.<|endoftext|>

@@ -1,0 +1,25 @@
+Give me a recipe for salad.<|endoftext|>5 A Day Salad
+
+Ingredients:
+• Watercress
+• Alfalfa sprout
+• Tomatoes
+• Cucumber
+• Onion
+• Mushroom
+• Bell pepper
+• Sunflower seeds
+• Nonfat cottage cheese
+• Cheddar cheese
+• Olive oil
+• Lemon juice
+• Tahini
+• Salt
+• Pepper
+
+Steps:
+1. Prepare dressing and set aside
+2. Arrange greens in bowl and top with remaining veggies
+3. Top with a dollop of cottage cheese and a sprinkling of cheddar
+4. Scatter sunflower seeds
+5. Dress salad and enjoy<|endoftext|>

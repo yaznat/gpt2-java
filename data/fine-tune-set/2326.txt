@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: It's a great party and we can have real fun watching a football game even if it's by television.<|endoftext|>It's a great party, and we can have real fun watching a football game even if it's on television.<|endoftext|>

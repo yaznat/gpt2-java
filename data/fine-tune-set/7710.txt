@@ -1,0 +1,1 @@
+Make the sentence grammatical: On Saturday, I finished my puzzle but with five pieces missing but I was happy too.<|endoftext|>On Saturday, I finished my puzzle but with five pieces missing. But I was happy too.<|endoftext|>

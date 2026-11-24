@@ -1,0 +1,1 @@
+Remove all grammatical errors from this text: One night, which we were sleeping in our car, by mistake the car started to move and we woke up in a huge cave, out of Los Angeles.<|endoftext|>One night, while we were sleeping in our car, by mistake, the car started to move, and we woke up in a huge cave outside of Los Angeles.<|endoftext|>

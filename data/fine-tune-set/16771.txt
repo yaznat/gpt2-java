@@ -1,0 +1,15 @@
+Please give me a recipe for a milkshake.<|endoftext|>Easy Strawberry Banana Milkshake
+
+Ingredients:
+• Banana
+• Vanilla ice cream
+• Strawberry ice cream
+• Ice cubes
+• Sugar
+• Milk
+
+Steps:
+1. Chop banana
+2. Put all ingredients in a blender
+3. Blend for 35 seconds or until it's of the right consistency
+4. Enjoy!<|endoftext|>

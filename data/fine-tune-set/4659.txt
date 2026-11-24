@@ -1,0 +1,1 @@
+Fix grammar in this sentence: Every country has own features.<|endoftext|>Every country has its own features.<|endoftext|>

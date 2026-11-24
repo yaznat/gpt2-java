@@ -1,0 +1,1 @@
+Fix grammatical errors in this sentence: The desalination of seawater will require large amount of fossil fuel to run which is another natural resource that Singapore do not have.<|endoftext|>The desalination of seawater would require a large amount of fossil fuel to run, which is another natural resource that Singapore does not have.<|endoftext|>

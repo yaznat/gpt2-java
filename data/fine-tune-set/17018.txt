@@ -1,0 +1,8 @@
+Give me a cocktail recipe.<|endoftext|>Cinnamon Cream Cocktail
+
+Ingredients:
+• Goldschlager
+• Cream soda
+
+Steps:
+1. Combine ingredients in a glass<|endoftext|>

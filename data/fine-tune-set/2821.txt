@@ -1,0 +1,1 @@
+Fix grammatical errors in this sentence: Today I saw a pair of jeans on sale for half of the prize.<|endoftext|>Today I saw a pair of jeans on sale for half of the price.<|endoftext|>

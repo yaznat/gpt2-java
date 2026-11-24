@@ -1,0 +1,15 @@
+Give me a recipe for a cocktail.<|endoftext|>Banana Banshee Cocktail
+
+Ingredients:
+• Banana
+• Dark rum
+• Malibu rum
+• Cream
+• Ice
+• Ice cream
+• Maraschino cherry
+• Whipped cream
+
+Steps:
+1. Blend til smooth
+2. Garnish<|endoftext|>

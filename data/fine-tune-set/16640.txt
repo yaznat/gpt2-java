@@ -1,0 +1,15 @@
+Please generate a smoothie recipe.<|endoftext|>Berry Green Tea Smoothie
+
+Ingredients:
+• Cranberries
+• Blueberries
+• Blackberry
+• Strawberries
+• Banana
+• Green tea
+• Yogurt
+• Honey
+• Ginger
+
+Steps:
+1. Combine all ingredients in a blender until smooth and frothy<|endoftext|>

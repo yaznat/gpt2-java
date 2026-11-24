@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: I already got iPad, so I won't be able to buy new one, but I'm interested in new functions.<|endoftext|>I've already got the iPad, so I won't be able to buy a new one, but I'm interested in new functions.<|endoftext|>

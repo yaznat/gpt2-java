@@ -1,0 +1,13 @@
+Generate a recipe for pancakes.<|endoftext|>Basic Cinnamon Pancakes
+
+Ingredients:
+• Plain flour
+• Egg
+• 1% low-fat milk
+• Cinnamon
+• Vanilla extract
+
+Steps:
+1. Whisk the flour, milk, cinnamon and vanilla together
+2. Add the egg and mix well
+3. Cook the first side in a heated frying pan, flip the pancake when it's ready and do the other side<|endoftext|>

@@ -1,0 +1,1 @@
+Make the sentence grammatical: As of September 2009, there are 436 nuclear reactors worldwide and another 53 nuclear reactors under construction.<|endoftext|>As of September 2009, there have been 436 nuclear reactors worldwide and another 53 nuclear reactors under construction.<|endoftext|>

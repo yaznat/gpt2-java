@@ -1,0 +1,17 @@
+Give me a rice recipe.<|endoftext|>Arroz Con Pollo Chicken And Rice
+
+Ingredients:
+• Boneless skinless chicken breasts
+• Nonstick cooking spray
+• White rice
+• Diced tomatoes
+• Cumin
+• Garlic
+• Chicken bouillon powder
+• Water
+
+Steps:
+1. In a heavy bottomed pan, saute chicken in cooking spray until chicken and pan bottom begin to brown darkly and stick
+2. Add remaining ingredients
+3. Bring to boil, reduce heat and cover
+4. Simmer 15 minutes or until rice is cooked<|endoftext|>

@@ -1,0 +1,1 @@
+Fix grammatical errors in this sentence: I have been learning English for 5 years and I hope to take the FCE (Cambridge exam) soon. I also write a blog about art on English.<|endoftext|>I have been learning English for 5 years, and I hope to take the FCE (Cambridge exam) soon. I also write a blog about art in English.<|endoftext|>

@@ -1,0 +1,1 @@
+Fix grammar in the sentence: Which photos are of a fox or a dog?<|endoftext|>Which photos are of a fox or which are of a dog?<|endoftext|>

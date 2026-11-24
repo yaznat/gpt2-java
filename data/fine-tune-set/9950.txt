@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: A lot of families in Canada go outdoor picnics in the park and invite their friends to spend a good time.<|endoftext|>A lot of families in Canada go outdoor picnics in the park and invite their friends to have a good time.<|endoftext|>

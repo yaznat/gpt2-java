@@ -1,0 +1,19 @@
+Give me a recipe for a burrito.<|endoftext|>Chicken Monterey Burritos
+
+Ingredients:
+• Boneless skinless chicken breasts
+• Taco seasoning mix
+• Oil
+• Flour tortillas
+• Monterey jack pepper cheese
+• Onion
+• Tomatoes
+• Ranch salad dressing
+
+Steps:
+1. Slice chicken breast into strips toss with taco seasoning
+2. Heat oil in skillet
+3. Add chicken and cook about 6 minutes until done
+4. Dividing evenly, layer chicken and remaining ingredients on heated tortillas
+5. Roll up
+6. Serve<|endoftext|>

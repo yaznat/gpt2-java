@@ -1,0 +1,23 @@
+What's a recipe for bread?<|endoftext|>Allison S Banana Bread
+
+Ingredients:
+• Flour
+• Baking soda
+• Salt
+• Sugar
+• Butter
+• Eggs
+• Mashed bananas
+• Plain yogurt
+• Vanilla
+
+Steps:
+1. Preheat oven to 350
+2. Combine flour, baking soda, salt
+3. In a separate bowl, beat sugar and butter
+4. Add eggs, one at a time
+5. Add banana, yogurt, and vanilla
+6. Add flour mixture until just moist
+7. Pour into greased loaf pan
+8. Bake 1 hour
+9. Cool at least 10 minutes in pan before removing to rack to cool completely<|endoftext|>

@@ -1,0 +1,22 @@
+Please generate a brownie recipe.<|endoftext|>Best Fudge Brownie Pie
+
+Ingredients:
+• Unbaked pastry shells
+• Chocolate chips
+• Butter
+• Sweetened condensed milk
+• Biscuit mix
+• Eggs
+• Vanilla extract
+• Nuts
+
+Steps:
+1. Preheat oven to 375
+2. Bake the pastry shell for 10 minutes
+3. Remove from oven
+4. Reduce temperature to 325
+5. In a saucepan over low, melt the chocolate chips with butter
+6. In large mixer bowl, beat chocolate mixture with remaining ingredients except nuts until smooth
+7. Add nuts and pour mixture into baked pastry shell
+8. Bake 35 to 45 minutes or until center is set
+9. Let cool a bit before serving<|endoftext|>

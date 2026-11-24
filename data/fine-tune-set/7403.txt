@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: When its color changed, I put the sliced onions, mushrooms and eggplants.<|endoftext|>When its color changed, I put sliced onions, mushrooms, and eggplant in the pan.<|endoftext|>

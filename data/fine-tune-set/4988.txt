@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: Then, special types of white blood cells, T cells contact the macrophages and recognize what kind of bacteria is coming.<|endoftext|>Then, special types of white blood cells, T cells, contact the macrophages and recognize what kind of bacteria is coming.<|endoftext|>

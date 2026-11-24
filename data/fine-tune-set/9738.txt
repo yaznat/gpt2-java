@@ -1,0 +1,1 @@
+Fix grammatical errors in this sentence: We believe that Santa gives presents to only good children but bad children.<|endoftext|>We believe that Santa gives presents to only good children but not to bad children.<|endoftext|>

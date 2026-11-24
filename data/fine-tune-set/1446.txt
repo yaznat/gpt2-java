@@ -1,0 +1,1 @@
+Fix grammatical mistakes in this sentence: One of the humor of this book is the gap between the common kid and the Go master.<|endoftext|>One of the humorous parts of this book is the gap between the common kid and the Go master.<|endoftext|>

@@ -1,0 +1,16 @@
+Can you give me a taco recipe?<|endoftext|>Always Gone Taco Dip
+
+Ingredients:
+• Cream cheese
+• Sour cream
+• Taco sauce
+• Cheddar cheese
+• Tomatoes
+• Black olives
+
+Steps:
+1. Blend together cream cheese and sour cream until smooth
+2. Spread cream cheese and sour cream mixture in bottom of a 9x13" pan
+3. Layer taco sauce on top, tilting pan if need be to get an even layer throughout
+4. Layer cheese, tomatoes and finish with olives keep all layers even
+5. Serve cold with tortilla chips<|endoftext|>

@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: Last week her mother told her that he had to go to his classes if he wanted to hang out with his friends.<|endoftext|>Last week, his mother told him that he had to go to his classes if he wanted to hang out with his friends.<|endoftext|>

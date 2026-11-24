@@ -1,0 +1,24 @@
+Can you give me a bread recipe?<|endoftext|>Amaretto Nut Bread
+
+Ingredients:
+• Eggs
+• Sugar
+• Butter
+• Flour
+• Amaretto
+• Vanilla
+• Almonds
+
+Steps:
+1. Preheat oven to 350 degrees
+2. Beat egg whites until soft peaks form
+3. Add 1 cup sugar gradually and beat until it holds stiff peaks
+4. Set aside
+5. Cream butter with remaining sugar
+6. Add egg yolks, one at a time, beating well after each addition
+7. Add flour in thirds, alternating with amaretto
+8. Mix well
+9. Stir in vanilla and nuts
+10. Fold in egg whites gently
+11. Pour batter into 3 well greased 8x4 inch loaf pans
+12. Bake for 1 hour or until done<|endoftext|>

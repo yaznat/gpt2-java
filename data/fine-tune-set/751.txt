@@ -1,0 +1,1 @@
+Fix grammar in this sentence: The development of society and technology not only has improved the general living standard but also enhanced the individuals' awareness of health service.<|endoftext|>The development of society and technology has not only improved the general living standard but also enhanced individuals' awareness of health services.<|endoftext|>

@@ -1,0 +1,14 @@
+Give me a pizza recipe.<|endoftext|>Bagel Pizza
+
+Ingredients:
+• Bagel
+• Deli ham
+• Pepperoni
+• Provolone cheese
+
+Steps:
+1. Set oven to broil on high
+2. Split bagel in half and place on cookie sheet
+3. Top with ham first, then pepperoni, then cheese
+4. Broil for about 2 or 3 minutes or until cheese is completely melted
+5. Do not brown the cheese!<|endoftext|>

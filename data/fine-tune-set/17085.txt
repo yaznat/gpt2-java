@@ -1,0 +1,14 @@
+Give me a recipe for a cocktail.<|endoftext|>Cream Puff Cocktail
+
+Ingredients:
+• Light rum
+• Light cream
+• Superfine sugar
+• Club soda
+
+Steps:
+1. In shaker fill with ice, blend rum, cream and sugar
+2. Shake to blend
+3. Strain into highball glass with two ice cubes
+4. Fill glass with club soda
+5. Stir<|endoftext|>

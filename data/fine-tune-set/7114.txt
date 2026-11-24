@@ -1,0 +1,1 @@
+Fix grammaticality: I will be wearing a white T-shirt and a yellow short.<|endoftext|>I will be wearing a white T-shirt and yellow shorts.<|endoftext|>

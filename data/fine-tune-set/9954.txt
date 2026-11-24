@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: They are my husband's close friends, because they are work for the same company and started to work in the company at the same time on 1980.<|endoftext|>They are my husband's close friends because they are working for the same company and started to work in the company at the same time in 1980.<|endoftext|>

@@ -1,0 +1,1 @@
+Make the sentence grammatical: I'm a student major in psychology.<|endoftext|>I'm a student major majoring in psychology.<|endoftext|>

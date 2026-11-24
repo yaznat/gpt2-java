@@ -1,0 +1,1 @@
+Remove all grammatical errors from this text: These policies made medical treatment more affordable and less taxing to the elderly.<|endoftext|>These policies make medical treatment more affordable and less taxing to the elderly.<|endoftext|>

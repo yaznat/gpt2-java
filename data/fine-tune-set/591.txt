@@ -1,0 +1,1 @@
+Fix grammar in this sentence: In order to be stronger in number, they befriended those people and helped each other.<|endoftext|>In order to be stronger in number, they befriended those people, and they helped each other.<|endoftext|>

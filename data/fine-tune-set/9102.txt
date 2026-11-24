@@ -1,0 +1,1 @@
+Fix grammar: While I read a letter out loud, I push keyboard buttons to input that letter.<|endoftext|>While I read a letter out loud, I push the keyboard buttons to input that letter.<|endoftext|>

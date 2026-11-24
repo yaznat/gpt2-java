@@ -1,0 +1,14 @@
+Generate a recipe for a casserole.<|endoftext|>Asparagus And English Pea Casserole
+
+Ingredients:
+• English peas
+• Asparagus
+• Sliced mushrooms
+• Cream of mushroom soup
+• Cracker crumb
+• Cheddar cheese
+
+Steps:
+1. In a greased casserole dish, layer half of the peas, asparagus cuts, mushrooms, soup, cracker crumbs, and cheddar cheese
+2. Repeat layers
+3. Bake at 350 degrees for 30 minutes<|endoftext|>

@@ -1,0 +1,21 @@
+Give me a recipe for a sandwich.<|endoftext|>Bacon Egg Avocado Sandwich Paula Deen
+
+Ingredients:
+• Bread
+• Eggs
+• Cream cheese
+• Green onions
+• Parsley
+• Avocado
+• Tomatoes
+• Bacon
+
+Steps:
+1. Toast your bread in a toaster
+2. Mix the cream cheese, green onion, and parsley together
+3. Cook the bacon
+4. Fry the eggs
+5. Spread the cream cheese mixture on the toast
+6. Slice the tomato and avocado
+7. Layer the tomato, avocado, bacon & egg on the toast
+8. Enjoy: )<|endoftext|>

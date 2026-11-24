@@ -1,0 +1,17 @@
+Give me a recipe for a casserole.<|endoftext|>Apples N Cheese Casserole
+
+Ingredients:
+• Apples for pie
+• Butter
+• Sugar
+• Velveeta cheese
+• Flour
+• Milk
+
+Steps:
+1. Place apples in a greased casserole dish
+2. Cream butter, sugar and flour
+3. Add grated or cut up cheese to creamed mixture
+4. Mix well and spread over apples
+5. Pour milk on top
+6. Bake at 350 degrees for 30 minutes<|endoftext|>

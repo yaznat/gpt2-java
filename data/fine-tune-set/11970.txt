@@ -1,0 +1,21 @@
+Please generate a curry recipe.<|endoftext|>Chicken Curry
+
+Ingredients:
+• Chicken breast
+• Ground ginger
+• Curry powder
+• Garlic powder
+• Onion powder
+• Salt
+• Chicken broth
+• Cornstarch
+
+Steps:
+1. Brown chicken in non-stick skillet
+2. Add spice mixture
+3. Add chicken broth
+4. Bring to boil
+5. Reduce to low heat, and simmer 45 minutes to an hour
+6. Mix cornstarch slurry, and add to mixture
+7. It should thicken into a nice gravy
+8. Serve over rice or egg noodles<|endoftext|>

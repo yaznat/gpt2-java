@@ -1,0 +1,14 @@
+Please generate a sandwich recipe.<|endoftext|>An Avocado Licious Sandwich
+
+Ingredients:
+• Whole wheat bread
+• Avocado
+• Roma tomato
+• Lightlife turkey slices
+• Salt & pepper
+
+Steps:
+1. Place the tofurkey slices on one slice of toasted bread
+2. Place tomato slices on top of tofurkey, and sprinkle salt and pepper on them
+3. Put the avocado slices on top of the tomato and put the other slice of toast on top
+4. Cut in half, eat with fresh melon, and marvel at the glorious simplicity of summer food!<|endoftext|>

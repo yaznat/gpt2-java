@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: Some of my male friends prefer a hair salon to a barber shop.<|endoftext|>Some of my male friends prefer a hair salon over a barber shop.<|endoftext|>

@@ -1,0 +1,13 @@
+Give me a salad recipe.<|endoftext|>A Different Spinach Salad
+
+Ingredients:
+• Baby spinach
+• Bananas
+• Fresh strawberries
+• Walnuts
+• Raspberry vinaigrette dressing
+
+Steps:
+1. Divide the spinach among four salad plates
+2. Top with sliced bananas, strawberries and walnuts
+3. Serve with dressing, to taste<|endoftext|>

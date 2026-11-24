@@ -1,0 +1,1 @@
+Make the sentence grammatical: After some time the bus stopped for 5 min and Michael bought two chocolates, chips and a soft drink and offered her a chocolate.<|endoftext|>After some time, the bus stopped for 5 minutes, and Michael bought two chocolates, chips, and a soft drink and offered her chocolate.<|endoftext|>

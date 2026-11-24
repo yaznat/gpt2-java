@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: To be sure, it is painful and risky, and above all it requires a great deal of very hard work.<|endoftext|>To be sure, Change is painful and risky, and above all, it requires a great deal of very hard work.<|endoftext|>

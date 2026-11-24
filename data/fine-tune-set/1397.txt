@@ -1,0 +1,1 @@
+Improve the grammaticality of this text: After leaving the airport, you have to take the bus number 14 and you have to get off at the third bus stop.<|endoftext|>After leaving the airport, you have to take the number 14 bus, and you have to get off at the third bus stop.<|endoftext|>

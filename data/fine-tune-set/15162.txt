@@ -1,0 +1,21 @@
+Please generate a pizza recipe.<|endoftext|>Barbecue Chicken Pizza
+
+Ingredients:
+• Chicken breast halves
+• Hickory flavored barbecue sauce
+• Gruyere cheese
+• Boboli pizza crusts
+• Red onion
+• Green onion
+• Fresh cilantro
+
+Steps:
+1. Place baking sheet on rack in oven and preheat oven to 450 degrees
+2. Toss the chicken with 1 / 4 cup barbecue sauce
+3. Spread remaining barbecue sauce on pizza crust
+4. Spread half of cheese on crust
+5. Arrange chicken evenly over crust
+6. Sprinkle with remaining cheese, red onion, green onion, and cilantro over pizza
+7. Transfer pizza to hot baking sheet
+8. Bake until bottom of crust is crisp and cheese on top melts, about 14 minutes
+9. Let pizza stand 5 minutes before cutting<|endoftext|>

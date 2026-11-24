@@ -1,0 +1,19 @@
+Give me a recipe for beef.<|endoftext|>Bali Beef
+
+Ingredients:
+• Ground beef
+• Onion
+• Salt
+• Garlic salt
+• Worcestershire sauce
+• Cooked rice
+• Diced tomatoes
+• Cheese
+
+Steps:
+1. Preheat oven to 350 degrees
+2. Brown beef and onion in a skillet and drain
+3. Combine with the rest of the ingredients except the grated cheese
+4. Pour into a 2 qt casserole dish
+5. Top with grated cheese
+6. Bake 45-50 minutes<|endoftext|>

@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: If he chose to give safety the most priority, he would have pulled the emergency brake and the accident could probably be prevented.<|endoftext|>If he chose to give safety the most priority, he would have pulled the emergency brake, and the accident could probably have been prevented.<|endoftext|>

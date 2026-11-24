@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: The organizer requires every party member attend the activity but I don't want to.<|endoftext|>The organizer requires every party member to attend the activity, but I don't want to.<|endoftext|>

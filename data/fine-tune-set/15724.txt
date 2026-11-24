@@ -1,0 +1,24 @@
+Please generate a taco recipe.<|endoftext|>Chicken Tacos The Tahiti Way
+
+Ingredients:
+• Boneless skinless chicken breasts
+• Pepperoncini peppers
+• Onion
+• Cilantro
+• Garlic cloves
+• Black pepper
+• Corn tortillas
+• Sour cream
+• Lime, juice of
+
+Steps:
+1. Slice onion
+2. Chop cilantro
+3. Dice garlic
+4. Combine everything including the entire jar of peppers, juice and all, but the tortillas into a slow cooker
+5. Cook on low 5 hours
+6. Shred chicken with 2 forks
+7. Mix well with everything in the pot
+8. Keep warm
+9. Heat tortillas till soft
+10. Serve warm<|endoftext|>

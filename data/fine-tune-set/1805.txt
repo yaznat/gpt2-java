@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: What the customers are willing to buy gave rise to the preference of companies.<|endoftext|>What the customers were willing to buy gave rise to the preference of companies.<|endoftext|>

@@ -1,0 +1,12 @@
+Please generate a bread recipe.<|endoftext|>Alouette French Bread
+
+Ingredients:
+• French bread
+• Garlic & herb spreadable cheese
+• Parmesan cheese
+
+Steps:
+1. Slice bread in half, lengthwise
+2. Spread with cheese
+3. Sprinkle with parmesan
+4. Broil until cheese melts<|endoftext|>

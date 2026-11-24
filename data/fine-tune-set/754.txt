@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: Obviously because in every story, book or movie, despite heroes are weaker than bad characters, they always win!<|endoftext|>Obviously, because in every story, book, or movie, although heroes are weaker than bad characters, they always win!<|endoftext|>

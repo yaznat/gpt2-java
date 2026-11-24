@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: For instance, the policy that advocates late retirement means that the working period of the citizen is extended beyond the usual age of 55 and 60.<|endoftext|>For instance, the policy that advocates late retirement means that the working period of citizens is extended beyond the usual age of 55 and 60.<|endoftext|>

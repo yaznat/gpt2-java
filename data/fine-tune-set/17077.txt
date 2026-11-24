@@ -1,0 +1,22 @@
+Please generate a cocktail recipe.<|endoftext|>Crab And Avocado Cocktail
+
+Ingredients:
+• Crabmeat
+• Avocados
+• Jalapenos
+• Tomatoes
+• Lime juice
+• Green olives
+• Onions
+• Fresh cilantro
+• Garlic clove
+• Salt
+• Pepper
+• Lettuce
+• Lemon wedges
+
+Steps:
+1. Mix all ingredients except lettuce and lime wedges
+2. Place 1 / 4 cup of lettuce on each of 6 serving dishes
+3. Divide the crabmeat mixture among the dishes
+4. Garnish with lime wedges<|endoftext|>

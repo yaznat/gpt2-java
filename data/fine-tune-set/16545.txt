@@ -1,0 +1,11 @@
+Give me a recipe for a smoothie.<|endoftext|>Awesome Strawberry Banana Smoothie
+
+Ingredients:
+• Strawberries
+• Greek yogurt
+• Banana
+• 2% low-fat milk
+• Artificial sweetener
+
+Steps:
+1. Add all ingredients to blender, blend until smooth<|endoftext|>

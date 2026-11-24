@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: My new hobby is photography-but it is much more difficult than I expected.<|endoftext|>My new hobby is photography, but it is much more difficult than I expected.<|endoftext|>

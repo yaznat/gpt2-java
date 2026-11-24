@@ -1,0 +1,14 @@
+Generate a recipe for cake.<|endoftext|>10 Minute Blueberry Layer Cake
+
+Ingredients:
+• Sponge cakes
+• French vanilla yogurt
+• Fresh blueberries
+• Sherry wine
+
+Steps:
+1. Slice the sponge cake diagonally across so you have four pieces each 1 / 2" thick
+2. Place one layer in the bottom of a bowl or on a plate and cover with 1 cup yogurt and 1 cup blueberries
+3. Place the next layer on top and drizzle with the sherry if using, repeat the layers of yogurt and blueberries
+4. Repeat with the final two layers ending up with yogurt and blueberries covering the top
+5. Place in refrigerator until serving<|endoftext|>

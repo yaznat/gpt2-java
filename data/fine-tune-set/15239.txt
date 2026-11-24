@@ -1,0 +1,19 @@
+Please generate a pizza recipe.<|endoftext|>Bread Machine Pizza Dough
+
+Ingredients:
+• Warm water
+• Salt
+• Olive oil
+• All-purpose flour
+• Sugar
+• Bread machine yeast
+
+Steps:
+1. Place all ingredients in bread machine in order given
+2. Select dough cycle
+3. Press start
+4. After 5 minutes, check to see that the dough is forming a pliable ball
+5. Too much flour? add warm water, about 1 tablespoon at a time, until proper consistency
+6. Too much moisture? add 1 teaspoon flour
+7. Wait a few minutes between any adjustments and check again
+8. After dough cycle is finished, proceed with recipe#174667, or your favourite pizza recipe<|endoftext|>

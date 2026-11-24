@@ -1,0 +1,18 @@
+Give me a recipe for fries.<|endoftext|>Herring Salat Ostfriesen Version
+
+Ingredients:
+• Beets
+• Potatoes
+• Dill pickles
+• Apples
+• Meat
+• Herring fillets
+• Capers
+• Mayonnaise
+• Mustard
+• Egg
+
+Steps:
+1. Chop all ingredients into tiny dice
+2. Stir in mayonnaise and mustard
+3. Garnish with boiled egg slices<|endoftext|>

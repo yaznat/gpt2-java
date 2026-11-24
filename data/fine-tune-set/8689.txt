@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: In addition, the homeless people have to sleep in the street.<|endoftext|>In addition, homeless people have to sleep in the street.<|endoftext|>

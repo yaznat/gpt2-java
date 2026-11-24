@@ -1,0 +1,11 @@
+Please generate a milkshake recipe.<|endoftext|>Banana Vanilla Milkshake
+
+Ingredients:
+• Banana
+• Sugar
+• Milk
+• Vanilla ice cream
+
+Steps:
+1. Blend it until it's all smooth
+2. Serve right away<|endoftext|>

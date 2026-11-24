@@ -1,0 +1,14 @@
+Can you give me a smoothie recipe?<|endoftext|>Banana Apple Smoothie
+
+Ingredients:
+• Apple juice
+• Bananas
+• Milk
+• Sugar
+• Vanilla
+• Ice cubes
+
+Steps:
+1. Smach the banana's in a mixing bowl
+2. Add the apple juice, milk, sugar, and vanilla in the bowl with the banana's
+3. Add the ice cubes one at a time till smooth<|endoftext|>

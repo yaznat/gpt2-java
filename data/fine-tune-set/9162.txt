@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: When I arrived at the school, there was an elderly man at the reception.<|endoftext|>When I arrived at the school, there was an elderly man at the reception desk.<|endoftext|>

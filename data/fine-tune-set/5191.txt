@@ -1,0 +1,1 @@
+Improve the grammar of this text: Granny has grey straight hair, deep blue eyes and tiny nose.<|endoftext|>Granny has straight grey hair, deep blue eyes, and a tiny nose.<|endoftext|>

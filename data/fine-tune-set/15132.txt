@@ -1,0 +1,17 @@
+Please generate a pizza recipe.<|endoftext|>B B Q Chicken Pizza
+
+Ingredients:
+• Pizza dough
+• Barbecued chicken
+• Italian cheese blend
+• Fresh cilantro
+• Pepper sauce
+
+Steps:
+1. On a greased jelly-roll pan unroll pizza dough
+2. Using hands press dough into a 10x12" rectangle
+3. Build up the edges slightly
+4. Bake at 425 degrees for 7 minutes
+5. Remove from oven, spread chicken evenly over hot crust
+6. Sprinkle with cheese and cilantro
+7. Bake 12-15 minutes more<|endoftext|>

@@ -1,0 +1,19 @@
+Generate a recipe for cake.<|endoftext|>Acorn Pancakes
+
+Ingredients:
+• White flour
+• Acorn meal
+• Baking powder
+• Salt
+• Egg
+• Milk
+• Oil
+
+Steps:
+1. Mix dry ingredient
+2. Separately mix liquid ingredients
+3. Pour just enough liquid into the flour mix to make a good batter
+4. - do not over-mix!
+5. Spoon the batter into a greased frying pan
+6. Fry till golden, flipping once
+7. Top your pancakes with your favorite syrup and serve hot!<|endoftext|>

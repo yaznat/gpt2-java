@@ -1,0 +1,12 @@
+Give me a recipe for a milkshake.<|endoftext|>Healthy Banana Milkshake
+
+Ingredients:
+• Banana
+• Skim milk
+• Almond extract
+• Ice cubes
+• Sugar
+
+Steps:
+1. Blend first 4 ingredients until smooth
+2. Sweeten to taste<|endoftext|>

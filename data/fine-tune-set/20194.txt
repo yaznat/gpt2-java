@@ -1,0 +1,21 @@
+Give me a recipe for stir fry.<|endoftext|>Bok Choy Stir Fry
+
+Ingredients:
+• Olive oil
+• Garlic
+• Ground ginger
+• Ground black pepper
+• Bok choy
+• Chicken bouillon cube
+• Soy sauce
+• Granulated sugar
+• Cornstarch
+
+Steps:
+1. Heat oil in saucepan over medium heat
+2. Add garlic, ginger, black pepper, and bok choy
+3. Stir fry about 3 min
+4. In bowl, combine dissolved boullion and water, soy sauce, sugar, and cornstarch
+5. Whisk well
+6. Add cornstarch mixture to skillet and stir fry until sauce thickens and cabbage is tender, about 3 min
+7. Serve hot<|endoftext|>

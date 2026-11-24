@@ -1,0 +1,22 @@
+Give me a soup recipe.<|endoftext|>Apple Veggie Soup
+
+Ingredients:
+• Onions
+• Celery
+• Potato
+• Cucumber
+• Granny smith apple
+• Chicken stock
+• Milk
+• Curry
+• Salt and pepper
+• Chives
+
+Steps:
+1. Combine the onion, celery, potato, cucumber, apple and chicken stock
+2. Bring to a boil, reduce heat, cover and simmer for 30 minutes
+3. Cool slightly and puree in a food processor or blender
+4. Return to saucepan stir in the remaining ingredients
+5. Heat again and taste- adjust seasoning
+6. Sprinkle with chives
+7. Serve very hot<|endoftext|>

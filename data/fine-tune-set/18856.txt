@@ -1,0 +1,20 @@
+Give me a recipe for custard.<|endoftext|>Blender Egg Custard Pie
+
+Ingredients:
+• Evaporated milk
+• Sugar
+• Eggs
+• Flour
+• Butter
+• Vanilla
+• Salt
+• Nutmeg
+
+Steps:
+1. Preheat oven to 325 degrees
+2. Combine milk, sugar, flour, eggs, butter, and vanilla in blender container
+3. Blend at medium speed for about 30 seconds
+4. Pour into greased and floured 10-inch pie plate
+5. Sprinkle with nutmeg
+6. Bake for 45 minutes or until firm
+7. It will form its own crust as it bakes<|endoftext|>

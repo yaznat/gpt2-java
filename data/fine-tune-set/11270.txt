@@ -1,0 +1,17 @@
+Generate a recipe for sushi.<|endoftext|>Stuffed Avocado California Style Pseudo Sushi
+
+Ingredients:
+• Hass avocadoes
+• Cooked white rice
+• Cucumber
+• Crabmeat
+• Pickled ginger
+• Mayonnaise
+• Wasabi paste
+• Light soy sauce
+• Sesame seeds
+
+Steps:
+1. Slice avocado in half and remove pit
+2. Mix together remaining ingredients
+3. Stuff into avocado half, garnish with sesame seeds and enjoy<|endoftext|>

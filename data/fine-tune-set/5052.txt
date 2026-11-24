@@ -1,0 +1,1 @@
+Fix grammar in the sentence: If I had to give advice to someone who wants starting this sport I would tell him not to worry if he doesn't feel confident.<|endoftext|>If I had to give advice to someone who wants to start this sport, I would tell him not to worry if he doesn't feel confident.<|endoftext|>

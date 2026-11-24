@@ -1,0 +1,1 @@
+Fix grammar in the sentence: So I studied about 2 hours and had a shower because it was really hot these days.<|endoftext|>So I studied for about 2 hours and had a shower because it is really hot these days.<|endoftext|>

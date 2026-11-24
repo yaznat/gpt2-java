@@ -1,0 +1,20 @@
+Please generate a taco recipe.<|endoftext|>Chicken Taco And Rice
+
+Ingredients:
+• Boneless chicken breast
+• Oil
+• Chicken broth
+• Tomato sauce
+• Taco seasoning mix
+• Corn
+• Minute rice
+• Sharp cheddar cheese
+• Tortilla chips
+
+Steps:
+1. Saute chicken in oil until done
+2. Stir in chicken broth, tomato sauce, taco mix & corn
+3. Bring to a boil,
+4. Cover and simmer for 5 mins
+5. Stir in rice, cover and remove from heat
+6. Sprinkle cheese on top and serve with tortilla chips<|endoftext|>

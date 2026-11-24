@@ -1,0 +1,1 @@
+Fix grammar in this sentence: First of all, our environment is polluted and if we are determined to save it we should definitely stop using cars.<|endoftext|>First of all, our environment is polluted, and if we are determined to save it, we should definitely stop using cars.<|endoftext|>

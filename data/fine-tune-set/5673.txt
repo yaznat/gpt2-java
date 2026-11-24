@@ -1,0 +1,1 @@
+Fix the grammatical mistakes: Due to the increase in the standard of living, better medical treatment is available and this has caused the life expectancy of the people to increase.<|endoftext|>Due to an increase in the standard of living, better medical treatment is available, and this has caused the life expectancy of people to increase.<|endoftext|>

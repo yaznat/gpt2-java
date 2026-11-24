@@ -1,0 +1,1 @@
+Fix grammar in this sentence: The stability of the building depends on the wideness of the base level, the material of the structure and the method of building the structure.<|endoftext|>The stability depends on the wideness of the base level, the material of the structure, and the method of building the structure.<|endoftext|>

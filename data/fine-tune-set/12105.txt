@@ -1,0 +1,18 @@
+Generate a recipe for pie.<|endoftext|>Amish Bob Andy Pie
+
+Ingredients:
+• Granulated sugar
+• Milk
+• Clove
+• Eggs
+• Flour
+• Butter
+• Cinnamon
+
+Steps:
+1. On the three large eggs, you will need to seperate and beat yolks and whites in seperate bowls
+2. Mix together sugar, flour, cloves and cinnamon
+3. Add butter, beaten egg yolks and milk
+4. In a seperate mixing bowl, beat 3 egg whites till peaks form
+5. Fold this into first mixture
+6. Pour into 2 unbaked pie shells and bake at 350 till set<|endoftext|>

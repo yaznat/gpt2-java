@@ -1,0 +1,21 @@
+Generate a recipe for pasta.<|endoftext|>Avocado Basil Pasta
+
+Ingredients:
+• Bow tie pasta
+• Avocados
+• Bacon
+• Fresh basil
+• Lemon juice
+• Olive oil
+• Garlic
+• Ground black pepper
+• Salt
+• Pecorino romano cheese
+
+Steps:
+1. Cook pasta according to package directions
+2. Drain
+3. Meanwhile, in a large bowl combine the avocados, bacon, basil, lemon juice, olive oil, garlic, pepper, and salt
+4. Add the hot pasta and toss to combine
+5. Transfer to a serving bowl
+6. Sprinkle with cheese<|endoftext|>

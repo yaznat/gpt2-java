@@ -1,0 +1,18 @@
+Give me a stir fry recipe.<|endoftext|>Chinese Stir Fry
+
+Ingredients:
+• Beef flank steak
+• Broccoli
+• Carrots
+• Onion
+• French onion soup
+• Soy sauce
+• Beef bouillon cubes
+• Rice
+
+Steps:
+1. Cut beef into strips and brown in oil with onions
+2. Add bouillon cubes, a few dashes of soy sauce and onion soup
+3. When it begins to boil, add vegetables and cover
+4. Cook for apprx 10 mins, or until vegetables are crisp tender
+5. Serve over prepared rice<|endoftext|>

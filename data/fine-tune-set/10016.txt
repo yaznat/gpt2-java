@@ -1,0 +1,15 @@
+Please generate a chili recipe.<|endoftext|>15 Minute Chili Sauce
+
+Ingredients:
+• Tomatoes
+• Onion
+• Brown sugar
+• Salt
+• Pepper
+• Cinnamon
+• Allspice
+• Clove
+
+Steps:
+1. Mix all ingredients together and boil slowly for 15 minutes
+2. Done!<|endoftext|>

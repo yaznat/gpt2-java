@@ -1,0 +1,16 @@
+Generate a recipe for a cocktail.<|endoftext|>Easy Mexican Shrimp Cocktail
+
+Ingredients:
+• Shrimp
+• Onion
+• Lime, juice of
+• Fresh cilantro
+• Avocado
+• Ketchup
+• Hot sauce
+
+Steps:
+1. Put cooked shrimp in a medium glass bowl
+2. Pour lime juice over them
+3. Add all other ingredients and toss everything gently
+4. Serve immediately<|endoftext|>

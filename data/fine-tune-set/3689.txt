@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: He decided to take the stairs and so he did.<|endoftext|>He decided to take the stairs, and so he did.<|endoftext|>

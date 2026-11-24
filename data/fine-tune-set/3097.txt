@@ -1,0 +1,1 @@
+Fix grammatical mistakes in this sentence: To conclude, in spite of claims that nuclear reactors are dangerous and costly, the VHTR with its improved design can overcome these issues.<|endoftext|>To conclude, in spite of claims that nuclear reactors are dangerous and costly, the VHTR, with its improved design, can overcome these issues.<|endoftext|>

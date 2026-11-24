@@ -1,0 +1,13 @@
+Generate a recipe for a milkshake.<|endoftext|>Brandy Alexander Milkshake
+
+Ingredients:
+• French vanilla ice cream
+• Brandy
+• White creme de cacao
+• White chocolate
+
+Steps:
+1. Combine all ingredients except white chocolate in a blender
+2. Blend until smooth
+3. Pour into glasses
+4. Top with white chocolate shavings<|endoftext|>

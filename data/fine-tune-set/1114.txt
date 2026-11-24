@@ -1,0 +1,1 @@
+Improve the grammar of this text: The more he hammers, the stronger.<|endoftext|>The more he hammers, the stronger it gets.<|endoftext|>

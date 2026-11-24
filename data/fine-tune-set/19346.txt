@@ -1,0 +1,19 @@
+Generate a recipe for donuts.<|endoftext|>Baked Cake Donuts Doughnuts
+
+Ingredients:
+• All-purpose flour
+• Sugar
+• Baking powder
+• Ground nutmeg
+• Salt
+• Buttermilk
+• Eggs
+• Butter
+
+Steps:
+1. Preheat oven to 425 degrees and grease a 12 hole donut pan
+2. In a large mixing bowl stir together flour, sugar, baking powder, nutmeg, and salt
+3. Add buttermilk, eggs, and butter, stir until just combined
+4. Divide batter between prepared donut pan
+5. Bake until toothpick comes out clean, 7 to 9 minutes
+6. Let donuts cool in pans for 5 minutes then take them out of pan and let cool on a cooling rack<|endoftext|>

@@ -1,0 +1,15 @@
+Give me a sandwich recipe.<|endoftext|>Apple And Peanut Butter Sandwich
+
+Ingredients:
+• Whole wheat bread
+• Peanut butter
+• Sweet apple
+• Pumpkin pie spice
+
+Steps:
+1. Toast the sprouted bread
+2. Spread on the peanut butter
+3. Slice the apple and place on the peanut butter
+4. Sprinkle with your favourite spice
+5. Eat
+6. Bon appetit!<|endoftext|>

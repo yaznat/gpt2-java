@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: While these approaches are likely to solve the problem partially, they might have a positive impact on water shortage in a long term.<|endoftext|>While these approaches are likely to solve the problem partially, they might have a positive impact on water shortage in the long term.<|endoftext|>

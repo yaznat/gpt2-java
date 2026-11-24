@@ -1,0 +1,21 @@
+Please generate a sandwich recipe.<|endoftext|>Barbecued Beef Sandwiches
+
+Ingredients:
+• Ground beef
+• Onion
+• Chili sauce
+• Ketchup
+• Sugar
+• Dry mustard
+• Prepared mustard
+• Worcestershire sauce
+• White vinegar
+• Celery seed
+• Hamburger buns
+
+Steps:
+1. Cook beef and onion in a large skillet over medium-high heat until beef is no longer pink
+2. Drain off fat
+3. Stir in chili sauce and next 7 ingredients
+4. Cook, stirring often, 8-10 minutes or until thoroughly heated
+5. Serve on buns<|endoftext|>

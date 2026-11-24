@@ -1,0 +1,17 @@
+Generate a recipe for fries.<|endoftext|>Baked Sweet Potato Fries
+
+Ingredients:
+• Nonstick spray coating
+• Sweet potatoes
+• Margarine
+• Seasoning salt
+• Nutmeg
+
+Steps:
+1. Spray a 15x10x1-inch baking pan with nonstick coating
+2. Scrub potatoes
+3. Cut lengthwise into quarters, then cut each quarter into 2 wedges
+4. Arrange potatoes in a single layer in pan
+5. Combine margarine or butter, salt, and nutmeg
+6. Brush onto potatoes
+7. Bake in a 450 oven 20 minutes or until brown and tender<|endoftext|>

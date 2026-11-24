@@ -1,0 +1,1 @@
+Fix grammar in this sentence: Not only that, the society might in turn discriminate the individual with an undesired result.<|endoftext|>Not only that, society might, in turn, discriminate against the individual with an undesired result.<|endoftext|>

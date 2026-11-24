@@ -1,0 +1,18 @@
+Generate a recipe for pizza.<|endoftext|>Bbq Chicken And Blue Cheese Pizza
+
+Ingredients:
+• Thin pizza crust
+• Barbecue sauce
+• Chicken breasts
+• Red onion
+• Yellow bell pepper
+• Blue cheese
+• Plum tomatoes
+
+Steps:
+1. Preheat oven to 500 degrees
+2. Place pizza crust on a baking sheet
+3. Spread sauce over the crust, leaving a 1 / 2 inch border
+4. Top with chicken amd remaining ingredients
+5. Bake 10 minutes or until cheese melts, and crust is crisp
+6. Cut into 12 wedges<|endoftext|>

@@ -1,0 +1,18 @@
+Generate a recipe for a sandwich.<|endoftext|>Bakinbaby S Dashing Albacore Sandwich
+
+Ingredients:
+• Albacore tuna
+• Egg
+• Celery
+• Water chestnuts
+• Red onions
+• Mrs. dash seasoning mix
+• Mayonnaise
+• Salt and pepper
+• Tomatoes
+• Lettuce leaf
+• Bread
+
+Steps:
+1. Mix celery, onion, water chestnuts, drained tuna, seasonings & mayonnaise in a small bowl, allow to set for 4-5 minutes
+2. Divide tuna mixture in half and spread on two slices of bread, top with tomato slice and lettuce leaf, bread slices can be spread with mayonnaise if desired<|endoftext|>

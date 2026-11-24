@@ -1,0 +1,30 @@
+Please generate a coffee recipe.<|endoftext|>Buttermilk Coffee Cake
+
+Ingredients:
+• All-purpose flour
+• Brown sugar
+• Salt
+• Butter
+• Baking powder
+• Baking soda
+• Ground cinnamon
+• Ground nutmeg
+• Eggs
+• Buttermilk
+• Nuts
+
+Steps:
+1. Preheat oven to 350f
+2. Grease bottom and 1 / 2 inch up the sides of a 13x9x2-inch baking pan
+3. Set aside
+4. In a medium bowl, combine flour, brown sugar, and salt
+5. Cut in butter until mixture resembles coarse crumbs
+6. Set aside 1 / 2 cup
+7. Stir baking powder, baking soda, cinnamon, and nutmeg into remaining crumb mixture
+8. In another bowl, combine eggs and buttermilk
+9. Add egg mixture all at once to flour mixture and mix until just combined
+10. Spoon batter into prepared pan
+11. Combine reserved crumb mixture and nuts
+12. Sprinkle over batter
+13. Bake at 350f for 35-40 minutes, or until a wooden toothpick inserted in the center comes out clean
+14. Serve warm<|endoftext|>

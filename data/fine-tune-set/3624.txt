@@ -1,0 +1,1 @@
+Remove all grammatical errors from this text: Singapore's education system has been structured in such a way that it is rigid and text based and does not teach students to apply what is taught.<|endoftext|>Singapore's education system has been structured in such a way that it is rigid and text-based and does not teach students to apply what is being taught.<|endoftext|>

@@ -1,0 +1,1 @@
+Fix grammatical errors in this sentence: As we can see, an unequal percentage are shown depending on the area where the people come from.<|endoftext|>As we can see, an unequal percentage is shown depending on the area where the people come from.<|endoftext|>

@@ -1,0 +1,1 @@
+Make the sentence grammatical: Rust and Bone, on the other hand, presents story in a realistic way.<|endoftext|>Rust and Bone, on the other hand, presents the story in a realistic way.<|endoftext|>

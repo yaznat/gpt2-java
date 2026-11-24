@@ -1,0 +1,13 @@
+Generate a recipe for a smoothie.<|endoftext|>Beach Bum Smoothie From Tropical Smoothie Cafe
+
+Ingredients:
+• Milk
+• Frozen strawberries
+• Banana
+• Sugar
+• White chocolate square
+• Ice
+
+Steps:
+1. Melt chocolate in microwave for about 1 to 1 1 / 2 minutes, just enough until the chocolate is soft
+2. Add all ingredients to blender, blend until smooth<|endoftext|>

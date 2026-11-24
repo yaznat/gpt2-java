@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: However, with the world noticing the shift in it's demographic to a more aged society, things are becoming more accommodating for the elderly.<|endoftext|>However, with the world noticing the shift in its demographics to a more aged society, things are becoming more accommodating for the elderly.<|endoftext|>

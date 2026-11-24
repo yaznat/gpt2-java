@@ -1,0 +1,15 @@
+Generate a recipe for a sandwich.<|endoftext|>Apple And Cheddar Tea Sandwiches
+
+Ingredients:
+• Granny smith apples
+• Honey dijon mustard
+• White cheddar cheese
+• Raisin bread
+
+Steps:
+1. Using a mandolin, cut apples into thin slices
+2. Spread each slice of bread with honey mustard
+3. Lay cheese on one half of the bread slices
+4. Top cheese with apple slices
+5. Cover with remaining bread slices
+6. Cut crusts off each sandwich and then cut into three length-wise pieces<|endoftext|>

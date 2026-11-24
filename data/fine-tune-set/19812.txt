@@ -1,0 +1,18 @@
+Give me a fries recipe.<|endoftext|>Fast Spicy Fries
+
+Ingredients:
+• French fries
+• Mccormick's montreal brand steak seasoning
+• Kosher salt
+
+Steps:
+1. Preheat oven to 450
+2. Line a rimmed baking sheet with aluminum foil
+3. Spray with nonstick cooking spray
+4. Spread fries in a single layer on prepared baking sheet
+5. Bake for 7 minutes
+6. Stir
+7. Spray fries with nonstick cooking spray
+8. Sprinkle evenly with steak seasoning and salt
+9. Bake 7 minutes longer
+10. Serve immediately<|endoftext|>

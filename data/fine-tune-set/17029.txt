@@ -1,0 +1,15 @@
+Please generate a cocktail recipe.<|endoftext|>Cocktail A La Louisiane
+
+Ingredients:
+• Rye whiskey
+• Sweet vermouth
+• Benedictine
+• Herbsaint
+• Bitters
+• Maraschino cherry
+
+Steps:
+1. Mix in bar glass with lumps of ice
+2. Strain into a cocktail glass
+3. In which has been placed a maraschino cherry
+4. Savor<|endoftext|>

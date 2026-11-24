@@ -1,0 +1,16 @@
+Generate a recipe for a milkshake.<|endoftext|>Miami Key Lime Milkshake
+
+Ingredients:
+• Vanilla ice cream
+• Milk
+• Frozen limeade concentrate
+• Lime peel
+• Lime slices
+• Sugar
+
+Steps:
+1. In a blender, combine ice cream, milk, limeade concentrate, and lime peel
+2. Blend until mixture is smooth and frothy
+3. Taste and add a little sugar if you need to
+4. Pour into 2 tall glasses
+5. Enjoy!<|endoftext|>

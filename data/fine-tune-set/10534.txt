@@ -1,0 +1,19 @@
+Please generate a pasta recipe.<|endoftext|>Alfredo Pasta Sauce
+
+Ingredients:
+• Grapeseed oil
+• Green onion
+• All-purpose flour
+• Garlic
+• Evaporated skim milk
+• Parmesan cheese
+• Black pepper
+• Salt
+
+Steps:
+1. Saut green onion in vegetable oil until tender
+2. Stir in the flour and liquid spice until smooth
+3. Slowly stir in evaporated skim milk
+4. Cook over medium heat until mixture comes to a boil and begins to thicken, stirring constantly
+5. Remove from heat and stir in cheese and pepper
+6. Serve over hot pasta<|endoftext|>

@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: Decorating mobile phones like making pastries.<|endoftext|>Decorating mobile phones is like making pastries.<|endoftext|>

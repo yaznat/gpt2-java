@@ -1,0 +1,1 @@
+Improve the grammaticality: If I had put it on my desk, dormitory teacher gave black marks to me.<|endoftext|>If I had put it on my desk, the dormitory teacher would give me black marks to me.<|endoftext|>

@@ -1,0 +1,21 @@
+Give me a recipe for pancakes.<|endoftext|>Baked Buttermilk Pancakes
+
+Ingredients:
+• Egg
+• Butter
+• All-purpose flour
+• Granulated sugar
+• Baking soda
+• Baking powder
+• Salt
+• Buttermilk
+• Powdered sugar
+
+Steps:
+1. Preheat oven to 400f
+2. Spray an 8-inch pie plate with vegetable cooking spray
+3. In a large bowl combine egg with melted butter
+4. Whisk until well combined
+5. Sift together flour, sugar, baking soda, baking powder and salt in a small bowl
+6. Combine with egg mixture
+7. Pour in buttermilk and stir until just combined<|endoftext|>

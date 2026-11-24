@@ -1,0 +1,1 @@
+Improve the grammar of this text: People have been debated about whether private car or public transport is the first choice in recent years.<|endoftext|>People have been debating about whether the private car or public transport is the first choice in recent years.<|endoftext|>

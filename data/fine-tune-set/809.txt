@@ -1,0 +1,1 @@
+Fix grammar in this sentence: After graduated from hight school, I didn't concentrate on drawing anymore.<|endoftext|>After I graduated from high school, I didn't concentrate on drawing anymore.<|endoftext|>

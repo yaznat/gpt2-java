@@ -1,0 +1,13 @@
+Give me a recipe for pizza.<|endoftext|>Authentic Pizza Dough Bulk
+
+Ingredients:
+• Hi-gluten flour
+• Honey
+• Active dry yeast
+• Water
+• Sea salt
+
+Steps:
+1. Mix water, yeast, and honey
+2. Add flour and salt
+3. Mix well<|endoftext|>

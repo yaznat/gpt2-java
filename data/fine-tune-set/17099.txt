@@ -1,0 +1,10 @@
+Please generate a cocktail recipe.<|endoftext|>Cupid S Cocktail
+
+Ingredients:
+• Peach schnapps
+• Fresh orange juice
+• Cherry heering
+
+Steps:
+1. Shake ingredients and strain into a chilled highball glass
+2. Garnish with a slice of orange and a cherry<|endoftext|>

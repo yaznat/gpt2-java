@@ -1,0 +1,14 @@
+Can you give me a sandwich recipe?<|endoftext|>Apple Pie Sandwich
+
+Ingredients:
+• Cream cheese
+• Walnuts
+• Celery
+• Apples
+• Cinnamon
+• Raisin bread
+
+Steps:
+1. Mix cream cheese, walnuts, celery, apple and cinnamon
+2. Spread on two slices of raisin bread
+3. Top with remaining bread slices<|endoftext|>

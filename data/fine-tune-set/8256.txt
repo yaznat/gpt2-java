@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: That day Michael had to go to work, so he woke up from his bed and went to his bathroom.<|endoftext|>That day Michael had to go to work, so he got up from his bed and went to his bathroom.<|endoftext|>

@@ -1,0 +1,1 @@
+Make the sentence grammatical: The typhoon is going to hit on Japan according the weather report the day after tomorrow.<|endoftext|>The typhoon is going to hit on Japan the day after tomorrow, according to the weather report.<|endoftext|>

@@ -1,0 +1,11 @@
+Can you give me a cocktail recipe?<|endoftext|>Classic Champagne Cocktail
+
+Ingredients:
+• Angostura bitters
+• Sugar cube
+• Cognac
+• Champagne
+
+Steps:
+1. Drip the angostura bitters onto a sugar cube and place in the bottom of a champagne flute
+2. Pour over the cognac and top up with champagne<|endoftext|>

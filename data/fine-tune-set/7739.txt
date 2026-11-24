@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: Most of people now go grocery shopping to a supermarket, but my family and I used to go shopping to local shopping areas for New Years.<|endoftext|>Most the people now go grocery shopping at a supermarket, but my family and I used to go shopping at the local shopping areas for the New Year.<|endoftext|>

@@ -1,0 +1,19 @@
+Generate a recipe for ice cream.<|endoftext|>Blackberry And Honey Ice Cream
+
+Ingredients:
+• Milk
+• Egg yolks
+• Caster sugar
+• Honey
+• Cream
+• Blackberries
+
+Steps:
+1. Heat milk in a saucepan and bring almost to the boil
+2. Combine egg yolks and sugar in a bowl and whisk until thick and pale, then gradually whisk in hot milk
+3. Return mixture to pan and stir over low heat for 2 minutes or until mixture thickens enough to coat the back of a wooden spoon
+4. Do not boil
+5. Remove from heat, add honey, then strain through a fine sieve into a bowl and cool
+6. Add cream and blackberries
+7. Pour into an ice-cream machine and churn according to manufacturers instructions
+8. Freeze ice-cream until required<|endoftext|>

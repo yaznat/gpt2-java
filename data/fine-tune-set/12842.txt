@@ -1,0 +1,13 @@
+Generate a recipe for steak.<|endoftext|>Beef Steak Seasoning Mix
+
+Ingredients:
+• Coarse salt
+• Paprika
+• Ground black pepper
+• Garlic powder
+• Onion powder
+• Dried thyme
+
+Steps:
+1. Mix all ingredients together well
+2. Sprinkle evenly over steak and grill or cook as desired<|endoftext|>

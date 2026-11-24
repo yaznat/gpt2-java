@@ -1,0 +1,1 @@
+Fix grammatical mistakes in this sentence: This decision made the series extraordinary, with scenes recorded in Seoul, Nairobi, San Francisco, Mumbai, London, Berlin, Mexico and Chicago.<|endoftext|>This decision made the series extraordinary, with scenes filmed in Seoul, Nairobi, San Francisco, Mumbai, London, Berlin, Mexico, and Chicago.<|endoftext|>

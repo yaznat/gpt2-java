@@ -1,0 +1,17 @@
+Give me a stir fry recipe.<|endoftext|>Aron S Stir Fry
+
+Ingredients:
+• Shrimp
+• Mushrooms
+• Tomatoes
+• Scallions
+• Tofu
+• Soy sauce
+• Ramen noodles
+
+Steps:
+1. Start water boiling for the ramen noodles
+2. Put the shrimp in a lightly oiled pan and cook
+3. While the shrimp is cooking chop the tomatoes, mushrooms, scallions, and tofu
+4. When shrimp is almost done add the tomatoes, mushrooms, scallions, tofu, and soy sauce to taste
+5. Serve over ramen noodles and enjoy<|endoftext|>

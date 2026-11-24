@@ -1,0 +1,1 @@
+Fix grammatical mistakes in this sentence: If you have enough time, I recommend bus trip.<|endoftext|>If you have enough time, I recommend a bus trip.<|endoftext|>

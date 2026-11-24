@@ -1,0 +1,18 @@
+Give me a recipe for salad.<|endoftext|>7 Cup Salad
+
+Ingredients:
+• Potato
+• Cooked ham
+• Hard-cooked egg
+• Apple
+• Cucumber
+• Onion
+• Mayonnaise
+• Salt
+• Black pepper
+• Parsley
+
+Steps:
+1. In a large bowl, mix together all the ingredients
+2. Refrigerate, covered, for at least 2 hours
+3. Garnish with parsley, if desired<|endoftext|>

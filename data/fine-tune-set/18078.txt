@@ -1,0 +1,9 @@
+Please generate a pancake recipe.<|endoftext|>Old Style Pancakes
+
+Ingredients:
+• Bisquick
+• Eggs
+• Beer
+
+Steps:
+1. Beat mixture and fry on griddle<|endoftext|>

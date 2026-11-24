@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: They were more likely forced than having choosing it as an option.<|endoftext|>They were more likely forced rather than having to choose it as an option.<|endoftext|>

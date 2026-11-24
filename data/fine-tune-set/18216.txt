@@ -1,0 +1,13 @@
+Give me a pancake recipe.<|endoftext|>Banana Pancake Sandwich
+
+Ingredients:
+• Pancakes
+• Almond butter
+• Banana
+• Maple syrup
+
+Steps:
+1. Divide almond butter between two pancakes
+2. Slice banana thinly and arrange on pancakes with almond butter
+3. Drizzle some maple syrup over banana slices
+4. Top with remaining pancakes and more maple syrup<|endoftext|>

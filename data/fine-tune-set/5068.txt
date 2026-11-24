@@ -1,0 +1,1 @@
+Make the sentence grammatical: However, Mary saw a young man with baseball cap taking away something.<|endoftext|>However, Mary saw a young man with a baseball cap taking something away.<|endoftext|>

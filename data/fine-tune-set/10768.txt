@@ -1,0 +1,10 @@
+Generate a recipe for salad.<|endoftext|>1000 Island Style Salad Dressing
+
+Ingredients:
+• Mayonnaise
+• Chili sauce
+• Sweet pickle relish
+• Onion powder
+
+Steps:
+1. Combine all ingredients and chill for 1 hour before serving on your favorite salad greens<|endoftext|>

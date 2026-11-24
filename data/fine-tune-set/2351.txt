@@ -1,0 +1,1 @@
+Fix grammar in this sentence: No, it is not rational because according to the economic theory, you should spend your money on those goods which yield the maximum utility per dollar.<|endoftext|>No, it is not rational because, according to economic theory, you should spend your money on those goods which yield the maximum utility per dollar.<|endoftext|>

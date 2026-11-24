@@ -1,0 +1,15 @@
+Please generate a quesadilla recipe.<|endoftext|>Baked Crab And Olive Quesadillas
+
+Ingredients:
+• Crabmeat
+• Miracle whip
+• Monterey jack cheese
+• Pitted ripe olives
+• Flour tortillas
+
+Steps:
+1. Combine all ingredients except tortillas
+2. Spread 2 tablespoons of mixture onto each tortilla
+3. Fold in half
+4. Bake in a 400 degree oven for 8 minutes or until folden
+5. Cut each into 4 wedges<|endoftext|>

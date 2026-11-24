@@ -1,0 +1,24 @@
+Give me a recipe for cake.<|endoftext|>7 Up Chocolate Chip Pound Cake
+
+Ingredients:
+• Butter
+• Sugar
+• Vanilla
+• Eggs
+• All-purpose flour
+• Cocoa
+• 7-up soda
+• Semi-sweet chocolate chips
+
+Steps:
+1. Cream butter with an electric mixer
+2. Add sugar and vanilla
+3. Beat until light and fluffy
+4. Add eggs, one at a time, beating well after each addition
+5. Stir in flour and cocoa, blending thoroughly
+6. Stir in 7up
+7. Fold in chocolate chips
+8. Spoon into a well greased 10-inch tube pan
+9. Bake at 350 for 1 hour
+10. Cool in pan on a wire rack for 10 minutes
+11. Remove from pan, cool completely<|endoftext|>

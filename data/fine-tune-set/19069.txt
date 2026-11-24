@@ -1,0 +1,14 @@
+Give me a recipe for ice cream.<|endoftext|>Awesome And Easy Non Dairy Ice Cream
+
+Ingredients:
+• Egg whites
+• Sugar
+• Egg yolks
+• Non-dairy whipped topping
+• Vanilla
+
+Steps:
+1. Whip egg whites and sugar until stiff
+2. Whip remaining ingredients in a separate bowl
+3. Fold two mixtures together
+4. Freeze as is<|endoftext|>

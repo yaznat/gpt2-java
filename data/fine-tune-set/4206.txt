@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: LFR is a nuclear energy reactor that is environmentally friendly with zero greenhouse gas emission.<|endoftext|>The LFR is a nuclear energy reactor that is environmentally friendly with zero greenhouse gas emissions.<|endoftext|>

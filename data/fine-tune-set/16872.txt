@@ -1,0 +1,9 @@
+Generate a recipe for a milkshake.<|endoftext|>Yummy Chocolate Milkshake
+
+Ingredients:
+• Cocoa powder
+• Ice cubes
+• Oreo cookies
+
+Steps:
+1. Just put it all in the blender<|endoftext|>

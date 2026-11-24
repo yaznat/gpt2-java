@@ -1,0 +1,22 @@
+Give me a tea recipe.<|endoftext|>Banana Tea Bread Recipe
+
+Ingredients:
+• Flour
+• Baking powder
+• Baking soda
+• Salt
+• Vegetable shortening
+• Sugar
+• Eggs
+• Banana
+
+Steps:
+1. Preheat oven to 350 f
+2. Sift flour with baking powder, soda and salt
+3. Keep aside
+4. Cream shortening until light
+5. Then, add sugar gradually continuing to cream until fluffy
+6. Beat in eggs
+7. Add flour mixture alternately with bananas beginning and ending with flour
+8. Spoon into a well-greased loaf pan and bake about 1 hr 10 min until loaf pulls slightly from sides of pan and is springy to the touch
+9. Cool upright in pan for 10 min then turn out on a wire rack and cool before slicing<|endoftext|>

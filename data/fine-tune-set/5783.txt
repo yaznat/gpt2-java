@@ -1,0 +1,1 @@
+Fix grammar in the sentence: I cut squids like a ring and I put salt and pepper.<|endoftext|>I cut squids like a ring, and I put salt and pepper on them.<|endoftext|>

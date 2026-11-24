@@ -1,0 +1,1 @@
+Fix grammar in this sentence: But if you are beginner, it's better for you to attend regular yoga classes.<|endoftext|>But if you are a beginner, it's better for you to attend regular yoga classes.<|endoftext|>

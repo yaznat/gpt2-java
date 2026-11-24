@@ -1,0 +1,1 @@
+Fix grammar in this sentence: Therefore, Uranium will soon deplete and we will need to search for a new form of energy supply.<|endoftext|>Therefore, uranium will soon deplete, and we will need to search for a new form of energy supply.<|endoftext|>

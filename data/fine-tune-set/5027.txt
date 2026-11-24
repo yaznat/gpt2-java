@@ -1,0 +1,1 @@
+Fix grammatical errors in this sentence: By exercising, elderly improves their overall health and helps to prevent chronic diseases.<|endoftext|>By exercising, the elderly improve their overall health and helps to prevent chronic diseases.<|endoftext|>

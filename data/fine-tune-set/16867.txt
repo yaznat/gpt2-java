@@ -1,0 +1,13 @@
+Generate a recipe for a milkshake.<|endoftext|>Vanilla Milkshake
+
+Ingredients:
+• Vanilla
+• Vanilla ice cream
+• Milk
+• Cream
+• Ice
+
+Steps:
+1. First mix in the ice cream and milk with the vanilla
+2. Then add in the cream and ice
+3. Pour out into two cups and enjoy!<|endoftext|>

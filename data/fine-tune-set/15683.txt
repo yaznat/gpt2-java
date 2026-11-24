@@ -1,0 +1,22 @@
+Give me a taco recipe.<|endoftext|>Cheesy Potato Taco Skillet
+
+Ingredients:
+• Ground beef
+• Potato
+• Vegetable oil
+• Water
+• Chili powder
+• Ground cumin
+• Cajun seasoning
+• Cheddar cheese
+
+Steps:
+1. Heat oil to medium high heat and fry potato pieces until crispy on the outside, and soft on the inside, like homefries
+2. Drain on a paper towel
+3. Meanwhile, in a seperate skillet, brown ground beef until done through
+4. Drain well
+5. Return beef to skillet and add water, chili powder, cumin and cajun seasoning
+6. Stir to make a taco sauce
+7. Add potatoes and stir until sauce coats potatoes
+8. Add cheese and stir until melted
+9. Serve immediately<|endoftext|>

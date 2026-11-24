@@ -1,0 +1,14 @@
+Please generate a pancake recipe.<|endoftext|>Betty Fords Buttermilk Pancakes
+
+Ingredients:
+• Flour
+• Baking powder
+• Baking soda
+• Salt
+• Sugar
+• Eggs
+• Buttermilk
+
+Steps:
+1. Mix together
+2. Cook<|endoftext|>

@@ -1,0 +1,1 @@
+Fix grammar in this sentence: I'm beauty college student.<|endoftext|>I'm a beauty college student.<|endoftext|>

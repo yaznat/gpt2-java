@@ -1,0 +1,18 @@
+Give me a fried rice recipe.<|endoftext|>Microwave Fried Rice
+
+Ingredients:
+• Rice
+• Water
+• Vegetables
+• Onion
+• Bacon
+• Oil
+• Tomato sauce
+• Soy sauce
+
+Steps:
+1. Put all ingredients into a microwave safe container
+2. Stir and cover
+3. Microwave on high for twenty minutes
+4. Leave for about 5 minutes
+5. Stir, and serve<|endoftext|>

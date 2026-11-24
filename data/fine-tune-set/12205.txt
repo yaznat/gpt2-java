@@ -1,0 +1,16 @@
+Give me a recipe for pie.<|endoftext|>Apple Pie Apple Cider
+
+Ingredients:
+• Apple cider
+• Honey
+• Whipped cream
+• Cinnamon
+
+Steps:
+1. Boil half of a 1 / 2 gallon of apple cider
+2. Add 4 tablespoons of honey, and some cinnamon
+3. Put 1 tablespoon of honey on the bottom of each cup
+4. Pour in the hot apple cider
+5. Top with whip cream
+6. Sprinkle cinnamon on top of whip cream
+7. Enjoy!<|endoftext|>

@@ -1,0 +1,15 @@
+Please generate a quesadilla recipe.<|endoftext|>Ham And Swiss Quesadilla
+
+Ingredients:
+• Butter
+• Ham
+• Swiss cheese
+• 8-inch flour tortillas
+
+Steps:
+1. Place 1 tablespoon of butter in a medium frying pan on medium-high heat
+2. Place tortilla in to toast
+3. Break up swiss cheese and layer over one half of the tortilla
+4. Add ham over the cheese and fold tortilla in half
+5. Cook to a desired crispiness on both sides
+6. Cut into wedges to serve as an appetizer<|endoftext|>

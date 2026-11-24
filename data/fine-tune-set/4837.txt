@@ -1,0 +1,1 @@
+Fix grammar in this sentence: Natural movements such as tide, wind and wave can all be used for generating power.<|endoftext|>Natural movements such as the tide, the wind, and the waves can all be used for generating power.<|endoftext|>

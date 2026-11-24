@@ -1,0 +1,19 @@
+Generate a recipe for a taco.<|endoftext|>Aunt Sue S Taco Salad
+
+Ingredients:
+• Lettuce
+• Taco seasoning
+• Tomatoes
+• Fat-free cheddar cheese
+• Ground turkey
+• Onion
+• Fat-free thousand island salad dressing
+• Kidney beans
+• Nacho cheese flavor doritos
+
+Steps:
+1. Brown turkey and onions, drain and rinse
+2. Return to pan and stir in taco seasonings
+3. Refrigerate
+4. Mix together remaining ingredients, add meat mix
+5. Add doritos and dressing when ready to serve<|endoftext|>

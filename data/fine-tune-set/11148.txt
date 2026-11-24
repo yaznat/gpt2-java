@@ -1,0 +1,17 @@
+Generate a recipe for a sandwich.<|endoftext|>Baja Sandwich
+
+Ingredients:
+• Whole wheat bread
+• Low-fat cream cheese
+• Avocado
+• Taco sauce
+• Lemon juice
+• Salt
+
+Steps:
+1. Spread cream cheese on both pieces of bread
+2. Put avocado on top of cream cheese on one piece of bread
+3. Squeeze lemon over avocado, sprinkle salt, and then drizzle with taco sauce
+4. Put other piece of bread on top
+5. Optional: make a bunch, cut into squares or other shapes and serve as finger sandwiches
+6. Fun for cinco de mayo!<|endoftext|>

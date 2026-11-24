@@ -1,0 +1,1 @@
+Remove all grammatical errors from this text: Today I found the interesting thing at the antique store.<|endoftext|>Today I found an interesting thing at the antique store.<|endoftext|>

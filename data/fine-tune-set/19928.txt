@@ -1,0 +1,16 @@
+Please generate a omelette recipe.<|endoftext|>Cheese Omelette
+
+Ingredients:
+• Eggs
+• Cheese
+• Salt and pepper
+• Butter
+
+Steps:
+1. Whisk the eggs till light and fluffy
+2. Add cheese, salt and pepper
+3. Mix well
+4. Heat a 7 inch non-stick skillet and add butter
+5. As the butter begins to smoke, lower heat and pour the beaten egg mixture
+6. Cook covered for a minute
+7. Fold over and serve immediately<|endoftext|>

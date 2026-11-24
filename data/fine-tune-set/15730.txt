@@ -1,0 +1,17 @@
+Please generate a taco recipe.<|endoftext|>Chihuahua Dogs Hot Dog Tacos
+
+Ingredients:
+• Hot dog sauce
+• Frankfurters
+• Taco shells
+• Cheddar cheese
+• Onion
+• Diced tomato
+• Lettuce
+
+Steps:
+1. Put hot dog sauce in a saucepan and cook at medium heat until hot
+2. Place a frank in each taco shell
+3. Top with the heated chili sauce and cheese
+4. Place in microwave and and heat for 30 seconds or until the frankfurters are warm
+5. Top franks with onions, tomatoes and lettuce<|endoftext|>

@@ -1,0 +1,26 @@
+Generate a recipe for a burger.<|endoftext|>All American Cheeseburger Chowder
+
+Ingredients:
+• Extra lean ground beef
+• Bacon
+• Potatoes
+• Onion
+• Celery
+• Green bell pepper
+• Salt
+• Water
+• Reduced-fat milk
+• Unbleached all-purpose flour
+• Cheddar cheese
+
+Steps:
+1. In a large saucepan, brown beef and bacon
+2. Drain if necessary
+3. Stir in potatoes, onion, celery, green pepper, salt and water
+4. Cover and cook until vegetables are tender, about 15-20 minutes
+5. Whisk together flour with 1 / 2 cup of the milk
+6. Add to saucepan along with remaining milk
+7. Cook and stir until thickened and bubbly
+8. Add cheese
+9. Heat and stir until cheese is melted
+10. Garnish with additional cheese and sliced scallions, if desired<|endoftext|>

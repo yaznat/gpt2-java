@@ -1,0 +1,11 @@
+Give me a milkshake recipe.<|endoftext|>Banana Milkshake
+
+Ingredients:
+• Vanilla ice cream
+• Milk
+• Banana
+
+Steps:
+1. Put ingredients in blender
+2. Blend for about 45 seconds or until smooth
+3. Enjoy!<|endoftext|>

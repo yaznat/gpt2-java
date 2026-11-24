@@ -1,0 +1,14 @@
+Give me a recipe for a milkshake.<|endoftext|>Really Chocolate Milkshake
+
+Ingredients:
+• Chocolate syrup
+• Chocolate liqueur
+• Chocolate ice cream
+• 2% low-fat milk
+• Ground nutmeg
+• Ice
+
+Steps:
+1. In a blender mix the first four ingredients together
+2. Pour mixture into a glass and sprinkle with nutmeg
+3. Enjoy!<|endoftext|>

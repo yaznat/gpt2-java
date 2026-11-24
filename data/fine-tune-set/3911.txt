@@ -1,0 +1,1 @@
+Fix grammar in this sentence: This is a relaxing sport because while you are swimming you can think in your life.<|endoftext|>This is a relaxing sport because while you are swimming, you can think about your life.<|endoftext|>

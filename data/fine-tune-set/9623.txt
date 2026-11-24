@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: Some of the ideas and new creations which falls into this category are robotics and hybrid cars.<|endoftext|>Some of the ideas and new creations which fall into this category are robotics and hybrid cars.<|endoftext|>

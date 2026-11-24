@@ -1,0 +1,1 @@
+Fix grammatical mistakes in this sentence: On the other hand, some people dislike libraries, because it take a long time to look for the book which you want.<|endoftext|>On the other hand, some people dislike libraries, because it takes a long time to look for the book that you want.<|endoftext|>

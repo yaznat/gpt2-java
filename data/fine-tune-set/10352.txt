@@ -1,0 +1,26 @@
+Give me a cookie recipe.<|endoftext|>Almond Joy Cookies
+
+Ingredients:
+• Butter
+• Granulated sugar
+• Light brown sugar
+• Egg
+• Vanilla extract
+• Almond extract
+• Baking soda
+• Salt
+• Flour
+• Semi-sweet chocolate chips
+• Sweetened coconut
+
+Steps:
+1. Preheat oven to 375f
+2. Cream the butter and sugar together
+3. Add the egg, vanilla, and almond
+4. Blend well
+5. In another bowl, mix the flour, salt, and baking soda
+6. Add dry ingredients to the wet ingredients
+7. Mix well
+8. Stir in the chocolate chips
+9. Spoon the dough onto a greased cookie sheet
+10. Bake for 8-10 minutes or until golden<|endoftext|>

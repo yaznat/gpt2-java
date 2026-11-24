@@ -1,0 +1,18 @@
+Give me a recipe for pork.<|endoftext|>Aunt Martha S Pork Chops Delight
+
+Ingredients:
+• Boneless pork loin chops
+• Salt
+• Black pepper
+• Yellow mustard
+• Flour
+• Unsalted butter
+• Chicken stock
+• Yellow onion
+
+Steps:
+1. Season flour with salt and pepper
+2. Spread mustard on chops and dredge in flour
+3. Heat a skillet on med high, and melt butter
+4. Brown chops in butter on both sides for 2 minutes
+5. Add onion and broth and cover, simmer 10 minutes<|endoftext|>

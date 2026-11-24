@@ -1,0 +1,15 @@
+Give me a bread recipe.<|endoftext|>Almond Bread Mandelbrod
+
+Ingredients:
+• Eggs
+• Sugar
+• Baking powder
+• Flour
+• Blanched almond
+
+Steps:
+1. Add sugar to the beaten eggs and beat until very thick
+2. Add sifted flour with the baking powder
+3. Blend in the chopped almonds and mix well
+4. Place in a greased loaf pan and bake 45 minutes in a preheated moderate oven
+5. Frost with a powdered-sugar glaze if so desired<|endoftext|>

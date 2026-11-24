@@ -1,0 +1,21 @@
+Please generate a custard recipe.<|endoftext|>Chocolate And Coffee Custard
+
+Ingredients:
+• Strong coffee
+• Bittersweet chocolate
+• Homogenized milk
+• White sugar
+• Brown sugar
+• Eggs
+• Egg yolk
+• Salt
+
+Steps:
+1. Combine and scald all ingredients except for the eggs
+2. Slowly pour the mixture over the beaten eggs
+3. Beat until well blended
+4. To bake the custard, pour the batter into a baking dish or individual molds
+5. Place them in a pan of hot water in a moderate oven at 325 for 45 minutes or until custard is set
+6. To test, the custard, insert a knife or spoon
+7. If the custard doesn't stick, it is ready
+8. Serve chilled with whipped cream or a sprinkle of powdered sugar and ground nuts<|endoftext|>

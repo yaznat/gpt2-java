@@ -1,0 +1,23 @@
+Give me a recipe for pancakes.<|endoftext|>Banana Pecan Whole Wheat Pancakes
+
+Ingredients:
+• Egg
+• Whole wheat flour
+• Milk
+• Butter
+• Sugar
+• Baking powder
+• Salt
+• Banana
+• Pecans
+
+Steps:
+1. Beat egg until it's fluffy
+2. Stir in milk and butter
+3. Stir in flour, sugar, baking powder and salt
+4. Melt butter in frying pan at high heat
+5. Pour batter into frying pan, reduce heat to medium
+6. Wait about 20 seconds, then lay slices of banana on pancake
+7. Then sprinkle pecans into them
+8. Flip it over to cook the other side
+9. Repeat until batter is finished<|endoftext|>

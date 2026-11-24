@@ -1,0 +1,1 @@
+Fix grammar in the sentence: This will lead to the shrinking of workforce which will affect the economic growth of Singapore.<|endoftext|>This will lead to the shrinking of the workforce, which will affect the economic growth of Singapore.<|endoftext|>

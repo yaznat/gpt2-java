@@ -1,0 +1,1 @@
+Fix grammar in the sentence: It was finished only an hour, but we had a good experience.<|endoftext|>It was finished in only an hour, but we had a good experience.<|endoftext|>

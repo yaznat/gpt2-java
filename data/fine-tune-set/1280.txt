@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: Although CMA functions like bank account, it does not guarantee the principal.<|endoftext|>Although a CMA functions like a bank account, it does not guarantee the principal.<|endoftext|>

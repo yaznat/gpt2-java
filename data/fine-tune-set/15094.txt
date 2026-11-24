@@ -1,0 +1,15 @@
+Generate a recipe for pizza.<|endoftext|>Ange S Awesome Pizza Base
+
+Ingredients:
+• Flour
+• Salt
+• Yeast
+• Hot water
+
+Steps:
+1. Place flour, salt and yeast in processor
+2. When mixed, slowly pour hot tap water in processor
+3. When combined, take out and place on floured surface
+4. Work dough a little, then place in bowl
+5. Cover with clean tea towel and put in a warm room for at least an hour
+6. Roll out<|endoftext|>

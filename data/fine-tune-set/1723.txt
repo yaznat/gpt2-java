@@ -1,0 +1,1 @@
+Fix grammatical mistakes in this sentence: Currently, exist all types of courses via the Internet, at any academic or vocational level.<|endoftext|>Currently, all types of courses exist via the Internet at any academic or vocational level.<|endoftext|>

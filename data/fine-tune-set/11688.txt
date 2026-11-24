@@ -1,0 +1,14 @@
+Give me a recipe for cake.<|endoftext|>Abby S Cream Cheese Pound Cake
+
+Ingredients:
+• Butter
+• Sugar
+• Eggs
+• Cream cheese
+• Flour
+• Butter flavor extract
+
+Steps:
+1. Cream butter, sugar, eggs, cream cheese and vanilla or butter extract together
+2. Beat in flour
+3. Bake @ 325 degrees in a greased and floured loaf pan for 90 minutes<|endoftext|>

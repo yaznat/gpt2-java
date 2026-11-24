@@ -1,0 +1,13 @@
+Give me a recipe for ice cream.<|endoftext|>Cinnamon Apricot Ice Cream Topping
+
+Ingredients:
+• Apricot preserves
+• Cinnamon
+• Dry sherry
+• Brown sugar
+• Lemon
+
+Steps:
+1. Put all ingredients in a small saucepan
+2. Bring to a boil over a medium heat, stirring the whole time
+3. Turn off heat and allow topping to cool slightly before serving over ice cream<|endoftext|>

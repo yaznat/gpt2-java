@@ -1,0 +1,22 @@
+Please generate a muffin recipe.<|endoftext|>Banana All Bran Muffins
+
+Ingredients:
+• Flour
+• Baking powder
+• Salt
+• Sugar
+• Cinnamon
+• All-bran cereal
+• Skim milk
+• Mashed banana
+• Egg whites
+• Vegetable oil
+• Walnuts
+• Raisins
+
+Steps:
+1. In a large bowl, put the baking powder and flour
+2. In a smaller bowl, mix the beaten egg, the all bran, the milk, mashed banana, and the vegetable oil
+3. Let this mixture soak for five minutes and then add to first mixture
+4. Mix together and then add walnuts and raisins
+5. Bake in a preheated 350 degree oven for 20 minutes<|endoftext|>

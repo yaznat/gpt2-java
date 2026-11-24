@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: Although the weather can change more easily, so you should bring different kinds of clothes both heavy and light.<|endoftext|>Although the weather can change more easily, you should bring different kinds of clothes, both heavy and light.<|endoftext|>

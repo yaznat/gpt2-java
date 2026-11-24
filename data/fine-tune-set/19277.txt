@@ -1,0 +1,13 @@
+Can you give me a popsicle recipe?<|endoftext|>Banana Popsicles
+
+Ingredients:
+• Instant banana pudding mix
+• Skim milk
+• Banana
+
+Steps:
+1. Mix pudding mix and milk together
+2. Add cut up banana to pudding and blend evenly
+3. Spoon enough pudding / bananas into popsicle cups to cover bottom
+4. Periodically tap the cups to get any air pockets out
+5. Freeze till set<|endoftext|>

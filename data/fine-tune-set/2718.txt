@@ -1,0 +1,1 @@
+Fix grammar in this sentence: Every detail of the bill passed was carefully constructed keeping in mind the status quo.<|endoftext|>Every detail of the bill passed was carefully constructed, keeping in mind the status quo.<|endoftext|>

@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: Many times because of huge traffic congestion on road we waste our time. while using public transport like Metro save our times.<|endoftext|>Many times, because of huge traffic congestion on the road, we waste our time, while using public transport like the Metro saves us time.<|endoftext|>

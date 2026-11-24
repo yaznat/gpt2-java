@@ -1,0 +1,19 @@
+Generate a recipe for pancakes.<|endoftext|>Barb S Zucchini Pancakes
+
+Ingredients:
+• Zucchini
+• Onion
+• Bisquick
+• Parmesan cheese
+• Eggs
+• Garlic powder
+• Salt and pepper
+• Canola oil
+
+Steps:
+1. Grate zucchini
+2. Chop onion, add to zucchini
+3. Add beaten eggs, bisquick, parmesan cheese, garlic powder, salt and pepper
+4. Mix well
+5. Fry as pancakes on hot greased griddle or skillet
+6. Serve as a side dish<|endoftext|>

@@ -1,0 +1,1 @@
+Fix grammar in this sentence: In summer I go swimming as there is a beautiful pond with pure water where my Granny lives.<|endoftext|>In summer, I go swimming as there is a beautiful pond with pure water where my Granny lives.<|endoftext|>

@@ -1,0 +1,15 @@
+Give me a recipe for ice cream.<|endoftext|>Soft Serve Vanilla Ice Cream
+
+Ingredients:
+• Milk
+• Vanilla instant pudding mix
+• Sugar
+• Cool whip
+• Vanilla flavoring
+
+Steps:
+1. Place milk in electric mixing bowl
+2. Make pudding according to directions on box
+3. Add pudding & sugar to mixer, blend well
+4. Add cool whip and vanilla to mixer, blend well
+5. Pour mixture into 1 gallon ice cream maker<|endoftext|>

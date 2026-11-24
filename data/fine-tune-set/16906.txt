@@ -1,0 +1,12 @@
+Please give me a recipe for a cocktail.<|endoftext|>Autumn Cocktail
+
+Ingredients:
+• Port wine
+• Cranberry juice
+• Raspberries
+• Mint leaves
+
+Steps:
+1. Put the port, juice and raspberries in a blender and whiz for a few seconds
+2. Strain to remove the raspberry seeds
+3. Pour into cocktail glasses, garnish with a mint leaf and serve<|endoftext|>

@@ -1,0 +1,11 @@
+Generate a recipe for a milkshake.<|endoftext|>Blueberry Milkshake
+
+Ingredients:
+• Blueberries
+• Milk
+• Vanilla extract
+• Honey
+
+Steps:
+1. Put all ingredients in a blender or a food processor and blend together until creamy
+2. Pour into cups and enjoy!<|endoftext|>

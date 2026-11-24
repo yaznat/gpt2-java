@@ -1,0 +1,20 @@
+Generate a recipe for stew.<|endoftext|>Bell Pepper Bean Stew
+
+Ingredients:
+• Oil
+• Onion
+• Garlic clove
+• Red bell pepper
+• Yellow bell pepper
+• Tomato puree
+• Cannellini beans
+• Salt and pepper
+
+Steps:
+1. Heat the oil in a pot
+2. Sautee onion, garlic and bell peppers until tender
+3. Add tomato puree and beans
+4. Season to taste
+5. Bring to a boil and let cook for about 15 minutes
+6. Everything should be cooked through and nicely warmed
+7. Serve with a nice bread on the side<|endoftext|>

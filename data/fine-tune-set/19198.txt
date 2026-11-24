@@ -1,0 +1,17 @@
+Please generate a ice cream recipe.<|endoftext|>Chick O Stick Ice Cream
+
+Ingredients:
+• Water
+• Sugar
+• Peanut butter
+• Coconut milk
+• Candies
+
+Steps:
+1. Heat the sugar and water in a small saucepan over medium heat until the sugar is dissolved
+2. Remove from heat
+3. Combine the simple syrup, peanut butter and coconut milk in blender jar, and blend until peanut butter is well incorporated
+4. Chill several hours to overnight
+5. Freeze in ice cream maker according to manufacturer's instructions
+6. Adding the crushed candy during the last few minutes of churning
+7. Transfer to a covered container and freeze<|endoftext|>

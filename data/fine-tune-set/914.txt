@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: And for the regulatory team, they underestimated the potential danger in the nuclear test and therefore did not provide necessary supervision for the test.<|endoftext|>Finally, the regulatory team underestimated the potential danger of the nuclear test and therefore did not provide the necessary supervision for the test.<|endoftext|>

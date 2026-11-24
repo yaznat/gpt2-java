@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: I saw your advertisement looking for a kids monitor, and I think I could be the best person to fill that position.<|endoftext|>I saw your advertisement looking for a children's monitor, and I think I could be the best person to fill that position.<|endoftext|>

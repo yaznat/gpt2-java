@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: It seems this week was short.<|endoftext|>It seems that this week was short.<|endoftext|>

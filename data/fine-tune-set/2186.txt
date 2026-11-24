@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: In retrospect, my parents might not have enough money to buy a parrot.<|endoftext|>In retrospect, my parents might not have had enough money to buy a parrot.<|endoftext|>

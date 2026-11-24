@@ -1,0 +1,1 @@
+Remove all grammatical errors from this text: The first factor that shaped the mobile phone technology is the market forces.<|endoftext|>The first factor that has shaped mobile phone technology is market forces.<|endoftext|>

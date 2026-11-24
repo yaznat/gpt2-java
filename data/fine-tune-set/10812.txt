@@ -1,0 +1,16 @@
+Please generate a salad recipe.<|endoftext|>55 House Salad
+
+Ingredients:
+• Vegetable oil
+• White vinegar
+• Sugar
+• Garlic powder
+• Lettuce
+• Bacon
+• Blue cheese
+• Red onion
+
+Steps:
+1. Combine first four ingredients for the dressing in a container and shake well
+2. Put the lettuce in a bowl, sprinkle with bacon, blue cheese and red onion rings
+3. Drizzle enough of the dressing to coat or to taste along with freshly ground pepper and enjoy<|endoftext|>

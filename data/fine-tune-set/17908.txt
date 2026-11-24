@@ -1,0 +1,24 @@
+Please generate a brownie recipe.<|endoftext|>B1 Brownies
+
+Ingredients:
+• Cocoa
+• Butter
+• Sugar
+• Eggs
+• Vanilla
+• Nuts
+• All-purpose flour
+• Salt
+• Chocolate chips
+
+Steps:
+1. Preheat oven to 325 degrees
+2. Combine cocoa, butter and sugar
+3. Stir well to dissolve sugar
+4. Beat in eggs and vanilla
+5. Quickly stir in remaining ingredients
+6. Spread batter in a well greased 8" x 8" square baking pan
+7. Bake in a preheated oven for 40-45 min
+8. After removing from oven, scatter chocolate chips over top
+9. After a few minutes, use a spatula to spread melted chips over brownies
+10. Let cool<|endoftext|>

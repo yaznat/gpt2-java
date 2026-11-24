@@ -1,0 +1,1 @@
+Fix grammar in this sentence: Among all of them, one of the places you must visit in Brazil is the Amazon Theater, located in Manaus, the town of Amazon State, in the north of the country.<|endoftext|>Of all of them, one of the places you must visit in Brazil is the Amazon Theater, located in Manaus, the capital of the Amazon State, in the north of the country.<|endoftext|>

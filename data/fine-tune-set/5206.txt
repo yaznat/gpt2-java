@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: The first three days' lessons made us good friends indeed.<|endoftext|>The first three days' lessons made us become good friends indeed.<|endoftext|>

@@ -1,0 +1,19 @@
+Generate a recipe for salad.<|endoftext|>Alla S Avocado Salad
+
+Ingredients:
+• Avocados
+• Hard-boiled eggs
+• Tomatoes
+• Onion
+• Fresh cilantro
+• Lemon juice
+• Mayonnaise
+• Salt
+• Pepper
+
+Steps:
+1. Cut up the avocados, eggs, tomato, onion and cilantro
+2. Toss in a bowl
+3. Mix together lemon juice, mayo, salt and pepper
+4. Toss into the salad
+5. Can be served in the avocado shells if you saved them<|endoftext|>

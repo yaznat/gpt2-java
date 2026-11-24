@@ -1,0 +1,1 @@
+Fix grammaticality: For example, a bus can take more than 40 passengers one time at a low cost.<|endoftext|>For example, a bus can take more than 40 passengers at one time at a low cost.<|endoftext|>

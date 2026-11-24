@@ -1,0 +1,1 @@
+Improve the grammaticality of this text: Anna won first prize, regained confidence.<|endoftext|>Anna won first prize and regained confidence.<|endoftext|>

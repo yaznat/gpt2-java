@@ -1,0 +1,1 @@
+Make the sentence grammatical: However, because of rapidly growing high-tech technologies and increasing number of Electrical Vehicles, we will be required to get more electricity.<|endoftext|>However, because of rapidly growing high-tech technologies and an increasing number of electric vehicles, we will be required to get more electricity.<|endoftext|>

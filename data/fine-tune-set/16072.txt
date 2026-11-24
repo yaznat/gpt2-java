@@ -1,0 +1,19 @@
+Give me a recipe for a quesadilla.<|endoftext|>Cheese Quesadillas
+
+Ingredients:
+• Monterey jack cheese
+• Cheddar cheese
+• Onion
+• Flour tortillas
+• Salsa
+
+Steps:
+1. Preheat the oven to 375f
+2. In a medium bowl, mix the cheeses, chili peppers, and scallions
+3. Lightly oil a griddle and heat over medium heat
+4. Add the tortillas, one at a time, and fry lightly until faintly colored on each side
+5. Arrange 3 tortillas on a large baking sheet
+6. Top each with one-third of the cheese mixture
+7. Cover with the remaining tortillas and press together lightly
+8. Bake for 10 minutes, or until the cheese begins to run
+9. Cut into wedges and serve immediately<|endoftext|>

@@ -1,0 +1,17 @@
+Give me a cocktail recipe.<|endoftext|>Cocktail Weiners
+
+Ingredients:
+• Frankfurters
+• Barbecue sauce
+• Catsup
+• Salt
+• Garlic salt
+• Pepper
+• Tabasco sauce
+• Onion
+• Worcestershire sauce
+
+Steps:
+1. Cut the franks into pieces 1 / 2" long
+2. Combine all ingredients in a large saucepan and simmer for 1 hour
+3. Serve hot<|endoftext|>

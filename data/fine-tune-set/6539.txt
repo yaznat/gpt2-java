@@ -1,0 +1,1 @@
+Fix grammatical errors in this sentence: I'm writing you because I'm interested in applying the job in summer camps.<|endoftext|>I'm writing to you because I'm interested in applying for the job in summer camps.<|endoftext|>

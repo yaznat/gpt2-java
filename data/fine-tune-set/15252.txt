@@ -1,0 +1,19 @@
+Give me a pizza recipe.<|endoftext|>Breakfast Pizza Squares
+
+Ingredients:
+• Breakfast sausage
+• Refrigerated crescent dinner rolls
+• Eggs
+• Milk
+• Pepper
+• Cheddar cheese
+
+Steps:
+1. Crumble and cook sausage until no longer pink
+2. Drain well
+3. Unroll crescent dough onto a lightly greased cooking sheet, pressing dough 1 / 2 inch up the sides and sealing seams
+4. Sprinkle with sausage
+5. Beat eggs, milk, and pepper together
+6. Pour over sausage
+7. Sprinkle with cheese
+8. Bake uncovered at 400 degrees for 15 minutes or until the crust is brown and the cheese is melted<|endoftext|>

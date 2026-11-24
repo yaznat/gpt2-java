@@ -1,0 +1,14 @@
+Generate a recipe for a milkshake.<|endoftext|>Creamy Pumpkin Vanilla Milkshake
+
+Ingredients:
+• Vanilla ice cream
+• Pumpkin pie filling
+• Jack daniels whiskey
+• Cinnamon
+• Nutmeg
+• Milk
+
+Steps:
+1. In blender, combine all ingredients
+2. Blend until well mixed
+3. Serve<|endoftext|>

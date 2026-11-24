@@ -1,0 +1,20 @@
+Generate a recipe for pizza.<|endoftext|>Boboli Pizza Crust Clone
+
+Ingredients:
+• Water
+• Olive oil
+• Garlic
+• Salt
+• Sugar
+• All-purpose flour
+• Italian seasoning
+• Parmesan cheese
+• Active dry yeast
+
+Steps:
+1. Add all ingredients to breadmaker in order listed by your manufacturer
+2. Set breadmaker on dough setting
+3. When cycle is done, form two crusts on pizza pans, sprinkle with parmesan cheese, cover and let rise again
+4. Bake 5-10 minutes at 450 f until light brown
+5. Cool
+6. Wrap tightly in foil and freeze<|endoftext|>

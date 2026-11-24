@@ -1,0 +1,16 @@
+Please generate a omelette recipe.<|endoftext|>Sheila S Oven Omelette Brunch
+
+Ingredients:
+• Butter
+• Eggs
+• Sour cream
+• Milk
+• Salt
+• Green onion
+
+Steps:
+1. Heat oven to 325 degrees
+2. Melt butter in a 10x13" glass dish in oven, tilting dish to coat bottom
+3. Beat eggs, sour cream, milk and salt together
+4. Stir in green onion
+5. Bake until eggs are set, but still moist, about 35 minutes<|endoftext|>

@@ -1,0 +1,1 @@
+Fix grammatical mistakes in this sentence: One of the most important factors was that declining cost of oil at that time.<|endoftext|>One of the most important factors was the declining cost of oil at that time.<|endoftext|>

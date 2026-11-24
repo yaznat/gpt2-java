@@ -1,0 +1,22 @@
+Give me a bread recipe.<|endoftext|>10 10 10 Bread
+
+Ingredients:
+• Warm water
+• Sugar
+• Yeast
+• Oil
+• Salt
+• Flour
+• Spices
+
+Steps:
+1. Mix first three ingredients and let sit for 10 minute
+2. Mix in oil and salt, then add in flour
+3. Mix together
+4. Knead for a few minutes and then let sit for 10 minute
+5. Roll or pat out on a greased cookie sheet until thin
+6. Brush on melted butter
+7. Sprinkle with spices- oregano, garlic powder, parmesan, basil, or whatever you desire
+8. Bake at 450 degrees for 10 minute
+9. Remove from oven, and slice as desired
+10. Enjoy!<|endoftext|>

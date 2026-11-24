@@ -1,0 +1,13 @@
+Please generate a smoothie recipe.<|endoftext|>Berry Blast Energy Smoothie
+
+Ingredients:
+• Milk
+• Low-fat vanilla yogurt
+• Frozen strawberries
+• Frozen blueberries
+• Banana
+
+Steps:
+1. Toss everything into blender
+2. Blend until smooth and enjoy
+3. If it's too thick add more milk until you reach a desired consistency<|endoftext|>

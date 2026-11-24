@@ -1,0 +1,21 @@
+Give me a recipe for pasta.<|endoftext|>Angel Hair Pasta With Basil Avocado And Tomatoes
+
+Ingredients:
+• Angel hair pasta
+• Olive oil
+• Garlic cloves
+• Fresh basil leaf
+• Avocado
+• Tomatoes
+• Salt
+• Pepper
+
+Steps:
+1. Cook and drain pasta according to directions on package
+2. While pasta is cooking, heat oil in 3 quart saucepan over medium heat
+3. Cook garlic in oil about 5 minutes, stirring occasionally, until garlic is tender but not brown
+4. Remove from heat
+5. Stir basil, avocado and tomatoes into garlic in saucepan
+6. Toss vegetable mixture and pastas
+7. Sprinkle with salt and pepper
+8. Serve immediately<|endoftext|>

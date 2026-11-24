@@ -1,0 +1,1 @@
+Fix grammatical mistakes in this sentence: For example, if a bus can carry 100 passengers, at least 25 cars can be reduced on road, solved the problem of traffic jam.<|endoftext|>For example, if a bus can carry 100 passengers, at least 25 cars can be reduced on the road, solving the problem of traffic jams.<|endoftext|>

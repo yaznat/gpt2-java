@@ -1,0 +1,1 @@
+Fix all grammatical errors: We rode a bus and a train to there, and the train was crowded by the people who went to the Koshien stadium.<|endoftext|>We rode a bus and a train to get there, and the train was crowded with the people who were going to the Koshien stadium.<|endoftext|>

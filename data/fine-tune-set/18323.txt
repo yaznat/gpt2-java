@@ -1,0 +1,27 @@
+Give me a recipe for waffles.<|endoftext|>Apple Cinnamon Waffles
+
+Ingredients:
+• Flour
+• Sugar
+• Baking powder
+• Salt
+• Eggs
+• Milk
+• Vegetable oil
+• Apple
+• Cinnamon
+
+Steps:
+1. Sift together flour, sugar, baking powder, and salt
+2. Set aside
+3. In a small bowl, beat egg whites until stiff
+4. Set aside
+5. In a meduim bowl, beat egg yolks well
+6. Stir in milk
+7. Add sifted dry ingredients to egg yolks and mix until moistened
+8. Add vegetable oil
+9. Fold in egg whites
+10. Stir cinnamon into mixture
+11. Add apples
+12. Blend lightly into mixture
+13. Bake in preheated waffle maker for at least 4-5 minutes, until crisp and brown<|endoftext|>

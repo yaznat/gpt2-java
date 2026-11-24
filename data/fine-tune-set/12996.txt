@@ -1,0 +1,16 @@
+Generate a recipe for fish.<|endoftext|>Baked Fish In A Hurry
+
+Ingredients:
+• White fish fillets
+• Olive oil
+• Fresh parsley
+• Salt
+• Pepper
+
+Steps:
+1. Preheat your oven to 230c
+2. Coat the fish in the oil and parsley
+3. Place the fish on a baking tray lined with baking paper
+4. Season the fish with salt and pepper
+5. Bake 8-10 minutes
+6. Serve with a salad on the side and a lemon wedge<|endoftext|>

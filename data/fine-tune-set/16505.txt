@@ -1,0 +1,12 @@
+Generate a recipe for a smoothie.<|endoftext|>Any Flavor Yogurt Shake Smoothie
+
+Ingredients:
+• Vanilla yogurt
+• Sugar-free jello
+• Light soymilk
+• Ice cubes
+
+Steps:
+1. Combine the ice cubes and soymilk and blend until the ice cubes are crushed
+2. Add the yogurt and jello, and blend for two or three minutes
+3. Let stand five minutes before serving<|endoftext|>

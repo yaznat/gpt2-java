@@ -1,0 +1,1 @@
+Remove grammar mistakes: It was half past seven and her class begun fifteen minutes ago.<|endoftext|>It was half past seven, and his class had begun fifteen minutes ago.<|endoftext|>

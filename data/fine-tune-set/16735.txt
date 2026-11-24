@@ -1,0 +1,11 @@
+Generate a recipe for a milkshake.<|endoftext|>Caramel Banana Milkshake
+
+Ingredients:
+• Milk
+• Banana
+• Vanilla ice cream
+• Caramel sauce
+
+Steps:
+1. Place milk, banana, ice cream and sundae sauce in blender
+2. Cover and blend at high speed until smooth<|endoftext|>

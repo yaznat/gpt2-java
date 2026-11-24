@@ -1,0 +1,21 @@
+Please generate a fried rice recipe.<|endoftext|>Pineapple Fried Rice
+
+Ingredients:
+• Vegetable oil
+• Garlic clove
+• Fresh ginger
+• Crushed red pepper flakes
+• Cooked rice
+• Light soy sauce
+• Crushed pineapple in syrup
+• Green onion
+
+Steps:
+1. In large nonstick skillet, heat oil over medium-low heat until hot
+2. Add garlic, ginger and red pepper, cook and stir 2 minutes
+3. Increase heat to medium-high
+4. Add rice and soy sauce
+5. Cook 2 minutes, stirring frequently
+6. Add pineapple, tossing to combine
+7. Heat rice through
+8. Sprinkle with green onions before serving<|endoftext|>

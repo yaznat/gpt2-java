@@ -1,0 +1,16 @@
+Please generate a bread recipe.<|endoftext|>Amish Bread For The Bread Machine
+
+Ingredients:
+• Water
+• Salt
+• Oil
+• Sugar
+• Bread flour
+• Yeast
+
+Steps:
+1. Add ingredients in order given
+2. Select basic bread cycle
+3. Let it go until the bread completes the 2nd rising
+4. Then turn off the machine and restart it on basic cycle again
+5. Let cook as normal<|endoftext|>

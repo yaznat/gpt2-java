@@ -1,0 +1,1 @@
+Make the sentence grammatical: This week was quite boring, there's nothing to talk about.<|endoftext|>This week was quite boring, so there's nothing to talk about.<|endoftext|>

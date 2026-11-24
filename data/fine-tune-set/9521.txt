@@ -1,0 +1,1 @@
+Fix grammatical mistakes in this sentence: Grandma's food is great and I spend days staying outside, playing badminton or volleyball or having a walk in the wood.<|endoftext|>Grandma's food is great, and I spend days staying outside, playing badminton or volleyball, or having a walk in the woods.<|endoftext|>

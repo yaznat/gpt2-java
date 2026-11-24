@@ -1,0 +1,27 @@
+Generate a recipe for a sandwich.<|endoftext|>Barbecue Turkey Cole Slaw Sandwiches
+
+Ingredients:
+• Ground turkey
+• Onion
+• Tomato sauce
+• Brown sugar
+• Worcestershire sauce
+• Dry mustard
+• Liquid smoke
+• Pepper
+• Red cabbage
+• Granny smith apple
+• Carrot
+• Plain low-fat yogurt
+• Curry powder
+• Whole wheat hamburger buns
+
+Steps:
+1. Over medium heat, cook turkey and onion in a nonstick skillet until browned, stirring until turkey crumbles, drain
+2. Add the tomato sauce and next 5 ingredients
+3. Bring to a boil, cover, reduce heat and simmer 15 minutes, stirring often
+4. Split and lightly toast the hamburger buns
+5. Combine the cabbage and next 5 ingredients in a bowl
+6. Spoon the turkey mixture on to the bottom halves of the toasted buns
+7. Top with slaw mixture and top halves of buns
+8. Serve immediately with baked beans and crisp vegetable sticks<|endoftext|>

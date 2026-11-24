@@ -1,0 +1,14 @@
+Give me a recipe for salad.<|endoftext|>A Simple Cherry Tomato And Mozzarella Salad
+
+Ingredients:
+• Cherry tomatoes
+• Mozzarella cheese
+• Salt
+• Fresh basil
+• Olive oil
+• Fresh lemon juice
+• Sugar
+
+Steps:
+1. Mix all ingredients together in a bowl
+2. This will keep in the refrigerator for about two days<|endoftext|>

@@ -1,0 +1,15 @@
+Please generate a soup recipe.<|endoftext|>Alea S Corned Beef And Cabbage Soup
+
+Ingredients:
+• Beef broth
+• Red potatoes
+• Diced onion
+• Garlic cloves
+• Cooked corned beef
+• Cabbage
+
+Steps:
+1. Add the broth, chopped potatoes, onion, and garlic to a large pot
+2. Bring to a boil, reduce flame and simmer until potatoes are fork tender
+3. Add the corned beef and cabbage and cook until the meat is heated through and the cabbage wilts, approximately 3-5 minutes
+4. Will you be taking advantage of the great sales on cabbage? if so, what will you make with your cabbage?<|endoftext|>

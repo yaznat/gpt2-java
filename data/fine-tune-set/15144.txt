@@ -1,0 +1,15 @@
+Give me a recipe for pizza.<|endoftext|>Baked Bean Pizza
+
+Ingredients:
+• Baked beans
+• Coarse grain mustard
+• Barbecue sauce
+• Ham
+• Cheese
+• Prepared pizza crust
+
+Steps:
+1. Mix the baked beans with mustard & bbq sauce
+2. Spread beans over pizza bases & top with ham
+3. Sprinkle with cheese and bake at 220
+4. C for 15-20 mins or until base is golden & cheese melted<|endoftext|>

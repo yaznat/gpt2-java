@@ -1,0 +1,1 @@
+Fix the grammar mistakes: Scientists have estimated that given the current global energy consumption, we only have sufficient oil reserves to last us for another 50 years.<|endoftext|>Scientists have estimated that given the current global energy consumption, we will only have sufficient oil reserves to last us for another 50 years.<|endoftext|>

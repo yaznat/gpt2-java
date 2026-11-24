@@ -1,0 +1,1 @@
+Remove all grammatical errors from this text: The summer had gone, but it has been still hot in Tokyo.<|endoftext|>The Summer is gone, but it has been being still hot in Tokyo.<|endoftext|>

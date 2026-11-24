@@ -1,0 +1,28 @@
+Please generate a bread recipe.<|endoftext|>Spicy Banana Bread
+
+Ingredients:
+• Shortening
+• White sugar
+• Bananas
+• Eggs
+• Flour
+• Salt
+• Baking soda
+• Cinnamon
+• Ground cloves
+• Nutmeg
+• Walnuts
+
+Steps:
+1. Preheat oven to 350 degrees
+2. Spray two 9x5 loaf pans with non-stick cooking spray
+3. Cream shortening and sugar until light
+4. Beat in eggs one at a time
+5. In separate bowl, sift together flour, salt, baking soda, cinnamon, cloves and nutmeg
+6. Add flour mixture to shortening mixture
+7. Blend well
+8. Add well mashed bananas, blend well
+9. Add nuts
+10. Pour into the two prepared pans
+11. Bake for 45 minutes to 1 hour
+12. Testing with wooden toothpick<|endoftext|>

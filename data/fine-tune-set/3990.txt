@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: Many skeptics oppose the idea of building nuclear reactors as they fear similar incident to that in Chernobyl might happen again.<|endoftext|>Many skeptics oppose the idea of building nuclear reactors as they fear that a similar incident to that in Chornobyl might happen again.<|endoftext|>

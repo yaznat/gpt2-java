@@ -1,0 +1,15 @@
+Please generate a sandwich recipe.<|endoftext|>Aloha Sandwiches
+
+Ingredients:
+• Bacon
+• White bread
+• Pineapple
+• Cheddar cheese
+
+Steps:
+1. Cook bacon until evenly brown
+2. Drain and set aside
+3. Place 8 slices of toast on a baking sheet
+4. Place a slice of pineapple, two slices of bacon and a slice of cheese on each
+5. Broil until cheese is melted
+6. Serve hot<|endoftext|>

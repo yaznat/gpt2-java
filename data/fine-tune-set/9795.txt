@@ -1,0 +1,1 @@
+Make the sentence grammatical: My both kids believe in Santa Claus, even my daughter becoming 9 years old seem to still believe Santa Claus.<|endoftext|>Both my kids believe in Santa Claus; even my daughter, who is becoming 9 years old, seems to still believe in Santa Claus.<|endoftext|>

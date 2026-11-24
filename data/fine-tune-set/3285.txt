@@ -1,0 +1,1 @@
+Improve the grammar of this text: I'm not going to spend a lot of money for a ticket, because I'm studying so I just have a part-time job.<|endoftext|>I'm not going to spend a lot of money on a ticket because I'm studying so I just have a part-time job.<|endoftext|>

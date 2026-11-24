@@ -1,0 +1,17 @@
+Can you give me a burger recipe?<|endoftext|>A1 Turkey Burgers
+
+Ingredients:
+• Ground turkey
+• A. 1. original sauce
+• Yellow mustard
+• Saltine crackers
+• Garlic powder
+• Fresh ground pepper
+
+Steps:
+1. Mix all ingredients together in a large bowl
+2. Form into 6 patties
+3. Cook patties in a frying pan on medium heat until fully cooked, flipping as needed
+4. I usually do 3 patties in the frying pan at a time
+5. Be careful when flipping the patty, meat is very moist
+6. Serve on a bun & top with your favorite condiments<|endoftext|>

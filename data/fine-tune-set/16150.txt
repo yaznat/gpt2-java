@@ -1,0 +1,9 @@
+Give me a quesadilla recipe.<|endoftext|>Easy Bake Oven Quesadilla
+
+Ingredients:
+• Tortilla
+• Cheese
+
+Steps:
+1. Cut a small flour tortilla into wedges small enough to fit the pan
+2. Sandwich shredded cheese between two wedges and bake for 4-6 minutes or until cheese melts<|endoftext|>

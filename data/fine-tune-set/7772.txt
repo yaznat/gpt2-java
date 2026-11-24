@@ -1,0 +1,1 @@
+Fix grammar in this sentence: There are many dogs who are loyal and trustworthy than many people in the earth.<|endoftext|>There are many dogs who are more loyal and trustworthy than many people on the earth.<|endoftext|>

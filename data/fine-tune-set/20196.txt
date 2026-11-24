@@ -1,0 +1,15 @@
+Please generate a stir fry recipe.<|endoftext|>Breakfast Stir Fry
+
+Ingredients:
+• Green onion
+• Button mushroom
+• Cherry tomatoes
+• Olive oil
+• Salt & freshly ground black pepper
+
+Steps:
+1. Heat olive oil in a large skillet
+2. Add green onion and mushrooms
+3. Stir-fry over a high heat for 1 minute
+4. Add the tomatoes and cook for a further 2 minutes or until the mushrooms have cooked
+5. Season with salt and pepper and serve<|endoftext|>

@@ -1,0 +1,23 @@
+Please generate a brownie recipe.<|endoftext|>Absolutely Best Brownies
+
+Ingredients:
+• Butter
+• Sugar
+• Eggs
+• Vanilla
+• Cocoa
+• Salt
+• Self-rising flour
+• Walnuts
+
+Steps:
+1. Preheat oven to 350 degrees fahrenheit
+2. Grease and flour a 9 x 9-inch pan
+3. In a bowl, beat together the butter and sugar
+4. Add eggs and vanilla
+5. Mix well
+6. Combine the cocoa, salt, and flour together
+7. Stir into the sugar mixture
+8. Stir in the walnuts
+9. Spread evenly into prepared pan
+10. Bake for 25 to 30 minutes or until firm<|endoftext|>

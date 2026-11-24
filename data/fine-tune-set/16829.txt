@@ -1,0 +1,12 @@
+Give me a milkshake recipe.<|endoftext|>Peppermint Vanilla Milkshake
+
+Ingredients:
+• Vanilla ice cream
+• Homogenized milk
+• Vanilla extract
+• Peppermint extract
+
+Steps:
+1. Blend icecream, milk, and extracts into blender
+2. As soon as it turns into one liquid, stop blending
+3. Optional: garnish with either crushed candycane, mint leaves, or vanilla bean<|endoftext|>

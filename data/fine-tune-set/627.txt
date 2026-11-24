@@ -1,0 +1,1 @@
+Fix grammar in the sentence: You start walking 10 minutes each day, then for 20 minutes and you can add more minutes till start running for 30 minutes and then for an hour.<|endoftext|>You start walking 10 minutes each day, then for 20 minutes, and you can add more minutes till you start running for 30 minutes and then for an hour.<|endoftext|>

@@ -1,0 +1,16 @@
+Give me a sandwich recipe.<|endoftext|>Apple Open Faced Sandwich
+
+Ingredients:
+• Butter
+• Whole wheat bread
+• Raisins
+• Sunflower seeds
+• Apple
+• Cheddar cheese
+
+Steps:
+1. Butter the bread
+2. Sprinkle raisins and sunflower seeds on top
+3. Arrange apple dice on top of seeds and raisins
+4. Top with grated cheddar
+5. Bake in toaster oven till hot and bubbly<|endoftext|>

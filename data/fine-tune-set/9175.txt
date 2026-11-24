@@ -1,0 +1,1 @@
+Remove all grammatical errors from this text: Due to this reason, bar code was not broadly implemented as soon as it was invented.<|endoftext|>Due to this reason, the bar code was not broadly implemented as soon as it was invented.<|endoftext|>

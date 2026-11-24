@@ -1,0 +1,18 @@
+Please generate a cocktail recipe.<|endoftext|>Aunt Bev S Fruit Cocktail Cake
+
+Ingredients:
+• Flour
+• Sugar
+• Baking powder
+• Baking soda
+• Salt
+• Fruit cocktail
+• Egg
+
+Steps:
+1. Combine dry ingredients
+2. Combine beaten egg and fruit cocktail
+3. Stir into dry ingredients by hand
+4. Pour into a 9x13 greased pan
+5. Top with 1 / 2 c brown sugar and 1 / 2 chopped nuts
+6. Bake for 30 minutes in a 350 degree oven<|endoftext|>

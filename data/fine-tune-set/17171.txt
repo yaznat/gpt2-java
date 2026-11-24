@@ -1,0 +1,12 @@
+Give me a tea recipe.<|endoftext|>Alcoholic Tea
+
+Ingredients:
+• Jack daniels whiskey
+• Triple sec
+• Sour mix
+• Cola
+• Lemon
+
+Steps:
+1. In a highball glass filled with ice add whiskey, triple sec, sour mix, and cola
+2. Stir well and garnish with a lemon slice, serve immediately<|endoftext|>

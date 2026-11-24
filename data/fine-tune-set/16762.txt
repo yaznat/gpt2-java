@@ -1,0 +1,13 @@
+Give me a recipe for a milkshake.<|endoftext|>Dee S Milkshakes
+
+Ingredients:
+• Vanilla ice cream
+• Vanilla
+• Sugar
+• Milk
+• Malt drink powder
+
+Steps:
+1. Blend all ingredients together in a blender
+2. You may need to add more milk
+3. Do not overblend<|endoftext|>

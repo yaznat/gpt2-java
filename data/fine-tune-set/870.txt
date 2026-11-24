@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: Over the years, man has come up with many marvelous ideas and technologies which helped to simplify our lives by a huge leap.<|endoftext|>Over the years, man has come up with many marvelous ideas and technologies which have helped to simplify our lives by a huge leap.<|endoftext|>

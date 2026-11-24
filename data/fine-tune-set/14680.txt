@@ -1,0 +1,17 @@
+Give me a recipe for rice.<|endoftext|>Apple Rice Pilaf
+
+Ingredients:
+• Butter
+• Onion
+• Granny smith apple
+• Apple juice
+• Uncooked rice
+• Chicken broth
+• Ground thyme
+• Salt
+
+Steps:
+1. Saute onions and apple in butter until tender
+2. Add apple juice and bring to a boil
+3. Add rice, salt, and thyme and simmer on low for 15 minutes or until almost done
+4. Add broth and simmer until absorbed<|endoftext|>

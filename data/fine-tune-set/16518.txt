@@ -1,0 +1,12 @@
+Please give me a recipe for a smoothie.<|endoftext|>Apple Pie Smoothie
+
+Ingredients:
+• Apple juice
+• Vanilla yogurt
+• Cinnamon
+
+Steps:
+1. Put ingrediants in blender
+2. Mix them
+3. Take out
+4. Drink<|endoftext|>

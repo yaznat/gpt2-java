@@ -1,0 +1,1 @@
+Remove all grammatical errors from this text: I enjoy walking because it allows you to do physical exercise and talk, watch the landscape or do other things at the same time.<|endoftext|>I enjoy walking because it allows you to do physical exercise and talk, look at the landscape, or do other things at the same time.<|endoftext|>

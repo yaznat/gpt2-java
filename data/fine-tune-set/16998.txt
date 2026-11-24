@@ -1,0 +1,15 @@
+Generate a recipe for a cocktail.<|endoftext|>Chasen S Shirley Temple Cocktail
+
+Ingredients:
+• Ginger ale
+• Grenadine
+• Orange
+• Maraschino cherry
+• Ice cube
+
+Steps:
+1. Place a few ice cubes in a highball glass
+2. Add ginger ale and grenadine, stir gently
+3. Add enough additional ice cubes to fill the glass
+4. Garnish the glass with a split orange slice that straddels the side of the glass
+5. Add a maraschino cherry and serve with a straw<|endoftext|>

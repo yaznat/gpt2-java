@@ -1,0 +1,12 @@
+Give me a recipe for a milkshake.<|endoftext|>Strawberries And Cream Milkshakes
+
+Ingredients:
+• Light cream
+• Milk
+• Strawberry ice cream
+• Honey
+• Strawberry
+• Ice
+
+Steps:
+1. Put all ingredients in a blender and blend until thick<|endoftext|>

@@ -1,0 +1,1 @@
+Fix grammatical errors in this sentence: Also, the reactor core is at a lower temperature, thus relatively easier to manage.<|endoftext|>Also, the reactor core is at a lower temperature and thus relatively easier to manage.<|endoftext|>

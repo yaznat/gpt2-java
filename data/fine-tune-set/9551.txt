@@ -1,0 +1,1 @@
+Fix grammar in the sentence: Since the first generation of nuclear reactors, advancement in technology has greatly increased the fuel efficiency thus cutting down on the waste.<|endoftext|>Since the first generation of nuclear reactors, advancement in technology has greatly increased fuel efficiency, thus cutting down on waste.<|endoftext|>

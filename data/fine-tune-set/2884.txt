@@ -1,0 +1,1 @@
+Fix grammatical mistakes in this sentence: TV provides lots of cognitive programs like cooking, taking care of pets, how to eat as well.<|endoftext|>TV provides lots of cognitive programs, like cooking, taking care of pets, how to eat well.<|endoftext|>

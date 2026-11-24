@@ -1,0 +1,19 @@
+Give me a recipe for a sandwich.<|endoftext|>A B C Sandwich
+
+Ingredients:
+• White bread
+• Bologna
+• Processed cheese
+• Apple
+
+Steps:
+1. Core and slice apple
+2. I leave the peels on for the chew factor but you may peel them if you prefer
+3. On two of the slices of bread, lay the bologna
+4. Divide the apple slices in half and lay them as flat as possible on the slices of bologna
+5. Top the apple slices with a piece of cheese each
+6. And finally, finish it off with the remaining slices of bread
+7. So when you are done, the sandwich will be bread, bologna, apple slice, cheese and then bread
+8. A condiment could be added as well
+9. Maybe some mustard or some bbq sauce
+10. For those adventurous folks, try a little bit of jam<|endoftext|>

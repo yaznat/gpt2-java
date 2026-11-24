@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: For instance, if you have to go another city by bus or train to your workplace, the time you waste since you set off increases.<|endoftext|>For instance, if you have to go to another city by bus or train to reach your workplace, the time you waste since you set off increases.<|endoftext|>

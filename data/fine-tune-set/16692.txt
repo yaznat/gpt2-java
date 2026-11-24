@@ -1,0 +1,11 @@
+Please generate a smoothie recipe.<|endoftext|>Best Fruit Smoothie Ever
+
+Ingredients:
+• Frozen fruit
+• Milk
+• Sugar
+• Vanilla
+• Sherbet
+
+Steps:
+1. Blend well and enjoy --<|endoftext|>

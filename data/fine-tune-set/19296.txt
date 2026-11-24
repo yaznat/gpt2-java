@@ -1,0 +1,14 @@
+Please generate a popsicle recipe.<|endoftext|>Kahlua Popsicles
+
+Ingredients:
+• Brewed espresso
+• Chocolate syrup
+• Sugar
+• Cinnamon
+• Vanilla extract
+• Milk
+• Kahlua
+
+Steps:
+1. Combine ingredients, mixing well
+2. Pour into popsicle molds and freeze until solid<|endoftext|>

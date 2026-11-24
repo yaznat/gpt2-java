@@ -1,0 +1,26 @@
+Please generate a tea recipe.<|endoftext|>Baked Southern Fried Round Steak
+
+Ingredients:
+• Round steaks
+• Salt
+• Pepper
+• Flour
+• Milk
+• Eggs
+• Vegetable oil
+• Onion
+• Beef broth
+
+Steps:
+1. Cut steak in serving size pieces
+2. In shallow bowl mix flour
+3. Salt and pepper
+4. In another bowl, place beaten eggs and milk
+5. Heat oil in 10 inch skillet
+6. Put steak in flour, then eggs, then flour again
+7. Fry on med till browned
+8. Place in baking pan
+9. Put onions over steak
+10. Pour broth on onions
+11. Cover and bake at 350 for 60 minutes
+12. Uncover, stir, and bake 30 minutes more<|endoftext|>

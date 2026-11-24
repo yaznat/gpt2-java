@@ -1,0 +1,22 @@
+Give me a recipe for pasta.<|endoftext|>Bacon And Basil Sauce For Pasta
+
+Ingredients:
+• Olive oil
+• Bacon
+• Garlic
+• White wine
+• Cream
+• Milk
+• Grainy mustard
+• Parmesan cheese
+• Cornstarch
+• Water
+• Fresh basil
+• Green onions
+
+Steps:
+1. Heat the oil in a frying pan, add the bacon and garlic, cook, stirring, until the bacon is crisp
+2. Add the wine and bring to the boil
+3. Stir in the cream, milk, mustard, cheese and blended cornstarch and water
+4. Stir over a high heat until the sauce boils and thickens a little
+5. Stir in the basil and green onions, and serve over the cooked pasta of your choice<|endoftext|>

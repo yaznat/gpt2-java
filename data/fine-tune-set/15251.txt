@@ -1,0 +1,27 @@
+Generate a recipe for pizza.<|endoftext|>Breakfast Pizza Skillet
+
+Ingredients:
+• Bulk italian sausage
+• Frozen hash brown potatoes
+• Onion
+• Green pepper
+• Salt
+• Pepper
+• Sliced mushrooms
+• Eggs
+• Tomatoes
+• Cheddar cheese
+• Sour cream
+• Salsa
+
+Steps:
+1. In a large skillet, cook sausage until no longer pink
+2. Add potatoes, onion, green pepper, salt and pepper
+3. Cook over medium-high heat for 18 to 20 minutes or until the potatoes are browned
+4. Stir in mushrooms
+5. Beat in eggs
+6. Pour over the potato mixture
+7. Arrange tomato slices on top
+8. Sprinkle with cheese
+9. Cover and cook over medium-low heat for 10-15 minutes or until eggs are completely set
+10. Serve with sour cream and salsa if desired<|endoftext|>

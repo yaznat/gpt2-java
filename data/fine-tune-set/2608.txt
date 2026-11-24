@@ -1,0 +1,1 @@
+Fix grammar in the sentence: We enjoyed delicious lunch, but we couldn't move from the table for a while.<|endoftext|>We enjoyed our delicious lunch, but we couldn't move from the table for a while.<|endoftext|>

@@ -1,0 +1,19 @@
+Generate a recipe for chili.<|endoftext|>Amish Chili
+
+Ingredients:
+• Ground beef
+• Onion
+• Celery
+• Flour
+• Brown sugar
+• Ketchup
+• Tomato juice
+• Chili powder
+• Kidney beans
+• Salt and pepper
+
+Steps:
+1. Brown ground beef, onions and celery, then drain excess fat
+2. Add flour and heat through, stirring constantly
+3. Add all remaining ingredients and mix well
+4. Cover and simmer 30 minutes<|endoftext|>

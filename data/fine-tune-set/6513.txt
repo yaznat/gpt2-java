@@ -1,0 +1,1 @@
+Remove all grammatical errors from this text: The next day I went with my friends to see a movie.<|endoftext|>The next day, I went with my friends to see a movie.<|endoftext|>

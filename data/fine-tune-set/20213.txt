@@ -1,0 +1,26 @@
+Generate a recipe for stir fry.<|endoftext|>Cajun Stir Fry
+
+Ingredients:
+• Ground beef
+• Beef bouillon cubes
+• Onions
+• Celery
+• Bell pepper
+• Garlic clove
+• Rotel
+• Water
+• Creole seasoning
+• Cabbage
+• Rice
+
+Steps:
+1. Fry hamburger
+2. Add seasoning
+3. Add onions
+4. Add pepper
+5. Add celery
+6. Add garlic
+7. Add cabbage
+8. Add water and tomatoes
+9. Cook down to your taste, they cook things down a bit
+10. Serve over rice<|endoftext|>

@@ -1,0 +1,1 @@
+Fix grammar in this sentence: The fame of that diet made many Japanese females eat bananas but now they moved on protein jelly.<|endoftext|>The fame of that diet made many Japanese females eat bananas, but now they have moved on to protein jelly.<|endoftext|>

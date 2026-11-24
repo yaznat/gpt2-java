@@ -1,0 +1,1 @@
+Fix grammar in this sentence: First of all, the running duration of the electric cars is what the government concerns.<|endoftext|>First of all, the running duration of electric cars is what the government is concerned about.<|endoftext|>

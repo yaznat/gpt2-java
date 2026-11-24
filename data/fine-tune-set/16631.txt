@@ -1,0 +1,12 @@
+Can you give me a smoothie recipe?<|endoftext|>Barefoot Contessa S Orange Banana Smoothie
+
+Ingredients:
+• Fresh orange juice
+• Fresh lime juice
+• Strawberry
+• Banana
+
+Steps:
+1. Combine the orange juice, lime juice, strawberries, and banana in a blender and process until smooth
+2. Refrigerate until cold
+3. "cook" time does not include refrigeration time for chilling<|endoftext|>

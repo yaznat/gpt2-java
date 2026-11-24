@@ -1,0 +1,15 @@
+Give me a ice cream recipe.<|endoftext|>Caramel Marshmallow Ice Cream
+
+Ingredients:
+• Marshmallows
+• Thickened cream
+• Vanilla ice cream
+• Caramel
+
+Steps:
+1. Combine marshmallows and cream in pot
+2. Stir over low heat till marshmallows have melted
+3. Cool
+4. Slightly soften ice cream in large bowl
+5. Swirl through marshmallow mix and topping to give a marbled effect
+6. Return to ice cream container, cover and freeze till firm again<|endoftext|>

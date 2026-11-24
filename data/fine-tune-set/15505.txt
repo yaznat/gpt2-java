@@ -1,0 +1,16 @@
+Give me a burger recipe.<|endoftext|>Bayou Burgers
+
+Ingredients:
+• Lean ground beef
+• Green onion
+• Garlic salt
+• Dried basil leaves
+• Dried thyme leaves
+• Hot pepper sauce
+• Onion rolls
+
+Steps:
+1. In medium bowl, combine all ingredients except rolls
+2. Shape into 4 patties
+3. Grill or broil to desired doneness
+4. Serve on rolls and top, if desired, with grilled onions<|endoftext|>

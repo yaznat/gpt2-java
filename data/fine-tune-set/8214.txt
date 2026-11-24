@@ -1,0 +1,1 @@
+Fix grammaticality of the sentence: The safe disposal of nuclear waste cost $ 1 billion and takes more than 10 years to complete.<|endoftext|>The safe disposal of nuclear waste cost $ 1 billion and took more than 10 years to complete.<|endoftext|>

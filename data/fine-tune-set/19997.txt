@@ -1,0 +1,18 @@
+Give me a recipe for an omelette.<|endoftext|>Mexican Omelette
+
+Ingredients:
+• Eggs
+• Milk
+• Parsley
+• Vegetable oil
+• Green pepper
+• Salsa
+• Monterey jack cheese
+
+Steps:
+1. Combine first three ingredients in bowl and mix well
+2. Heat up small skillet with oil over medium heat, add mixed ingredients
+3. As the omelette cooks lift edges with spatula and mix centre so it is not too thick
+4. When omelette is relatively solid add other ingredients and allow cheese to melt
+5. Fold in half and serve
+6. Enjoy!<|endoftext|>

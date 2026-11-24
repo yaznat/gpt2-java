@@ -1,0 +1,23 @@
+Generate a recipe for a taco.<|endoftext|>Baja Fish Taco
+
+Ingredients:
+• Salt
+• Black pepper
+• Chicken bouillon
+• Mexican oregano
+• Mustard
+• Water
+• Flour
+• Whole tomato
+• White onion
+• Jalapenos
+• Lemon
+• Cilantro
+
+Steps:
+1. Whisk spice mix and flour, slowly adding 2 tablespoons of baking soda
+2. Dip fish in batter and fry at 375 degrees in oil until golden brown
+3. Lay fried fish out on a corn tortilla
+4. And add pico de gallo
+5. Layer shredded cabbage, avocado and drizzle mexican crema
+6. Drizzle with lime and serve!<|endoftext|>

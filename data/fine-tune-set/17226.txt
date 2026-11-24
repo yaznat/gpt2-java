@@ -1,0 +1,11 @@
+Give me a tea recipe.<|endoftext|>Apple Tea
+
+Ingredients:
+• Apple peel
+• Lemon juice
+
+Steps:
+1. Sprinkle lemon juice on peels
+2. Dry the peels in a dehydrator or warm oven on parchment paper with oven door ajar
+3. They are ready when they are brittle and lightly browned
+4. Crumble peelings and store in airtight container<|endoftext|>

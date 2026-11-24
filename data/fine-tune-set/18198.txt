@@ -1,0 +1,21 @@
+Give me a recipe for pancakes.<|endoftext|>Banana Pancakes With Spelt
+
+Ingredients:
+• Spelt flour
+• Baking powder
+• Salt
+• Bananas
+• Water
+• Egg
+• Maple syrup
+• Oil
+
+Steps:
+1. Whisk together dry ingredients in a medium bowl
+2. In a smaller bowl whisk together the liquids
+3. Preheat griddle
+4. When a drop of water 'dances' on it, pour liquids over flour mixture and stir to moisten
+5. Oil griddle
+6. Spoon batter onto griddle in 4 to 6-inch cakes
+7. Turn when top side is thoroughly bubbled
+8. Serve immediately<|endoftext|>

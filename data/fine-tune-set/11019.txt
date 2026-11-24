@@ -1,0 +1,13 @@
+Give me a sandwich recipe.<|endoftext|>All American Turkey Apple Picnic Sandwich
+
+Ingredients:
+• Turkey breast
+• Cheddar cheese
+• Honey mustard
+• Granny smith apple
+• Potato bread
+
+Steps:
+1. Toaste bread and spread one side of each with mustard
+2. Layer turkey, cheese and apple slices on one slice of bread, top with second slice
+3. Enjoy<|endoftext|>

@@ -1,0 +1,19 @@
+Give me a recipe for pizza.<|endoftext|>Broccoli Chicken White Pizza
+
+Ingredients:
+• Pizza dough
+• Ground chicken
+• Broccoli florets
+• Goat cheese
+• Mozzarella cheese
+• Garlic
+• Salt
+• Pepper
+• Dried thyme
+• Olive oil
+
+Steps:
+1. Saute ground chicken with a little olive oil, salt, pepper, and thyme until cooked
+2. Press the two cloves of garlic and combine with some olive oil and brush over the pizza crust
+3. Top the pizza with the chicken, broccoli, and cheeses
+4. Bake at 450f until crust has browned and the mozzarella has melted<|endoftext|>

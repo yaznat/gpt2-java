@@ -1,0 +1,1 @@
+Fix grammar in this sentence: I think it is very lucky if I can see snow twice or more a year!<|endoftext|>I think it is very lucky that I can see snow twice or more a year!<|endoftext|>

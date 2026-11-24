@@ -1,0 +1,32 @@
+Generate a recipe for a burrito.<|endoftext|>Burrito Stack
+
+Ingredients:
+• Lean ground beef
+• Onion
+• Garlic cloves
+• Chili powder
+• Dried oregano
+• Salt
+• Cayenne
+• Red kidney beans
+• Salsa
+• Flour tortillas
+• Cheddar cheese
+• Light sour cream
+• Lettuce
+
+Steps:
+1. In nonstick skillet, cook beef, onion and garlic over medium-high heat, breaking up meat with wooden spoon, until meat is no longer pink, about 5 minutes
+2. Add chili powder, oregano, salt and cayenne
+3. Cook for 2 minutes
+4. In large bowl, mash kidney beans
+5. Stir in 1 / 4 cup of the salsa
+6. Add beef mixture
+7. Stir to blend
+8. Place 1 tortilla on rimmed baking sheet
+9. Spread one-third of the beef mixture right to edge of tortilla then sprinkle with one-quarter of the cheese
+10. Repeat layers twice
+11. Top with remaining tortilla and cheese
+12. Bake in 450f oven until cheese is melted, 10 minutes
+13. Slice into wedges
+14. Top with sour cream, lettuce and remaining salsa<|endoftext|>

@@ -1,0 +1,1 @@
+Make the sentence grammatical: That is why I am writing this letter, to make you know what is happening in the city and to tell you that the police are not doing their job.<|endoftext|>That is why I am writing this letter, to let you know what is happening in the city and to tell you that the police are not doing their job.<|endoftext|>

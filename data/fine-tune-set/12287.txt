@@ -1,0 +1,25 @@
+Please generate a soup recipe.<|endoftext|>2Bleu S Vegetable Barley Soup
+
+Ingredients:
+• Vegetable broth
+• Garlic cloves
+• Tomato sauce
+• Diced tomatoes
+• Pearl barley
+• Dried parsley
+• Basil
+• Crushed red pepper flakes
+• Bay leaf
+• Carrots
+• Celery
+• Onion
+• Fresh mushrooms
+• Salt and black pepper
+
+Steps:
+1. Preparing barley: like all grains, before cooking barley, rinse it thoroughly under running water and then remove any dirt or debris that you may find
+2. In a large dutch oven over medium heat, add all ingredients except salt & black pepper
+3. Bring to a boil, reduce heat and simmer for 1-1 1 / 2 hours, stirring occasionally until barley and carrots are tender and fully cooked
+4. Season to taste with salt & black pepper and serve
+5. Pearl barley takes a minimum of 1 hour to cook, whereas hulled barley takes 1
+6. 5 hours or more<|endoftext|>

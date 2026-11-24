@@ -1,0 +1,14 @@
+Please generate a burrito recipe.<|endoftext|>Burrito Wraps
+
+Ingredients:
+• Ranch dressing mix
+• Cooked chicken
+• Sour cream
+• Salsa
+• 10-inch flour tortillas
+• Black beans
+
+Steps:
+1. Combine dressing mix with chicken, sour cream and salsa in saucepan
+2. Stir over medium heat until sauce and chicken are hot
+3. Spoon the chicken mixture down the center of each tortilla, add desired toppings and fold sides over middle<|endoftext|>

@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: Genetic testing is actually the genetic diagnosis of inheritable diseases which caused by an abnormality in an individual's genome.<|endoftext|>Genetic testing is actually the genetic diagnosis of inheritable diseases which are caused by an abnormality in an individual's genome.<|endoftext|>

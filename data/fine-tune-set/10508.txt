@@ -1,0 +1,15 @@
+Give me a recipe for pasta.<|endoftext|>3 Cheese Pasta Bake
+
+Ingredients:
+• Rotini pasta
+• Cream of mushroom soup
+• Mozzarella cheese
+• Cheddar cheese
+• Parmesan cheese
+• Milk
+• Pepper
+
+Steps:
+1. In a 1 1 / 2 quart casserole dish combine the soup, cheeses, milk and pepper
+2. Add pasta and mix well
+3. Cover and bake 350' for 35 minutes or until hot<|endoftext|>

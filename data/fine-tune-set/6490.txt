@@ -1,0 +1,1 @@
+Improve the grammaticality of this text: That night, the dog, the kittie, Tom and Michel slept in the same room, and that wasn't too bad.<|endoftext|>That night, the dog, the kitten, Tom, and Michel slept in the same room, and that wasn't too bad.<|endoftext|>

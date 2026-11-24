@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: In this duration, almost of the guests usually stayed for two or three days.<|endoftext|>In this duration, almost Most of the guests usually stayed for two or three days.<|endoftext|>

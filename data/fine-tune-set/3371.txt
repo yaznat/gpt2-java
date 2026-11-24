@@ -1,0 +1,1 @@
+Make the sentence grammatical: I took my daughter to hospital today since she had a skin problem.<|endoftext|>I took my daughter to the hospital today since she has a skin problem.<|endoftext|>

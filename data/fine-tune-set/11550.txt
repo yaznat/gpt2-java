@@ -1,0 +1,12 @@
+Please generate a cake recipe.<|endoftext|>Amish Cake Frosting Icing
+
+Ingredients:
+• Cream cheese
+• Brown sugar
+• Vanilla
+• Salt
+• Cool whip
+
+Steps:
+1. Beat cream cheese, sugar, vanilla& salt until fluffy
+2. Fold in cool whip<|endoftext|>

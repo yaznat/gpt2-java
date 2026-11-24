@@ -1,0 +1,1 @@
+Make the sentence grammatical: In the north of Hokkaido, snow is falling, but in the south of Okinawa, typhoon comes.<|endoftext|>In the north of Hokkaido, snow is falling, but in the south of Okinawa, a typhoon comes.<|endoftext|>

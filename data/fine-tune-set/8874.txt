@@ -1,0 +1,1 @@
+Improve the grammar of this text: Sometimes I go shopping or Karaoke with my friends in holiday.<|endoftext|>Sometimes, I go shopping or do Karaoke with my friends for a holiday.<|endoftext|>

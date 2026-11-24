@@ -1,0 +1,25 @@
+Can you give me a taco recipe?<|endoftext|>Beef And Bean Taco Skillet
+
+Ingredients:
+• Ground beef
+• Taco seasoning mix
+• Water
+• Corn
+• Ranch style beans
+• Diced green chilies
+• Instant rice
+• Cheddar cheese
+• Tortilla chips
+• Sour cream
+• Salsa
+
+Steps:
+1. Brown meat in a large skillet
+2. Drain
+3. Add taco seasoning, water, corn, beans and chiles to the skillet
+4. Season to taste with salt
+5. Bring to a boil
+6. Stir in rice
+7. Sprinkle with cheese
+8. Cover and cook on low heat 5 minutes
+9. Serve with crushed tortilla chips, sour cream and salsa, if desired<|endoftext|>

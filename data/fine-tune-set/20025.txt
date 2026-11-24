@@ -1,0 +1,21 @@
+Give me a recipe for an omelette.<|endoftext|>Omelette Sandwich
+
+Ingredients:
+• Eggs
+• Cumin
+• Extra virgin olive oil
+• Sea salt
+• Black pepper
+• Hoagie rolls
+• Salsa
+
+Steps:
+1. Beat eggs with 1 tbs water and cumin
+2. Coat bottom of non stick pan with 1 tbs oil
+3. Pour in enough egg mixture to coat bottom of pan
+4. Push cooked edges into center allowing uncooked egg to flow around pan, do this twice
+5. Sprinkle with salt and pepper
+6. When almost cooked through, fold in half
+7. Repeat with remaining egg mixture
+8. Split rolls in half and place omelette into each roll
+9. Top with tomato salsa<|endoftext|>

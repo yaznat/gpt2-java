@@ -1,0 +1,12 @@
+Generate a recipe for bread.<|endoftext|>Angel Bread Slices
+
+Ingredients:
+• White bread
+• Sweetened condensed milk
+• Coconut
+
+Steps:
+1. Dip each piece of bread into the sweetened condensed milk on one side only
+2. Dip the wet side into the coconut
+3. Line the bread, coconut side up, on a baking sheet lined with aluminum foil
+4. Bake at 350 degrees until the bread is toasted and the coconut is lightly browned<|endoftext|>

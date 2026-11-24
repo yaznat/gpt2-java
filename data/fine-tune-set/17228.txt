@@ -1,0 +1,12 @@
+Give me a recipe for tea.<|endoftext|>Apple Tea Cooler
+
+Ingredients:
+• Unsweetened apple juice
+• Tea
+• Lemon wedges
+
+Steps:
+1. In a quart pitcher, mix apple juice and tea
+2. Serve over ice
+3. Garnish each glass with a lemon wedge, if desired
+4. If you use 1 glass at a time refrigerate the rest<|endoftext|>

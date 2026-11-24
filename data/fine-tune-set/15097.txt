@@ -1,0 +1,19 @@
+Please generate a pizza recipe.<|endoftext|>Annz California Fuzion Pizza
+
+Ingredients:
+• Pizza crusts
+• Pesto sauce
+• Chicken
+• Sweet onion
+• Green chili pepper
+• Blue cheese
+• Italian cheese blend
+• Fresh tomato
+
+Steps:
+1. Preheat the oven to 450 degrees
+2. Spread a thin layer of pesto over the entire pizza crust
+3. Sprinkle with chicken, onion, and roasted peppers
+4. Sprinkle lightly with blue cheese crumbles, then with most of the shredded cheese
+5. Top with chopped tomatoes and the remaining cheese
+6. Bake at 450 on a pizza stone for 10 - 15 mins or until the cheese is melted and bubbly<|endoftext|>

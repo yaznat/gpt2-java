@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: I am very pleased to hear that you finally manage to open your restaurant.<|endoftext|>I am very pleased to hear that you finally managed to open your restaurant.<|endoftext|>

@@ -1,0 +1,1 @@
+Fix grammar in the sentence: I picked up a trash, that was a bread wrapping, on the road on the way to work the day before yesterday.<|endoftext|>I picked up some trash, which was a bread wrapper, from the road on the way to work the day before yesterday.<|endoftext|>

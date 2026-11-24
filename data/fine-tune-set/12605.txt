@@ -1,0 +1,21 @@
+Generate a recipe for stew.<|endoftext|>Beef Burgundy Stew
+
+Ingredients:
+• Top round steaks
+• Water
+• Fresh parsley
+• Salt
+• Dried basil
+• Dried rosemary
+• No-salt-added beef broth
+• Frozen pearl onions
+• Fresh mushrooms
+• Carrots
+• Potatoes
+• Burgundy wine
+
+Steps:
+1. Trim fat from steak
+2. Cut steak into 1 inch cubes
+3. Combine all ingredients into a large crockpot
+4. Cover and cook on low for 8-10 hours<|endoftext|>

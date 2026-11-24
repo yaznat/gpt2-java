@@ -1,0 +1,13 @@
+Give me a smoothie recipe.<|endoftext|>B B O J Smoothie
+
+Ingredients:
+• Banana
+• Blackberry
+• Fresh orange juice
+• Sugar
+
+Steps:
+1. Put all ingredients in blender and blend until smooth
+2. Add more orange juice if you like your consistency thinner
+3. Taste your smoothie, you may want to add more or less sugar to your own taste
+4. Makes 1 generous sized portion<|endoftext|>

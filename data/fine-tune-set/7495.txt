@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: It is not normal entrance examination, it is transfer students.<|endoftext|>It is not a normal entrance examination; it is for transfer students.<|endoftext|>

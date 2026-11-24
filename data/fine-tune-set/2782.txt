@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: I go to university in Janagawa prefecture, my major is English.<|endoftext|>I go to a university in Kanagawa prefecture, and my major is English.<|endoftext|>

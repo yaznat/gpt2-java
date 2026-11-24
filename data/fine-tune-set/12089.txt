@@ -1,0 +1,23 @@
+Please generate a pie recipe.<|endoftext|>Amazing Apple Pie
+
+Ingredients:
+• Sliced apples
+• Lemon juice
+• Sugar
+• Self rising flour
+• Cinnamon
+• Brown sugar
+• Egg
+• Shortening
+• Water
+
+Steps:
+1. Combine 1 cup flour, 1 tbsp sugar, egg, shortening, and water
+2. Beat 2 minutes at medium speed
+3. Pour batter into 9x1 1 / 4 inch pan
+4. Combine pie filling: apples, lemon juice, sugar, flour, and cinnamon
+5. Pour into center of batter
+6. Do not stir!
+7. Sprinkle with brown sugar
+8. Bake at 425f for 35-40 minutes
+9. This pie will make its own crust<|endoftext|>

@@ -1,0 +1,19 @@
+Please generate a custard recipe.<|endoftext|>Granny S Rhubarb Custard Pie
+
+Ingredients:
+• Sugar
+• Flour
+• Salt
+• Eggs
+• Sour cream
+• Rhubarb
+• Margarine
+• Cinnamon
+• Unbaked 9-inch pie crust
+
+Steps:
+1. Combine sugar and flour in mixing bowl
+2. Add eggs, sour cream, margarine, and rhubarb
+3. Pour into unbaked pie shell
+4. Bake at 375f for 1 hour
+5. Sprinkle cinnamon on top<|endoftext|>

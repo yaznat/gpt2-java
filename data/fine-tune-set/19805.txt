@@ -1,0 +1,16 @@
+Please generate a fries recipe.<|endoftext|>Easy Garlic Fries
+
+Ingredients:
+• Frozen french fries
+• Olive oil
+• Garlic
+• Parsley
+• Black pepper
+• Salt
+
+Steps:
+1. Prepare french fries according to package directions
+2. Combine remaining ingredients in a small bowl
+3. Pour cooked french fries in a large bowl and pour garlic mixture over
+4. Toss well
+5. Add additional salt if desired, and serve!<|endoftext|>

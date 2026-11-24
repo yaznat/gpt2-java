@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: However, the wheels appeared to be too noisy and vibration can be felt in the train cabin.<|endoftext|>However, the wheels appeared to be too noisy, and vibration could be felt in the train cabin.<|endoftext|>

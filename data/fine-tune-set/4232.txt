@@ -1,0 +1,1 @@
+Fix grammaticality of the sentence: I'm not a sportsman, I like watching basketball, tennis, football, but my favorite sport is the running.<|endoftext|>I'm not a sportsman. I like watching basketball, tennis, and football, but my favorite sport is running.<|endoftext|>

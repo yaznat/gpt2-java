@@ -1,0 +1,21 @@
+Give me a recipe for pizza.<|endoftext|>Bacon Cheddar And Tomato Pita Pizzas
+
+Ingredients:
+• Bacon
+• Whole wheat pita bread
+• Olive oil
+• Dried basil
+• Red onions
+• Tomatoes
+• Cheddar cheese
+• Pepper
+
+Steps:
+1. Preheat oven to 450f
+2. In a large skillet, cook bacon over medium-high heat, stirring frequently, until crisp, 5 to 6 minutes
+3. Removed with a slotted spoon and drain on paper towels
+4. Place unsplit pita breads, concave sides up on a baking sheeet
+5. Drizzle with oil and sprinkle with basil
+6. Divide onion, tomatoes, and bacon over pitas and sprinkle with cheese
+7. Bake about 8 minutes, until cheese is melted and bubbly
+8. Grind pepper over pizza and cut into wedges to serve<|endoftext|>

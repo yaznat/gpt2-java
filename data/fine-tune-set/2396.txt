@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: Few last days have been strange.<|endoftext|>Few last The last few days have been strange.<|endoftext|>

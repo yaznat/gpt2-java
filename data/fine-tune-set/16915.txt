@@ -1,0 +1,12 @@
+Give me a recipe for a cocktail.<|endoftext|>Baileys Cookies N Cream Cocktail
+
+Ingredients:
+• Baileys irish cream
+• Amaretto
+• Ground cinnamon
+
+Steps:
+1. Combine the baileys and amaretto in a small saucepan
+2. Heat over medium-low heat until warm but not hot
+3. Stir in the 1 / 2 teaspoon cinnamon
+4. Pour into martini glasses, sprinkle with cinnamon, and serve<|endoftext|>

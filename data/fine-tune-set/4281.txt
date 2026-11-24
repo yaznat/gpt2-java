@@ -1,0 +1,1 @@
+Fix the grammar mistakes: If you travelled by bus or train, probably you would spend more time walking along the streets to your final destination.<|endoftext|>If you traveled by bus or train, you would probably spend more time walking along the streets to your final destination.<|endoftext|>

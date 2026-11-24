@@ -1,0 +1,11 @@
+Please generate a cocktail recipe.<|endoftext|>Cappuccino Cocktail
+
+Ingredients:
+• Coffee liqueur
+• Liqueur
+• Vodka
+• Light cream
+
+Steps:
+1. Pour all the ingredients into a cocktail shaker with ice
+2. Shake vigorously for 10 seconds and strain into a chilled martini glass<|endoftext|>

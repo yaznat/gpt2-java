@@ -1,0 +1,12 @@
+Generate a recipe for coffee.<|endoftext|>Brown Sugar Iced Coffee
+
+Ingredients:
+• Water
+• Instant coffee
+• Brown sugar
+• Ice cubes
+• Light cream
+• Coffee beans
+
+Steps:
+1. Whip all ingredients in blender<|endoftext|>

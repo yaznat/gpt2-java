@@ -1,0 +1,13 @@
+Give me a recipe for a smoothie.<|endoftext|>Applesauce Smoothie
+
+Ingredients:
+• Applesauce
+• Plain yogurt
+• Orange juice
+• Banana
+• Ice cubes
+
+Steps:
+1. Place all ingredients in blender and blend until smooth, about 45 seconds to 1 minute
+2. The smoothie probably won't need any sweetening, but if it does, add a little bit of honey or sugar to taste
+3. For a less thick version, add more yogurt or juice<|endoftext|>

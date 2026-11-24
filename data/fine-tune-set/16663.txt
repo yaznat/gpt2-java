@@ -1,0 +1,12 @@
+Give me a recipe for a smoothie.<|endoftext|>Berry Fruit Smoothie
+
+Ingredients:
+• Orange juice
+• Plain fat-free yogurt
+• Banana
+• Strawberries
+• Equal sugar substitute
+
+Steps:
+1. Place all ingredients into a blender
+2. Blend until smooth<|endoftext|>

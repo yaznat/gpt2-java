@@ -1,0 +1,15 @@
+Give me a recipe for a milkshake.<|endoftext|>Mocha Milkshake
+
+Ingredients:
+• Ice cubes
+• Instant coffee
+• Hot water
+• Vanilla ice cream
+• Hersheys chocolate syrup
+• Milk
+
+Steps:
+1. Mix coffee and hot water until coffee is dissolved
+2. Crush ice in blender
+3. Add all ingredients to blender
+4. Puree until smooth<|endoftext|>

@@ -1,0 +1,17 @@
+Generate a recipe for custard.<|endoftext|>Cream Custard Cake Filling
+
+Ingredients:
+• Granulated sugar
+• Flour
+• Salt
+• Milk
+• Eggs
+• Vanilla
+
+Steps:
+1. Mix the sugar, flour and salt together in a double boiler and add the hot milk gradually, stirring constantly
+2. Cook until the mixture thickens
+3. Pour a small amount over the eggs and mix thoroughly
+4. Add back into the first mixture and cook for two more minutes
+5. Remove from heat and cool
+6. Add vanilla<|endoftext|>

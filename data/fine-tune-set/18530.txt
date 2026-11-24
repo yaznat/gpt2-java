@@ -1,0 +1,21 @@
+Generate a recipe for waffles.<|endoftext|>Hilde S Norwegian Waffles
+
+Ingredients:
+• Eggs
+• Sugar
+• Vanilla
+• Butter
+• Baking soda
+• Soured milk
+• Flour
+
+Steps:
+1. Stir baking soda into 1 cup soured milk
+2. Melt and cool the butter
+3. Whisk together eggs, sugar and vanilla
+4. Whisk in melted, cooled butter
+5. Add in flour and baking soda / soured milk
+6. Stir
+7. Add the rest of the soured milk
+8. You might need to add a bit extra but the batter should be pretty thick
+9. You should make the waffles right away but you can keep the batter in the fridge until the next day<|endoftext|>

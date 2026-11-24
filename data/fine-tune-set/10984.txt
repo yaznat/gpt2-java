@@ -1,0 +1,14 @@
+Please generate a sandwich recipe.<|endoftext|>Geebee Special Sandwiches
+
+Ingredients:
+• Ham
+• American cheese
+• Sweet pickle relish
+• Ketchup
+• Hamburger buns
+
+Steps:
+1. In skillet over medium heat, fry ham until lightly browned
+2. Separate ham into 6 mounds and lower heat
+3. Put one slice of cheese on each mound, cover and turn off heat
+4. Place each mound onto hamburger bun, top with relish, then ketchup, sprinkle of black pepper, and serve<|endoftext|>

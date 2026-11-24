@@ -1,0 +1,13 @@
+Give me a recipe for a smoothie.<|endoftext|>Banana Blueberry Maple Smoothie
+
+Ingredients:
+• Bananas
+• Frozen blueberries
+• Vanilla ice cream
+• Milk
+• Maple syrup
+
+Steps:
+1. Place the banana, blueberries, ice-cream, milk & maple syrup in a blender & blend until smooth
+2. Pour among serving glasses top with extra blueberries and drizzle with a little extra maple syrup
+3. Serve immediately<|endoftext|>

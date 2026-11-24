@@ -1,0 +1,1 @@
+Fix grammaticality: I have studied chemistry at Osaka university for 6 years, and now work in cosmetic company as a researcher.<|endoftext|>I have studied chemistry at Osaka University for 6 years, and now work for a cosmetic company as a researcher.<|endoftext|>

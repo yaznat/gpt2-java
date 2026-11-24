@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: This is a concern as at the rate countries are consuming energies it is a matter of time before the earth run out of natural resources.<|endoftext|>This is a concern as at the rate countries are consuming energy, it is a matter of time before the earth runs out of natural resources.<|endoftext|>

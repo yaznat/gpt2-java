@@ -1,0 +1,13 @@
+Can you give me a cocktail recipe?<|endoftext|>Chimayo Cocktail
+
+Ingredients:
+• Tequila
+• Apple cider
+• Fresh lemon juice
+• Creme de cassis
+
+Steps:
+1. Fill a cocktail shaker half full with ice
+2. Add tequila, cider, lemon juice and cassis and shake well
+3. Fill two glasses with ice and strain the cocktail evenly between them
+4. Garnish each with thin slice of apple if desired and serve<|endoftext|>

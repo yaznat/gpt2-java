@@ -1,0 +1,1 @@
+Fix all grammatical errors: For example, New york city is located in cold climate area isn't it?<|endoftext|>For example, New York City is located in a cold climate area, isn't it?<|endoftext|>

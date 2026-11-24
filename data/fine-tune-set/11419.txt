@@ -1,0 +1,19 @@
+Please generate a bread recipe.<|endoftext|>Alber S Cornbread
+
+Ingredients:
+• Cornmeal
+• Flour
+• Sugar
+• Baking powder
+• Salt
+• Oil
+• Egg
+• Milk
+
+Steps:
+1. Preheat oven to 400 degrees
+2. Grease a 8x8 baking dish or a 9-inch pie plate
+3. Combine all ingredients
+4. Pour into prepared dish
+5. Bake for 25 minutes
+6. Let cool slightly before cutting<|endoftext|>

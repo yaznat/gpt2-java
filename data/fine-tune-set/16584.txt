@@ -1,0 +1,13 @@
+Generate a recipe for a smoothie.<|endoftext|>Banana Mango Raspberry Smoothie
+
+Ingredients:
+• Banana
+• Mango
+• Frozen raspberries
+• Soymilk
+• Ground flax seeds
+• Ice cubes
+
+Steps:
+1. Place all ingredients into a vita mix or blender
+2. Pour and enjoy<|endoftext|>

@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: The entry phone of our house rang, but no one was at the entry.<|endoftext|>The entry phone of our house rang, but no one was at the door.<|endoftext|>

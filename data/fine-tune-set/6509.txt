@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: The book was very interesting that the minds gets warm.<|endoftext|>The book was very interesting in that it warms the minds gets warm.<|endoftext|>

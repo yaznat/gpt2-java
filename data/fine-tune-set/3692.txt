@@ -1,0 +1,1 @@
+Fix grammar in this sentence: In short, operating at 1000 degree Celsius is not much of a safety issue since VHTR is safe and reliable at high temperature.<|endoftext|>In short, operating at 1000 degrees Celsius is not much of a safety issue since VHTR is safe and reliable at high temperatures.<|endoftext|>

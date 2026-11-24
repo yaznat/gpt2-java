@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: Secondly, my idea is putting on, at least initially, two lamps: a white overhead one and a red desk one.<|endoftext|>Secondly, my idea is to put on, at least initially, two lamps: a white overhead one and a red desk one.<|endoftext|>

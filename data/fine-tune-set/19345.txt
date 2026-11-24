@@ -1,0 +1,24 @@
+Generate a recipe for donuts.<|endoftext|>Baked Apple Donuts
+
+Ingredients:
+• Apple
+• Flour
+• Sugar
+• Salt
+• Egg
+• Nutmeg
+• Milk
+• Shortening
+• Baking powder
+• Cinnamon-sugar mixture
+• Butter
+
+Steps:
+1. Mix dry ingredients together
+2. Cut in shortening until mixture is fine
+3. Mix together egg, milk, and apple and add all at once to dry ingredients
+4. Mix quickly
+5. Fill greased muffin tins 2 / 3 full
+6. Bake at 350 degrees for 20-25 minutes
+7. Remove from pan and roll in melted butter and then in cinnamon and sugar mixture
+8. Delicious!<|endoftext|>

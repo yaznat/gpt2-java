@@ -1,0 +1,11 @@
+Give me a recipe for a smoothie.<|endoftext|>Banana Blueberry Smoothie
+
+Ingredients:
+• Plain yogurt
+• Blueberries
+• Milk
+• Banana
+
+Steps:
+1. Combine all ingredients in a blender
+2. Blend until smooth<|endoftext|>

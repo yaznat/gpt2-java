@@ -1,0 +1,22 @@
+Generate a recipe for chili.<|endoftext|>Basic Spicy Chili
+
+Ingredients:
+• Ground beef
+• Onions
+• Tomato juice
+• Whole tomatoes
+• Kidney beans
+• Chili powder
+• Hot sauce
+• Baking soda
+• Water
+
+Steps:
+1. In a large skillet, saute beef and onions together until beef is browned
+2. Drain beef and add to a large soup pot
+3. Add tomato juice and simmer over medium heat
+4. Add tomatoes, crushing between fingers to break apart
+5. Add kidney beans, chili powder, and optional hot sauce
+6. After mixture comes to a simmer, add baking soda
+7. Simmer for about 20-30 minutes, adding water if necessary to thin out the chili
+8. Taste for seasoning<|endoftext|>

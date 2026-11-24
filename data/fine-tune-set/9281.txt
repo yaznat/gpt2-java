@@ -1,0 +1,1 @@
+Fix grammar in this sentence: For around half year, I had a lot of experience.<|endoftext|>For around half a year, I have had a lot of experience.<|endoftext|>

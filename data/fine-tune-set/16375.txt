@@ -1,0 +1,13 @@
+Give me a recipe for a wrap.<|endoftext|>Bacon Wrapped Asparagus
+
+Ingredients:
+• Fresh asparagus
+• Bacon
+
+Steps:
+1. Wash and trim asparagus spears
+2. Cut bacon strips in half crosswise
+3. Wrap one-half strip bacon around each asparagus spear, leaving
+4. Lay on a cookie sheet with sides
+5. Bake in a preheated 400 degree fahrenheit oven for 20 to 25 minutes, or until bacon is cooked
+6. Serve warm or at room temperature<|endoftext|>

@@ -1,0 +1,15 @@
+Please give me a recipe for fries.<|endoftext|>Herb And Cheese Oven Fries
+
+Ingredients:
+• Potatoes
+• Olive oil
+• Dried italian seasoning
+• Salt and pepper
+• Parmigiano-reggiano cheese
+
+Steps:
+1. Preheat oven to 500 deg
+2. Place sliced potato wedges on a cookie sheet
+3. Drizzle with oil to coat and season with herb seasoning
+4. Roast potatoes and turn after after 15-20 minutes
+5. Sprinkle with cheese liberally on potatoes and roast another 10 minutes<|endoftext|>

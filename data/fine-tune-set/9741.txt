@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: As I got older, I began to feel time goes by so quickly.<|endoftext|>As I got older, I began to feel that time went by so quickly.<|endoftext|>

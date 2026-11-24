@@ -1,0 +1,23 @@
+Give me a recipe for ice cream.<|endoftext|>Apple Nut Crunch With Ice Cream
+
+Ingredients:
+• Egg
+• Vanilla
+• White sugar
+• All-purpose flour
+• Baking powder
+• Cinnamon
+• Apple
+• Walnuts
+• Vanilla ice cream
+
+Steps:
+1. Preheat oven to 350 degrees
+2. Beat the egg and vanilla in a medium mixing bowl
+3. Combine sugar, flour, powder and cinnamon
+4. Add to egg gradually and beat until smooth
+5. Fold in apple and nuts
+6. Spoon into an 8 inch greased pan
+7. Baked for 25 minutes or until center tests done
+8. Cool until still slightly warm
+9. Cut into 9 squares and top each piece with a 1 / 4 cup of ice cream<|endoftext|>

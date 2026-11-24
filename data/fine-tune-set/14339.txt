@@ -1,0 +1,12 @@
+Generate a recipe for beans.<|endoftext|>1 2 3 Black Bean Salsa Dip
+
+Ingredients:
+• Black beans
+• Green chilies
+• Thick & chunky salsa
+• Cumin
+
+Steps:
+1. Combine all ingredients in a bowl and mix well
+2. Refrigerate for several hours to blend flavors
+3. Serve with tortilla chips<|endoftext|>

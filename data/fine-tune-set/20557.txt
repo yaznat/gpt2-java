@@ -1,0 +1,26 @@
+Please generate a casserole recipe.<|endoftext|>Bacon Corn Casserole
+
+Ingredients:
+• Bacon
+• Onions
+• Parsley
+• Butter
+• Plain flour
+• Salt
+• Sour cream
+• Frozen corn
+
+Steps:
+1. Preheat oven to 350 degrees
+2. Cook bacon and crumble
+3. Set aside
+4. Cook onion in butter til transparent
+5. Blend in flour and salt
+6. Add sour cream gradually, keeping texture smooth
+7. Bring mixture to a boil and add corn and parsley
+8. Reduce heat and cook til heated through
+9. Fold in 1 / 2 the bacon
+10. Pour in greased 1 quart baking dish
+11. Garnish with remaining bacon
+12. Cook for 30 minutes
+13. Serve immediately<|endoftext|>

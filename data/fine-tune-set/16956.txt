@@ -1,0 +1,13 @@
+Can you give me a cocktail recipe?<|endoftext|>Bols Amsterdammertje Cocktail
+
+Ingredients:
+• Gin
+• Peach liqueur
+• Cranberry juice
+• Ice
+• Lime wedge
+
+Steps:
+1. Pour the gin and peach liqueur into an ice filled glass
+2. Squeeze lime wedge
+3. Serve and enjoy!<|endoftext|>

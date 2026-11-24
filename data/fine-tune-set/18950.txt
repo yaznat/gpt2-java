@@ -1,0 +1,15 @@
+Please give me a recipe for custard.<|endoftext|>Custard Pie
+
+Ingredients:
+• Pie shells
+• Milk
+• Sugar
+• Eggs
+• Vanilla
+
+Steps:
+1. Preheat oven to 350 degrees
+2. In a medium-sized mixing bowl, mix the sugar, eggs, and vanilla together
+3. Scald the milk
+4. Let milk set until it is just barely warm, then add the sugar mixture
+5. Pour into the pie shell and bake until custard is firm to the touch, approximately 35 minutes<|endoftext|>

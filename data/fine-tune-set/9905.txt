@@ -1,0 +1,1 @@
+Fix grammar in this sentence: Those types just meet the requirements of residential, office and hose needs.<|endoftext|>Those types just meet the requirements of residential, office, and house needs.<|endoftext|>

@@ -1,0 +1,1 @@
+Make the sentence grammatical: They are 83 years old, but they are pretty healthy.<|endoftext|>They are 83 years old but still pretty healthy.<|endoftext|>

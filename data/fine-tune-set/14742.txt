@@ -1,0 +1,19 @@
+Generate a recipe for rice.<|endoftext|>Arroz De Mexico Mexican Rice
+
+Ingredients:
+• Vegetable oil
+• Rice
+• Fat free chicken broth
+• Onion
+• Green bell pepper
+• Frozen peas
+• Mexican-style tomatoes
+• Carrot
+• Garlic salt
+• Cumin
+
+Steps:
+1. Heat oil in a large skillet and saut rice until golden
+2. Add 1 / 2 cup broth, onion and bell pepper and saut for 2 more minutes
+3. Stir in remaining broth, peas, tomatoes, carrot and seasonings
+4. Bring to a boil, reduce heat, cover and simmer for 20 minutes or until broth is absorbed<|endoftext|>

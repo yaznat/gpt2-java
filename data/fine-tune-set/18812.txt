@@ -1,0 +1,20 @@
+Give me a recipe for custard.<|endoftext|>Apple Custard
+
+Ingredients:
+• Apples
+• Sugar
+• Milk
+• Eggs
+• Flour
+• Salt
+• Nutmeg
+
+Steps:
+1. Preheat oven to 350-degrees f
+2. Butter an 8 x 8 baking dish
+3. Roll apples in sugar until they are coated evenly
+4. Place apples close together in prepared dish
+5. Using a blender mix together the remaining ingredients and pour over apples
+6. Sprinkle with nutmeg, if desired
+7. Bake for 30- 40 minutes or until apples are tender
+8. Custard will finish setting while apples are cooling<|endoftext|>

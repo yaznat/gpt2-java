@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: Prior to the automobile, is the horse and wagon life, it is not feasible for people to live far from their place of work.<|endoftext|>Prior to the automobile, the horse and wagon life, it was not feasible for people to live far from their place of work.<|endoftext|>

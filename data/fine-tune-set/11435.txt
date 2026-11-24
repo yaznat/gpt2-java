@@ -1,0 +1,23 @@
+Give me a bread recipe.<|endoftext|>Allspice Orange Nut Bread
+
+Ingredients:
+• Butter
+• Sugar
+• Eggs
+• Orange rind
+• All-purpose flour
+• Baking soda
+• Baking powder
+• Salt
+• Allspice
+• Nuts
+• Orange juice
+
+Steps:
+1. Cream together butter and sugar
+2. Stir in the eggs and orange rind
+3. Combine flour, baking soda, baking powder, salt, allspice, and nuts
+4. Add to creamed mixture alternately with the orange juice
+5. Stir until combined
+6. Pour into a greased and floured 9" x 5" x3" pan
+7. Bake in a preheated 350f oven for approximately 1 hour, or until done<|endoftext|>

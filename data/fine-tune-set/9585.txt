@@ -1,0 +1,1 @@
+Fix grammaticality of the sentence: My favourite teams are Chelsea, Man city, Man united, Real madrid and barcelona.<|endoftext|>My favorite teams are Chelsea, Man City, Man United, Real Madrid, and Barcelona.<|endoftext|>

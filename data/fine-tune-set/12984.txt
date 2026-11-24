@@ -1,0 +1,17 @@
+Generate a recipe for fish.<|endoftext|>Baked Catfish With Cormeal Crust
+
+Ingredients:
+• Catfish fillets
+• Flour
+• Egg
+• Cornmeal
+• Salt
+• Cayenne pepper
+• Lemon wedge
+
+Steps:
+1. Season cornmeal with salt and cayenne
+2. Rinse fish, pat dry
+3. Dredge in flour, then egg, then cornmeal
+4. Bake at 450 on lowest shelf of oven for 10 minutes, turning after 5 minutes
+5. Serve with lemon<|endoftext|>

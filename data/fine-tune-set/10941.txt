@@ -1,0 +1,17 @@
+Give me a salad recipe.<|endoftext|>Aloha Chicken Salad
+
+Ingredients:
+• Chicken
+• Celery
+• Mayonnaise
+• Pineapple chunks
+• Pecans
+• Mandarin oranges
+• Seedless grapes
+• Salt and pepper
+
+Steps:
+1. Combine all ingredients in a large bowl
+2. Toss until well mixed
+3. Chill
+4. Serve on lettuce leaves, if desired<|endoftext|>

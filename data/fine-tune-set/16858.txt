@@ -1,0 +1,12 @@
+Generate a recipe for a milkshake.<|endoftext|>The Peanut Butter Milkshake
+
+Ingredients:
+• Smooth peanut butter
+• Honey
+• Milk
+• Ice cubes
+
+Steps:
+1. Add all ingredients into blender
+2. Blend at high speed until ice cubes disappear
+3. Serve and enjoy!<|endoftext|>

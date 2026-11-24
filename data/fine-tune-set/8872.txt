@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: It was my birthday on 21, July when I was a second-year pupil.<|endoftext|>It was July 21, my birthday, on 21, July when I was a second-year pupil grade student.<|endoftext|>

@@ -1,0 +1,10 @@
+Give me a fries recipe.<|endoftext|>Chili Salt For French Fries
+
+Ingredients:
+• Salt
+• Chili powder
+
+Steps:
+1. Combine equal amounts of ingredients
+2. Pour into an unused salt shaker
+3. Shake onto french fries after they are cooked<|endoftext|>

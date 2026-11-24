@@ -1,0 +1,1 @@
+Fix grammaticality of the sentence: If you want typical souvenirs, you can go to the Buckingham Palace, you will find a lot of small shops that sell souvenirs for a reasonnable price.<|endoftext|>If you want typical souvenirs, you can go to Buckingham Palace; you will find a lot of small shops that sell souvenirs for a reasonable price.<|endoftext|>

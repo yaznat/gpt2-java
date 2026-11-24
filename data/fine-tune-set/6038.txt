@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: The river was flowing down with great noise, and its level was slowly rising up, as it had been happening for the last few days.<|endoftext|>The river was flowing down with great noise, and its level was slowly rising, as had been happening for the last few days.<|endoftext|>

@@ -1,0 +1,1 @@
+Fix grammatical errors: Upon completing the construction of the building, the building goes into the maintenance phase, making the building operational.<|endoftext|>Upon completing the construction of the building, the building went into the maintenance phase, making the building operational.<|endoftext|>

@@ -1,0 +1,19 @@
+Generate a recipe for stir fry.<|endoftext|>Chicken Cashew Stir Fry
+
+Ingredients:
+• Oil
+• Onion
+• Chicken breast fillets
+• Stir fry vegetables
+• Tomato relish
+• Sweet chili sauce
+• Soy sauce
+• Cashew nuts
+
+Steps:
+1. Heat oil in a non-stick wok or large frying pan
+2. Add onion and chicken and cook for 3-4 minutes
+3. Add vegetables and cook a further minute
+4. Add relish, sweet chilli sauce and soy sauce and mix well
+5. Add cashews and stir through
+6. Serve with rice or noodles<|endoftext|>

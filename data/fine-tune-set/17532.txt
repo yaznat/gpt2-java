@@ -1,0 +1,14 @@
+Give me a recipe for coffee.<|endoftext|>Brandy Coffee
+
+Ingredients:
+• Creme de cacao
+• Brandy
+• Espresso
+• Whipping cream
+• Ice
+• Nutmeg
+
+Steps:
+1. In a cocktail shaker place the creme de cacao, brandy, espresso, and whipping cream
+2. Add crushed ice, shake well, and strain into a cocktail glass
+3. Sprinkle grated nutmeg on top and serve<|endoftext|>

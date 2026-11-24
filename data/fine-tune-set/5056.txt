@@ -1,0 +1,1 @@
+Fix grammar in this sentence: One of the overt reasons for weather-related natural disasters is global warming.<|endoftext|>One of the obvious reasons for weather-related natural disasters is global warming.<|endoftext|>

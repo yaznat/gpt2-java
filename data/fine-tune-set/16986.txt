@@ -1,0 +1,13 @@
+Generate a recipe for a cocktail.<|endoftext|>Caribbean Queen Cocktail
+
+Ingredients:
+• Watermelon schnapps
+• Coconut rum
+• Triple sec
+• Orange juice
+• Lemonade
+• Lemon juice
+
+Steps:
+1. Fill glass with handful of ice and add ingredients
+2. Then mix<|endoftext|>

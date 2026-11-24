@@ -1,0 +1,1 @@
+Make the sentence grammatical: Extremadura is in the West of Spain and it has a good weather all year.<|endoftext|>Extremadura is in the West of Spain, and it has good weather all year.<|endoftext|>

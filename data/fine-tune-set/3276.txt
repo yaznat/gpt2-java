@@ -1,0 +1,1 @@
+Make the sentence grammatical: My view is that public transport is good because it has prevent pollution which is good for the public.<|endoftext|>My view is that public transport is good because it has prevented pollution, which is good for the public.<|endoftext|>

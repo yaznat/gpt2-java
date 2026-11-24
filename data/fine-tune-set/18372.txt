@@ -1,0 +1,17 @@
+Give me a recipe for waffles.<|endoftext|>Best Ever Easy Waffles
+
+Ingredients:
+• Flour
+• Baking powder
+• Salt
+• Baking soda
+• Milk
+• Lemon juice
+• Eggs
+• Butter
+
+Steps:
+1. Sift together flour, baking powder, salt, and baking soda
+2. Stir in milk, lemon juice, and melted butter
+3. Stir in beaten egg
+4. Cook on greased waffle iron<|endoftext|>

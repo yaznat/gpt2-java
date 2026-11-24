@@ -1,0 +1,20 @@
+Give me a recipe for brownies.<|endoftext|>Bayou Brownies
+
+Ingredients:
+• Pecans
+• Butter
+• Eggs
+• Yellow cake mix
+• Cream cheese
+• Powdered sugar
+
+Steps:
+1. Combine pecans, butter, 1 egg and cake mix
+2. Stir until well blended
+3. Press into the bottom of a lightly greased 13x9 inch pan
+4. Set aside
+5. Combine remaining 2 eggs, cream cheese and powdered sugar in a large bowl
+6. Beat at medium speed until smooth
+7. Pour cream cheese mixture over cake mix layer
+8. Bake at 325 for 40 minutes or until cheese mixture is set
+9. Let cool completely in pan on wire rack<|endoftext|>

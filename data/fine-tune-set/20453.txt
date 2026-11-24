@@ -1,0 +1,15 @@
+Generate a recipe for a casserole.<|endoftext|>Apple Casserole
+
+Ingredients:
+• Apples
+• Flour
+• Cinnamon
+• Salt
+• Baking soda
+• Egg
+• Pecans
+
+Steps:
+1. Mix all the ingredients together and put in a 9 x 13 inch greased pan
+2. Top with pecans
+3. Bake at 350 degrees fahrenheit for 30 minutes<|endoftext|>

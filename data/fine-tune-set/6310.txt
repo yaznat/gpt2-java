@@ -1,0 +1,1 @@
+Remove all grammatical errors from this text: Certainly the newer models have got an improved technical standard but are pretty much the same.<|endoftext|>Certainly, the newer models have got an improved technical standard are technically improved, but they have pretty much the same functionality.<|endoftext|>

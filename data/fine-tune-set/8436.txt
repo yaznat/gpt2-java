@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: It is obvious that spending more money on development of nuclear power is quite reasonable.<|endoftext|>It is obvious that spending more money on the development of nuclear power is quite reasonable.<|endoftext|>

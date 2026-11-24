@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: We ran all the time to hit opposing team during play.<|endoftext|>We ran all the time to hit the opposing team during play.<|endoftext|>

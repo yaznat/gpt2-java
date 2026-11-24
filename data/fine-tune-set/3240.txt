@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: My university started last monday and some clubs also did.<|endoftext|>My university, as well as some clubs, started last Monday. and some clubs also did<|endoftext|>

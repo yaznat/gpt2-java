@@ -1,0 +1,16 @@
+Give me a recipe for a burrito.<|endoftext|>Beef Cheese Burritos
+
+Ingredients:
+• Ground beef
+• Chunky salsa
+• Velveeta cheese
+• Flour tortillas
+• Lettuce
+• Chopped tomato
+• Black olives
+
+Steps:
+1. In a large skillet, brown ground beef over medium-high heat until no longer pink, pour off fat
+2. Stir in salsa and velveeta and stir until melted
+3. To serve, spoon about 1 / 2 cup beef mixture in center of tortilla and top with choice of toppings
+4. Fold bottom edge up over filling and fold sides to center<|endoftext|>

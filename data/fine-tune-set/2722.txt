@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: Moreover, It was heavy rain then.<|endoftext|>Moreover, it was heavy rain and then raining heavily.<|endoftext|>

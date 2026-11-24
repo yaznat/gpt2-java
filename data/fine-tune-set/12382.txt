@@ -1,0 +1,14 @@
+Please generate a soup recipe.<|endoftext|>Almost Too Easy Potato Chicken Cheese Soup
+
+Ingredients:
+• Au gratin potatoes
+• Milk
+• Chicken
+• Onions
+• Chicken broth
+• Frozen mixed vegetables
+
+Steps:
+1. Mix everything in 4 qt pan
+2. Bring to a boil, stirring
+3. Reduce heat and simmer for 15 minutes or until vegetables are tender<|endoftext|>

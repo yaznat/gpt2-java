@@ -1,0 +1,1 @@
+Fix grammar in the sentence: The hotel handles privacy very well and I can guess most of the guests will appreciate it.<|endoftext|>The hotel handles privacy very well, and I guess most of the guests will appreciate it.<|endoftext|>

@@ -1,0 +1,21 @@
+Generate a recipe for coffee.<|endoftext|>Apple Squares Or Apple Coffee Cake
+
+Ingredients:
+• Sugar
+• Eggs
+• Oil
+• Vanilla
+• Flour
+• Baking soda
+• Cinnamon
+• Salt
+• Apples
+• Walnuts
+
+Steps:
+1. Combine sugar and eggs
+2. Stir in oil and vanilla
+3. Combine flour, baking soda, cinnamon and salt and add to sugar mixture, stirring to combine
+4. Stir in apples and walnuts
+5. Spread evenly in an ungreased 13x9-inch pan
+6. Bake at 375f for 45-50 minutes<|endoftext|>

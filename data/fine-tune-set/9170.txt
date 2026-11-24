@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: Suddenly Micheal opened his eyes and he realized it was just a weird dream.<|endoftext|>Suddenly, Micheal opened his eyes, and he realized it was just a weird dream.<|endoftext|>

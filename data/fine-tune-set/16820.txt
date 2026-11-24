@@ -1,0 +1,11 @@
+Generate a recipe for a milkshake.<|endoftext|>Oreo Milkshake
+
+Ingredients:
+• Biscuits
+• Milk
+• Sugar
+• Vanilla ice cream
+
+Steps:
+1. Chop the oreo biscuits into chunks
+2. Put the milk oreos and sugar in the food pocessor and keep blending for 1 minute<|endoftext|>

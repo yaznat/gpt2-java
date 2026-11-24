@@ -1,0 +1,35 @@
+Please generate a pizza recipe.<|endoftext|>Badda Bing Pizza With Pesto Esque Sauce
+
+Ingredients:
+• Pizza crust
+• Onion
+• Sliced mushrooms
+• Elephant garlic
+• Baby spinach leaves
+• Cheese
+• Tomatoes
+• Black olives
+• Pine nuts
+• Fresh oregano
+• Black pepper
+• Fresh basil leaves
+• Olive oil
+
+Steps:
+1. Prepare the pizza dough as indicated in recipe above, up until the point before baking the dough
+2. Preheat oven to 425 degrees
+3. First, saute the onion, mushrooms and garlic for about 2 minutes or just until softened
+4. Add the spinach and "cook down" for about 2 minutes, but no longer, stirring often
+5. You don't want the spinach slimery or soggy
+6. Set aside to cool slightly
+7. Make the pesto sauce by whirling the ingredients in a blender about 30 seconds
+8. Set aside
+9. Prick the dough in random places all over with fork tines
+10. Begin by spreading the pesto sauce onto the dough, making sure the edges of the dough are covered witht the pesto to avoid drying out
+11. Spread on the sauteed mushroom / spinach mixture and finally add 2 / 3 of the grated cheese
+12. Arrange the tomatoes on top, then the olives, pine nuts, oregano, black pepper, and remaining cheese
+13. Drizzle with a tablespoon of olive oil
+14. Bake in preheated over at 425 degrees for about 18 minutes, turning 1 / 2 turn after 9 minutes for even cooking
+15. Remove from oven and let sit for 5 minutes
+16. Cut up into squares and serve
+17. Cooking time does not include preparing the pizza dough<|endoftext|>

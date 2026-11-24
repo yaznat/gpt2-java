@@ -1,0 +1,19 @@
+Generate a recipe for pie.<|endoftext|>Appetizer Pie
+
+Ingredients:
+• Cream cheese
+• Milk
+• Dried beef
+• Instant minced onion
+• Green pepper
+• Pepper
+• Sour cream
+• Walnuts
+
+Steps:
+1. Blend cream cheese and milk
+2. Stir in other ingredients except walnuts
+3. Spoon in pie plate
+4. Sprinkle with walnuts
+5. Bake at 350 degrees for 15 minutes
+6. Serve with crackers as a spread<|endoftext|>

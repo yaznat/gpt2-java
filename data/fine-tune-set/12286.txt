@@ -1,0 +1,31 @@
+Give me a soup recipe.<|endoftext|>2Bleu S Beef Barley Soup Or Chicken Barley Soup
+
+Ingredients:
+• Olive oil
+• Beef sirloin steak
+• Garlic cloves
+• Beef broth
+• Beef bouillon cubes
+• Tomato sauce
+• Diced tomatoes
+• Pearl barley
+• Dried parsley
+• Basil
+• Crushed red pepper flakes
+• Bay leaf
+• Carrots
+• Celery
+• Onion
+• Fresh mushrooms
+• Salt and black pepper
+
+Steps:
+1. Preparing barley: like all grains, before cooking barley, rinse it thoroughly under running water and then remove any dirt or debris that you may find
+2. In a large dutch oven heat oil over medium heat, add meat and garlic
+3. Cook until meat is browned
+4. Drain if necessary
+5. Stir in remaining ingredients
+6. Bring to a boil, reduce heat and simmer for 1-1 1 / 2 hours, stirring occasionally until barley and carrots are tender and fully cooked
+7. Season to taste with additional salt & black pepper and serve
+8. Pearl barley takes a minimum of 1 hour to cook, whereas hulled barley takes 1
+9. 5 hours or more<|endoftext|>

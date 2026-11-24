@@ -1,0 +1,10 @@
+Please generate a smoothie recipe.<|endoftext|>Blackberry And Banana Smoothie
+
+Ingredients:
+• Orange juice
+• Reduced-fat vanilla yogurt
+• Bananas
+• Frozen blackberrie
+
+Steps:
+1. In a blender combine all the above ingredients<|endoftext|>

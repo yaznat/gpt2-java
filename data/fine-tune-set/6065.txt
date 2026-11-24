@@ -1,0 +1,1 @@
+Fix grammatical mistakes in this sentence: He has been living in Japan for seven years and looks like Japanese because he is very good at Japanese.<|endoftext|>He has been living in Japan for seven years, and he looks Japanese because he is very good at Japanese.<|endoftext|>

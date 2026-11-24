@@ -1,0 +1,14 @@
+Please generate a smoothie recipe.<|endoftext|>Arctic Wastes Smoothie
+
+Ingredients:
+• Peach
+• Blueberries
+• Non-fat vanilla yogurt
+• Pecans
+• Skim milk
+• Salt
+• Vanilla extract
+
+Steps:
+1. Put all ingredients into blender
+2. Blend until smoothie consistency is reached<|endoftext|>

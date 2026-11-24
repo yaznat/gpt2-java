@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: Special function of this umbrella is rotating handle.<|endoftext|>A special function of this umbrella is the rotating handle.<|endoftext|>

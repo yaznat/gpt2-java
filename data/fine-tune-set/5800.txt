@@ -1,0 +1,1 @@
+Fix grammar in this sentence: Now, I don't have mag cap, so I can't drink hot drink.<|endoftext|>Now, I don't have a mug now, cap, so I can't drink hot drinks.<|endoftext|>

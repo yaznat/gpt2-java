@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: Now a lot of people in Japan envy successful man.<|endoftext|>Now a lot of people in Japan envy a successful man.<|endoftext|>

@@ -1,0 +1,18 @@
+Give me a pie recipe.<|endoftext|>Apple Pie French Style
+
+Ingredients:
+• Apples
+• Sugar
+• Cinnamon
+• Ready-made pie crust
+• Flour
+• Brown sugar
+• Butter
+
+Steps:
+1. Pre-heat oven to 400 degrees
+2. Mix sugar, cinnamon, and apples together in a bowl
+3. Pour into pie crust
+4. Make topping by mixing brown sugar and flour together, add butter and mix till crumbly
+5. Sprinkle topping over pie
+6. Place in oven for 45 - 55 minute<|endoftext|>

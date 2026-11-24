@@ -1,0 +1,12 @@
+Please generate a cocktail recipe.<|endoftext|>Authentic Cypriot Taverna Brandy Sour Cocktail
+
+Ingredients:
+• Brandy
+• Lemon cordial
+• Bitters
+• Lemonade
+• Ice
+
+Steps:
+1. Add the angostura bitters to a tall glass, and then pour in the brandy followed by the lemon cordial
+2. Stir before topping up with lemonade or soda water and add plenty of ice<|endoftext|>

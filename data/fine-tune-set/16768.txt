@@ -1,0 +1,12 @@
+Give me a recipe for a milkshake.<|endoftext|>Easy Banana Milkshake
+
+Ingredients:
+• Milk
+• Banana
+• Sugar
+• Ice cubes
+
+Steps:
+1. Pour everything in the blender
+2. Mix in blender for 30 seconds
+3. Pour in your cup<|endoftext|>

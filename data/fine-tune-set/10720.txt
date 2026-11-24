@@ -1,0 +1,16 @@
+Please generate a pasta recipe.<|endoftext|>Bacon And Tomato Pasta
+
+Ingredients:
+• Bacon
+• Cream cheese
+• Milk
+• Cherry tomatoes
+• Parmesan cheese
+• Penne pasta
+
+Steps:
+1. Cook bacon until crisp, then cut bacon into 1 / 2" pieces
+2. Drain bacon grease from skillet, add cherry tomatoes saute 1 minute
+3. Stir in cream cheese & milk, cook until bubbly
+4. Stir in pasta, bacon pieces and parmesan cheese
+5. Top with more parmesan if desired<|endoftext|>

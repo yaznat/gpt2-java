@@ -1,0 +1,18 @@
+Give me a recipe for an omelette.<|endoftext|>Oven Omelette
+
+Ingredients:
+• Eggs
+• Milk
+• Salt
+• Pepper
+• Frozen hash browns
+• Ham
+• Cheddar cheese
+
+Steps:
+1. Beat eggs in a bowl
+2. Add milk salt and pepper
+3. Stir in remaining ingredients till everything is moistened
+4. Pour into greased 9x9-inch baking dish
+5. Bake at 350 for 45 minutes or until set
+6. Serve hot<|endoftext|>

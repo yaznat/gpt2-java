@@ -1,0 +1,1 @@
+Fix grammar in the sentence: The performance of a high quality was as I expected it.<|endoftext|>The high-quality performance of high quality was as I expected it.<|endoftext|>

@@ -1,0 +1,1 @@
+Fix grammatical mistakes in this sentence: The generation IV reactor, lead-coaled fast reactor, is the safest one among the four being proposed.<|endoftext|>The generation IV reactor, the lead-coaled fast reactor, is the safest one among the four being proposed.<|endoftext|>

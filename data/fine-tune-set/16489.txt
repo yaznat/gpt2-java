@@ -1,0 +1,17 @@
+Generate a recipe for a smoothie.<|endoftext|>Afternoon Smoothie
+
+Ingredients:
+• Low-calorie cran-raspberry juice
+• Ice cubes
+• Raspberries
+• Apple
+• Raspberry low-fat yogurt
+• Splenda sugar substitute
+
+Steps:
+1. Put juice and ice cubes in a blender
+2. Mix until ice cubes are completely chopped
+3. Add raspberries and apples
+4. Mix until completely blended
+5. Scoop in yogurt and add splenda
+6. Blend to desired consistency<|endoftext|>

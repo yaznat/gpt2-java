@@ -1,0 +1,18 @@
+Generate a recipe for salad.<|endoftext|>A Salad Of Arugula Rocket Cherry Tomatoes And Sesame Seed
+
+Ingredients:
+• Arugula
+• Cherry tomatoes
+• Toasted sesame seeds
+• Olive oil
+• Red wine
+• Balsamic vinegar
+• Honey
+• Coriander
+
+Steps:
+1. Put the arugula and cherry tomato halves into a large bowl
+2. Keep in refrigerator until ready to serve
+3. Whisk all the dressing ingredients until emulsified and dress the salad
+4. Toss well to coat and distribute amongst 4 salad plates
+5. Sprinkle sesame seeds over top<|endoftext|>

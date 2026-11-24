@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: First of all, public transport provide the experience of the journey.<|endoftext|>First of all, public transport provides the experience of the journey.<|endoftext|>

@@ -1,0 +1,10 @@
+Generate a recipe for a smoothie.<|endoftext|>Banana Nutmeg Smoothie
+
+Ingredients:
+• Banana
+• Milk
+• Honey
+• Nutmeg
+
+Steps:
+1. Combine all the ingredients in a blender and process until smooth<|endoftext|>

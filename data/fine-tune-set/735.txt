@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: I work as freelancer journalist, prepare reports dealing with a whole situation in the city of Jerusalem, and publish my reports in many of the websites.<|endoftext|>I work as a freelancer journalist, preparing reports dealing with the whole situation in the city of Jerusalem, and publish my reports on many websites.<|endoftext|>

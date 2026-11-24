@@ -1,0 +1,12 @@
+Give me a recipe for ice cream.<|endoftext|>Banana Split Ice Cream
+
+Ingredients:
+• Bananas
+• Bing cherry
+• Sliced almonds
+
+Steps:
+1. Break bananas into chunks and place in food processor
+2. Add enough water for the food processor to turn bananas into "ice cream"
+3. Spoon into bowl, add cherries and almonds, and mix
+4. Enjoy!<|endoftext|>

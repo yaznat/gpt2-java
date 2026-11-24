@@ -1,0 +1,17 @@
+Generate a recipe for pizza.<|endoftext|>Bread Machine Whole Wheat Pizza Crust
+
+Ingredients:
+• Warm water
+• Olive oil
+• Honey
+• Whole wheat flour
+• Parmesan cheese
+• Salt
+• Active dry yeast
+
+Steps:
+1. Place ingredients as specified for your bread machine
+2. Use the "dough" cycle
+3. When bread machine is finished, punch down dough and let rest for about 5 minutes
+4. Spread dough on a 14 inch round pizza pan, prick with fork and bake for 10 minutes at 425 degrees
+5. Remove crust and top with your favorite toppings and continue to bake for approximately 20 minutes<|endoftext|>

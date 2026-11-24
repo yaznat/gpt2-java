@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: Before I came to live to Tijuana, I was really nervous because I had to leave everything and because it would be a change in my life.<|endoftext|>Before I came to live in Tijuana, I was really nervous because I had to leave everything and because it would be a change in my life.<|endoftext|>

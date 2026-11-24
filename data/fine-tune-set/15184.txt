@@ -1,0 +1,19 @@
+Please generate a pizza recipe.<|endoftext|>Bbq Pork Pizza
+
+Ingredients:
+• Sweet onion
+• Barbecued pork
+• Whole wheat pizza crust
+• Cheddar cheese
+• Jalapeno pepper
+
+Steps:
+1. Heat oven to 400f
+2. Separated onion into rings
+3. Heat a medium non-stick skillet over medium heat
+4. Add onion rings and cook 3 minutes to soften slightly
+5. Meanwhile, heat container of bbq pork in microwave as package directs for 2 minutes
+6. Lay pizza crust on pizza pan or cookie sheet
+7. Spread with softened onions, bbq pork, and top with cheddar cheese and jalapeo peppers
+8. Bake at 400f for 12 minutes or until pork is heated through and cheese is melted
+9. Cut into wedges and serve hot<|endoftext|>

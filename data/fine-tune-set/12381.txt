@@ -1,0 +1,15 @@
+Please generate a soup recipe.<|endoftext|>Almost Hal S Hearty Vegetable Soup
+
+Ingredients:
+• Carrot
+• Celery
+• Seasoning
+• Diced tomatoes
+• Kidney beans
+• Green beans
+• Whole wheat macaroni
+• Condensed chicken broth
+
+Steps:
+1. Combine all ingredients in a large saucepan and simmer until veggies almost done
+2. Add pasta and continue cooking until pasta tender<|endoftext|>

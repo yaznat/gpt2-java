@@ -1,0 +1,13 @@
+Generate a recipe for chili.<|endoftext|>Bacon Chili Burrito Dogs
+
+Ingredients:
+• 12-inch flour tortilla
+• Beef hot dogs
+• American cheese
+• Chili
+• Bacon
+• Onions
+
+Steps:
+1. Place all ingredients on a flour tortilla in the order listed
+2. Begin rolling-up tightly, folding top and bottom in and over the ingredients to form a sealed envelope<|endoftext|>

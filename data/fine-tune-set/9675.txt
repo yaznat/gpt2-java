@@ -1,0 +1,1 @@
+Remove all grammatical errors from this text: Given the high cost of living in Singapore, the government had provided benefits for the elderly by granting subsidizes on healthcare.<|endoftext|>Given the high cost of living in Singapore, the government has provided benefits for the elderly by granting subsidies on healthcare.<|endoftext|>

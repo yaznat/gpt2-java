@@ -1,0 +1,12 @@
+Give me a recipe for a milkshake.<|endoftext|>Ultimate Banana Milkshake
+
+Ingredients:
+• Milk
+• Bananas
+• Sugar
+• Heavy cream
+
+Steps:
+1. 1 pour everything in the blender
+2. 2 mix in blender for 30 seconds
+3. 3 pour in your cup<|endoftext|>

@@ -1,0 +1,16 @@
+Please give me a recipe for salad.<|endoftext|>4 Bean Salad
+
+Ingredients:
+• Dark red kidney beans
+• Garbanzo beans
+• Wax bean
+• Green beans
+• Celery
+• Onion
+• Italian dressing
+
+Steps:
+1. Drain and rinse kidney and garbanzo beans in colander
+2. Follow with green and wax beans
+3. Chop celery and onion, add to colander and toss to mix
+4. Empty bean mixture into bowl and pour dressing over<|endoftext|>

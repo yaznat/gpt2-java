@@ -1,0 +1,22 @@
+Please generate a soup recipe.<|endoftext|>Allergen Free Soup Base Previously Called Gluten Free Mushroom
+
+Ingredients:
+• Onion
+• Butter
+• Fresh mushrooms
+• Cornstarch
+• Rice flour
+• Chicken broth
+• Evaporated milk
+• Salt
+• Pepper
+
+Steps:
+1. In a large saucepan, saut onion in butter until tender
+2. Add mushrooms and saut until tender
+3. Combine flour and broth until smooth, stir into the mushroom mixture
+4. Bring to a boil
+5. Cook and stir for 2 minute or until thickened
+6. Reduce heat
+7. Stir in the cream, salt and pepper
+8. Simmer, uncovered, for 15 minutes, stirring often<|endoftext|>

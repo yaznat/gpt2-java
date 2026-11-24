@@ -1,0 +1,1 @@
+Make the sentence grammatical: He did not order and drink even any water I served.<|endoftext|>He did not order or drink even any water I served him.<|endoftext|>

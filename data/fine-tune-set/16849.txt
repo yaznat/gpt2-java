@@ -1,0 +1,13 @@
+Generate a recipe for a milkshake.<|endoftext|>Strawberry Banana Milkshake
+
+Ingredients:
+• Strawberry yogurt
+• Banana
+• Low-fat milk
+• Strawberry
+
+Steps:
+1. 1
+2. Place all ingredients in a blender, or bar mixer
+3. 2
+4. Mix<|endoftext|>

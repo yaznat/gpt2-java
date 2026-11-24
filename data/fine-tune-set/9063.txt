@@ -1,0 +1,1 @@
+Fix grammar in this sentence: Through the use of wireless communication, soldiers were able to communicate with each other swiftly and with 100% accuracy when information was passed around.<|endoftext|>Through the use of wireless communication, soldiers were able to communicate with one another swiftly and with 100% accuracy when information was being passed around.<|endoftext|>

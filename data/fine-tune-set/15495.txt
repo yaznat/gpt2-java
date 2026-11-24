@@ -1,0 +1,20 @@
+What's a good burger recipe?<|endoftext|>Barley Burger Stew For 2
+
+Ingredients:
+• Lean ground beef
+• Onion
+• Celery
+• Tomato juice
+• Water
+• Pearl barley
+• Chili powder
+• Salt
+• Pepper
+
+Steps:
+1. In saucepan, cook beef, onion, and celery until no longer pink
+2. Drain
+3. Stir in tomato juice, water, barley, chili powder, salt, and pepper
+4. Bring to a boil
+5. Reduce heat
+6. Cover and simmer 50-60 minutes or until barley is tender<|endoftext|>

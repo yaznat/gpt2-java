@@ -1,0 +1,24 @@
+Please generate a brownie recipe.<|endoftext|>Artpark Brownies
+
+Ingredients:
+• Butter
+• Unsweetened chocolate
+• Vanilla
+• Eggs
+• Salt
+• Sugar
+• Flour
+
+Steps:
+1. Preheat oven to 400 degrees
+2. Butter and flour a 9-inch square baking pan
+3. Melt butter and chocolate in a double boiler over boiling water
+4. Remove from heat and add vanilla
+5. Beat eggs and salt in a mixer, add sugar at high speed and beat for 10 minutes until mixture looks white
+6. Add chocolate / butter mixture to the eggs just until blended
+7. Add flour and mix just until it is combined and you dont see any white streaks
+8. Pour in prepared pan and put in oven
+9. Immediately reduce heat to 350 degrees and bake for 40 minutes
+10. Prick with a toothpick to test for "doneness" it should not be quite clean when you pull the tooth pick out
+11. Be careful to not over bake the brownies are fudge-like, not cake-like
+12. Important: cool completely before cutting<|endoftext|>

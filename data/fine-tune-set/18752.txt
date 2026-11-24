@@ -1,0 +1,14 @@
+Please generate a pudding recipe.<|endoftext|>Banana Rice Pudding
+
+Ingredients:
+• Cooked rice
+• Sugar
+• Whipping cream
+• Firm banana
+• Of fresh mint
+
+Steps:
+1. In a bowl, combine rice and sugar and mix well
+2. Cool completely, then fold in whipped cream and banana
+3. Cover and refrigerate until ready to serve
+4. Spoon into serving dishes and garnish with mint<|endoftext|>

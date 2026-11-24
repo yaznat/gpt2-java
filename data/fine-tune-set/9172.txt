@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: A few days ago, suddenly the running water came back.<|endoftext|>A few days ago, the running water suddenly came back.<|endoftext|>

@@ -1,0 +1,1 @@
+Improve the grammar of this text: He's a little bit lazy but loves to run fast, so he is lazy in a smart way.<|endoftext|>He's a little bit lazy, but he loves to run fast, so he is lazy in a smart way.<|endoftext|>

@@ -1,0 +1,1 @@
+Make the sentence grammatical: The most common method of power generation for close to 150 years requires the burning of fossil fuels such as oil or coal.<|endoftext|>The most common method of power generation for close to 150 years is the burning of fossil fuels such as oil or coal.<|endoftext|>

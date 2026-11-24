@@ -1,0 +1,19 @@
+Please generate a pizza recipe.<|endoftext|>Amy S Upside Down Pizza
+
+Ingredients:
+• Ground chuck
+• Onion
+• Garlic
+• Spaghetti sauce
+• Mozzarella cheese
+• Parmesan cheese
+• Crescent rolls
+
+Steps:
+1. Preheat oven to 350
+2. Brown ground chuck, onion and garlic in large skillet
+3. Drain and stir in spaghetti sauce
+4. In 9 x 13 dish, spread a layer of sauce and top with half of cheeses
+5. Then spread remaining sauce and the rest of the cheese
+6. Top with crescent rolls, and pinch seams to form a crust
+7. Bake 20 to 30 minutes, or until crust is golden brown<|endoftext|>

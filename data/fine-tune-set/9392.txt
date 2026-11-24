@@ -1,0 +1,1 @@
+Improve the grammar of this text: For instance, my friends once bought a nice scruff with cute animal figure in a small store and I really like it after she showed me.<|endoftext|>For instance, my friend once bought a nice scruff with a cute animal figure in a small store, and I really liked it after she showed me.<|endoftext|>

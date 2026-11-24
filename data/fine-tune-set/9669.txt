@@ -1,0 +1,1 @@
+Remove all grammatical errors from this text: He is wise and brave, because he was not scared to teach me although he is not a teacher.<|endoftext|>He is wise and brave because he was not scared to teach me, although he is not a teacher.<|endoftext|>

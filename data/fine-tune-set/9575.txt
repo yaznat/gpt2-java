@@ -1,0 +1,1 @@
+Fix grammar in the sentence: The next moment, suddenly TV program had been changed into a breaking news, and that image was struck into my eyes.<|endoftext|>The next moment, Suddenly, the TV program had been changed to breaking news, and that image was struck into my eyes.<|endoftext|>

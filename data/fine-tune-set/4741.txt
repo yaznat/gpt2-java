@@ -1,0 +1,1 @@
+Fix grammar in the sentence: In winter we have some games every two weeks, where our friends are visitors.<|endoftext|>In winter, we have some games every two weeks, where our friends are visitors.<|endoftext|>

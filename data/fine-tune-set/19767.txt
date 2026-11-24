@@ -1,0 +1,17 @@
+Please generate a fries recipe.<|endoftext|>Cilantro Fries
+
+Ingredients:
+• Cooking spray
+• Fresh cilantro
+• Garlic cloves
+• Steak-style french fries
+• Olive oil
+• Kosher salt
+
+Steps:
+1. Preheat the oven to 450 degrees f
+2. Grease a baking sheet with nonstick cooking spray
+3. Combine the cilantro and garlic in a food processor and process until combined
+4. Toss the potato wedges with the cilantro-garlic mixture and the olive oil, coating evenly
+5. Spread the potatoes wedges onto the prepared baking sheet and bake for 20 minutes, flipping the potatoes after 10 minutes to crisp on the other side
+6. Season the potatoes with the salt and serve<|endoftext|>

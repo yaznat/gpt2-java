@@ -1,0 +1,16 @@
+Can you give me a tea recipe?<|endoftext|>Autumn Tea
+
+Ingredients:
+• Tea bags
+• Boiling water
+• Unsweetened apple juice
+• Cranberry juice
+• Sugar
+• Lemon juice
+
+Steps:
+1. Place the tea bags in a large heat-proof bowl and add the boiling water
+2. Cover and steep for 8 minutes
+3. Discard tea bags
+4. Add the remaining ingredients to tea and stir until sugar is dissolved
+5. Serve warm or cold<|endoftext|>

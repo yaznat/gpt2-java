@@ -1,0 +1,29 @@
+Generate a recipe for a burger.<|endoftext|>Baked Hamburger Casserole
+
+Ingredients:
+• Ground beef
+• Onion
+• Salt
+• Pepper
+• Croutons
+• Corn
+• Tomato sauce
+• Mozzarella cheese
+• Eggs
+• Milk
+• Italian seasoning
+
+Steps:
+1. Preheat oven to 325 degrees f
+2. In a large frying pan brown the ground beef with the chopped onion
+3. Drain grease
+4. Season with salt and pepper to taste
+5. Place half of the croutons in the bottom of a large baking dish
+6. Mix the tomato sauce and the corn with the meat mixture
+7. Spoon meat mixture evenly over the croutons in baking dish
+8. Top with the mozzarella cheese
+9. Spread remaining croutons on top
+10. In a medium bowl, beat eggs slightly
+11. Mix milk and italian seasoning into eggs
+12. Pour the milk / egg mixture over the croutons / meat mixture
+13. Cover dish with foil and bake for 1 hour<|endoftext|>

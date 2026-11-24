@@ -1,0 +1,1 @@
+Make the sentence grammatical: Moreover, if power from six nuclear reactors is used in Australia instead of fossil fuels, the greenhouse emission in Australia alone would reduce by 4%.<|endoftext|>Moreover, if power from six nuclear reactors is used in Australia instead of fossil fuels, the greenhouse emission in Australia alone would be reduced by 4%.<|endoftext|>

@@ -1,0 +1,1 @@
+Fix grammaticality of the sentence: I am studying abroad from Japan and having a homestay in America.<|endoftext|>I am studying abroad in Japan and having a homestay in America.<|endoftext|>

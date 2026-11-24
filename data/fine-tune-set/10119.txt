@@ -1,0 +1,15 @@
+Give me a chili recipe.<|endoftext|>Award Winning Texas Chili
+
+Ingredients:
+• Ground venison
+• Onion
+• Garlic
+• Salt and pepper
+• Tomato sauce
+• Chili powder
+• Water
+
+Steps:
+1. Brown the first 4 ingredients in heavy cooking pot
+2. Add the last three ingredients and then heat to a hard fast boil
+3. Turn down and simmer for 45 minutes<|endoftext|>

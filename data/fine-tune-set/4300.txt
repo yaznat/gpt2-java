@@ -1,0 +1,1 @@
+Fix the grammar mistakes: Is cheaper to travel by bus but it is not very safe, you need to take a taxi, is a bit more expensive but is much safer.<|endoftext|>It's cheaper to travel by bus, but it is not very safe, so you need to take a taxi. It is a bit more expensive but it is much safer.<|endoftext|>

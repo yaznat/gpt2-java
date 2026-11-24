@@ -1,0 +1,14 @@
+Generate a recipe for donuts.<|endoftext|>Easy Baked Donuts
+
+Ingredients:
+• Country biscuits
+• Butter
+• Sugar
+• Cinnamon
+
+Steps:
+1. Mix cinnamon and sugar together to make cinnamon / sugar mixture
+2. Cut a hole in the center of each biscuit, set center portions aside
+3. Dip biscuits into butter and then into the cinnamon / sugar mixture, place on non-greased baking sheet
+4. Dip holes into butter and into sugar / cinnamon mixture, place on non-greased baking sheet
+5. Bake at 375 degrees for 10-12 minutes or until donuts are golden brown<|endoftext|>

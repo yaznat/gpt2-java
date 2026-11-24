@@ -1,0 +1,27 @@
+Please generate a salad recipe.<|endoftext|>Meal In A Bowl Guacamole Salad
+
+Ingredients:
+• Lettuce
+• Tomatoes
+• Pitted ripe olives
+• Green onion
+• Corn chips
+• Tuna
+• Cheddar cheese
+• Avocado
+• Lemon juice
+• Sour cream
+• Salad oil
+• Garlic clove
+• Sugar
+• Chili powder
+• Salt
+• Tabasco sauce
+
+Steps:
+1. To make the salad: have all ingredients chilled
+2. Break the lettuce into a serving bowl
+3. Add other ingredients except cheese
+4. Toss lightly with avocado dressing
+5. Top with grated cheese
+6. To make the avocado dressing: put all ingredients in the blender and blend well<|endoftext|>

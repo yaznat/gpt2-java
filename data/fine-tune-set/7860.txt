@@ -1,0 +1,1 @@
+Fix grammaticality of the sentence: I am a lucky, because I could get my bonus if it was less than last year.<|endoftext|>I am lucky because I could get my bonus if though it was less than last year.<|endoftext|>

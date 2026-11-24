@@ -1,0 +1,16 @@
+Give me a burger recipe.<|endoftext|>Almond Burgers
+
+Ingredients:
+• Ground almonds
+• Tahini
+• Onion
+• Carrot
+• Tamari
+• Lemon, juice of
+
+Steps:
+1. Mix together the almonds, tahini, onion and carrot in a bowl
+2. Stir in half the tamari and half of the lemon juice
+3. If mixture seems dry, add up to the remaining half of each ingredient until the mixture holds together in patty form, but is not sloppy
+4. Form 6 patties and fry in a little oil or broil until golden brown and a bit crispy
+5. Serve on a roll or in a pita pocket with your favorite condiments<|endoftext|>

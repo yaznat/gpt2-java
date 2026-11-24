@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: Apart from that, there are also many studies in different aspect such as architecture and psychology that are helpful to the elderly.<|endoftext|>Apart from that, there are also many studies in different fields, such as architecture and psychology, that are helpful to the elderly.<|endoftext|>

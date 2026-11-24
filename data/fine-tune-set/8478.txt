@@ -1,0 +1,1 @@
+Fix grammar in this sentence: In addition, I am sure that I can contribute my extensive knowledge of computers and Japanese skill to your company.<|endoftext|>In addition, I am sure that I can contribute my extensive knowledge of computers and my Japanese skills to your company.<|endoftext|>

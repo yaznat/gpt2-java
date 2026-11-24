@@ -1,0 +1,1 @@
+Fix grammar in this sentence: Not only can it save time but also can be operated in a safer manner.<|endoftext|>Not only can it save time, but it also can be operated in a safer manner.<|endoftext|>

@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: The educational system is based more towards theory and not practical.<|endoftext|>The educational system is based more on theory and not practical.<|endoftext|>

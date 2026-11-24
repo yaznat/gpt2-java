@@ -1,0 +1,13 @@
+Please generate a smoothie recipe.<|endoftext|>Banana Honey Soymilk Smoothie
+
+Ingredients:
+• Bananas
+• Soymilk lite
+• Ice cube
+• Honey
+• Vanilla extract
+
+Steps:
+1. Combine all ingredients in blender
+2. Blend until smooth
+3. Pour into 2 glasses and serve immediately<|endoftext|>

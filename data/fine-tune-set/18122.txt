@@ -1,0 +1,19 @@
+Give me a recipe for pancakes.<|endoftext|>Apple Cider Pancakes
+
+Ingredients:
+• Oat flour
+• All-purpose flour
+• Whole wheat flour
+• Baking powder
+• Sugar
+• Salt
+• Eggs
+• Apple cider
+• Canola oil
+• Apples
+
+Steps:
+1. Combine flours, baking powder, sugar, and salt
+2. Combine eggs, apple cider, oil, and apples then mix with dry ingredients just until moistened
+3. Spray hot griddle with cooking spray, ladle 1 / 4 cup batter onto griddle, cook until bubbles form on top, flip, continue cooking until golden
+4. Serve with cardamom cider syrup<|endoftext|>

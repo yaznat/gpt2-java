@@ -1,0 +1,1 @@
+Fix grammar in this sentence: Besides, they believe that this lifestyle is one of the easiest ways to earn an astronomical amount of money.<|endoftext|>Besides, the children believe that this lifestyle is one of the easiest ways to earn an astronomical amount of money.<|endoftext|>

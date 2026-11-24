@@ -1,0 +1,16 @@
+Generate a recipe for a milkshake.<|endoftext|>Bailey S Milkshake
+
+Ingredients:
+• Baileys irish cream
+• Vanilla ice cream
+• Milk
+• Ice cube
+• Red cherries
+• Mint leaf
+• Chocolate syrup
+
+Steps:
+1. Crush ice cubes in blender
+2. Add baileys irish cream, ice-cream and milk, process until foamy and well-combined
+3. Pour into 2 tall glasses, top with a cherry and some mint leaves
+4. If you like, drizzle chocolate sauce on top and serve immediately<|endoftext|>

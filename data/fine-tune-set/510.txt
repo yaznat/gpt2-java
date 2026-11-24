@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: Then I learned driving, I was fitted two artificial teeth by the dentist.<|endoftext|>Then I learned to drive; I was fitted with two artificial teeth by the dentist.<|endoftext|>

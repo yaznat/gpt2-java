@@ -1,0 +1,23 @@
+Generate a recipe for a taco.<|endoftext|>California Tacos
+
+Ingredients:
+• Ground beef
+• Onion
+• Garlic clove
+• Salt
+• Pepper
+• Tomato sauce
+• Water
+• Tomato paste
+• Chili powder
+• Sugar
+• Oregano
+• Cumin
+• Rice
+
+Steps:
+1. Brown ground beef with the onion, garlic, salt and pepper until red is gone
+2. Add the rest of the ingredients except the rice and simmer uncovered 30 minutes
+3. Add 2 / 3 cup minute rice
+4. Cover and simmer 3-5 minutes
+5. Serve over corn or tortilla chips and top with cheese, letuce, tomato, onions or whatever you would like<|endoftext|>

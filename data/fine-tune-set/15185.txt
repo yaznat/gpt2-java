@@ -1,0 +1,23 @@
+Give me a pizza recipe.<|endoftext|>Bbq Smokie Pizza
+
+Ingredients:
+• Prepared pizza crust
+• Barbecue sauce
+• Little smokies sausages
+• Pre-shredded mozzarella cheese
+• O'brien frozen potatoes
+• Tomatoes
+• Onion
+• Green pepper
+
+Steps:
+1. Prepare pizza crust according to directions
+2. Preheat oven to 425f
+3. Cook potatoes according to directions until almost done
+4. Spread half the bbq sauce on each pizza
+5. Cut little smokies into quarters and disperse over pizzas
+6. Disperse potatoes and any additional toppings
+7. Top with cheese
+8. A
+9. Cook pizza in oven for 12-15 minutes or until cheese is bubbly
+10. Adjust time and / or as needed according to pizza dough recipe if making from scratch<|endoftext|>

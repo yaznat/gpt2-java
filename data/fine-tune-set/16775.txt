@@ -1,0 +1,9 @@
+Give me a milkshake recipe.<|endoftext|>Fat Free Chocolate Milkshake
+
+Ingredients:
+• Fat-free chocolate pudding
+• Skim milk
+
+Steps:
+1. Mix the chocolate pudding and skim milk together
+2. Blend using a hand mixer or blender<|endoftext|>

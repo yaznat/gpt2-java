@@ -1,0 +1,15 @@
+Give me a recipe for ice cream.<|endoftext|>Banana Marshmallow Ice Cream Still Freeze
+
+Ingredients:
+• Milk
+• Marshmallows
+• Sugar
+• Bananas
+• Fresh lemon juice
+• Heavy cream
+
+Steps:
+1. In an electric blender, combine milk, marshmallows, sugar, sliced bananas and lemon juice
+2. Blend on high speed
+3. Whip heavy cream and then stir cream into blended banana mixture
+4. Still-freeze<|endoftext|>

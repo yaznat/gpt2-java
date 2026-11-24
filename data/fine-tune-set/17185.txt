@@ -1,0 +1,11 @@
+Generate a recipe for tea.<|endoftext|>Amaretto Tea
+
+Ingredients:
+• Tea
+• Amaretto
+• Whipped cream
+
+Steps:
+1. Pour hot tea into a pousse-cafe glass, using a spoon in glass to prevent cracking
+2. Add amaretto, but do not stir
+3. Op with chilled whipped cream and serve<|endoftext|>

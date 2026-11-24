@@ -1,0 +1,1 @@
+Fix grammar in this sentence: Many talented people are supporting Indian economy.<|endoftext|>Many talented people are supporting the Indian economy.<|endoftext|>

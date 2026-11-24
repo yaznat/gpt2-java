@@ -1,0 +1,11 @@
+Give me a recipe for a smoothie.<|endoftext|>Basic Smoothie Recipe
+
+Ingredients:
+• Yogurt
+• Frozen fruit
+• Juice
+• Ice cube
+
+Steps:
+1. Put ingredients in blender and blend until smooth
+2. Pour and enjoy!<|endoftext|>

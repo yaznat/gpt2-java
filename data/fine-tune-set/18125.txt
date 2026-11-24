@@ -1,0 +1,13 @@
+Give me a recipe for pancakes.<|endoftext|>Apple Cinnamon Pancake Syrup
+
+Ingredients:
+• Apple juice
+• Sugar
+• Ground cinnamon
+• Vanilla extract
+
+Steps:
+1. Bring apple juice almost to a boil and stir in sugar
+2. Lower heat to a simmer
+3. Stir and simmer until sugar is dissolved
+4. Add the cinnamon and vanilla extract and continue to simmer for one more minute<|endoftext|>

@@ -1,0 +1,14 @@
+Generate a recipe for coffee.<|endoftext|>Banana Coffee Shake
+
+Ingredients:
+• Vanilla ice cream
+• Coffee
+• Banana
+• Sugar
+• Chocolate shavings
+• Whipped cream
+
+Steps:
+1. Process the first three ingredients in a blender until smooth and thick
+2. Add sugar if desired
+3. Pour into 2 glasses and garnish with shaved chocolate and whipped cream, if desired<|endoftext|>

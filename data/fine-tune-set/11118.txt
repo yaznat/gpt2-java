@@ -1,0 +1,16 @@
+What's a recipe for a sandwich?<|endoftext|>Bacon And Bean Sandwich
+
+Ingredients:
+• Bread
+• Pork and beans
+• Bacon
+• Onions
+• American cheese
+
+Steps:
+1. Pre-heat oven to 350f
+2. Place toast on an ungreased baking sheet
+3. Spread each slice with 3 tablespoons pork and beans
+4. Top each slice with 2 strips of bacon
+5. Place a few onion rings and a slice of cheese on each piece of toast
+6. Bake at 350f for 15-20 minutes or until cheese is melted and lightly brown<|endoftext|>

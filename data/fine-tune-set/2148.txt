@@ -1,0 +1,1 @@
+Fix grammaticality of the sentence: Tom was so happy because he finally won the prize.<|endoftext|>Tom was so happy because he had finally won the prize.<|endoftext|>

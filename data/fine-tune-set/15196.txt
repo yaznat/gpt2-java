@@ -1,0 +1,26 @@
+Give me a recipe for pizza.<|endoftext|>Beefy Pizza Casserole
+
+Ingredients:
+• Ground beef
+• Onions
+• Green bell pepper
+• Dried italian seasoning
+• All-purpose flour
+• Tomato and basil pasta sauce
+• Mozzarella cheese
+• Prepared pizza crust
+• Olive oil
+• Parmesan cheese
+
+Steps:
+1. In a large skillet over medium-high heat, cook the first 3 ingredients and 3 teaspoons italian seasoning, stirring until the beef crumbles and is no longer pink
+2. Drain well and return to skillet
+3. Add flour to mixture in skillet
+4. Stir until blended
+5. Stir in spaghetti sauce
+6. Bring mixture to a boil over med-high heat, stirring constantly
+7. Spoon mixture into a lightly greased 13x9 inch baking dish
+8. Sprinkle evenly with 1 1 / 2 cups mozzarella cheese
+9. Unroll pizza crust and place on top of cheese
+10. Brush with olive oil, and sprinkle evenly with remaining mozzarella cheese, parmesan cheese, and remaining italian seasoning
+11. Bake in a 425 oven for 15-20 minutes or until golden brown<|endoftext|>

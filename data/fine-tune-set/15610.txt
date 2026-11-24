@@ -1,0 +1,19 @@
+Can you give me a taco recipe?<|endoftext|>Beef Taco Bake
+
+Ingredients:
+• Ground beef
+• Condensed tomato soup
+• Salsa
+• Milk
+• Flour tortillas
+• Cheddar cheese
+
+Steps:
+1. Brown the ground beef in a medium skillet over medium-high heat
+2. Stir to separate meat
+3. Pour off fat
+4. Add and mix soup, salsa, milk, tortillas and half the cheese
+5. Spoon into 2-quart shallow baking dish
+6. Cover
+7. Bake at 400f for 30 minutes or until hot
+8. Sprinkle with remaining cheese<|endoftext|>

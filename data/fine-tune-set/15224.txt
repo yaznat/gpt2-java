@@ -1,0 +1,22 @@
+Give me a recipe for pizza.<|endoftext|>Blt Ranch Salad Pizza Pampered Chef
+
+Ingredients:
+• Pillsbury refrigerated classic pizza crust
+• Iceberg lettuce
+• Plum tomatoes
+• Cream cheese
+• Ranch dressing
+• Garlic clove
+• Cheddar cheese
+• Olive
+• Onion
+• Bacon
+
+Steps:
+1. Bake crust according to instructions
+2. Cool completely
+3. Combine cream cheese, 1 / 4 cup ranch dressing & garlic
+4. Spread evenly over crust
+5. Top with lettuce, tomatoes, cheese, olives, onion & bacon
+6. Drizzle with remaining dressing
+7. Serve!<|endoftext|>

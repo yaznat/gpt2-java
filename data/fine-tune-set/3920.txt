@@ -1,0 +1,1 @@
+Fix grammar in this sentence: The castle is very big and you will need some hours to visit it.<|endoftext|>The castle is very big, and you will need several hours to visit it.<|endoftext|>

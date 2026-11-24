@@ -1,0 +1,1 @@
+Make the sentence grammatical: In particular I'm terrible at articles because Japanese has no counterparts.<|endoftext|>In particular, I'm terrible at articles because Japanese has no counterpart for them.<|endoftext|>

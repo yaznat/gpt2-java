@@ -1,0 +1,13 @@
+Generate a recipe for bread.<|endoftext|>100 Spelt Bread Bread Machine
+
+Ingredients:
+• Almond milk
+• Olive oil
+• Brown sugar
+• Salt
+• Spelt flour
+• Bread machine yeast
+
+Steps:
+1. Please ingredients in loaf pan in order suggested by manufacturer
+2. Set to rapid bake, light crust<|endoftext|>

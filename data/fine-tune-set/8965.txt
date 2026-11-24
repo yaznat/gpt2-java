@@ -1,0 +1,1 @@
+Fix grammar in the sentence: Thus post-it note was invented from this idea.<|endoftext|>Thus the post-it note was invented from this idea.<|endoftext|>

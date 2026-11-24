@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: However, whether a carrier of such disease is obligated to tell his or her relatives has become a great concern since a last few years.<|endoftext|>However, whether a carrier of such disease is obligated to tell his or her relatives has become a great concern in the last few years.<|endoftext|>

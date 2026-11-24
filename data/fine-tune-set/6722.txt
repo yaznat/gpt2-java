@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: The show seems difficult, the characters always have to face the situations which is uneasy to solve, but practically, this show is a soap opera in hospital.<|endoftext|>The show seems difficult, the characters always have to face situations that are not easy to solve, but practically, this show is a soap opera in a hospital.<|endoftext|>

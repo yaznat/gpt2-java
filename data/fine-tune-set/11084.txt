@@ -1,0 +1,12 @@
+Give me a recipe for a sandwich.<|endoftext|>Avocado And Sprout Sandwiches
+
+Ingredients:
+• Bread
+• Avocado
+• Tomatoes
+• Cheese
+• Sunflower sprouts
+• Red onion
+
+Steps:
+1. Layer the ingredients on one slice of bread, top with the other slice, cut and eat<|endoftext|>

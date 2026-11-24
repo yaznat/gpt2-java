@@ -1,0 +1,22 @@
+Generate a recipe for pancakes.<|endoftext|>Awesome Apple And Cinnamon Pancakes
+
+Ingredients:
+• Flour
+• Baking powder
+• Salt
+• Cinnamon
+• Eggs
+• Apple juice
+• Applesauce
+• Liquid honey
+• Butter
+• Oil
+
+Steps:
+1. In a bowl, mix first 4 ingredients
+2. In another bowl, whisk together the remaining ingredients, except the oil
+3. Stir the egg / apple mixture into the dry ingredients
+4. Mix well, until smooth
+5. Warm a skillet
+6. When skillet is hot, add approx 1 / 4 cup batter
+7. Cook until pancake until golden<|endoftext|>

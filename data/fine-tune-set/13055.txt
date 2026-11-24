@@ -1,0 +1,15 @@
+Generate a recipe for fish.<|endoftext|>Barbecue Fish Marinade
+
+Ingredients:
+• Soy sauce
+• Lime juice
+• White vinegar
+• Olive oil
+• Pepper
+• Salt
+• Sesame seeds
+• Minced garlic clove
+
+Steps:
+1. Whisk together all ingredients
+2. Marinate fish for at least 1 hour before cooking<|endoftext|>

@@ -1,0 +1,19 @@
+Please generate a burrito recipe.<|endoftext|>Chicken Burrito Bundles
+
+Ingredients:
+• Chicken breasts
+• Taco seasoning
+• Refried beans
+• Flour tortillas
+• Cheddar cheese
+• Roma tomatoes
+
+Steps:
+1. Preheat oven to 350 degrees
+2. Place chicken and taco seasoning in a large zip lock bag and shake to coat chicken
+3. Place a tortilla on flata surface and spread beans down center of tortilla
+4. Top with chicken, cheese, onions, and tomatoes
+5. Roll up and wrap in foil
+6. Repeat for each tortilla
+7. Bake packets for 15 minutes
+8. Serve with sour cream, guacamole, and salsa<|endoftext|>

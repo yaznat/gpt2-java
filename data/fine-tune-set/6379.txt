@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: I usually travel by public transport and it is the half of the cost than if I do it by car.<|endoftext|>I usually travel by public transport, and it is half of the cost if I do it by car.<|endoftext|>

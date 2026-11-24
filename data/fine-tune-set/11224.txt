@@ -1,0 +1,16 @@
+Can you give me a sushi recipe?<|endoftext|>Boston Roll Sushi
+
+Ingredients:
+• Nori
+• Sushi rice
+• Avocado
+• Cucumber
+• Shrimp
+• Tobiko
+
+Steps:
+1. Slice the avocado and cucumber into long, thin slices
+2. Roll the sushi inside-out, using avocado, cucumber, and shrimp as your fillings
+3. Before cutting the sushi into pieces, spoon the masago over the sushi roll to coat
+4. Now cut the sushi into 6 or 8 pieces
+5. Serve with shoyu, wasabi, and ginger if desired<|endoftext|>

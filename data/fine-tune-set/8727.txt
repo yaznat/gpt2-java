@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: In conclusion, I would say that a recent graduate would be a great asset for our company as they accomplished our targets.<|endoftext|>In conclusion, I would say that a recent graduate would be a great asset to our company as they will accomplish our targets.<|endoftext|>

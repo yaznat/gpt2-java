@@ -1,0 +1,16 @@
+Please generate a donut recipe.<|endoftext|>Dunkin Donuts Coffee Coolatta
+
+Ingredients:
+• Strong coffee
+• Milk
+• Sugar
+• Chocolate syrup
+• Hazelnut syrup
+• Vanilla extract
+• Almond extract
+• Ice
+
+Steps:
+1. Brew strong coffee by brewing twice the amount required by your coffee maker - chill
+2. Combine all ingredients except ice in blender and blend for 2 minutes on low to blend sugar
+3. Add ice, blend on high until ice is dissolved and drink is smooth<|endoftext|>

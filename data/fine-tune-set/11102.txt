@@ -1,0 +1,23 @@
+Give me a recipe for a sandwich.<|endoftext|>Awesome Garlic Chicken Sandwich
+
+Ingredients:
+• Chicken breasts
+• Buns
+• Garlic powder
+• Butter
+• Parsley
+• Tomatoes
+• Lettuce
+• Mayonnaise
+• Black olives
+• Salt
+
+Steps:
+1. Heat the oven to broil
+2. Cut the crusty buns in half
+3. Place the butter / margarine in a small bowl
+4. Mix the garlic powder and parsley into it
+5. Spread the garlic butter mixture on the crusty buns
+6. Toast the buns under the broiler for a couple of minutes, until golden brown
+7. Remove and layer the chicken, tomatoes, lettuce, olives and mayo onto the buns
+8. Enjoy while still warm!<|endoftext|>

@@ -1,0 +1,13 @@
+Please give me a recipe for a taco.<|endoftext|>Awesome Taco Dip
+
+Ingredients:
+• Light cream cheese
+• Refried beans
+• Green chilies
+• Picante sauce
+• Monterey jack cheese
+
+Steps:
+1. Layer the ingredients in an oblong baking dish in the order listed
+2. Bake at 350 degrees for 30 minutes
+3. Serve with tortilla chips<|endoftext|>

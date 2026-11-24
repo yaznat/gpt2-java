@@ -1,0 +1,20 @@
+Give me a soup recipe.<|endoftext|>90 Minute Wonder Or Less Barley And Mushroom Soup
+
+Ingredients:
+• Olive oil
+• Sliced mushrooms
+• Onion
+• Celery
+• Garlic
+• Barley
+• Vegetable broth
+• White beans
+
+Steps:
+1. Heat oil in medium saucepan over medium heat, and stir in mushrooms, onion, celery, and garlic
+2. Saute til tender
+3. Mix barley and broth into saucepan
+4. Bring to a boil, cover, and reduce heat
+5. Simmer 45- 50 minutes, til barley is tender
+6. Stir white beans into barley mixture
+7. Continue cooking about 5 minutes, til beans are heated<|endoftext|>

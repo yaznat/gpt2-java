@@ -1,0 +1,1 @@
+Fix grammaticality of the sentence: The fact that uranium is also widely available in ample supply is in contrast with the trend of the rapidly depleting coal and natural gases reserves.<|endoftext|>The fact that uranium is also widely available in ample supply is in contrast to the trend of the rapidly depleting coal and natural gas reserves.<|endoftext|>

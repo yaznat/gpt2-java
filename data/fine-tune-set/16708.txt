@@ -1,0 +1,13 @@
+Generate a recipe for a smoothie.<|endoftext|>Blue Banana Smoothie
+
+Ingredients:
+• Plain nonfat yogurt
+• Banana
+• Frozen blueberries
+• Almond milk
+• Rolled oats
+
+Steps:
+1. Combine all ingredients in a blender and blend until it all turns blueish purple
+2. Pour into a large glass
+3. Enjoy!<|endoftext|>

@@ -1,0 +1,1 @@
+Fix grammar in this sentence: Furthermore, both penicillin and in-vitro fertilization have similar impacts on mankind.<|endoftext|>Furthermore, both penicillin and in-vitro fertilization have a similar impact on mankind.<|endoftext|>

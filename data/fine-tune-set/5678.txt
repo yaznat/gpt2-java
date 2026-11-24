@@ -1,0 +1,1 @@
+Fix grammar in this sentence: My town tries to take care of the environment but sometimes it is not possible.<|endoftext|>My town tries to take care of the environment, but sometimes it is not possible.<|endoftext|>

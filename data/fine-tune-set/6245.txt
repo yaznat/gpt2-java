@@ -1,0 +1,1 @@
+Fix grammar in this sentence: The train, ICE, did have adequate protection system as well as warning system.<|endoftext|>The train, ICE, did have an adequate protection system as well as a warning system.<|endoftext|>

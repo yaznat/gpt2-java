@@ -1,0 +1,1 @@
+Fix grammar in the sentence: On the other hand, buses and subways can accommodate more passengers while a car can only contains 4 to 5 people totally.<|endoftext|>On the other hand, buses and subways can accommodate more passengers, while a car can only hold 4 to 5 people in total.<|endoftext|>

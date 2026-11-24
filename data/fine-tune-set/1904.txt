@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: In conclusion, engineering design process is a general process which ideas can be generated to resolve current issues.<|endoftext|>In conclusion, the engineering design process is a general process through which ideas can be generated to resolve current issues.<|endoftext|>

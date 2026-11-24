@@ -1,0 +1,15 @@
+Give me a recipe for cake.<|endoftext|>Mcgriddle Pancakes Breakfast Sandwich
+
+Ingredients:
+• Bisquick
+• Egg
+• Syrup
+• Milk
+• American cheese
+• Bacon
+
+Steps:
+1. Mix first four ingredients
+2. Pour 1 / 4 cup batter for each pancake onto a 300 degree griddle
+3. Flip when pancakes start to bubble
+4. Place warm cheese on meat, sandwich between pancakes<|endoftext|>

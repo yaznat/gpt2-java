@@ -1,0 +1,9 @@
+Can you give me a milkshake recipe?<|endoftext|>Strawberry Chocolate Milkshake
+
+Ingredients:
+• Frozen strawberries
+• Milk
+• Chocolate fudge ice cream
+
+Steps:
+1. Blend together all the ingredients<|endoftext|>

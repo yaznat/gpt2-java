@@ -1,0 +1,13 @@
+Please generate a burger recipe.<|endoftext|>Barbequed Cheddar Burgers
+
+Ingredients:
+• Lean ground beef
+• Barbecue sauce
+• Garlic powder
+• Salt
+• Black pepper
+• Cheddar cheese
+
+Steps:
+1. Mix first 5 ingredients and form into patties
+2. Cook by preferred method and melt cheddar cheese on top<|endoftext|>

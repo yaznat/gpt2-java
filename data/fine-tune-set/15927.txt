@@ -1,0 +1,21 @@
+Please generate a burrito recipe.<|endoftext|>Crock Pot Black Bean Burritos
+
+Ingredients:
+• Onion
+• Carrot
+• Bell pepper
+• Garlic cloves
+• Frozen corn kernels
+• Black beans
+• Jalapeno chile
+• Vegetable stock
+• Tamari
+• Fresh cilantro
+• Salt and pepper
+
+Steps:
+1. In a nonstick skillet sprayed with cooking spray over medium heat, saute the onion, bell pepper and carrot about 5 minutes, until softened
+2. Transfer the bell pepper, onions and carrot to the cooker, and add the garlic, corn, black beans, and jalapeno
+3. Stir in the stock, tamari, and cilantro
+4. Cook on low for 4-5 hours
+5. Add salt and pepper to taste<|endoftext|>

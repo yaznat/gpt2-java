@@ -1,0 +1,1 @@
+Fix grammar in this sentence: The new group worked very well together but there was this girl he just couldn't stand at all.<|endoftext|>The new group worked very well together, but there was this girl he just couldn't stand at all.<|endoftext|>

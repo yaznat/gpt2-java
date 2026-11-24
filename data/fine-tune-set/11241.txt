@@ -1,0 +1,13 @@
+Please give me a recipe for sushi.<|endoftext|>George S Sushi
+
+Ingredients:
+• Sushi rice
+• Carrot
+• Cream cheese
+
+Steps:
+1. Lay the rice on a bamboo mat, in a rectangle shape
+2. Spread half the cream cheese on the top half of the rice
+3. Top with half the carrot
+4. Roll to form a log
+5. Refrigerate for at least 20 minutes, then cut into 6 slices<|endoftext|>

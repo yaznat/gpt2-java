@@ -1,0 +1,21 @@
+Give me a bread recipe.<|endoftext|>100 Whole Wheat Zucchini Bread
+
+Ingredients:
+• Sugar
+• Vegetable oil
+• Eggs
+• Zucchini
+• Vanilla
+• Whole wheat flour
+• Baking soda
+• Salt
+• Cinnamon
+• Baking powder
+• Nuts
+
+Steps:
+1. Mix sugar, oil, eggs, grated zucchini and vanilla in a large bowl
+2. In a separate bowl sift whole wheat flour, salt, baking soda, cinnamon and baking powder
+3. Add dry ingredients to wet, stirring to combine well
+4. Add chopped nuts
+5. Bake at 350f for 45 / 50 minutes<|endoftext|>

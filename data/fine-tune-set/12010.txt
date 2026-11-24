@@ -1,0 +1,29 @@
+Give me a pie recipe.<|endoftext|>2Bleu S Key Lime Pie Bars
+
+Ingredients:
+• Granola cereal
+• Sliced almonds
+• Graham cracker crumbs
+• Butter
+• Splenda sugar substitute
+• Reduced calorie cream cheese
+• Fat-free sweetened condensed milk
+• Lime juice
+• Egg yolks
+• Vanilla extract
+
+Steps:
+1. Crust: preheat oven to 350f blend granola and almonds in a food processor until coarsely ground
+2. Add graham cracker crumbs, melted butter, and sugar
+3. Mix to blend well
+4. Press the mixture into a 9x13 baking dish
+5. Bake for 10 minutes, until crust is golden brown
+6. Remove from oven and let cool
+7. Bottom layer: mix well all bottom layer ingredients to blend
+8. Pour into the pie crust
+9. Bake 20-25 minutes, or until mixture sets
+10. Cool to room temperature
+11. Top layer: mix top layer ingredients in a mixing bowl
+12. Pour over the cooled baked layer spreading out evenly and smooth over the top
+13. Cover and refrigerate, at least 4 hours
+14. If you saved some graham cracker / granola topping, sprinkle over top just before serving<|endoftext|>

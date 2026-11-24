@@ -1,0 +1,1 @@
+Fix grammar in this sentence: Almost every mornig he barks at me, but when he is satisfied, he wags his tail.<|endoftext|>Almost every morning, he barks at me, but when he is satisfied, he wags his tail.<|endoftext|>

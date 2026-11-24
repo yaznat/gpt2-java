@@ -1,0 +1,15 @@
+Generate a recipe for a wrap.<|endoftext|>Bacon Wrapped Pork Tenderloin
+
+Ingredients:
+• Pork tenderloin
+• Bacon
+• Seasoning
+• Salt
+• Pepper
+
+Steps:
+1. Cut off fat and rinse, pat dry
+2. Season lightly with salt and pepper
+3. Season generously with head country seasoning
+4. Wrap from end to end with bacon, keeping in place with toothpicks
+5. Cook at 350 for 45-55 minutes<|endoftext|>

@@ -1,0 +1,16 @@
+Give me a sandwich recipe.<|endoftext|>Baby Pb J Bagel Sandwiches
+
+Ingredients:
+• Miniature bagels
+• Peanut butter
+• Strawberry jelly
+• Butter
+
+Steps:
+1. Spread peanut butter evenly on cut sides of bottom halves of bagels
+2. Spread jelly evenly on cut sides of top halves of bagels
+3. Place top halves of bagels on bottom halves, jelly sides down
+4. Brush bagels lightly with melted butter
+5. Cook in a preheated panini press 2 minutes or until lightly browned and grill marks appear
+6. Serve immediately
+7. Cook 2 minutes on each side or until lightly browned and grill marks appear<|endoftext|>

@@ -1,0 +1,16 @@
+Give me a recipe for salad.<|endoftext|>Allegedly Original Cobb Salad Dressing
+
+Ingredients:
+• Egg yolks
+• Olive oil
+• Lemon
+• Worcestershire sauce
+• Dijon mustard
+• Garlic
+• Water
+• Salt and pepper
+
+Steps:
+1. Whisk egg yolks vigorously until they turn pale yellow
+2. Slowly incorporate oil to form an emulsion
+3. Add remaining ingredients and season with salt and pepper<|endoftext|>

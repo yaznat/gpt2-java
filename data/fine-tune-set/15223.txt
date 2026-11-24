@@ -1,0 +1,26 @@
+Please generate a pizza recipe.<|endoftext|>Blt Pizza
+
+Ingredients:
+• Mayonnaise
+• Dried basil
+• Garlic powder
+• Onion powder
+• Prepared pizza crust
+• Bacon
+• Cheddar cheese
+• Mozzarella cheese
+• Lettuce
+• Tomatoes
+
+Steps:
+1. In a bowl, combine mayonnaise, basil, garlic powder and onion powder
+2. Refrigerate for 1 / 2 hour or more
+3. Place the pizza crust on an ungreased 12-inch pizza pan
+4. Spread mayonnaise mixture over crust
+5. Set aside 1 / 4 cup bacon
+6. Sprinkle remaining bacon, cheddar cheese and mozzarella cheese on crust
+7. Bake at 425 degrees fahrenheit for 8 to 12 minutes or until cheese is melted
+8. If doing a homemade crust, i bake mine at 375 degrees fahrenheit for about 25 to 30 minutes or until done
+9. Top with lettuce, tomatoes, and reserved bacon
+10. Cut into wedges and serve
+11. Enjoy!<|endoftext|>

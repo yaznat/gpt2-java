@@ -1,0 +1,14 @@
+Give me a smoothie recipe.<|endoftext|>Banana Blueberry Orange Smoothie
+
+Ingredients:
+• Milk
+• Bananas
+• Frozen blueberries
+• Yogurt
+• Frozen orange juice concentrate
+
+Steps:
+1. In a blender, combine milk, frozen fruit, yogurt and other flavourings
+2. Pure until smooth
+3. Pour into glasses
+4. Serve immediately<|endoftext|>

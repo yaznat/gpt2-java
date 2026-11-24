@@ -1,0 +1,16 @@
+Generate a recipe for pizza.<|endoftext|>Bar B Q Chicken Pizza
+
+Ingredients:
+• Thin pizza crust
+• Hickory flavored barbecue sauce
+• Red peppers
+• Yellow peppers
+• Chicken breasts
+• Monterey jack cheese
+
+Steps:
+1. Spread bar-b-q sauce evenly over pizza crust
+2. Top with sliced chicken breasts
+3. Place red and yellow peppers rings over the chicken
+4. Spread monterey jack on top of pizza
+5. Bake in 350f oven for 20 minutes<|endoftext|>

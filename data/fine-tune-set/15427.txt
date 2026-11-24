@@ -1,0 +1,24 @@
+Please generate a burger recipe.<|endoftext|>Bacon Cheeseburger Macaroni Skillet
+
+Ingredients:
+• Macaroni
+• Onion
+• Ground beef
+• Tomato soup
+• Bacon
+• Cheddar cheese
+• Salt
+• Pepper
+• Ketchup
+
+Steps:
+1. Cook pasta according to package directions
+2. Cook bacon & drain on paper towels
+3. Discard drippings
+4. Cook onion in the same pan you cooked the bacon in and cook ground beef until no longer pink
+5. Drain pasta and add to the skillet
+6. Also add bacon, tomato soup, cheese, and ketchup
+7. Mix thoroughly until cheese is melted
+8. Add salt & pepper to suite your tastes
+9. Serve with salad
+10. Enjoy!<|endoftext|>

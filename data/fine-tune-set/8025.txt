@@ -1,0 +1,1 @@
+Remove all grammatical errors from this text: A new technology has developed such as sword, paper and Sushi.<|endoftext|>New technology has been developed, such as the sword, paper, and sushi.<|endoftext|>

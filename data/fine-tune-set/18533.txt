@@ -1,0 +1,15 @@
+Generate a recipe for waffles.<|endoftext|>Homemade Waffles
+
+Ingredients:
+• Flour
+• Sugar
+• Baking powder
+• Eggs
+• Milk
+• Oil
+
+Steps:
+1. Preheat your waffle iron
+2. In a large mixing bowl blend dry ingredients
+3. In a separate bowl, mix wet ingredients and add to the dry
+4. Mix and pour into a hot waffle iron<|endoftext|>

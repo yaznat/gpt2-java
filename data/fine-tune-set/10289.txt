@@ -1,0 +1,12 @@
+Please generate a cookie recipe.<|endoftext|>A Drinkable Chocolate Chip Cookie Experiment
+
+Ingredients:
+• Milk
+• Vanilla
+• Margarine
+• Brown sugar
+• Cocoa
+
+Steps:
+1. Pour milk, melted margarine, and vanilla into blender, followed by the brown sugar and cocoa
+2. Blend until well mixed, and serve with about four ice cubes<|endoftext|>

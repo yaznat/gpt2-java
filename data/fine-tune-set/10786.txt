@@ -1,0 +1,20 @@
+Give me a salad recipe.<|endoftext|>3 Fruit Salad
+
+Ingredients:
+• Oranges
+• Apples
+• Bananas
+• Walnuts
+• Salad dressing
+
+Steps:
+1. Peel and chop oranges into bite size pieces
+2. Core and chop apples into bite size pieces
+3. Peel and chop bananas into bite size pieces
+4. Add walnuts and salad dressing
+5. Some people like more salad dressing, some less
+6. You judge
+7. Stir
+8. Chill
+9. If you have less people, just use less fruit
+10. This is good in the summer time too<|endoftext|>

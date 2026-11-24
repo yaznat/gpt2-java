@@ -1,0 +1,19 @@
+Please give me a recipe for pizza.<|endoftext|>Aloha Pizza
+
+Ingredients:
+• Pizza dough
+• Extra virgin olive oil
+• Salt & pepper
+• Mozzarella cheese
+• Pineapple
+• Onion
+• Prosciutto
+• Frisee
+
+Steps:
+1. Stretch dough to fit a lightly oiled baking sheet
+2. Brush with evoo and sprinkle with salt and pepper
+3. Scatter mozzarella, pineapple, onion and prosciutto evenly over dough
+4. Bake at 500 degrees on bottom rack until crust is crisp and cooked through, about 15 minutes
+5. Top with frisee and cut into squares
+6. Serves 4<|endoftext|>

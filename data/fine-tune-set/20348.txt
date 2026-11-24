@@ -1,0 +1,17 @@
+Give me a casserole recipe.<|endoftext|>100 Broccoli Casserole
+
+Ingredients:
+• Frozen broccoli
+• Cream cheese
+• Dry onion soup mix
+• Sour cream
+• Water chestnuts
+• Cheddar cheese
+• Ritz cracker crumbs
+
+Steps:
+1. Cook broccoli until tender in the amount of water called for on the package, drain
+2. Mix together soup mix, cream cheese, sour cream and water chestnuts
+3. Add drained broccoli and stir well
+4. Place in lightly buttered casserole dish and top with grated cheese and cracker crums
+5. Bake at 350 for 30-35 minutes or until hot throughout and bubbly<|endoftext|>

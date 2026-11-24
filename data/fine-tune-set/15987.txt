@@ -1,0 +1,28 @@
+Generate a recipe for a quesadilla.<|endoftext|>A Cheesy Creamy Spinach Quesadilla
+
+Ingredients:
+• Goat cheese
+• Cottage cheese
+• Mozzarella cheese
+• Fresh ground black pepper
+• Flour tortillas
+• Onions
+• Tomatoes
+• Fresh spinach
+• Cilantro
+• Chives
+• Jalapeno peppers
+• Garlic cloves
+• Parsley
+
+Steps:
+1. Preheat your oven to 425f
+2. In a blender, puree the goat cheese, cottage cheese, half of the mozzarella cheese, and pepper to taste
+3. Spread half of the cheese mixture on each tortilla to 1 / 2" inside the edge
+4. Sprinkle half of each remaining ingredient over each tortilla
+5. Place one tortilla on a cookie sheet
+6. Place the other on top of it
+7. Sprinkle the top with the remaining mozzarella
+8. Bake 8-10 minutes, or until cheese begins to brown
+9. Slice into four wedges and serve warm
+10. Enjoy!<|endoftext|>

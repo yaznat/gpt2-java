@@ -1,0 +1,1 @@
+Fix grammatical errors in this sentence: People who are fan clubs interested in touring their idols.<|endoftext|>People who are in fan clubs are interested in touring with their idols.<|endoftext|>

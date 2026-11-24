@@ -1,0 +1,1 @@
+Improve the grammar of this text: By that time I had visited six interviews, but nobody was interested in my candidacy.<|endoftext|>By that time, I had attended six interviews, but nobody was interested in my candidacy.<|endoftext|>

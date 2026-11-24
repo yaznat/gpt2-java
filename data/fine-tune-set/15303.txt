@@ -1,0 +1,18 @@
+Give me a recipe for a burger.<|endoftext|>A 1 Bacon Onion Burgers
+
+Ingredients:
+• Lean ground beef
+• Onion
+• Egg
+• Oatmeal
+• Bacon bits
+• A. 1. original sauce
+• Cooking spray
+
+Steps:
+1. Place ground beef in a medium mixing bowl
+2. In a small skillet, saute onion until slightly carmelized
+3. Add to ground beef
+4. Add remaining ingredients and mix well
+5. Shape into four patties
+6. Grill for about 6 minutes per side or until juices run clear<|endoftext|>

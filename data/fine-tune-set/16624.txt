@@ -1,0 +1,16 @@
+Please give me a recipe for a smoothie.<|endoftext|>Banana Nectarine Smoothie
+
+Ingredients:
+• Banana
+• Unsweetened orange juice
+• Nectarine
+• Milk
+• Ice cubes
+
+Steps:
+1. In a blender container, combine banana and orange juice
+2. Blend until smooth
+3. Add cut up nectarine and ice cubes
+4. Blend until smooth
+5. With blender running, add milk
+6. Blend until smooth and frothy<|endoftext|>

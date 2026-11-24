@@ -1,0 +1,13 @@
+Please generate a smoothie recipe.<|endoftext|>A Mouth Watering Smoothie
+
+Ingredients:
+• Mixed berries
+• Plain yogurt
+• Banana
+• Apple juice
+• Ice cubes
+
+Steps:
+1. Put fruit in blender
+2. Add any kind of juice
+3. Blend away<|endoftext|>

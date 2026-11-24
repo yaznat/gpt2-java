@@ -1,0 +1,11 @@
+Generate a recipe for coffee.<|endoftext|>Amaretto Coffee
+
+Ingredients:
+• Hot coffee
+• Amaretto
+• Whipped cream
+
+Steps:
+1. Pour amaretto into mug
+2. Add coffee
+3. Top with whipped cream if desired<|endoftext|>

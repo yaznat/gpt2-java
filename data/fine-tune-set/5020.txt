@@ -1,0 +1,1 @@
+Improve the grammar of this text: Nobody had noticed that the president of the social club has an award for the runner, and he received an amount of 30,000 dollars because of his effort.<|endoftext|>Nobody had noticed that the president of the social club had an award for the runner, and he received an amount of 30,000 dollars for his effort.<|endoftext|>

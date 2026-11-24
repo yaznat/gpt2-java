@@ -1,0 +1,17 @@
+Give me a recipe for custard.<|endoftext|>Corn Custard Pudding
+
+Ingredients:
+• Whole kernel corn
+• Flour
+• Granulated sugar
+• Eggs
+• Milk
+• Salt and pepper
+
+Steps:
+1. Fold flour through corn thoroughly
+2. Mix sugar, eggs and milk
+3. Pour liquid mixture over corn and flour and mix thoroughly
+4. Add salt and pepper to taste
+5. Bake 1 hour in 375 degree oven
+6. Let set for 10 minutes before serving<|endoftext|>

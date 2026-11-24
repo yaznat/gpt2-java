@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: By doing this I will be able to go Karate practice with my son and daughter near my house.<|endoftext|>By doing this, I will be able to go to karate practice with my son and daughter near my house.<|endoftext|>

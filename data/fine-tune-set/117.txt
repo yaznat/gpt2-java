@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: World AIDS Day is important for reminding people that HIV has not gone away, and that there are many things still to be done.<|endoftext|>World AIDS Day is important for reminding people that HIV has not disappeared and that there are many things still to be done.<|endoftext|>

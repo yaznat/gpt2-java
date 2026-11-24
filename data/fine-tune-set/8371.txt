@@ -1,0 +1,1 @@
+Remove all grammatical errors from this text: There are many games that children can play like: cricket, badminton, football etc.<|endoftext|>There are many games that children can play, like cricket, badminton, football, etc.<|endoftext|>

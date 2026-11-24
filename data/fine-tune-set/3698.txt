@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: I am a conscientious person who works hard and pays attention to detail. I am flexible, quick to pick up new skills and eager to learn from others.<|endoftext|>I am a conscientious person who works hard and pays attention to detail. I am flexible, quick to pick up new skills, and eager to learn from others.<|endoftext|>

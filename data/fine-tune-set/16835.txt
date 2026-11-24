@@ -1,0 +1,14 @@
+Give me a recipe for a milkshake.<|endoftext|>Pumpkin Pie Milkshake
+
+Ingredients:
+• Milk
+• Butterscotch pudding mix
+• Vanilla ice cream
+• Pumpkin pie spice
+
+Steps:
+1. Place all ingredients in large pitcher with tight-fitting lid
+2. Cover
+3. Shake vigorously 1 minute or until well blended
+4. Pour evenly into 4 glasses
+5. Serve immediately<|endoftext|>

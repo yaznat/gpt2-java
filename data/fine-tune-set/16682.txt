@@ -1,0 +1,15 @@
+Generate a recipe for a smoothie.<|endoftext|>Berry Yoghurt Smoothie
+
+Ingredients:
+• Strawberries
+• Raspberries
+• Blueberries
+• Yogurt
+
+Steps:
+1. Mix the berries and yoghurt with a blender until smooth
+2. Drink immediately
+3. Serving suggestion: freeze once made, and leave overnight
+4. In the morning, place in a food processor until smooth
+5. Add sugar or lemonade if desired
+6. This makes a sorbet-like dessert<|endoftext|>

@@ -1,0 +1,21 @@
+Give me a pancake recipe.<|endoftext|>Blackberry Banana Pancakes
+
+Ingredients:
+• Unbleached flour
+• Whole wheat flour
+• Wheat bran
+• Sugar
+• Baking powder
+• Salt
+• Egg
+• Milk
+• Bananas
+• Blackberry
+
+Steps:
+1. Mix together all dry ingredients
+2. Add milk and beaten egg
+3. Add 2 mashed bananas and mix until well blended, but lumpy
+4. Fold in blackberries
+5. Pour onto a medium hot lightly greased griddle
+6. Flip when top is bubbly<|endoftext|>

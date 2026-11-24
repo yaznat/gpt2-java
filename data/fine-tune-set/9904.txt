@@ -1,0 +1,1 @@
+Fix all grammatical errors: Some people love shopping and some people cannot live without shopping.<|endoftext|>Some people love shopping, and some people cannot live without shopping.<|endoftext|>

@@ -1,0 +1,12 @@
+Generate a recipe for a milkshake.<|endoftext|>Peanut Butter And Banana Milkshake
+
+Ingredients:
+• Banana
+• Creamy peanut butter
+• 2% low-fat milk
+• Low-fat vanilla ice cream
+
+Steps:
+1. In blender, place banana, peanut butter and milk
+2. Cover and blend well
+3. Add ice cream, cover and blend until smooth<|endoftext|>

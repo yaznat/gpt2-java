@@ -1,0 +1,23 @@
+Give me a soup recipe.<|endoftext|>Alsatian Lentil Soup With Bratwurst
+
+Ingredients:
+• Brown lentils
+• Bratwursts
+• Celery ribs
+• Carrots
+• Leeks
+• Bay leaf
+• Fresh thyme
+• Salt
+• Fresh ground pepper
+• Water
+• Creme fraiche
+
+Steps:
+1. In a large slow cooker, combine all the ingredients except for the creme fraiche
+2. Cover and cook on low for 6-8 hours or until the lentils are tender
+3. Discard the bay leaf
+4. Remove the bratwurst and cut it into slices
+5. Stir the slices into the soup
+6. Taste for seasoning and adjust
+7. Serve the soup hot, topping each bowl with a dollop of creme fraiche<|endoftext|>

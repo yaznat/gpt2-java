@@ -1,0 +1,16 @@
+Can you give me a cocktail recipe?<|endoftext|>Cheese Pecan Cocktail Biscuits
+
+Ingredients:
+• Butter
+• Sharp cheddar cheese
+• Salt
+• Cayenne pepper
+• Flour
+• Pecan halves
+
+Steps:
+1. Preheat oven to 350 degrees
+2. Cream butter, cheese, salt, and pepper together
+3. Beat in flour until smooth
+4. Roll into small balls and press a pecan half on each to flatten
+5. Bake 15 minutes at 350 degrees<|endoftext|>

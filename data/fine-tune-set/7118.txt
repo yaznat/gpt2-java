@@ -1,0 +1,1 @@
+Fix grammatical mistakes in this sentence: Currently, generating power using nuclear reactor, VHTR, will be our best choice since it has zero emission, cheap, safe and efficient.<|endoftext|>Currently, generating power using the nuclear reactor, VHTR, will be our best choice since it has zero emission, is cheap, safe, and is efficient.<|endoftext|>

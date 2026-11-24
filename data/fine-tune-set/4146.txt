@@ -1,0 +1,1 @@
+Fix grammar in this sentence: I hope I can write funny dairies as him, but I don't hope I'm old as him.<|endoftext|>I hope I can write funny dairies like him, but I don't hope I'm as old as him.<|endoftext|>

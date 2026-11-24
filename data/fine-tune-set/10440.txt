@@ -1,0 +1,23 @@
+Please generate a cookie recipe.<|endoftext|>Aniseed Cookies
+
+Ingredients:
+• Eggs
+• Powdered sugar
+• Salt
+• Flour
+• Baking powder
+• Anise seed
+
+Steps:
+1. Grease and flour baking sheets
+2. Beat egg yolks, powdered sugar and salt in a large bowl until pale and creamy
+3. Beat egg whites until very stiff
+4. Fold into egg yolk mixture
+5. Siftflour, baking powder and aniseed onto egg mixture
+6. Fold in quickly but thoroughly
+7. Fill a pastry bag fitted with a plain nozzle with cookie mixture
+8. Pipe in small rounds onto prepared baking sheets
+9. Let stand overnight to dry out
+10. Preheat oven to 325f
+11. Bake cookies 20 minutes
+12. Cool on rack<|endoftext|>

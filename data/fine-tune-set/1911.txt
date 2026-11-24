@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: The weather in Santa Cruz is boiling this season, you should bring light clothing.<|endoftext|>The weather in Santa Cruz is boiling this season, so you should bring light clothing.<|endoftext|>

@@ -1,0 +1,1 @@
+Fix grammar in this sentence: In fact, using technology without changing the contents would be a total failure.<|endoftext|>In fact, using technology without changing the content would be a total failure.<|endoftext|>

@@ -1,0 +1,1 @@
+Fix grammar in this sentence: I think not only about ice cream shops but also other restaurants, there are more competitions in Japan than in London.<|endoftext|>I think not only about ice cream shops but also about other restaurants; there is more competition in Japan than in London.<|endoftext|>

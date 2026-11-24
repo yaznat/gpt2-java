@@ -1,0 +1,16 @@
+Give me a pizza recipe.<|endoftext|>Arugula Blt Pizzas
+
+Ingredients:
+• Marinara sauce
+• Whole grain english muffins
+• Arugula leaf
+• Tomatoes
+• Turkey bacon
+• Part-skim mozzarella cheese
+
+Steps:
+1. Preheat broiler
+2. Spread marinara sauce evenly over english muffin halves
+3. Top with arugula, tomato, and bacon
+4. Sprinkle with cheese
+5. Broil 3 to 4 inches from the heat for 1 to 2 minutes or until cheese is melted<|endoftext|>

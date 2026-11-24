@@ -1,0 +1,1 @@
+Improve the grammaticality of this text: Some may say that the temperature needed for VHTR to operate is high and it is not easy to provide the operating temperature for VHTR.<|endoftext|>Some may say that the temperature needed for the VHTR to operate is high, and it is not easy to provide the operating temperature for it.<|endoftext|>

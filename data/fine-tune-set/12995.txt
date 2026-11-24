@@ -1,0 +1,22 @@
+Give me a recipe for fish.<|endoftext|>Baked Fish From Iceland
+
+Ingredients:
+• Butter
+• Fish fillets
+• Lemon
+• Salt
+• Emmenthaler cheese
+• Mustard
+• Cream
+• Breadcrumbs
+
+Steps:
+1. Preheat oven at 180 celsius
+2. Butter a baking-dish
+3. Put the fillets into the baking-dish
+4. Season the fillets with salt, pepper and freshly squeezed lemon juice
+5. Cover the fish with ground cheese
+6. Mix mustard with cream and pour it over fish fillets
+7. Cover with breadcrumbs
+8. Bake the fillets for 35 minutes
+9. Serve with rice or noodles<|endoftext|>

@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: Though the gym doesn't have many kinds of training devices, it is well air-conditioned and the instructors help me with my exercise.<|endoftext|>Though the gym doesn't have many kinds of training devices, it is well-air-conditioned, and the instructors help me with my exercise.<|endoftext|>

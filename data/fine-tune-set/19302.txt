@@ -1,0 +1,12 @@
+Give me a recipe for a popsicle.<|endoftext|>Nutella Fudgsicles Chocolate Popsicles
+
+Ingredients:
+• Nutella
+• Whole milk
+• Popsicle molds
+• Paper cups
+• Stick
+
+Steps:
+1. Whisk the nutella and milk together
+2. Pour the mixture in the popsicle molds and freeze<|endoftext|>

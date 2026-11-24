@@ -1,0 +1,14 @@
+Give me a taco recipe.<|endoftext|>Chicken Taco Burgers
+
+Ingredients:
+• Ground chicken
+• Taco seasoning
+• Monterey jack cheese
+• Sour cream
+• Salsa
+• Hamburger bun
+
+Steps:
+1. Combine the ground chicken and taco seasoning divide into 4 patties
+2. Grill burgers, and add a slice of monterey jack cheese
+3. Top with salsa and sour cream and enjoy!<|endoftext|>

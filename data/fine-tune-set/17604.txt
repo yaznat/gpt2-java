@@ -1,0 +1,21 @@
+Give me a recipe for muffins.<|endoftext|>10 Grain Muffins
+
+Ingredients:
+• Egg
+• Sugar
+• Butter
+• Unbleached white flour
+• Salt
+• Baking powder
+• Baking soda
+• Multi-grain hot cereal
+• Buttermilk
+
+Steps:
+1. Mix 10 grain cereal and milk
+2. Allow to stand for 10 minutes
+3. Preheat oven to 400
+4. Cream sugar and butter well then add egg mix
+5. Add dry ingredients and milk mixture, stirring only until mixed
+6. Spoon into greased muffin pan
+7. Bake at 400 degrees for 15 minutes<|endoftext|>

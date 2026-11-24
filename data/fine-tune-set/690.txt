@@ -1,0 +1,1 @@
+Fix grammar in the sentence: For instance, since electric car design's cost is over budget, engineer might rather design combination electric-gasoline vehicles to cut down the cost.<|endoftext|>For instance, if the electric car design's cost is over budget, engineers might rather design combination electric-gasoline vehicles to cut down the cost.<|endoftext|>

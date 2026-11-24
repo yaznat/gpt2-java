@@ -1,0 +1,18 @@
+Generate a recipe for an omelette.<|endoftext|>Baked Mushroom Omelette
+
+Ingredients:
+• Eggs
+• Dried basil
+• Dried oregano
+• Low-fat ricotta cheese
+• Tomatoes
+• Onion
+• Mushrooms
+• Salt and pepper
+
+Steps:
+1. Mix together eggs, cheese, basil & oregano
+2. Add tomato, onion and mushrooms
+3. Season to taste
+4. Spoon mixture into buttered baking dish
+5. Bake at 180 degrees celcius for 25 - 30 minutes<|endoftext|>

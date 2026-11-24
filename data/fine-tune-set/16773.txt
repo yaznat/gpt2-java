@@ -1,0 +1,11 @@
+Give me a milkshake recipe.<|endoftext|>Eggnog Milkshake
+
+Ingredients:
+• Eggnog
+• Vanilla
+• Vanilla ice cream
+• Nutmeg
+
+Steps:
+1. In blender combine first 3 ingredients and mix until frothy
+2. Sprinkle with nutmeg<|endoftext|>

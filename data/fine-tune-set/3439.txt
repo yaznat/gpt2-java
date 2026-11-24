@@ -1,0 +1,1 @@
+Make the sentence grammatical: When I tell you gists of my work, there are three points.<|endoftext|>When I tell you the gist of my work, there are three points.<|endoftext|>

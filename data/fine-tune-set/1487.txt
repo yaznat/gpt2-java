@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: There is little doubt that social welfare policies can alleviate difficult situations that the aging population is facing today.<|endoftext|>There is little doubt that social welfare policies can alleviate the difficult situations that aging populations are facing today.<|endoftext|>

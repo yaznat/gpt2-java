@@ -1,0 +1,23 @@
+Please generate a pizza recipe.<|endoftext|>Bacon Cheeseburger Pizza
+
+Ingredients:
+• Ground beef
+• Onion
+• Garlic
+• Seasoning salt
+• Black pepper
+• Parmesan cheese
+• Pizza sauce
+• Mozzarella cheese
+• Cheddar cheese
+• Bacon
+
+Steps:
+1. Pre-bake the pizza crust in a 400 degrees oven until golden brown and baked
+2. Place the pizza crust on a pizza pan or baking sheet
+3. In a skillet cook the ground beef with onion and garlic until browned drain fat then season with seasoned salt, black pepper and 1 / 4 cup grated parmesan cheese
+4. Add in the pizza sauce
+5. Reduce heat to low and cook stirring for 5 minutes
+6. Top the cusrt with the cooked ground beef mixture, then sprinkle with cheddar cheese, then mozzeralla cheese
+7. Top with cooked crumbled bacon
+8. Bake 400 degrees for 8-12 minutes<|endoftext|>

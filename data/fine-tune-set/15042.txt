@@ -1,0 +1,20 @@
+Give me a recipe for pizza.<|endoftext|>A Bit Different Breakfast Pizza
+
+Ingredients:
+• Prepared pizza crust
+• Sausage patty
+• Eggs
+• Milk
+• Salt and pepper
+• Cheese
+
+Steps:
+1. Preheat oven to 425 degrees f
+2. Press dough into the bottom and sides of a 12 inch pizza pan
+3. Bake for 5 minutes until set but not browned
+4. Cut sausage into small pieces
+5. Whisk eggs and milk in a bowl until frothy
+6. Spoon sausage over baked crust and sprinkle with cheese
+7. Pour egg mixture slowly over sausage and cheese
+8. S& p to taste
+9. Bake 15-20 minutes or until eggs are set and crust is brown<|endoftext|>

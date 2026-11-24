@@ -1,0 +1,1 @@
+Fix grammaticality of the sentence: I feel the taste of luxury restaurant.<|endoftext|>I feel the taste of a luxury restaurant.<|endoftext|>

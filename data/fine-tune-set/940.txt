@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: Fifteen years ago cell phones didn't have music or a camera, while nowadays they have camera with high definition and you can download a lot of music.<|endoftext|>Fifteen years ago, cell phones didn't have music or a camera, while nowadays, they have cameras with high definition, and you can download a lot of music.<|endoftext|>

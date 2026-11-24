@@ -1,0 +1,17 @@
+Generate a recipe for a cocktail.<|endoftext|>Caramel Apple Cocktail
+
+Ingredients:
+• Cinnamon sugar
+• Lemon wedge
+• Apple cider
+• Butterscotch schnapps
+• Sparkling wine
+• Maraschino cherries
+
+Steps:
+1. Spread cinnamon sugar onto a small plate or saucer
+2. Run the lemon wedge along the rim of 6 champagne glasses, then dip the rims into the cinnamon sugar
+3. Combine apple cider and schnapps in a measuring cup
+4. Divide evenly among prepared glasses
+5. Divide sparkling wine among glassses
+6. Garnish with cherry<|endoftext|>

@@ -1,0 +1,1 @@
+Make the sentence grammatical: In comparison, an accident involved a 1400 Kg vehicle will cause about 50 percent fewer injuries than a 900 Kg vehicle.<|endoftext|>In comparison, an accident involving a 1400 Kg vehicle will cause about 50 percent fewer injuries than a 900 Kg vehicle.<|endoftext|>

@@ -1,0 +1,1 @@
+Improve the grammar of this text: I took a picture of one of them by my iPhone4.<|endoftext|>I took a picture of one of them with my iPhone4.<|endoftext|>

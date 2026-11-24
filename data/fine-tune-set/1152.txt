@@ -1,0 +1,1 @@
+Fix grammar in this sentence: Now people can interact with other people from other countries by texting, facebook or whatsapp.<|endoftext|>Now, people can interact with other people from other countries by texting, Facebook, or Whatsapp.<|endoftext|>

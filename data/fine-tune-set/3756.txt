@@ -1,0 +1,1 @@
+Fix the grammar mistakes: She came from a poor family and she lives with her children.<|endoftext|>She came from a poor family, and she lived with her children.<|endoftext|>

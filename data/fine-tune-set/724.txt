@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: Yet we still have to endeavor on reducing its production cost.<|endoftext|>Yet we still have to work on reducing its production cost.<|endoftext|>

@@ -1,0 +1,1 @@
+Improve the grammar of this text: Therefore, in terms of design and battery durability, Mac laptop has a better performance than Toshiba laptop.<|endoftext|>Therefore, in terms of design and battery durability, the Mac laptop has better performance than the Toshiba laptop.<|endoftext|>

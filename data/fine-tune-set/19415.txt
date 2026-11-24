@@ -1,0 +1,20 @@
+Generate a recipe for donuts.<|endoftext|>Youtiao Chinese Deep Fried Donuts
+
+Ingredients:
+• Self-rising flour
+• Baking powder
+• Salt
+• Baking soda
+• Water
+• Peanut oil
+
+Steps:
+1. Mix flour, baking powder, baking soda, and salt
+2. Stir in water
+3. Lightly knead dough
+4. Loosely cover for about 20 minutes, or enough time for the dough to rise
+5. On floured surface, roll the dough into 2 inch wide and 14 inch long strips
+6. Twist together in pairs, pinching the ends
+7. Holding each end of twists, pull until 9 inches long
+8. Deep fry each twist in peanut oil until golden brown
+9. Let cool and eat<|endoftext|>

@@ -1,0 +1,23 @@
+Please generate a fried rice recipe.<|endoftext|>Filipino Fried Rice Morisqueta Tostada
+
+Ingredients:
+• Cooked rice
+• Chinese sausage
+• Garlic
+• Onion
+• Soy sauce
+• Ham
+• Shrimp
+• Eggs
+• Salt and pepper
+• Oil
+• Green onion
+
+Steps:
+1. In a hot pan, pour the oil, and make an omelet
+2. Slice in thin shreds then set aside
+3. In the same pan, fry chinese sausages until crisp
+4. Reduce the oil in half
+5. Saute garlic, onion, and rice
+6. Add the rest of the ingredients and stir-fry for 15-20 minutes until rice is cooked and evenly coated with soy sauce
+7. Garnish with scrambled egg shreds and green onions<|endoftext|>

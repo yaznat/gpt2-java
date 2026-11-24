@@ -1,0 +1,17 @@
+Please generate a pudding recipe.<|endoftext|>Apple Bread Pudding Pampered Chef
+
+Ingredients:
+• Cinnamon raisin bread
+• Butter
+• Granny smith apples
+• Caramel sauce
+
+Steps:
+1. Cube bread and toss with melted butter
+2. Set aside
+3. Preheat oven to 350 and spray 9x9 baking dish with non-stick cooking spray
+4. Slice apples thinly and evenly layer 1 / 2 of the apples in bottom of prepared dish
+5. Top apples with 1 / 2 of the bread cubes, making sure to layer as evenly as possible
+6. Pour 1 / 2 of the jar of caramel sauce over the bread and repeat the layers with remaining ingredients
+7. Bake for 30 minutes
+8. Serve warm<|endoftext|>

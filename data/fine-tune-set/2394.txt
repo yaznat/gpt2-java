@@ -1,0 +1,1 @@
+Fix grammaticality of the sentence: The aim of this report, is to show how does my town takes care of the environment.<|endoftext|>The aim of this report is to show how my town takes care of the environment.<|endoftext|>

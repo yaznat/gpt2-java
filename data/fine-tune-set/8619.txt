@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: Secondly, getting more salary through longer working hours makes life much easier than appealing for limited economic aids after having many children.<|endoftext|>Secondly, getting more salary through longer working hours makes life much easier than appealing for limited economic aid by having many children.<|endoftext|>

@@ -1,0 +1,10 @@
+Generate a recipe for a smoothie.<|endoftext|>Berry Tofu Smoothie
+
+Ingredients:
+• Soft tofu
+• Nonfat milk
+• Strawberry
+• Blueberries
+
+Steps:
+1. Put all ingredients in blender and blend until smooth<|endoftext|>

@@ -1,0 +1,20 @@
+Give me a recipe for cake.<|endoftext|>Addie S Pound Cake
+
+Ingredients:
+• Butter
+• Sugar
+• Eggs
+• Flour
+• Whipping cream
+• Vanilla extract
+• Lemon extract
+
+Steps:
+1. Cream butter and sugar
+2. Add eggs one at a time
+3. Sift flour three times
+4. Add flour and whipping cream alternately to butter mixture
+5. Add extracts
+6. Grease steeple pan
+7. Bake on middle rack for 1 1 / 2 hours at 350 degrees
+8. Cool for 15 minutes then invert pan<|endoftext|>

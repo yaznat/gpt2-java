@@ -1,0 +1,1 @@
+Fix grammar in this sentence: The student who had been pushed had not ready to slide and she was still standing on top.<|endoftext|>The student who had been pushed had not been ready to slide down, and so she was still standing on top.<|endoftext|>

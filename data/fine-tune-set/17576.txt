@@ -1,0 +1,16 @@
+Generate a recipe for coffee.<|endoftext|>Cajun Coffee
+
+Ingredients:
+• Brewed coffee
+• Molasses
+• Dark rum
+• Whipped cream
+• Nutmeg
+
+Steps:
+1. Combine the coffee and molasses in a saucepan
+2. Heat, stirring, until molasses is dissolved and coffee is very hot
+3. Pour 1 tablespoon of rum into each of 6 mugs
+4. Add the coffee
+5. Top with whipped cream and sprinkle with nutmeg
+6. Do not stir before drinking<|endoftext|>

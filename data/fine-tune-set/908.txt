@@ -1,0 +1,1 @@
+Make the sentence grammatical: There is a tale that mentions a treasure hidden on the house.<|endoftext|>There is a tale that mentions a treasure hidden in the house.<|endoftext|>

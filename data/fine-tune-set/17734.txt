@@ -1,0 +1,15 @@
+Generate a recipe for muffins.<|endoftext|>Apple Blueberry Corn Muffins
+
+Ingredients:
+• Egg whites
+• Applesauce
+• Corn muffin mix
+• Blueberries
+
+Steps:
+1. Preheat oven to 375 degrees
+2. Grease muffin pan
+3. Mix egg, applesauce and muffin mix
+4. Stire in blueberries
+5. Spoon into muffin cups
+6. Bake for 20-25 minutes<|endoftext|>

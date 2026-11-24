@@ -1,0 +1,14 @@
+Give me a fried rice recipe.<|endoftext|>Fried Rice Chicken Soup
+
+Ingredients:
+• Fried rice with vegetables
+• Sesame garlic sauce
+• Chicken broth
+• Cooked chicken
+
+Steps:
+1. In a 5-quart dutch oven, combine all ingredients
+2. Bring mixture to a boil
+3. Reduce heat
+4. Simmer 15 minutes
+5. Top with rice noodles and serve<|endoftext|>

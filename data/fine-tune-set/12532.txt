@@ -1,0 +1,16 @@
+Generate a recipe for stew.<|endoftext|>Aromatic Stewed Mushrooms
+
+Ingredients:
+• Fresh mushrooms
+• Olive oil
+• Garlic
+• Salt & pepper
+• Fresh parsley
+
+Steps:
+1. Slice mushrooms fairly thickly
+2. Heat the oil in a large frying pan
+3. Stir in the garlic, after about 2 minutes, the mushrooms
+4. Cook for 8-10 minutes, stirring occasionally
+5. Season with salt& pepper, and stir in the parsley
+6. Cook for 5 minutes more, and serve at once<|endoftext|>

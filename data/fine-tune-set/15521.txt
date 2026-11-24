@@ -1,0 +1,18 @@
+Please generate a taco recipe.<|endoftext|>Taco Hot Dogs
+
+Ingredients:
+• Hot chili sauce
+• Hot chili peppers
+• Hot dogs
+• Hot dog buns
+• Lettuce
+• Cheddar cheese
+
+Steps:
+1. Combine chili sauce and chili pepper
+2. Cook hot dogs in boiling water
+3. Reduce heat
+4. Cover & simmer 5-8 minutes
+5. Place hot dogs on toasted buns
+6. Spoon chili sauce mixture over hot dogs
+7. Top with shredded lettuce and cheese<|endoftext|>

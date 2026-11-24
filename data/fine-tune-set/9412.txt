@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: The festival has a very long history and it also has a beautiful folk tale about the Goddess Chang's fly to the moon.<|endoftext|>The festival has a very long history, and it also has a beautiful folk tale about the Goddess Chang's fly flight to the moon.<|endoftext|>

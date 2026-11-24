@@ -1,0 +1,15 @@
+Give me a recipe for muffins.<|endoftext|>6 Week Bran Muffins
+
+Ingredients:
+• All-bran cereal
+• Flour
+• Shortening
+• Sugar
+• Buttermilk
+• Baking soda
+• Eggs
+
+Steps:
+1. Mix all ingredients together in a large bowl
+2. Bake in muffin tins on 400f for 10 to 12 minutes
+3. Store in air tight containers and refrigerate for up to 6 weeks<|endoftext|>

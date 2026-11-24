@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: But, more than half of my applications did not come back, so I have to download them once more.<|endoftext|>But, more than half of my applications did not come back, so I have to download them once more again.<|endoftext|>

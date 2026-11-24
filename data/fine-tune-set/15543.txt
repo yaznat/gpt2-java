@@ -1,0 +1,19 @@
+Give me a recipe for a taco.<|endoftext|>Another Taco Casserole
+
+Ingredients:
+• Ground beef
+• Taco seasoning
+• Tomato sauce
+• Mexican-style corn
+• Cheese
+• Tortilla chips
+
+Steps:
+1. Preheat oven to 400 degrees
+2. Brown beef in a large skillet and drain
+3. Stir in taco mix, tomato sauce, and corn
+4. Simmer about 5 minutes
+5. Spoon mixture into a 2-quart casserole dish
+6. Top with the cheese and tortilla chips
+7. Bake about 5 or 10 minutes, or until cheese is melted
+8. Serve with your favorite garnishes, such as chopped green onions, sour cream, etc<|endoftext|>

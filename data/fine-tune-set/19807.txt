@@ -1,0 +1,14 @@
+Please generate a fries recipe.<|endoftext|>Easy Homemade French Fries
+
+Ingredients:
+• Baking potatoes
+• Vegetable oil
+• Salt
+
+Steps:
+1. Peel the potatoes and slice them 1 / 4 inch thick into either flat rounds or traditional french fry shape
+2. Heat vegetble oil in large frying pan until it is good and hot
+3. Add potatoes, cooking until they become golden, then flipping them
+4. Cook until they are the color you desire
+5. Remove and place on a paper towel covered plate or lined bowl
+6. Salt to taste, or use your favorite seasoning<|endoftext|>

@@ -1,0 +1,11 @@
+Generate a recipe for a smoothie.<|endoftext|>Banana Oatmeal Smoothie
+
+Ingredients:
+• Skim milk
+• Orange juice
+• Banana
+• Quick-cooking oatmeal
+• Ice cubes
+
+Steps:
+1. Place all ingredients into a blender and blend until smooth<|endoftext|>

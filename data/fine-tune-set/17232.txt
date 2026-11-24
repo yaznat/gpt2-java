@@ -1,0 +1,16 @@
+Give me a tea recipe.<|endoftext|>Applesauce Tea Bread
+
+Ingredients:
+• White flour
+• Baking powder
+• Salt
+• Sugar
+• Cinnamon
+• Applesauce
+• Egg
+• Skim milk
+
+Steps:
+1. Mix the dry ingredients together and add the applesauce, then the egg and milk
+2. Pour into nonstick loaf pan and bake at 350f for 50 min
+3. Remove and cool<|endoftext|>

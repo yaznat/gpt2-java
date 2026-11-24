@@ -1,0 +1,14 @@
+Generate a recipe for a cocktail.<|endoftext|>Bourbon Manhattan A Classic Cocktail
+
+Ingredients:
+• Bourbon
+• Sweet vermouth
+• Angostura bitters
+• Cherry juice
+• Maraschino cherry
+
+Steps:
+1. In a mixing glass, half-filled with ice cubes, combine all the ingredients, except the cherry
+2. Stir a couple of times
+3. Strain into a cocktail glass
+4. Let the cherry drop to the bottom<|endoftext|>

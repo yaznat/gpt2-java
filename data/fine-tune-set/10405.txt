@@ -1,0 +1,13 @@
+Give me a recipe for cookies.<|endoftext|>Amazingly Easy Cookies
+
+Ingredients:
+• Cake mix
+• Butter
+• Egg
+
+Steps:
+1. Heat oven to 350
+2. In large mixing bowl, combine all ingredients and mix at low speed until moistened
+3. Drop by rounded talblespoonfuls about 2 inches apart onto ungreased cookie sheets
+4. Bake for 10-12 minutes or until set
+5. Cool a couple of minutes before removing from cookie sheets<|endoftext|>

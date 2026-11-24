@@ -1,0 +1,1 @@
+Fix grammar in this sentence: Although I have a good relationship with my parents, I couldn't think them like friends.<|endoftext|>Although I have a good relationship with my parents, I couldn't think of them as friends.<|endoftext|>

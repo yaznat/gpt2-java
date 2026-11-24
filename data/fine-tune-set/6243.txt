@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: We must pay to receive the psychologist's attention, but friendship is free of charge.<|endoftext|>We must pay to receive a psychologist's attention, but friendship is free of charge.<|endoftext|>

@@ -1,0 +1,14 @@
+Generate a recipe for a milkshake.<|endoftext|>Mint Chocolate Milkshake
+
+Ingredients:
+• Peppermint extract
+• Dark chocolate
+• Chocolate ice cream
+• Chocolate syrup
+• Chocolate
+• Peppermint candies
+
+Steps:
+1. Mix all ingredient except the garnish in a blender
+2. Pour into tall glasses
+3. Serve with shaved chocolate and crushed peppermint candy on top<|endoftext|>

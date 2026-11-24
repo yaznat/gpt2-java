@@ -1,0 +1,15 @@
+Give me a recipe for a burrito.<|endoftext|>Chicken Filling For Burritos And Tacos
+
+Ingredients:
+• Onion
+• Oil
+• Garlic
+• Cooked chicken
+• Tomato sauce
+• Green chilies
+• Chicken broth
+• Green peppers
+
+Steps:
+1. Cook onion, green pepper and garlic in oil until tender
+2. Stir in chicken and remaining ingredients until heated through<|endoftext|>

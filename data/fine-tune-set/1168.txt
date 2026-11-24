@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: In the book, she isn't shown using it for her own need.<|endoftext|>In the book, she isn't shown using it for her own needs.<|endoftext|>

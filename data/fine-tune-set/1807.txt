@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: I haven't a diary for a long time because I was busy.<|endoftext|>I haven't had a diary for a long time because I have been busy.<|endoftext|>

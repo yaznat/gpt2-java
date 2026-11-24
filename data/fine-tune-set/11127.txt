@@ -1,0 +1,14 @@
+Please generate a sandwich recipe.<|endoftext|>Bacon Cream Cheese Bagel Sandwich
+
+Ingredients:
+• Bagel
+• Cream cheese
+• Blueberry preserves
+• Bacon
+
+Steps:
+1. Cut bagel if not already split
+2. Toast on medium setting
+3. While bagel is toasting, cut bacon slices in half and cook in microwave
+4. Spread one side of bagel with cream cheese and the other with the preserves
+5. Put two halves together with the bacon in the middle<|endoftext|>

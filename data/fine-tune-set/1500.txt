@@ -1,0 +1,1 @@
+Fix grammar in this sentence: Unfortunately, my scholarship was ending and I was thinking about backing home.<|endoftext|>Unfortunately, my scholarship was ending, and I was thinking about returning home.<|endoftext|>

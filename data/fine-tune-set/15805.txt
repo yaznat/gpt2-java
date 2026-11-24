@@ -1,0 +1,12 @@
+Please generate a burrito recipe.<|endoftext|>Black Bean And Cheesy Burrito Ww
+
+Ingredients:
+• Black beans
+• Low-fat cheddar cheese
+• Salsa
+• Flour tortilla
+
+Steps:
+1. Layer black beans on tortilla and top with cheese
+2. Microwave until cheese melts
+3. Roll up tortilla, top with salsa<|endoftext|>

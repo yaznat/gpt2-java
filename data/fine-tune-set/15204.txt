@@ -1,0 +1,23 @@
+Please generate a pizza recipe.<|endoftext|>Berry Patch Brownie Pizza
+
+Ingredients:
+• Fudge brownie mix
+• Almonds
+• Almond extract
+• Cream cheese
+• Sugar
+• Vanilla extract
+• Lemon peel
+• Whipped topping
+• Berries
+
+Steps:
+1. Prepare brownies according to package directions for fudge-like brownies, adding almonds and extract
+2. Spread into a greased 14 inch pizza pan
+3. Bake at 375 degrees for 15 to 18 minutes until toothpick inserted new center comes out clean
+4. Cool on a wire rack
+5. In a large mixing bowl, beat the cream cheese, sugar, vanilla and lemon peel until smooth
+6. Fold in whipped topping
+7. Spread over crust to within 1 / 2 inch of edges
+8. Top with berries
+9. Refridgerate for 2-3 hours before serving<|endoftext|>

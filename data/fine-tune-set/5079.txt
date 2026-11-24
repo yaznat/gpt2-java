@@ -1,0 +1,1 @@
+Fix grammar in this sentence: Furthermore, in the biulding of the art gallery there is a club Oko.<|endoftext|>Furthermore, in the building of the art gallery, there is a club called Oko.<|endoftext|>

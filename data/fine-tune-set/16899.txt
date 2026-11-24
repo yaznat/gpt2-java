@@ -1,0 +1,11 @@
+Can you give me a cocktail recipe?<|endoftext|>Arctic Summer Cocktail
+
+Ingredients:
+• Apricot brandy
+• Gin
+• Grenadine
+• Bitter lemon soda
+
+Steps:
+1. Add ingredients to an ice-filled highball glass
+2. Serve with a cherry and lemon slice<|endoftext|>

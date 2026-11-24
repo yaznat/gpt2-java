@@ -1,0 +1,1 @@
+Fix grammatical errors in this sentence: When I got to the office, I felt the aroma of coffee.<|endoftext|>When I got to the office, I smelled the aroma of coffee.<|endoftext|>

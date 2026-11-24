@@ -1,0 +1,15 @@
+What's a good taco recipe?<|endoftext|>Beefy Taco Joes
+
+Ingredients:
+• Ground beef
+• Condensed tomato soup
+• Chunky salsa
+• Cheddar cheese
+• Sandwich buns
+
+Steps:
+1. In a large skillet, brown beef and drain
+2. Add soup and salsa
+3. Heat
+4. Top with cheese and heat until melted
+5. Serve on rolls<|endoftext|>

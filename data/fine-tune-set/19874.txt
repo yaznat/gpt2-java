@@ -1,0 +1,27 @@
+Please generate a fries recipe.<|endoftext|>Indian Home Fries
+
+Ingredients:
+• Potatoes
+• Water
+• Fresh ginger
+• Garlic cloves
+• Salt
+• Turmeric
+• Ground red pepper
+• Olive oil
+• Fennel seed
+• Fresh cilantro
+
+Steps:
+1. In a large pot, cover potatoes with water and bring to a boil
+2. Lower heat and simmer, covered, 30-35 minutes, until tender
+3. Drain, cool slightly, and peel
+4. Chop the potatoes into 1 / 2" cubes
+5. In a food processor, pulse the water, ginger, garlic, salt, turmeric, and red pepper until a paste is formed
+6. In a large nonstick frying pan, heat the olive oil over medium-high heat
+7. When hot, add the fennel and cook 30 seconds
+8. Remove pan from the heat, stir in the spice paste, then cook 2 more minutes
+9. Add the potatoes and stir to evenly coat them with the spice paste
+10. Fry 10-15 minutes, turning occasionally, until the potatoes have a golden brown crust
+11. Sprinkle with cilantro or parsley to garnish
+12. Serve and enjoy!<|endoftext|>

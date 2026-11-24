@@ -1,0 +1,21 @@
+Generate a recipe for pancakes.<|endoftext|>Banana Buttermilk Pancakes
+
+Ingredients:
+• Eggs
+• Flour
+• Whole wheat flour
+• Buttermilk
+• Oil
+• Sugar
+• Baking powder
+• Baking soda
+• Salt
+• Nutmeg
+• Bananas
+
+Steps:
+1. Beat all ingredients together until smooth and fluffy
+2. Pour about 1 / 4 cup onto hot griddle for each cake
+3. Turn when batter bubbles
+4. Cook until lightly brown
+5. Serve with warm maple syrup<|endoftext|>

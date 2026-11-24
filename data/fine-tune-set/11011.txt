@@ -1,0 +1,17 @@
+Give me a sandwich recipe.<|endoftext|>Abc Sandwich
+
+Ingredients:
+• Bacon
+• Multigrain bread
+• Dijon mustard
+• Cheddar cheese
+• Granny smith apple
+
+Steps:
+1. Over medium heat, cook bacon until crisp
+2. Remove from pan and drain on a plate with paper towel
+3. Spread the mustard on bread, then place the cheese and bacon on one slice of bread
+4. Top with apple slices and remaining piece of bread
+5. Slice diagonally and serve with your favorite chips or soup
+6. Enjoy!
+7. )<|endoftext|>

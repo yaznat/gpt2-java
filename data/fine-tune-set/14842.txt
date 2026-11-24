@@ -1,0 +1,22 @@
+Please generate a fried rice recipe.<|endoftext|>Benihana Style Fried Rice
+
+Ingredients:
+• Cooked chicken
+• Steamed rice
+• Eggs
+• Onion
+• Carrot
+• Green onion
+• Sesame seeds
+• Butter
+• Oil
+• Soy sauce
+• Pepper
+• Salt
+
+Steps:
+1. Scramble eggs and chop after cooking
+2. Saute chopped onion, green onion and carrots until done and mix with chopped scrambled egg and chicken
+3. Break off chunks of steamed rice and mix with vegetable, egg and chicken
+4. Add sesame seed and salt and pepper, stirring well
+5. Add butter and soy sauce into the mixture, stirring well until done<|endoftext|>

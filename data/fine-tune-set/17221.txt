@@ -1,0 +1,17 @@
+Give me a tea recipe.<|endoftext|>Apple Mint Tea
+
+Ingredients:
+• Tea bags
+• Fresh mint leaves
+• Fresh lemon juice
+• Boiling water
+• Unsweetened apple juice
+• Lemon slices
+• Of fresh mint
+
+Steps:
+1. Combine tea bags, mint leaves, and lemon juice in a pitcher
+2. Pour in boiling water and let stand 10 minutes
+3. Remove and discard tea bags and mint leaves
+4. Stir in apple juice, and serve over crushed ice
+5. Garnish with lemon slices and mint sprigs<|endoftext|>

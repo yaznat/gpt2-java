@@ -1,0 +1,1 @@
+Make the sentence grammatical: It was very sunny day.<|endoftext|>It was a very sunny day.<|endoftext|>

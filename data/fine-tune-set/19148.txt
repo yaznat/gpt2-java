@@ -1,0 +1,17 @@
+Can you give me a ice cream recipe?<|endoftext|>Butter Pecan Sauce For Ice Cream
+
+Ingredients:
+• Brown sugar
+• Sugar
+• Cornstarch
+• Whipping cream
+• Butter
+• Pecans
+
+Steps:
+1. In a heavy saucepan, combine dry ingredients, gradually stirring in cream until smooth
+2. Bring to a boil over medium heat, stirring constantly
+3. Cook and stir 2-3 minutes or until slightly thickened
+4. Remove from heat, stir in butter until melted
+5. Add pecans
+6. Serve warm over ice cream<|endoftext|>

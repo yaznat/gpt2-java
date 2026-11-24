@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: As a meticulous, organized and result-oriented biologist, I pay great attention to details, am skilled in gathering data and used to keep detailed records.<|endoftext|>As a meticulous, organized, and result-oriented biologist, I pay great attention to detail, am skilled at gathering data, and am used to keep detailed records.<|endoftext|>

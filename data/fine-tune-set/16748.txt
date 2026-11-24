@@ -1,0 +1,14 @@
+Give me a recipe for a milkshake.<|endoftext|>Chocolate Peanut Butter Milkshake
+
+Ingredients:
+• Creamy peanut butter
+• Vanilla ice cream
+• Chocolate syrup
+• Milk
+• Peanuts
+• Cream
+
+Steps:
+1. Combine peanut butter, ice cream, chocolate syrup and milk in a blender and blend until smooth
+2. Pour into glasses
+3. Serve with a dollop of whipped cream and top with chopped nuts and maraschino cherry if desired<|endoftext|>

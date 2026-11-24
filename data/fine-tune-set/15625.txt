@@ -1,0 +1,19 @@
+Generate a recipe for a taco.<|endoftext|>Best Taco Soup
+
+Ingredients:
+• Hamburger meat
+• Spaghetti sauce
+• Taco seasoning
+• Kidney beans
+• Corn
+• Crushed tomatoes
+• Onion
+• Water
+• Taco cheese
+• Tortilla chips
+
+Steps:
+1. Brown beef and onions in frying pan
+2. Add all ingredients into a crock pot
+3. Simmer on high for 4 hours or simmer on stove top for 1hour
+4. When ready to serve, top with cheese and dip with tortilla chips<|endoftext|>

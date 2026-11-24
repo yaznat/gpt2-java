@@ -1,0 +1,15 @@
+Can you give me a cake recipe?<|endoftext|>7 Up Pancakes
+
+Ingredients:
+• Egg
+• Oil
+• Pancake mix
+• 7-up
+
+Steps:
+1. Beat egg and oil
+2. Add pancake mix
+3. Add 1 cup 7-up
+4. Stir until most lumps have disappeared
+5. Gently stir in additional 7-up
+6. Bake on medium heat griddle, turning once<|endoftext|>

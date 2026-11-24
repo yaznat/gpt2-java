@@ -1,0 +1,1 @@
+Fix grammar in the sentence: For example, in Tokyo, there are lots of foreigners and some of them come there to study Japanese.<|endoftext|>For example, in Tokyo, there are lots of foreigners, and some of them come to go there to study Japanese.<|endoftext|>

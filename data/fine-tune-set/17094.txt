@@ -1,0 +1,12 @@
+Generate a recipe for a cocktail.<|endoftext|>Cucumber Cocktail
+
+Ingredients:
+• Kiwi
+• Cucumbers
+• Water
+• Lemon juice
+• Salt
+• Ice
+
+Steps:
+1. Mix in blender until smooth<|endoftext|>

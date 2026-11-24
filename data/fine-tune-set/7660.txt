@@ -1,0 +1,1 @@
+Fix all grammatical errors: It takes me 30 minutes from my home to my office by bus.<|endoftext|>It takes me 30 minutes from my home to my office on the bus.<|endoftext|>

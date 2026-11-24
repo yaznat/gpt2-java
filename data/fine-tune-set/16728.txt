@@ -1,0 +1,9 @@
+Please give me a recipe for a milkshake.<|endoftext|>Boysenberry Milkshake
+
+Ingredients:
+• Boysenberry syrup
+• Vanilla ice cream
+• Milk
+
+Steps:
+1. Combine ingredients in a blender set on high speed and blend until smooth<|endoftext|>

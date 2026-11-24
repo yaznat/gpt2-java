@@ -1,0 +1,1 @@
+Fix grammaticality of the sentence: Airtightness is low in the place, so I feel very cold or hot.<|endoftext|>Airtightness is low in the place, so I either feel very cold or hot.<|endoftext|>

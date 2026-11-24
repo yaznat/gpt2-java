@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: My fingers were almost cut so my dad wrapped my fingers in bandage and we drove to the doctor as fast as we could.<|endoftext|>My fingers were almost cut off, so my dad wrapped my fingers in a bandage, and we drove to the doctor as fast as we could.<|endoftext|>

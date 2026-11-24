@@ -1,0 +1,14 @@
+Give me a recipe for pasta.<|endoftext|>Amazing Simple Pasta
+
+Ingredients:
+• Farfalle pasta
+• Butter
+• Parmesan cheese
+• Salt
+
+Steps:
+1. Boil the pasta in at least 2 quarts of water until it is tender, but not falling apart
+2. Drain well in a colander and return right away to the warm cooking pot
+3. Cut up the butter into the pasta and add the grated parmesan cheese
+4. Add the salt, less if desired
+5. Toss carefully and serve when butter and cheese have fully melted<|endoftext|>

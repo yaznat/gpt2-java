@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: For instance, 47% of the female respondents watch films on a big screen every week.<|endoftext|>For instance, 47% of the female respondents watch films on the big screen every week.<|endoftext|>

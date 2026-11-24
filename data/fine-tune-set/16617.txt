@@ -1,0 +1,13 @@
+Give me a recipe for a smoothie.<|endoftext|>Banana Berry Smoothie
+
+Ingredients:
+• Orange juice
+• Frozen mixed berries
+• Banana
+• Non-fat vanilla yogurt
+• Nonfat dry milk powder
+• Sugar
+
+Steps:
+1. Combine all ingredients in a blender
+2. Process until smooth<|endoftext|>

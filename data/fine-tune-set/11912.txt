@@ -1,0 +1,20 @@
+Generate a recipe for curry.<|endoftext|>Cauliflower And Chickpea Curry
+
+Ingredients:
+• Cauliflower
+• Carrot
+• Peas
+• Pineapple
+• Coconut milk
+• Chickpeas
+• Green curry paste
+• Chicken stock
+
+Steps:
+1. Fry curry paste in oil
+2. Add cauliflower, carrots, chickpeas
+3. Fry for 5 minutes
+4. Add peas and pineapple, and fry for a further 5 minutes
+5. Add chicken stock, and simmer on low heat for 20 minutes
+6. Add coconut milk, and simmer for a further 20 minutes
+7. Serve with jasmine rice<|endoftext|>

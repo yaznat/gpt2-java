@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: Afterward blood pressure, heartbeat, eyesight, hearing ability were measured.<|endoftext|>Afterward, blood pressure, heartbeat, eyesight, and hearing ability were measured.<|endoftext|>

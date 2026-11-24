@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: In Japan, temporary workers tend to fall into poverty and it is serious problem of our country.<|endoftext|>In Japan, temporary workers tend to fall into poverty, and it is a serious problem in our country.<|endoftext|>

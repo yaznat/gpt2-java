@@ -1,0 +1,11 @@
+Please generate a ice cream recipe.<|endoftext|>Cinnamon Coconut Swirl Ice Cream
+
+Ingredients:
+• French vanilla ice cream
+• Cinnamon
+• Shredded coconut
+
+Steps:
+1. Soften the vanilla ice cream until it is workable but not melted
+2. Fold in cinnamon and shredded coconut, streaking both through the ice cream
+3. Refreeze<|endoftext|>

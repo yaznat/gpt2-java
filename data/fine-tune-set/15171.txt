@@ -1,0 +1,11 @@
+What's a good pizza recipe?<|endoftext|>Basic Pizza Sauce
+
+Ingredients:
+• Tomato sauce
+• Oregano
+• Basil leaves
+• Garlic powder
+
+Steps:
+1. Mix together
+2. Use on pizza<|endoftext|>

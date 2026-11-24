@@ -1,0 +1,1 @@
+Remove all grammatical errors from this text: I hate the moment when the plane is taking off, and when it is touching off.<|endoftext|>I hate the moment when the plane is taking off and when it touches down.<|endoftext|>

@@ -1,0 +1,12 @@
+Give me a recipe for pasta.<|endoftext|>Ann S Penne Pasta Salad
+
+Ingredients:
+• Penne pasta
+• Roma tomatoes
+• Feta cheese
+• Basil
+• Italian dressing
+
+Steps:
+1. Mix all ingredients and toss with dressing
+2. Add extra dressing if it gets dried out<|endoftext|>

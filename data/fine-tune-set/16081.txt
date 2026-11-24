@@ -1,0 +1,16 @@
+Give me a recipe for a quesadilla.<|endoftext|>Cheesy Ham Quesadillas
+
+Ingredients:
+• Monterey jack cheese
+• Tortillas
+• Deli ham
+• Tomatoes
+• Green onions
+
+Steps:
+1. Sprinkle cheese onto one half of each tortilla
+2. Top with ham, tomato and green onion tops
+3. Fold each tortilla in half, pressing firmly together
+4. In a 10-inch skillet, cook quesadillas, two at a time, over medium heat for 4 minutes, or until lightly browned, turning once
+5. Repeat with remaining quesadillas
+6. Cut each quesadilla into wedges and serve<|endoftext|>

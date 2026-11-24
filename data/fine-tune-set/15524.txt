@@ -1,0 +1,22 @@
+Give me a recipe for a taco.<|endoftext|>15 Minute Taco In A Pan
+
+Ingredients:
+• Extra lean ground beef
+• Water
+• Taco seasoning mix
+• Minute white rice
+• Mexican blend cheese
+• Lettuce
+• Chopped tomatoes
+
+Steps:
+1. Brown meat in large nonstick skillet
+2. Drain
+3. Add water and seasoning mix
+4. Stir
+5. Bring to boil
+6. Stir in rice
+7. Sprinkle with cheese
+8. Cover
+9. Reduce heat to low
+10. Simmer 5 minute top with lettuce and tomatoes<|endoftext|>

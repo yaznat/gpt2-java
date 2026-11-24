@@ -1,0 +1,13 @@
+Give me a recipe for a casserole.<|endoftext|>Amazing Onion Casserole
+
+Ingredients:
+• Vidalia onions
+• Mushroom soup
+• Milk
+• Potato chips
+• Mozzarella cheese
+
+Steps:
+1. Layer onions alternately with chips and cheese in a 9x13 pan - be sure to end with cheese
+2. Mix together soup and milk and pour over top of the casserole
+3. Bake at 350 for an hour, covered<|endoftext|>

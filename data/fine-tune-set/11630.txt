@@ -1,0 +1,13 @@
+Give me a recipe for cake.<|endoftext|>3 Ingredient Dump Cake
+
+Ingredients:
+• Cherries
+• Yellow cake mix
+• Butter
+
+Steps:
+1. Spread pie filling evenly in a lightly greased 13 x 9 baking pan
+2. Sprinkle dry cake mix over filling
+3. Drizzle with melted butter
+4. Bake at 350 for 20 minutes, or until topping is golden
+5. Let cool for 5 minutes before serving<|endoftext|>

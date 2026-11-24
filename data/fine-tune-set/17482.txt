@@ -1,0 +1,17 @@
+Generate a recipe for coffee.<|endoftext|>Big Coffee Chill
+
+Ingredients:
+• Nonfat milk
+• Chocolate syrup
+• Instant coffee granules
+• Splenda granular
+• Pure vanilla extract
+• Cinnamon
+• Ice cubes
+• Kahlua
+
+Steps:
+1. In blender combine first 6 ingredients
+2. Blend few seconds
+3. Add 8 ice cubes and blend
+4. Add remaining 8 ice cubes and blend again until smooth<|endoftext|>

@@ -1,0 +1,11 @@
+Give me a milkshake recipe.<|endoftext|>Simple Vanilla Milkshake
+
+Ingredients:
+• Vanilla ice cream
+• Milk
+• Ice cube
+• Whipped cream
+
+Steps:
+1. Blend ice cream, milk, and ice in a blender until smooth
+2. Optionally serve with whipped cream<|endoftext|>

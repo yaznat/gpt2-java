@@ -1,0 +1,13 @@
+Give me a recipe for a sandwich.<|endoftext|>Bacon Tomato Camembert Sandwich Smorrebrod
+
+Ingredients:
+• Caraway seed
+• Butter
+• Bacon
+• Tomatoes
+• Camembert cheese
+
+Steps:
+1. Spread bread with soft butter
+2. Cover with severaly layers of very crisp bacon slices
+3. Top with alternating rows of thin tomato slices and slices of ripe camambert cheese<|endoftext|>

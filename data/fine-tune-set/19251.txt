@@ -1,0 +1,17 @@
+Please generate a ice cream recipe.<|endoftext|>Chocolate Ice Cream
+
+Ingredients:
+• Heavy cream
+• Unsweetened chocolate squares
+• Coffee
+• Sugar
+• Cognac
+
+Steps:
+1. Stir heavy cream over medium heat just till boiling
+2. Reduce heat
+3. Add chocolate, coffee and sugar and mix well, until everything disolved well
+4. Add cognac
+5. Let cool down and beat with an electric mixer
+6. Cover and chill for 4 hours, mix with fork every 30 minutes
+7. Serve chilled and enjoy!<|endoftext|>

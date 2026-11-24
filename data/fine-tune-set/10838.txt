@@ -1,0 +1,11 @@
+Give me a salad recipe.<|endoftext|>A Different Tomato Salad Dressing
+
+Ingredients:
+• Olive oil
+• Soy sauce
+• Balsamic vinegar
+
+Steps:
+1. Whisk all ingredients together
+2. Toss with quartered tomatoes and fresh mozzarella cubes
+3. Can also add celery and green onions<|endoftext|>

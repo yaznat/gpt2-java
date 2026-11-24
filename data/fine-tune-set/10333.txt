@@ -1,0 +1,19 @@
+Generate a recipe for cookies.<|endoftext|>Almond Cardamom Cookies
+
+Ingredients:
+• Flour
+• Toasted almond
+• Butter
+• Sugar
+• Vanilla
+• Ground cardamom
+• Orange zest
+• Salt
+• Powdered sugar
+
+Steps:
+1. Preheat oven to 325f degrees
+2. In a food processor, combine flour and next 7 ingredients
+3. Process until mixture resembles fine meal and dough starts forming
+4. Shape into 1" balls, place on cookie sheet and bake until firm to the touch, about 20 minutes
+5. Sprinkle with powdered sugar, cool<|endoftext|>

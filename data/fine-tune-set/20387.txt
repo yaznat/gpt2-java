@@ -1,0 +1,17 @@
+Give me a recipe for a casserole.<|endoftext|>A B C Vegetable Casserole
+
+Ingredients:
+• Fresh asparagus
+• Fresh broccoli
+• Cauliflower head
+• Cream of mushroom soup
+• Sharp cheddar cheese
+• French-fried onions
+
+Steps:
+1. Preheat oven to 350f
+2. Combine asparagus, broccoli, and cauliflower in a pot of water and cook at medium heat for 10 minutes
+3. Combine mushroom soup and cheese in a separate pot and heat until cheese melts
+4. Drain the cooked vegetables and put in a casserole dish
+5. Pour soup and cheese mixture over the vegetables
+6. Cover with onion rings and bake at 350f for 30 minutes or until bubbly<|endoftext|>

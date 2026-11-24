@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: During the holidays, I met my friends and talking and drinking!<|endoftext|>During the holidays, I met my friends and did some talking and drinking!<|endoftext|>

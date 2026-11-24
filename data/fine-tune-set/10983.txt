@@ -1,0 +1,13 @@
+Can you give me a sandwich recipe?<|endoftext|>Almost Grilled Cheese Sandwich
+
+Ingredients:
+• White bread
+• Processed cheese
+• Butter
+
+Steps:
+1. Toast the bread slices
+2. Spread one side of each bread slice very lightly with butter
+3. Put cheese slice between buttered sides of bread
+4. Heat in the microwave until cheese starts to melt
+5. In my oven this takes no more than 15 to 20 seconds<|endoftext|>

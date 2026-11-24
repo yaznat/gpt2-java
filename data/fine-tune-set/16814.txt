@@ -1,0 +1,12 @@
+Give me a recipe for a milkshake.<|endoftext|>Monkey Milkshake
+
+Ingredients:
+• Strawberry
+• Banana
+• Milk
+• Vanilla extract
+• Ice cubes
+
+Steps:
+1. Combine all ingredients into a blender
+2. Blend until smooth and fluffy<|endoftext|>

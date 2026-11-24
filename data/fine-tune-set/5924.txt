@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: I had a bit of stomach upset after eating that, but with cheese, previous time, but I didn't have it this time.<|endoftext|>I had a bit of a stomach ache after eating that, but with cheese, the previous time last time, so I didn't have it this time.<|endoftext|>

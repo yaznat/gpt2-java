@@ -1,0 +1,17 @@
+Please generate a cocktail recipe.<|endoftext|>Cocktail Cheese Chive Muffins
+
+Ingredients:
+• Butter
+• Sharp cheddar cheese
+• Self-rising flour
+• Nonfat sour cream
+• Chives
+
+Steps:
+1. Melt butter in a medium saucepan over medium heat
+2. Add cheddar cheese, and cook 2 minutes, stirring constantly
+3. Stir in flour, sour cream, and chives
+4. Spoon batter into ungreased miniature muffin pans, filling two-thirds full
+5. Bake in 375 degree f oven for 20 to 22 minutes
+6. Remove muffins from pans immediately
+7. Yield: 4 dozen muffins<|endoftext|>

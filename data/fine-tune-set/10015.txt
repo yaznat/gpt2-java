@@ -1,0 +1,20 @@
+Generate a recipe for chili.<|endoftext|>15 Minute Chili Cheeseburger Skillet
+
+Ingredients:
+• Lean ground beef
+• Water
+• Macaroni & cheese dinner mix
+• Chili powder
+• Broccoli
+• Ketchup
+
+Steps:
+1. Brown meat in a large skillet
+2. Drain
+3. Stir in water, macaroni, and chili powder
+4. Bring to boil
+5. Reduce heat to low
+6. Simmer five minutes, stirring twice
+7. Add broccoli
+8. Simmer 5 minutes or until macaroni is tender
+9. Stir in cheese sauce mix and ketchup until blended<|endoftext|>

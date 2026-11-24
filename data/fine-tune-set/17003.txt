@@ -1,0 +1,10 @@
+Generate a recipe for a cocktail.<|endoftext|>Cherry Flip Nonalcoholic Cocktail
+
+Ingredients:
+• Cherry juice
+• Heavy cream
+• Pineapple juice
+• Ice cubes
+
+Steps:
+1. Mix everything in a shaker, shake well and serve immediately<|endoftext|>

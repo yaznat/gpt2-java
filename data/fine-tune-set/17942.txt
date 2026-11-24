@@ -1,0 +1,23 @@
+Please generate a brownie recipe.<|endoftext|>Best Chewy Cocoa Brownies
+
+Ingredients:
+• Sugar
+• Butter
+• Water
+• Eggs
+• Vanilla
+• Flour
+• Baking cocoa
+• Baking powder
+• Salt
+• Nuts
+
+Steps:
+1. Preheat to 350
+2. Spray 9x13' baking pan with cooking spray
+3. Stir butter, sugar and water together until combined
+4. Add eggs and vanilla
+5. In separate bowl, combine flour, cocoa, baking powder and salt
+6. Stir in nuts, if using
+7. Stir dry ingredients into butter mixture until combined, place in prepared pan
+8. Bake 18 to 25 minutes until toothpick comes out with little crumbs attached, but not wet<|endoftext|>

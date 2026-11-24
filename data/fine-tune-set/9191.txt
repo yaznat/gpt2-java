@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: However, social policy has to be revised timely to address the changing needs of the elderly.<|endoftext|>However, social policy has to be revised to address the changing needs of the elderly.<|endoftext|>

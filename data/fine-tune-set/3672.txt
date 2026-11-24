@@ -1,0 +1,1 @@
+Make the sentence grammatical: The SWCR is preferred than other GenIV concepts because of its simple design which indicates that it will be cheaper and easier to develop and operate.<|endoftext|>The SWCR is preferred to other GenIV concepts because of its simple design, which indicates that it will be cheaper and easier to develop and operate.<|endoftext|>

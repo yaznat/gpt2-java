@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: If they find the product with reasonable price, they will feel great sense of accomplishment.<|endoftext|>If they find a product with a reasonable price, they will feel a great sense of accomplishment.<|endoftext|>

@@ -1,0 +1,25 @@
+Generate a recipe for soup.<|endoftext|>Creamy Fiddlehead Soup
+
+Ingredients:
+• Onion
+• Butter
+• Chicken stock
+• Potatoes
+• Fiddleheads
+• Bay leaf
+• Salt and pepper
+• Milk
+• Yogurt
+• Lemon rind
+
+Steps:
+1. In a large heavy bottom saucepan, saut onion in butter or oil until soft but not brown, about 5 minutes
+2. Add potatoes, fiddleheads, bay leaf, and enough chicken stock to make the vegetables just swim
+3. Bring to a boil, reduce heat, and barely simmer, partially covered, for one hour
+4. Remove from heat and cool slightly
+5. Remove bay leaf
+6. In a blender, process mixture in batches
+7. Return mixture to saucepan and slowly bring to a simmer, stirring frequently
+8. Add milk, a little at a time, until it reaches the consistency you like
+9. Add salt and pepper to taste
+10. Serve in heated soup bowls, garnish as desired<|endoftext|>

@@ -1,0 +1,11 @@
+Give me a cocktail recipe.<|endoftext|>Anti Cocktail
+
+Ingredients:
+• Club soda
+• Orange juice
+• Lime, juice of
+• Orange slice
+
+Steps:
+1. Mix together well
+2. Garnish with fruit slices and serve over ice<|endoftext|>

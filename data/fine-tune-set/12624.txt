@@ -1,0 +1,22 @@
+Generate a recipe for stew.<|endoftext|>Beef Stew For 100
+
+Ingredients:
+• Stew meat
+• Garlic cloves
+• Water
+• Flour
+• Salt
+• Pepper
+• Potatoes
+• Carrots
+• Celery
+• Onions
+
+Steps:
+1. Brown beef and garlic
+2. Add water and simmer covered about 1 hour until meat is tender
+3. While meat is cooking, remove about 1 / 2 gallon of broth and allow to cool slightly
+4. Stir broth into dry ingredients
+5. Pour mixture into simmering meat, stirring constantly until thickened
+6. Cook potatoes, carrots, celery, and onion slightly and add to meat mixture
+7. Bake 1-2 hours<|endoftext|>

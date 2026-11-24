@@ -1,0 +1,11 @@
+What's a recipe for a cocktail?<|endoftext|>Acapulco Gold Virgin Cocktail
+
+Ingredients:
+• Pineapple juice
+• Coconut cream
+• Whipping cream
+• Coconut
+
+Steps:
+1. Blend all ingredients
+2. Serve<|endoftext|>

@@ -1,0 +1,1 @@
+Make the sentence grammatical: My foos felt something weird.<|endoftext|>My foos feet felt something weird.<|endoftext|>

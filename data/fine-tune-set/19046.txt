@@ -1,0 +1,16 @@
+Generate a recipe for ice cream.<|endoftext|>2Bleu S Margarita Ice Cream And Sherbet Fizz Virgin
+
+Ingredients:
+• Vanilla ice cream
+• Lime sherbet
+• Margarita mix
+• Tequila
+• Carbonated water
+• Maraschino cherries
+
+Steps:
+1. Place 1 scoop of ice cream into a parfait glass
+2. Place sherbet atop of the ice cream, then the other scoop of ice cream
+3. Pour margarita mix over scoops
+4. Splash with the seltzer water over top
+5. Garnish with marachino cherries and serve with a spoon and a straw<|endoftext|>

@@ -1,0 +1,18 @@
+Generate a recipe for fries.<|endoftext|>Incredible French Fries
+
+Ingredients:
+• Egg white
+• Chili powder
+• Salt
+• Garlic powder
+• Onion powder
+• Sweet potatoes
+
+Steps:
+1. Preheat oven to 450f
+2. In large bowl whisk together egg and spices until frothy
+3. Add potatoes
+4. Toss to coat well
+5. Place on nonstick baking sheet in single layer
+6. Bake until golden brown and crisp
+7. About 20 minutes stirring once during baking<|endoftext|>

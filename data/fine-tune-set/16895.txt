@@ -1,0 +1,11 @@
+Can you give me a cocktail recipe?<|endoftext|>Antioxidant Cocktail
+
+Ingredients:
+• Blueberries
+• Strawberries
+• Mango
+• Orange juice
+
+Steps:
+1. Put all ingredients into a blender and blend until smooth
+2. Serve<|endoftext|>

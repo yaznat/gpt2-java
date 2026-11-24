@@ -1,0 +1,17 @@
+Can you give me a ice cream recipe?<|endoftext|>Banana Orange Ice Cream
+
+Ingredients:
+• Bananas
+• Fresh lemon juice
+• Salt
+• Sugar
+• Fresh orange juice
+• Confectioners' sugar
+• Heavy cream
+
+Steps:
+1. Peel and mash bananas
+2. Combine with lemon juice, salt, sugar and fresh orange juice
+3. Fold confectioners' sugar into lightly whipped heavy cream
+4. Add to banana mixture
+5. Churn-freeze<|endoftext|>

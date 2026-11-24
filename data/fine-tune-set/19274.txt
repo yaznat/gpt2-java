@@ -1,0 +1,10 @@
+Give me a recipe for a popsicle.<|endoftext|>All Fruit Popsicles Melons And Berries
+
+Ingredients:
+• Cantaloupe
+• Honeydew melon
+• Strawberries
+
+Steps:
+1. Place all fruit in a blender and process until smooth
+2. Spoon the fruit mixture into popsicle cups, add the stick and freeze<|endoftext|>

@@ -1,0 +1,1 @@
+Improve the grammar of this text: She told me that she was in a summer camp and there was great!<|endoftext|>She told me that she was at a summer camp and there that it was great!<|endoftext|>

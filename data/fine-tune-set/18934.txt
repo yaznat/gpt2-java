@@ -1,0 +1,19 @@
+Please generate a custard recipe.<|endoftext|>Custard Natilla
+
+Ingredients:
+• Milk
+• Cinnamon
+• Cornstarch
+• Water
+• Sugar
+• Egg yolks
+• Vanilla extract
+
+Steps:
+1. Heat 1 cup milk, cinnamon, until boiling
+2. Remove from heat and dissolve cornstarch in water
+3. Dissolve cornstarch in water mix the remaining cold milk and cornstarch solution
+4. Mix egg and yolk together in cold milk and add the hot milk mixture
+5. Heat over medium heat until thick and stir constantly
+6. Remove from heat when thicken and add vanilla extract and mix well
+7. Allow to cool and serve chilled<|endoftext|>

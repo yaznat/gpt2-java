@@ -1,0 +1,24 @@
+Please generate a stew recipe.<|endoftext|>Addictive Mexican Stew
+
+Ingredients:
+• Onion
+• Garlic clove
+• Olive oil
+• Cooked chicken
+• Taco seasoning mix
+• Diced tomatoes
+• Black beans
+• Whole kernel corn
+• Diced green chilies
+• Chicken broth
+• Cornstarch
+
+Steps:
+1. Cook onion and garlic in oil in large saucepan until tender
+2. Add cooked chicken, taco seasoning, tomatoes, beans, corn and chilies
+3. Blend broth and cornstarch
+4. Add to saucepan
+5. Bring to a boil
+6. Reduce heat and simmer 15 minutes
+7. Stirring occasionally
+8. Serve with cornbread for a hearty meal<|endoftext|>

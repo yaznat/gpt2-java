@@ -1,0 +1,22 @@
+Generate a recipe for pasta.<|endoftext|>Angel Hair Pasta With Tomato Scallop Sauce
+
+Ingredients:
+• Seafood
+• Olive oil
+• Onion
+• Bell pepper
+• Garlic clove
+• Diced tomatoes
+• Oregano
+• Salt & pepper
+• Angel hair pasta
+
+Steps:
+1. In skillet, combine olive oil, onion, bell pepper & garlic
+2. Saut over medium heat until veggies are tender
+3. Add tomatoes, oregano, salt & pepper
+4. Bring to a boil for 1 minute
+5. Reduce heat & simmer for 10 minutes
+6. Add seafood & simmer another 3 minutes
+7. Serve warm sauce over pasta
+8. Top with parmesan cheese, if desired<|endoftext|>

@@ -1,0 +1,12 @@
+Generate a recipe for a smoothie.<|endoftext|>Apple Strawberry Banana Smoothie
+
+Ingredients:
+• Apple juice
+• Strawberry
+• Banana
+• Apple
+• Vanilla yogurt
+• Vanilla
+
+Steps:
+1. Put all ingredients in a blender and process until smooth<|endoftext|>

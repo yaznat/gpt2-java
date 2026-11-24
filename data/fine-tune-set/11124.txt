@@ -1,0 +1,17 @@
+Can you give me a sandwich recipe?<|endoftext|>Bacon And Mashed Potato Sandwich
+
+Ingredients:
+• Bacon
+• Mashed potatoes
+• Cheddar cheese
+• Swiss cheese
+• Smoked turkey breast
+• Bread
+
+Steps:
+1. Toast bread
+2. Fry bacon until crisp
+3. Chop roughly and add to mashed potatoes and cheddar cheese
+4. Loosely mix to a batter like consistency
+5. Place two slices of turkey on each piece of toast and spread bacon mixture over the top
+6. Place one slice of swiss cheese over each and broil until the cheese is melted<|endoftext|>

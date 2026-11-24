@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: It's little warm in the morning, and I thought it was going to rain in the midday.<|endoftext|>It was a little warm in the morning, and I thought it was going to rain in the midday,<|endoftext|>

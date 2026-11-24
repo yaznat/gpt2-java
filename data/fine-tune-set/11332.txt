@@ -1,0 +1,9 @@
+Give me a recipe for bread.<|endoftext|>1 2 3 Bread
+
+Ingredients:
+• Beer
+• Sugar
+• Self rising flour
+
+Steps:
+1. Bake 50 minutes at 400 degrees<|endoftext|>

@@ -1,0 +1,1 @@
+Fix grammaticality of the sentence: This advertisement requeste a group of young people to work in summer camps all over the USA.<|endoftext|>This advertisement sought a group of young people to work in summer camps all over the USA.<|endoftext|>

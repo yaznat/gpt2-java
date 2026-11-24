@@ -1,0 +1,16 @@
+Generate a recipe for soup.<|endoftext|>Affordable Basic Restaurant Style Tomato And Macaroni Soup
+
+Ingredients:
+• Tomato juice
+• Water
+• Onion
+• Macaroni
+• Salt and pepper
+
+Steps:
+1. In a medium saucepan
+2. Bring salted water, onion and pasta to a boil
+3. Boil approximately 8 minutes till pasta and onion are cooked
+4. Stirring occasionally to ensure pasta does not stick to the bottom of the pan
+5. Do not drain
+6. Add tomato juice and bring back to a slow boil for about another 2 minutes<|endoftext|>

@@ -1,0 +1,23 @@
+Can you give me a burger recipe?<|endoftext|>Bbq Bacon Cheeseburger Macaroni
+
+Ingredients:
+• Ground beef
+• Onion
+• Barbecue sauce
+• Water
+• Elbow macaroni
+• Velveeta cheese
+• Tomatoes
+• Oscar mayer real bacon bits
+
+Steps:
+1. Brown meat with onion in large skillet on medium heat
+2. Drain
+3. Add barbecue sauce and water
+4. Mix well
+5. Bring to boil
+6. Add macaroni
+7. Cook 8 to 10 minutes or until macaroni is tender
+8. Stir in velvetta
+9. Cook until completely melted, stirring occassionally
+10. Top with the tomatoes and bacon pieces<|endoftext|>

@@ -1,0 +1,1 @@
+Improve the grammar of this text: It's played by eleven players who try to score a goal during ninety minutes.<|endoftext|>It's played by eleven players who try to score a goal within ninety minutes.<|endoftext|>

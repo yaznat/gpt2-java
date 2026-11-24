@@ -1,0 +1,11 @@
+Please generate a coffee recipe.<|endoftext|>African Coffee Cooler
+
+Ingredients:
+• Kahlua
+• Amaretto
+• Coffee
+• Chocolate ice cream
+
+Steps:
+1. Put ingredients in blender and mix until smooth
+2. Top with whipped cream and chocolate shavings<|endoftext|>

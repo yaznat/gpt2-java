@@ -1,0 +1,1 @@
+Fix grammatical mistakes in this sentence: Recently, my English teacher left Japan, and another teacher is leaving Japan soon.<|endoftext|>Recently, my English teacher left Japan, and another teacher is leaving Japan soon too.<|endoftext|>

@@ -1,0 +1,15 @@
+Give me a recipe for stir fry.<|endoftext|>Baby Bok Choy Stir Fry
+
+Ingredients:
+• Olive oil
+• Fresh ginger
+• Baby bok choy
+• Soy sauce
+• Sugar
+• Sesame oil
+
+Steps:
+1. Heat oil over medium-high heat and cook ginger for about 30 seconds
+2. Add bok choy, soy sauce, and sugar
+3. Stir-fry 3-5 minutes until cooked to desired tenderness
+4. Remove ginger slices, add sesame oil and serve<|endoftext|>

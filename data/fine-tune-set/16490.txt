@@ -1,0 +1,11 @@
+Please generate a smoothie recipe.<|endoftext|>Alcohol Free Pina Colada Smoothie
+
+Ingredients:
+• Coconut milk
+• Frozen pineapple chunks
+• Milk
+• Sugar
+
+Steps:
+1. Place all ingredients in a blender and blend until mixed well
+2. Pour into a glass<|endoftext|>

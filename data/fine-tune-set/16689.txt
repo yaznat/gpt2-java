@@ -1,0 +1,13 @@
+Give me a recipe for a smoothie.<|endoftext|>Best Breakfast Smoothie
+
+Ingredients:
+• Pomegranate juice
+• Vanilla yogurt
+• Extra soft silken tofu
+• Berries
+• Spinach
+
+Steps:
+1. Place ingredients in order of appearance in a blender
+2. Blend on high for 1 minute
+3. Enjoy!<|endoftext|>

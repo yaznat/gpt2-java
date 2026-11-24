@@ -1,0 +1,1 @@
+Fix grammaticality of the sentence: Finally Peter ran to the car and went to pick Jon up.<|endoftext|>Finally, Peter ran to the car and went to pick Jon up.<|endoftext|>

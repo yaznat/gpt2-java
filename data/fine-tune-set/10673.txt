@@ -1,0 +1,14 @@
+Give me a pasta recipe.<|endoftext|>Asparagus Peppers Pasta Toss
+
+Ingredients:
+• Bow tie pasta
+• Asparagus
+• Bell pepper
+• Onion
+• Alfredo sauce
+
+Steps:
+1. Cook pasta according to package directions
+2. Add asparagus, peppers and onion to pasta during last 5 minutes of cooking, drain well
+3. Return pasta mixture to pot
+4. Add pasta sauce and heat through, serve<|endoftext|>

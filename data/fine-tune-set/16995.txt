@@ -1,0 +1,11 @@
+Can you give me a cocktail recipe?<|endoftext|>Champagne Cocktail
+
+Ingredients:
+• Sugar cubes
+• Cherry juice
+• Lemon juice
+• Champagne
+
+Steps:
+1. Place 1 sugar cube, 1 tablespoon cherry juice and 1 teaspoon lemon juice in each of 6 champagne flutes
+2. Fill with champagne<|endoftext|>

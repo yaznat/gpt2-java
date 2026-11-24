@@ -1,0 +1,23 @@
+Generate a recipe for an omelette.<|endoftext|>Omelette With Herbs
+
+Ingredients:
+• Eggs
+• Water
+• Salt
+• Pepper
+• Parsley
+• Chives
+• Tarragon
+• Thyme
+• Butter
+• Swiss cheese
+
+Steps:
+1. In a medium bowl whisk eggs and water together and then season with salt and pepper
+2. Stir in herbs
+3. In a skillet, melt the butter over medium high heat and add the egg mixture to pan
+4. If using cheese, add cheese on top of eggs
+5. Let eggs set around edges and then lift edges and tilt pan, so uncooked eggs will go under the cooked eggs
+6. Cook until eggs are almost set and then using a spatula, roll 1 / 3 of omlet to center
+7. Tilt pan and slide omlet onto plate
+8. Garnish with chives, if desired<|endoftext|>

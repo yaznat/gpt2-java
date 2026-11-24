@@ -1,0 +1,1 @@
+Fix grammar in the sentence: The use of psychology during the design process stage can help reducing the accidents.<|endoftext|>The use of psychology during the design process stage can help reduce these accidents.<|endoftext|>

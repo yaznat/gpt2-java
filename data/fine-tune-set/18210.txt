@@ -1,0 +1,22 @@
+Generate a recipe for pancakes.<|endoftext|>Banana Cornflour Pancakes
+
+Ingredients:
+• Cornflour
+• Brown sugar
+• Eggs
+• Baking powder
+• Butter
+• Milk
+• Vanilla extract
+• Cinnamon
+• Bananas
+
+Steps:
+1. In a large bowl, mix cornflour, sugar, baking powder and cinnamon
+2. Separately, blend eggs, milk, vanilla extract and bananas
+3. Pour mixture unto dry ingredients and beat
+4. Melt butter and mix in with the rest
+5. Heat greased pan and pour half a cup of the mixture at a time
+6. They are kinda tricky to flip over because the mixture is fluffy, so cook them covered, it speeds up the process
+7. When top is dry, flip and brown on the other side
+8. All done!<|endoftext|>

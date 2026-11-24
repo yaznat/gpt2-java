@@ -1,0 +1,1 @@
+Fix grammatical mistakes in this sentence: Fossil fuels like coal and petroleum produces a large amount of carbon-based polluting agents and greenhouse gases which contribute to global warming.<|endoftext|>Fossil fuels like coal and petroleum have a large amount of carbon-based polluting agents and greenhouse gases, which contribute to global warming.<|endoftext|>

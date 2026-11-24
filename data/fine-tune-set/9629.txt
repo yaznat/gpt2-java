@@ -1,0 +1,1 @@
+Fix grammatical errors in this sentence: Furthermore, having an aerodynamically styled shape, the vehicle can move faster and has a powerful pickup.<|endoftext|>Furthermore, having an aerodynamically styled shape, the vehicle can move faster and have a powerful pickup.<|endoftext|>

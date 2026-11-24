@@ -1,0 +1,22 @@
+Generate a recipe for soup.<|endoftext|>Green Soup
+
+Ingredients:
+• Quick-cooking barley
+• Onion
+• Celery
+• Pepper
+• Garlic cloves
+• Potatoes
+• Spinach
+• Chicken stock
+• Artichoke hearts
+
+Steps:
+1. Cook the barley in the stock for about 15 minutes
+2. Add onion, celery, pepper and garlic and cook 15 minutes
+3. Add potatoes and simmer till the potatoes are almost done
+4. Add your greens and cook 5-7 minutes
+5. You can mix whatever greens you like
+6. If using artichokes, add when you add your greens
+7. Taste and correct seasoning
+8. You may need to add additional stock as you cook<|endoftext|>

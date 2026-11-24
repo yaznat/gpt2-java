@@ -1,0 +1,13 @@
+Please generate a smoothie recipe.<|endoftext|>Apple Cinnamon Soy Protein Smoothie
+
+Ingredients:
+• Egg substitute
+• Vanilla-flavored soymilk
+• Apple
+• Ground cinnamon
+
+Steps:
+1. Substitutions: can replace vanilla soy milk with 1 / 4 cup soy powder, 1 cup water, and 3 / 4 teaspoons vanilla
+2. Combine egg substitute and apple in blender, blend on medium speed until smooth
+3. Add soy milk and cinnamon and blend until well mixed
+4. Serve immediately<|endoftext|>

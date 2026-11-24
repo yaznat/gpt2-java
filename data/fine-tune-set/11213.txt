@@ -1,0 +1,17 @@
+Please generate a sandwich recipe.<|endoftext|>Barros Luco Chilean Beef Steak Sandwich
+
+Ingredients:
+• Beef steak
+• Red wine vinegar
+• Garlic cloves
+• Cumin
+• Aji panca chilies
+• Olive oil
+• Bread
+• Salt and pepper
+• Monterey jack cheese
+
+Steps:
+1. Grill steak to medium rare or as desired
+2. Combine all ingredients like a sandwich and grill on griddle
+3. Serve cut into bite-sized morsels<|endoftext|>

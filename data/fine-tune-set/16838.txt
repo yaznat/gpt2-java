@@ -1,0 +1,11 @@
+Please give me a recipe for a milkshake.<|endoftext|>Raspberry Banana Milkshake
+
+Ingredients:
+• Raspberries
+• Banana
+• Soymilk
+• Vanilla frozen yogurt
+
+Steps:
+1. Everything into blender
+2. Blend on high until smooth<|endoftext|>

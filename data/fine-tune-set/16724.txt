@@ -1,0 +1,15 @@
+Please generate a milkshake recipe.<|endoftext|>Blackberry Milkshake
+
+Ingredients:
+• Ice cubes
+• Blackberry
+• Sugar
+• Vanilla ice cream
+• Milk
+
+Steps:
+1. Place the ice cubes in a blender and process to crush
+2. Set aside 4 of the blackberries and add the remaining berries to the blender along with the sugar
+3. Puree until smooth
+4. Add the ice cream and milk, and process until smooth or to the desired consistency
+5. Pour into 2 tall glasses and garnish with the reserved berries<|endoftext|>

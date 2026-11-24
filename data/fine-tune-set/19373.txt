@@ -1,0 +1,18 @@
+Give me a recipe for donuts.<|endoftext|>Donut Holes
+
+Ingredients:
+• Vegetable oil
+• Pancake mix
+• Sugar
+• Egg
+• Cinnamon
+
+Steps:
+1. Heat oil to 375 degrees
+2. In a large bowl, combine pancake mix and cup sugar
+3. Add water and egg and stir until dough has formed
+4. In a small bowl combine remaining sugar and cinnamon
+5. Using a 1 tablespoon sized cookie scoop, drop balls of dough into hot oil
+6. Fry 1-2 minutes on each side until golden brown
+7. Place cooked donut holes on plate lined with paper towels
+8. Roll donut holes in cinnamon-sugar mixture before serving<|endoftext|>

@@ -1,0 +1,21 @@
+Please generate a chili recipe.<|endoftext|>Beef And Macaroni Chili
+
+Ingredients:
+• Macaroni
+• Ground beef
+• Garlic powder
+• Chili powder
+• Salt
+• Pepper
+• Tomato soup
+• Mozzarella cheese
+
+Steps:
+1. Cook macaroni about 7 minutes
+2. Brown meat in largest saucepan and drain off all fat
+3. Add garlic, chili powder, salt and pepper
+4. Mix well and cook on low about 5 minutes
+5. Add cooked macaroni and tomato soup
+6. Heat thoroughly
+7. Just before serving add grated cheese
+8. Cover and heat until cheese melts<|endoftext|>

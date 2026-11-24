@@ -1,0 +1,1 @@
+Improve the grammar of this text: Kate was really angry and she oredered to him to leave her room immediately.<|endoftext|>Kate was really angry, and she ordered him to leave her room immediately.<|endoftext|>

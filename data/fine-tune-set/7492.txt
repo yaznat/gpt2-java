@@ -1,0 +1,1 @@
+Make the sentence grammatical: In my opinion, recent graduates are ambitious, without prejudices and most of them are not family people as of yet.<|endoftext|>In my opinion, recent graduates are ambitious, without prejudices, and most of them are not family people as yet.<|endoftext|>

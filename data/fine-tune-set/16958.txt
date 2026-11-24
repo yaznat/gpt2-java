@@ -1,0 +1,9 @@
+Generate a recipe for a cocktail.<|endoftext|>Bottlecap Cocktail
+
+Ingredients:
+• Beer
+• Midori melon liqueur
+• Prepared sweet-and-sour mix
+
+Steps:
+1. Combine ingredients & serve on the rocks<|endoftext|>

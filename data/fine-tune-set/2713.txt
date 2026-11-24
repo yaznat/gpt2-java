@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: After a long flight, it reaches the orbit that is very long way far out of the solar system.<|endoftext|>After a long flight, it reaches an orbit that is a very long way out of the solar system.<|endoftext|>

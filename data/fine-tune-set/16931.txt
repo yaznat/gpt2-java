@@ -1,0 +1,15 @@
+Generate a recipe for a cocktail.<|endoftext|>Bellagio Resort Casino Sunsplash Cocktail
+
+Ingredients:
+• Stolichnaya ohranj vodka
+• Cointreau liqueur
+• Orange juice
+• Cranberry juice
+• Sour mix
+
+Steps:
+1. Add above ingredients to an ice-filled mixing glass
+2. Shake until well-blended, strain into an ice-filled tumbler
+3. Garnish with a slice of orange and a spiral of lemon
+4. Simple syrup can be easily made by dissolving 1 part superfine sugar in 1 part boiling water and allowed to cool
+5. Mixing 2 parts freshly squeezed lemon juice to 1 part simple syrup with teaspoon egg whites can easily make fresh sour<|endoftext|>

@@ -1,0 +1,1 @@
+Remove all grammatical errors from this text: RFID technology provides a better security than other surveillance gadgets such as CCTV and reduces thefts in our society.<|endoftext|>RFID technology provides better security than other surveillance gadgets such as CCTV and reduces thefts in our society.<|endoftext|>

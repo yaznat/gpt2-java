@@ -1,0 +1,16 @@
+Can you give me a soup recipe?<|endoftext|>Amish Rivel Soup
+
+Ingredients:
+• Flour
+• Salt
+• Egg
+• Chicken broth
+• Corn
+
+Steps:
+1. Combine flour, salt and beaten egg and mix with fingers until mixture is crumbly
+2. Heat broth
+3. Add corn and bring back to a simmer
+4. Drop rivels slowly into broth
+5. Cook for about 10 minutes
+6. Rivels will look like boiled rice when cooked<|endoftext|>

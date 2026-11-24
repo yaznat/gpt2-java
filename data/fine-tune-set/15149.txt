@@ -1,0 +1,20 @@
+Give me a pizza recipe.<|endoftext|>Baked Pizza Mac
+
+Ingredients:
+• Pizza sauce
+• Macaroni & cheese dinner mix
+• Ground beef
+• Egg
+• Dried basil leaves
+• Garlic powder
+• Mozzarella cheese
+
+Steps:
+1. Preheat oven to 400
+2. Remove and set aside 1 / 4c of the pizza sauce for later use
+3. Combine prepared dinner, 2 / 3 of the meat, the remaining qizza sauce, egg and seasonings
+4. Spoon evently into 9 inch pie plate
+5. Top with the remaining meat and reserved 1 / 4c pizza sauce
+6. Sprinkle with cheese
+7. Bake 15 minute
+8. Let stand 5 minute before serving<|endoftext|>

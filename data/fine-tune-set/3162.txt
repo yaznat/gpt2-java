@@ -1,0 +1,1 @@
+Make the sentence grammatical: She said she was not sure.<|endoftext|>She said that she was not sure.<|endoftext|>

@@ -1,0 +1,22 @@
+Please give me a recipe for muffins.<|endoftext|>Bacon Muffins
+
+Ingredients:
+• Bacon
+• Flour
+• Baking powder
+• Sugar
+• Salt
+• Egg
+• Milk
+• Oil
+
+Steps:
+1. Grease 12 muffin cups
+2. Preheat oven to 400 degrees
+3. Cook bacon in a pan until crisp, then chop into small pieces
+4. Mix together flour, baking powder, sugar, and salt
+5. In a seperate bowl mix egg, milk, and oil
+6. Add all at once to the dry ingredients along with bacon until just combined
+7. Mixture will look somewhat lumpy but do not mix more
+8. Fill the muffin cups 2 / 3rds of the way full
+9. Bake@ 25 minutes<|endoftext|>

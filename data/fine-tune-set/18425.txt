@@ -1,0 +1,20 @@
+Give me a recipe for waffles.<|endoftext|>Cinnamon Belgian Waffles
+
+Ingredients:
+• All-purpose flour
+• Ground cinnamon
+• Baking powder
+• Granulated sugar
+• Salt
+• Eggs
+• Vanilla extract
+• Oil
+• Milk
+
+Steps:
+1. Mix all of the dry ingredients together in a large bowl and whisk to blend, then set aside
+2. In a small bowl, beat the egg whites until stiff peaks form
+3. In another bowl, add the egg yolks, vanilla, oil and milk, whisking slightly to combine
+4. Add the egg yolk mixture to the dry ingredients and beat until well mixed
+5. Fold in the egg whites just until combined
+6. Make waffles according to the machine instructions<|endoftext|>

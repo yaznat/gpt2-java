@@ -1,0 +1,22 @@
+Give me a taco recipe.<|endoftext|>Chili Tacos
+
+Ingredients:
+• Lean hamburger
+• Wolf brand chili
+• Corn tortilla
+• Vegetable oil
+• Lettuce
+• Tomatoes
+• Onion
+• Cheese
+• Sour cream
+• Picante sauce
+
+Steps:
+1. Brown hamburger
+2. Add the chili and mix well and heat thru
+3. In another small pan, add enough veg
+4. Oil just to cover bottom
+5. Fry tortillas until soft, but slightly stiff around the edges
+6. Drain on paper towels
+7. Build tacos using chili meat, lettuce, tomatoe, onion, sour creme, etc<|endoftext|>

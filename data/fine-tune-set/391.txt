@@ -1,0 +1,1 @@
+Fix grammar in the sentence: The six friends might not have the same opinion, they might argue, they might get angry with each other but they always forgive and forget!<|endoftext|>The six friends might not have the same opinions, they might argue, they might get angry with each other, but they always forgive and forget!<|endoftext|>

@@ -1,0 +1,17 @@
+Can you give me a milkshake recipe?<|endoftext|>Lemon Meringue Pie Milkshake
+
+Ingredients:
+• Milk
+• Lemon zest
+• Lemon juice
+• Lemon curd
+• Vanilla ice cream
+• Whipped cream
+
+Steps:
+1. In blender, combine milk, lemon zest, lemon juice, and lemon curd
+2. Blend 5 seconds
+3. Add vanilla ice cream and blend until smooth, about 10 seconds
+4. Pour into serving glasses
+5. Top with whipped cream and additional lemon zest
+6. Serve immediately<|endoftext|>

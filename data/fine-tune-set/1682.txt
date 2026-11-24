@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: Human beings have destroyed our environment along the time and now, the earth is in danger.<|endoftext|>Human beings have destroyed our environment over time, and now the earth is in danger.<|endoftext|>

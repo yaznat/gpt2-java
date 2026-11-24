@@ -1,0 +1,1 @@
+Fix grammatical mistakes in this sentence: They failed to consider that the broken reactors were the first generation reactors and technology by then was not mature and well developed.<|endoftext|>However, they fail to consider that the broken reactors were the first generation reactors, and technology then was not mature nor well developed.<|endoftext|>

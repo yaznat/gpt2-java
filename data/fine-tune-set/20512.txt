@@ -1,0 +1,20 @@
+Generate a recipe for a casserole.<|endoftext|>Aunt Liz S Almond Broccoli Casserole
+
+Ingredients:
+• Broccoli
+• Garlic
+• Onion
+• Butter
+• Cream of mushroom soup
+• Cheese whiz
+• Mushrooms
+• Slivered almonds
+• Crouton
+
+Steps:
+1. Pre-stream broccoli for about 5 minutes
+2. Saute onions and garlic in butter
+3. Add soup, cheese whiz and mushrooms to sauteed onion mixture
+4. Put broccoli into a greased casserole dish and pour sauce over it
+5. Sprinkle the almonds over this and then sprinkle the croutons on top
+6. Bake at 350 degf for 30 minutes<|endoftext|>

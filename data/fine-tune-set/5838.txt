@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: Some of the devices that have been set up and used are for example biometric passport.<|endoftext|>Some of the devices that have been set up and used are, for example, biometric passports.<|endoftext|>

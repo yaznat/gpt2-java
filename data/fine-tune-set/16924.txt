@@ -1,0 +1,13 @@
+Give me a cocktail recipe.<|endoftext|>Basic Cocktail Sauce
+
+Ingredients:
+• Tomato ketchup
+• Horseradish
+• Lemon juice
+• Celery salt
+• Tabasco sauce
+
+Steps:
+1. Shake all ingredients until well mixed
+2. Add celery salt and tabasco sauce to your taste
+3. Chill and serve<|endoftext|>

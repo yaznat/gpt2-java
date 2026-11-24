@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: It can be installed in any location in the house so that the old people can easily see.<|endoftext|>It can be installed at any location in the house so that old people can see it easily.<|endoftext|>

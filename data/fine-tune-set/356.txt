@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: When I return my room from hot spring, food is prepared.<|endoftext|>When I would return to my room from the hot spring, food would be prepared.<|endoftext|>

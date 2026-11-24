@@ -1,0 +1,1 @@
+Make the sentence grammatical: A park is very large and a lot of greenery.<|endoftext|>The park is very large and has a lot of greenery.<|endoftext|>

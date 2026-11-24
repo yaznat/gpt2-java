@@ -1,0 +1,18 @@
+Give me a recipe for fried rice.<|endoftext|>Excellent Egg And Ginger Fried Rice
+
+Ingredients:
+• Vegetable oil
+• Scallions
+• Garlic
+• Fresh ginger
+• Egg
+• Cooked long-grain rice
+• Frozen peas
+• Soy sauce
+• Ground black pepper
+
+Steps:
+1. Heat the oil in a wok and cook the scallions, garlic and ginger for 2 minutes
+2. Crack in the egg and scramble with a chopstick for a couple of minutes until just set
+3. Stir in the rice and peas and continue to cook for a further 4 minutes until piping hot
+4. Season with soy sauce and a few twists of black pepper and serve<|endoftext|>

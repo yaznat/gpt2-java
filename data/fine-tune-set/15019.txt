@@ -1,0 +1,21 @@
+Please generate a fried rice recipe.<|endoftext|>Rice Cooker Fried Rice
+
+Ingredients:
+• Rice
+• Beef stock
+• Oil
+• Bacon
+• Onion
+• Garlic
+• Frozen mixed vegetables
+• Soy sauce
+
+Steps:
+1. Turn rice cooker onto cook
+2. Add oil, bacon, onion and garlic to rice cooker
+3. Stir frequently until onion is soft
+4. Add rice to rice cooker and coat in oil
+5. Add frozen vegetable and beef stock and mix well
+6. Place lid on rice cooker and let it do its thing
+7. When finished mix in soy sauce and stir
+8. Serve<|endoftext|>

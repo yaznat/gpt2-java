@@ -1,0 +1,1 @@
+Fix grammar: We went to a cafe restaurant and took a coffee and ate a cake.<|endoftext|>We went to a cafe restaurant and took ordered a coffee and ate a cake.<|endoftext|>

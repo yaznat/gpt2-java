@@ -1,0 +1,28 @@
+Generate a recipe for soup.<|endoftext|>1 2 Cup Soup
+
+Ingredients:
+• Olive oil
+• Onion
+• Chicken broth
+• Fresh parsley
+• Hot pepper flakes
+• Carrot
+• Mushroom
+• Green beans
+• Garbanzo beans
+• Cooked rice
+• Cooked chicken
+• Celery
+• Zucchini
+• Green peas
+• Salt and pepper
+
+Steps:
+1. Heat oil in small dutch oven
+2. Saute vegetables until tender
+3. Add chicken broth and heat to simmer
+4. Add remaining beans, rice or pasta if using
+5. Heat to simmer
+6. Add parsley and pepper flakes
+7. Add salt and pepper to taste
+8. Serve at once<|endoftext|>

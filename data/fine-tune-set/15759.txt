@@ -1,0 +1,18 @@
+Please generate a burrito recipe.<|endoftext|>Abc Burritos
+
+Ingredients:
+• Whole wheat tortillas
+• Avocado
+• Broccoli coleslaw mix
+• Low-fat ranch dressing
+• Chicken breast halves
+
+Steps:
+1. Place tortillas on serving plates
+2. Lay half of the avocado slices evenly on the middle third of each tortilla, leaving about 2 inches of blank tortilla at the top and bottom
+3. Sprinkle 1 / 2 cup of broccoli slaw over each avocado bed
+4. Place chicken on avocado broccoli bed
+5. Drizzle 2 t ranch dressing over avocado broccoli chicken bed
+6. Fold left third of tortilla over mixture, then right third over left third
+7. Tuck ends under
+8. Enjoy!<|endoftext|>

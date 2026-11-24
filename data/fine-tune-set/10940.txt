@@ -1,0 +1,17 @@
+Generate a recipe for salad.<|endoftext|>Aloha Chicken Salad
+
+Ingredients:
+• Boneless skinless chicken breast halves
+• Sour cream
+• Chutney
+• Curry powder
+• Ground ginger
+• Celery
+• Coconut
+• Salad greens
+• Cantaloupe
+
+Steps:
+1. In a small bowl, mix together sour cream, chutney, curry and ginger until well combined
+2. Place chicken, celery and coconut in a large bowl, add sour cream mixture, toss to combine and chill until serving time
+3. To serve, place salad greens on a platter or individual dinner plates, top with chicken and garnish with cantelope<|endoftext|>

@@ -1,0 +1,1 @@
+Remove all grammatical errors from this text: I'ts more difficult to me to write or speak the language than read or listen, is hard to me to express my ideas but it's a little more easy understand.<|endoftext|>It's more difficult for me to write or speak the language than read or listen; it is hard for me to express my ideas, but it's a little easier to understand.<|endoftext|>

@@ -1,0 +1,1 @@
+Fix grammar in this sentence: Near the restaurant we saw a very strange thing.<|endoftext|>Near the restaurant, we saw a very strange thing.<|endoftext|>

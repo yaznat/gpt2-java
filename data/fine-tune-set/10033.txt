@@ -1,0 +1,21 @@
+Generate a recipe for chili.<|endoftext|>30 Minute Chili
+
+Ingredients:
+• Hamburger
+• Yellow onion
+• Garlic cloves
+• Chili powder
+• Black pepper
+• Salt
+• Cumin
+• Cayenne pepper
+• Pinto beans
+• Crushed tomatoes
+• Beef broth
+
+Steps:
+1. Brown beef with onion and garlic in 5-quart dutch oven or large skillet over med high heat for 5 to 6 minutes
+2. Add seasonings, and stir to combine, heat 1 minute
+3. Stir in pinto beans, broth and tomatoes
+4. Bring to boil, reduce heat and simmer for 15 minutes uncovered
+5. Garnish with onion and cheddar cheese<|endoftext|>

@@ -1,0 +1,23 @@
+Give me a recipe for a sandwich.<|endoftext|>Baked Cheese Sandwiches
+
+Ingredients:
+• Bread
+• Butter
+• Mustard
+• Velveeta cheese
+• Eggs
+• Milk
+• Salt
+• Pepper
+
+Steps:
+1. Butter both sides of bread
+2. Lay 8 slices in a 9x13 inch pan
+3. Spread mustard on top
+4. Cover each slice with velveeta cheese
+5. Cover with remaining bread slices
+6. In seperate bowl mix together eggs, milk, salt and pepper
+7. Mix well
+8. Pour over bread and place in refrigerator overnight, or for at least 6 hours
+9. Bake at 325 degrees for 1 hour
+10. Cut into serving size pieces and serve hot<|endoftext|>

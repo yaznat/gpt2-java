@@ -1,0 +1,10 @@
+Please generate a sushi recipe.<|endoftext|>Dynamite Sauce For Sushi
+
+Ingredients:
+• Mayonnaise
+• Hot sauce
+• Masago smelt roe
+
+Steps:
+1. Mix the three ingredients together
+2. You may add more hot sauce or masago to your tastes<|endoftext|>

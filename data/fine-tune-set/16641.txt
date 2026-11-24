@@ -1,0 +1,16 @@
+Give me a recipe for a smoothie.<|endoftext|>Berry Watermelon Smoothie
+
+Ingredients:
+• Watermelon
+• Mixed berries
+• Banana
+• Milk
+• Ice
+• Cinnamon
+• Honey
+
+Steps:
+1. Blend watermelon into a juice
+2. Add bananas
+3. Throw in other ingredients, all according to taste
+4. Can pour over more ice cubes if desired<|endoftext|>

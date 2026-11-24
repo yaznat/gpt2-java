@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: The outside is too hot.<|endoftext|>The weather outside is too hot.<|endoftext|>

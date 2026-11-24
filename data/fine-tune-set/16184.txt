@@ -1,0 +1,18 @@
+Give me a quesadilla recipe.<|endoftext|>Grilled Chicken And Spinach Quesadillas
+
+Ingredients:
+• Chicken
+• Baby spinach leaves
+• Monterey jack cheese
+• Flour tortillas
+• Avocado
+• Salsa
+• Sour cream
+
+Steps:
+1. Heat grill to medium
+2. In a large bowl, combine the chicken, spinach and cheese
+3. Dividing evenly, place the mixture on one half of each tortilla
+4. Fold the other half over to cover
+5. Grill the quesadillas until the cheese has melted and the tortillas are crisp, 3 to 4 minutes per side
+6. Serve with the avocado, salsa and sour cream<|endoftext|>

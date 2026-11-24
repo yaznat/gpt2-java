@@ -1,0 +1,19 @@
+Give me a stew recipe.<|endoftext|>Beef Chestnut And Red Wine Stew
+
+Ingredients:
+• Beef
+• Onion
+• Fresh thyme
+• Vegetable oil
+• Beef stock
+• Chestnuts
+• Carrots
+• Red wine
+• Seasoned flour
+
+Steps:
+1. Cube the beef and dredge it in the seasoned flour
+2. Fry the beef in oil over a high heat until browned in a dutch oven
+3. Add the onions and keep frying until they start to brown
+4. Add the thyme, wine and stock, bring to the boil, then turn down the heat and simmer for 1 hour, lid on
+5. Add the carrots and chestnuts, season and cook gently for a further hour, lid off<|endoftext|>

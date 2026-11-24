@@ -1,0 +1,14 @@
+Give me a quesadilla recipe.<|endoftext|>Chocolate Cinnamon Quesadillas
+
+Ingredients:
+• Semisweet chocolate
+• Sugar
+• Ground cinnamon
+• Flour tortillas
+• Powdered sugar
+
+Steps:
+1. Sprinkle 1 tablespoon of chocolate, 1 / 2 tablespoon of sugar and 1 / 4 teaspoon cinnamon over half of each tortilla
+2. Fold tortillas in half to cover ingredients
+3. Set quesadillas in a dry skillet and cook over medium heat until speckled with brown spots on both sides, about 2 minutes per side
+4. Sprinkle each with 1 / 2 teaspoon of powdered sugar: serve<|endoftext|>

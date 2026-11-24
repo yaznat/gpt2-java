@@ -1,0 +1,15 @@
+Give me a quesadilla recipe.<|endoftext|>Blender Chicken Quesadillas
+
+Ingredients:
+• Boneless chicken breasts
+• American cheese
+• Jalapeno peppers
+• Onion
+• Corn tortillas
+
+Steps:
+1. Preheat the oven to 350 degrees
+2. Cook the chicken breasts
+3. Add all desired ingredients into a blender and blend on low until finely chopped and blended
+4. On a slightly greased cookie sheet or pie dish, lay one tortilla down, and cover with chicken mixture from blender
+5. Then place another tortilla on top and put in the oven for 5-10 minutes or until cheese is completely melted<|endoftext|>

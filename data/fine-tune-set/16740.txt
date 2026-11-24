@@ -1,0 +1,13 @@
+Generate a recipe for a milkshake.<|endoftext|>Chocolate Milkshake
+
+Ingredients:
+• Vanilla ice cream
+• Malt drink powder
+• Whole milk
+• Chocolate syrup
+• Chocolate sandwich style cookies
+
+Steps:
+1. Just add all ingredients to the blender except the cookies and mix for about 30 seconds
+2. Next, add the cookies to the ice cream and blend for an extra 20 seconds
+3. Pour into 2 glasses and serve<|endoftext|>

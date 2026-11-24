@@ -1,0 +1,14 @@
+Give me a cocktail recipe.<|endoftext|>Apple Sparkler Cocktail
+
+Ingredients:
+• Brandy
+• Apple juice
+• Soda water
+• Apple
+
+Steps:
+1. Fill a martini shaker halfway with ice cubes
+2. Add brandy and apple juice
+3. Cover an shake vigorously until very cold
+4. Strain into 2 champagne glasses
+5. Add 2 tablespoons soda water into each glass and garnish with apple slices<|endoftext|>

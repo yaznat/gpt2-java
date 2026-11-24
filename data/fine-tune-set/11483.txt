@@ -1,0 +1,23 @@
+Generate a recipe for bread.<|endoftext|>Amish Bread
+
+Ingredients:
+• Warm water
+• Sugar
+• Yeast
+• Salt
+• Vegetable oil
+• Flour
+
+Steps:
+1. Dissolve sugar in warm water in a bowl
+2. Add yeast and allow to sit 10 minutes
+3. Add oil, salt and flour
+4. Mix well
+5. Knead well
+6. Place in a well oiled bowl, and cover for one hour to one and one half hours
+7. Knead down
+8. Let rest 10 minutes
+9. Form into 2 loaves
+10. Place in greased loaf pans
+11. Allow to rise, covered, for one hour
+12. Bake 350f 30 minutes til golden<|endoftext|>

@@ -1,0 +1,13 @@
+Give me a chili recipe.<|endoftext|>Basic Thai Sweet Chili Sauce
+
+Ingredients:
+• Sugar
+• Rice
+• Salt
+• Red chilies
+
+Steps:
+1. Heat sugar and vinegar in a saucepan until sugar dissolves
+2. Boil the mixture until it starts to thicken
+3. Remove from heat and stir in salt and chili
+4. Allow to cool before serving<|endoftext|>

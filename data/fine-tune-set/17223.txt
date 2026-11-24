@@ -1,0 +1,12 @@
+Please generate a tea recipe.<|endoftext|>Apple Spice Tea
+
+Ingredients:
+• Dried apple
+• Cinnamon
+• Clove
+• Cardamom
+• Black tea
+
+Steps:
+1. Assemble all the ingredients and place in a tea ball
+2. Place tea ball in hot water and steep for 10 minutes<|endoftext|>

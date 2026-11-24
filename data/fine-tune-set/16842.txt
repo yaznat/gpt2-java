@@ -1,0 +1,11 @@
+Please give me a recipe for a milkshake.<|endoftext|>Rum Mocha Milkshake
+
+Ingredients:
+• Chocolate ice cream
+• Extra strong coffee
+• Dark rum
+• Ice cubes
+
+Steps:
+1. Place all ingredients in pitcher of a blender
+2. Cover and blend about 20 seconds, or until smooth<|endoftext|>

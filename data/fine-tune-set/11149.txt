@@ -1,0 +1,13 @@
+Can you give me a sandwich recipe?<|endoftext|>Baked Bean Sandwich
+
+Ingredients:
+• Butter
+• Brown bread
+• Baked beans
+
+Steps:
+1. Butter one side of both slices of bread
+2. Set bread slices, buttered-side up, on plate
+3. Pour warm baked beans onto bread
+4. Serve
+5. This is messy, so be prepared<|endoftext|>

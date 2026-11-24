@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: I would be very happy if you contact to me, and correct my article's mistakes.<|endoftext|>I would be very happy if you could contact me, and as well as correct my article's mistakes.<|endoftext|>

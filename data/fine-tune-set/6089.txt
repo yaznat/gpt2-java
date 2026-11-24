@@ -1,0 +1,1 @@
+Fix grammar in this sentence: We exchange addresses and as time went on we became good friends.<|endoftext|>We exchanged addresses, and as time went on, we became good friends.<|endoftext|>

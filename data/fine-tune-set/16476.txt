@@ -1,0 +1,15 @@
+Give me a smoothie recipe.<|endoftext|>A Date With A Banana Smoothie
+
+Ingredients:
+• Banana
+• Dates
+• Plain nonfat yogurt
+• Low-fat milk
+• Protein powder
+• Flax seed meal
+• Vanilla
+
+Steps:
+1. Combine all ingredients in blender
+2. Blend well
+3. Serve<|endoftext|>

@@ -1,0 +1,1 @@
+Fix grammar in this sentence: The wall of my bedroom are white and the floor is dark grey.<|endoftext|>The walls of my bedroom are white, and the floor is dark grey.<|endoftext|>

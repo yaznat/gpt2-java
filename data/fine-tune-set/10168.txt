@@ -1,0 +1,25 @@
+Give me a chili recipe.<|endoftext|>Beef And Bacon Chili
+
+Ingredients:
+• Bacon
+• Lean ground beef
+• Onions
+• Whole tomatoes
+• Pinto beans
+• Picante sauce
+• Chili powder
+• Ground cumin
+• Salt
+
+Steps:
+1. Optional toppings: sour cream, shredded cheddar cheese, chopped onion, chopped cilantro
+2. In a large saucepan, cook bacon over medium-low heat, stirring frequently, until crisp
+3. Remove to paper towels with slotted spoon
+4. Pour off all but about 1 tablespoon of the drippings
+5. In drippings, brown ground beef with onion and green pepper
+6. Drain
+7. Add reserved bacon and remaining ingredients except optional toppings
+8. Mix well
+9. Bring to a boil
+10. Reduce heat, cover and simmer 20 minutes
+11. Ladle into bowls, top as desired, and serve with additional picante sauce<|endoftext|>

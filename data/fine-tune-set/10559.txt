@@ -1,0 +1,24 @@
+Generate a recipe for pasta.<|endoftext|>Anchovy Olive Pasta Sauce
+
+Ingredients:
+• Olive oil
+• Anchovies packed in oil
+• Garlic cloves
+• Onion
+• Black olives
+• Green olives
+• Capers
+• Dried basil
+• Italian seasoning
+• Black pepper
+• Tomatoes
+• Tomato paste
+• Water
+• Marsala
+• Red pepper flakes
+
+Steps:
+1. In a medium saucepan combine olive oil and anchovies
+2. Cook over medium heat, stirring to mash anchovies, 3 to 5 minutes
+3. Add garlic and onion and cook until tender, 5 minutes or so
+4. Stir in remaining ingredients and simmer, uncovered, 15 minutes<|endoftext|>

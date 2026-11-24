@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: But if you take a big journey alone, you'd better take an old good bus, just like 100 years ago.<|endoftext|>But if you take a big journey alone, you'd better take the good old bus, just like 100 years ago.<|endoftext|>

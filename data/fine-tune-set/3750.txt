@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: Compared to the structure of a conventional automobile, electric vehicle has a similar structure but different components.<|endoftext|>Compared to the structure of a conventional automobile, the electric vehicle has a similar structure but different components.<|endoftext|>

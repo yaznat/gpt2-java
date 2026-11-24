@@ -1,0 +1,1 @@
+Fix grammar in the sentence: With reference to Post-it pads, they are created without any background research.<|endoftext|>With reference to Post-it pads, they were created without any background research.<|endoftext|>

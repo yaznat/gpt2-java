@@ -1,0 +1,13 @@
+Generate a recipe for a cocktail.<|endoftext|>Belgian Brownie Cocktail
+
+Ingredients:
+• Gin
+• Cognac
+• Chocolate liqueur
+• Heavy cream
+• Ice cube
+
+Steps:
+1. Pour the gin, cognac and chocolate liqueur over the ice cubes
+2. Fill with heavy cream
+3. Stir gently<|endoftext|>

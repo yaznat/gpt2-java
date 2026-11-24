@@ -1,0 +1,15 @@
+Generate a recipe for waffles.<|endoftext|>Beer Waffles
+
+Ingredients:
+• Sesame
+• Eggs
+• Beer
+• Oil
+• Margarine
+• Salt
+• Baking powder
+• Flour
+
+Steps:
+1. Combine all ingredients and mix them well
+2. Make small balls and bake in waffle iron<|endoftext|>

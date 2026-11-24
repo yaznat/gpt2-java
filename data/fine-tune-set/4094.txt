@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: Some of them believe that it can only entertain us while others do believe that it can also educate.<|endoftext|>Some of them believe that it can only entertain us, while others believe that it can also educate us.<|endoftext|>

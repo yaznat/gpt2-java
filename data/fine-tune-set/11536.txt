@@ -1,0 +1,21 @@
+Generate a recipe for cake.<|endoftext|>Wacky Cake
+
+Ingredients:
+• Flour
+• Sugar
+• Cocoa
+• Baking soda
+• Salt
+• Vegetable oil
+• Vinegar
+• Vanilla
+• Water
+
+Steps:
+1. Sift together and make 3 holes in dry ingredients
+2. In first hole, pour vegetable oil
+3. In second hole, pour vinegar
+4. In third hole, pour vanilla
+5. Pour cold water over all
+6. Mix well with fork or whisk, but do not beat
+7. Bake in greased 8 x 8 pan for about 35 minutes at 350 deg f<|endoftext|>

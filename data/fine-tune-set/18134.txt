@@ -1,0 +1,23 @@
+Generate a recipe for pancakes.<|endoftext|>Apple Oven Pancake
+
+Ingredients:
+• Butter
+• Eggs
+• All-purpose flour
+• Milk
+• Salt
+• Brown sugar
+• Ground cinnamon
+• Granny smith apple
+
+Steps:
+1. Heat oven to 400 degrees
+2. Melt butter in pie plate in oven
+3. Brush on sides of pie plate
+4. Sprinkle 2 tbsp brown sugar and cinnamon over butter
+5. Arrange apple over sugar in counterclockwise direction
+6. Beat eggs slightly in med bowl with whisk or beater
+7. Beat in remaining ingredients just until mixed
+8. Pour into pie plate
+9. Bake 30-35 minutes until puffy and deep golden brown
+10. Immediately loosen edge of pancake and turn upside down onto plate<|endoftext|>

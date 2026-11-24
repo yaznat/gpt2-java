@@ -1,0 +1,16 @@
+What's a recipe for a sandwich?<|endoftext|>Awesome Grilled Cheese Sandwich
+
+Ingredients:
+• Margarine
+• Onion
+• Rye bread
+• American cheese
+• Swiss cheese
+
+Steps:
+1. Melt margarine in frying pan and grill onions until golden
+2. Put margarine on one side of the rye bread
+3. Put one slice of the rye bread margarine side down in frying pan
+4. Top with the cheese and the onion
+5. Top with remaining rye bread margarine side up
+6. Grill until both sides and browned and cheese is melted<|endoftext|>

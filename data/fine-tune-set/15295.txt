@@ -1,0 +1,22 @@
+Give me a recipe for a burger.<|endoftext|>2Bleu S Bacon Cheeseburger Roll Up
+
+Ingredients:
+• Lean ground beef
+• Onion
+• Italian seasoning
+• Cheddar cheese
+• Bacon
+• Prepared pizza crust
+
+Steps:
+1. Preheat oven to 400f
+2. Cook ground beef, onions, and italian seasoning in large skillet on medium-high heat until ground beef is evenly browned
+3. Drain and return meat mixture to skillet
+4. Add cheese and bacon and cook until the cheese is mostly melted, stirring frequently
+5. Cool 10 minutes
+6. Line a baking sheet with parchment paper or spray with non-stick cooking spray
+7. Roll out dough to 15x8-inch rectangle
+8. Top with meat / cheese mixture evenly on top, leaving a 1" margin at one of the long ends
+9. Roll up dough, starting at the long sides, ending where you left out the filling on the edge
+10. Place seam-side down onto center of baking sheet and bake for 20 to 25 minutes or until golden brown
+11. Cut diagonally into six slices to serve<|endoftext|>

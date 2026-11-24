@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: The next days I didn't do much.<|endoftext|>The next few days, I didn't do much.<|endoftext|>

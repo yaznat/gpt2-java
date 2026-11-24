@@ -1,0 +1,18 @@
+Please generate a ice cream recipe.<|endoftext|>Blueberry Ice Cream
+
+Ingredients:
+• Blueberries
+• Sugar
+• Salt
+• Milk
+• Heavy cream
+
+Steps:
+1. Bring blueberries, sugar, and salt to a boil over medium heat
+2. Mash berries while stirring
+3. Simmer for about 5 minutes, stirring frequently
+4. Remove from heat and allow to cool slightly
+5. Pure mixture with milk just until smooth
+6. Stir in cream
+7. Strain mixture and chill for at least 2 hours or up to 1 day
+8. Freeze according to ice cream maker instructions<|endoftext|>

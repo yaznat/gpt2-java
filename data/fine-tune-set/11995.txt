@@ -1,0 +1,26 @@
+Give me a pie recipe.<|endoftext|>String Pie
+
+Ingredients:
+• Ground beef
+• Onion
+• Green pepper
+• Garlic clove
+• Crushed red pepper flakes
+• Spaghetti sauce
+• Spaghetti
+• Parmesan cheese
+• Eggs
+• Butter
+• Cottage cheese
+• Mozzarella cheese
+
+Steps:
+1. Cook beef, onion, green pepper and garlic in a large skillet until browned
+2. Drain
+3. Stir in red pepper flakes and spaghetti sauce and set aside
+4. In a large bow, mix spaghetti, parmesan cheese, eggs and butter
+5. Spread in a greased casserole dish
+6. Spread cottage cheese over the top
+7. Pour sauce mixture over cottage cheese
+8. And sprinkle with mozzarella cheese
+9. Bake at 350 degrees for about 30 minutes<|endoftext|>

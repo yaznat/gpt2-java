@@ -1,0 +1,1 @@
+Remove all grammatical errors from this text: In my class, I have a group of close friends, and they treated me very well.<|endoftext|>In my class, I have a group of close friends, and they treat me very well.<|endoftext|>

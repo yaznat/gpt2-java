@@ -1,0 +1,25 @@
+Please give me a recipe for soup.<|endoftext|>Orange Soup
+
+Ingredients:
+• Butternut squash
+• Sweet potato
+• Carrots
+• Plain yogurt
+• Chicken broth
+• Mandarin orange
+• Thyme
+• Cinnamon
+• Ginger
+• Honey
+• Salt and pepper
+
+Steps:
+1. Peel and cube the squash and sweet potato
+2. Chop the carrots
+3. Put in a pot and add water to just cover the vegetables
+4. Boil until vegetables are soft, then mash with a fork
+5. Add the yogurt and the broth
+6. Squeeze the juice out of the mandarin and add
+7. Stir well so that the solids mix with the liquids
+8. Add spices, honey, salt and pepper
+9. You're done!<|endoftext|>

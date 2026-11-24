@@ -1,0 +1,22 @@
+Generate a recipe for pancakes.<|endoftext|>Apollo Potato Pancakes
+
+Ingredients:
+• Potatoes
+• Onion
+• Eggs
+• Flour
+• Salt
+• Baking powder
+• Ground pepper
+• Vegetable oil
+
+Steps:
+1. Soak shredded potatoes in cold water about 5 minutes
+2. Drain and squeeze dry in a linen kitchen towel
+3. Combine the potatoes with onion, eggs, flour, salt, baking powder and pepper
+4. Stir well
+5. Pour oil into skillet to a depth of 1 / 8 inch
+6. Place over medium heat
+7. Portion 1 / 2 cup potato mixture into pan
+8. Flatten slightly
+9. Cook 8 minutes until brown, turning once<|endoftext|>

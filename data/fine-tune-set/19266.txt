@@ -1,0 +1,13 @@
+Give me a ice cream recipe.<|endoftext|>Classic Vanilla Ice Cream
+
+Ingredients:
+• Heavy cream
+• Half-and-half
+• Vanilla extract
+• Sugar
+• Salt
+
+Steps:
+1. Combine ingredients in a blender or food processor until sugar dissolves
+2. Refrigerate until needed for ice-cream maker
+3. Pour into the ice cream maker and follow your ice-cream maker's instructions for freezing<|endoftext|>

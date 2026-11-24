@@ -1,0 +1,11 @@
+Give me a cocktail recipe.<|endoftext|>Cassis Champagne Cocktail
+
+Ingredients:
+• Creme de cassis
+• Champagne
+• Sugar cubes
+
+Steps:
+1. Place one sugar cube in each of 8 glasses, add a capful or 2 teaspoons of liqueur to each glass
+2. Fill each glass with well chilled champagne
+3. Serve immediately<|endoftext|>

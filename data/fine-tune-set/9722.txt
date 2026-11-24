@@ -1,0 +1,1 @@
+Fix grammar in the sentence: Besides that, each individual part that make up the car is also expensive.<|endoftext|>Besides that, each individual part that makes up the car is also expensive.<|endoftext|>

@@ -1,0 +1,21 @@
+Give me a burrito recipe.<|endoftext|>Beef Fajita Burrito
+
+Ingredients:
+• Beef sirloin steak
+• Cumin
+• Chili powder
+• Green bell pepper
+• Onion
+• Olive oil
+• Flour tortillas
+• Salsa
+• Sour cream
+• Monterey jack cheese
+
+Steps:
+1. Heat the oil in a heavy skillet or wok
+2. Toss the beef with the cumin and chili powder
+3. Cook the beef, peppers, and onions
+4. Add the mixture to the tortillas
+5. Top with salsa, sour cream, and cheese
+6. Roll up the burrito and serve immediately<|endoftext|>

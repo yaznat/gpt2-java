@@ -1,0 +1,1 @@
+Remove all grammatical errors from this text: Some opponents argued that the safety of the nuclear reactor cannot be guaranteed, and such dangerous power plants should never be built.<|endoftext|>Some opponents argue that the safety of nuclear reactor cannot be guaranteed and such dangerous power plants should never be built.<|endoftext|>

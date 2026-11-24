@@ -1,0 +1,22 @@
+Give me a salad recipe.<|endoftext|>Ajar Thai Salad
+
+Ingredients:
+• Rice vinegar
+• Sugar
+• Salt
+• Ground black pepper
+• Cucumber
+• Red onion
+• Fresh cilantro leaves
+• Red chili pepper
+• Mixed greens
+
+Steps:
+1. In a medium bowl, stir vinegar, sugar, salt, and pepper until sugar and salt are dissolved
+2. Quarter cucumber lengthwise
+3. Remove seeds
+4. Cut quarters crossswise into 1 / 8 thick slices
+5. Add cucumber, onion, cilantro and chili pepper to vinegar dressing
+6. Toss until combined
+7. Cover and marinate in the refrigerator for 3 hours, stirring occasionally
+8. Serve on bed of greens<|endoftext|>

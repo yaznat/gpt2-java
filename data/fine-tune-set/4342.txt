@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: Using American beef, so that the taste is the best, but little expensive.<|endoftext|>It uses American beef so that the taste is the best, but it's a little expensive.<|endoftext|>

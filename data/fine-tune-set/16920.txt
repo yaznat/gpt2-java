@@ -1,0 +1,17 @@
+Generate a recipe for a cocktail.<|endoftext|>Banana Cherry Cordial Cocktail
+
+Ingredients:
+• Jagermeister
+• Banana liqueur
+• Coconut rum
+• Ouzo
+• Ice cubes
+• Blue curacao
+• Cherries
+
+Steps:
+1. In a cocktail shaker, add the chilled jgermeister, banana liqueur, coconut rum and ouzo
+2. Shake a few times, just enough to mix ingredients
+3. Add ice to the shaker, then strain cocktail into a cocktail glass
+4. Carefully add the blue curacao to the cocktail glass
+5. Garnish with two cherries, and enjoy<|endoftext|>

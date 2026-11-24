@@ -1,0 +1,20 @@
+Please generate a fried rice recipe.<|endoftext|>Chicken Fried Rice
+
+Ingredients:
+• Rice
+• Oil
+• Eggs
+• Green onion
+• Chicken breast
+• Soy sauce
+• Sugar
+• Salt
+
+Steps:
+1. Cook rice, chill
+2. Heat 1 / 2 of oil, add eggs and scramble slightly
+3. Remove from heat
+4. Add rest of oil, fry onions and chicken
+5. Add rice, stir to coat
+6. Stir in eggs and remaining ingredients
+7. Heat through<|endoftext|>

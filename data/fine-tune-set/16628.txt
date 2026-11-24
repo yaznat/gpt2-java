@@ -1,0 +1,11 @@
+Give me a recipe for a smoothie.<|endoftext|>Bananarama Smoothie
+
+Ingredients:
+• Bananas
+• Natural-style peanut butter
+• Vanilla yogurt
+• Milk
+• Cinnamon
+
+Steps:
+1. Put all ingredients in a blender and process until smooth, thick, and frothy<|endoftext|>

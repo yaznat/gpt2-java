@@ -1,0 +1,18 @@
+Can you give me a pancake recipe?<|endoftext|>5 Teaspoon Pancakes
+
+Ingredients:
+• Flour
+• Sugar
+• Salt
+• Baking powder
+• Oil
+• Eggs
+• Milk
+
+Steps:
+1. Mix dry ingredients
+2. Add remaining ingredients, mix well
+3. Add water until desired consistency
+4. Pour onto nonstick griddle
+5. When the pancake bubbles, flip it over
+6. Cook the other side until browned<|endoftext|>

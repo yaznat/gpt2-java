@@ -1,0 +1,18 @@
+Please generate a stir fry recipe.<|endoftext|>Broccoli Garlic Ginger Stir Fry
+
+Ingredients:
+• Vegetable oil
+• Garlic cloves
+• Gingerroot
+• Broccoli
+• Water
+• Soy sauce
+
+Steps:
+1. Heat vegetable oil in a wok
+2. Add garlic and gingerroot
+3. Add broccoli
+4. Stir fry to coat with oil
+5. Add water and soy sauce
+6. Continue to stir fry until broccoli is bright green and tender crisp, 3-4 minutes
+7. Serve at once<|endoftext|>

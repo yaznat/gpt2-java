@@ -1,0 +1,20 @@
+Please generate a pudding recipe.<|endoftext|>Baked Pear Pudding
+
+Ingredients:
+• Pears in light syrup
+• Biscuit mix
+• Nuts
+• Cinnamon
+• Brown sugar
+• Butter
+• Lemon, zest of
+• Fresh lemon juice
+
+Steps:
+1. Drain and chop the pears, 1 / 2" chunks, reserve 1 cup of syrup
+2. Toss together the nuts, cinnamon, pears& biscuit mix
+3. Place this mixture in a shallow baking dish
+4. In a saucepan combine the pear syrup, brown sugar& butter
+5. Heat to boiling, add lemon zest and lemon juice
+6. Pour over the pears in the baking dish
+7. Bake in 375f oven for 30 minutes serve warm<|endoftext|>

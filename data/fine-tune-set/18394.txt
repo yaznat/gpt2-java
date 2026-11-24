@@ -1,0 +1,19 @@
+Generate a recipe for waffles.<|endoftext|>Buttermilk Pecan Waffles
+
+Ingredients:
+• Flour
+• Baking soda
+• Baking powder
+• Sugar
+• Salt
+• Eggs
+• Buttermilk
+• Butter
+• Pecan pieces
+
+Steps:
+1. In a bowl, stir together the flour, baking soda, baking powder, sugar and salt, in another bowl, beat the egg whites until they hold soft peaks
+2. In a third bowl, beat the egg yolks with the buttermilk and butter
+3. Mix the dry ingredients into the egg yolk mixture just until smooth
+4. Fold in the beaten egg whites and pecans just until blended
+5. Heat your waffle iron and bake the waffles according to the manufacturer instructions, browning and crisping on both sides<|endoftext|>

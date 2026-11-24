@@ -1,0 +1,8 @@
+Give me a recipe for a sandwich.<|endoftext|>30 Second Sandwich
+
+Ingredients:
+• Bread
+• Cheese
+
+Steps:
+1. Put the cheese between the two slices of bread and microwave for 30 seconds<|endoftext|>

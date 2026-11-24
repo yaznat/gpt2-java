@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: In retrospect, countries around the world face challenges with global aging.<|endoftext|>In retrospect, countries around the world face challenges with an increasingly aging population.<|endoftext|>

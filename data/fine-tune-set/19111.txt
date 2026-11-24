@@ -1,0 +1,14 @@
+Give me a ice cream recipe.<|endoftext|>Ben And Jerry S Vanilla Ice Cream Recipe
+
+Ingredients:
+• Eggs
+• Sugar
+• Heavy whipping cream
+• Milk
+• Vanilla extract
+
+Steps:
+1. Whip the eggs and sugar together with a whisk until fluffy
+2. Add the rest of the ingredients into the eggs and sugar
+3. Whisk together until well mixed
+4. Place in ice cream maker and follow it's directions to make<|endoftext|>

@@ -1,0 +1,11 @@
+Give me a recipe for a cocktail.<|endoftext|>Burnt Almond Cocktail
+
+Ingredients:
+• Amaretto
+• White creme de cacao
+• Kahlua
+• Milk
+
+Steps:
+1. Shake
+2. Pour over ice and serve<|endoftext|>

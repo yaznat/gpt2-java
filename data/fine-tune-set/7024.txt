@@ -1,0 +1,1 @@
+Fix grammar in this sentence: In 1898, H.G. Wells wrote his story (the war of the worlds), so it was inevitable; people began to see space creatures everywhere.<|endoftext|>In 1898, H.G. Wells wrote his story "The War of the Worlds," so it was inevitable. People began to see space creatures everywhere.<|endoftext|>

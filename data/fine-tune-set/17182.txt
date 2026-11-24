@@ -1,0 +1,17 @@
+Generate a recipe for tea.<|endoftext|>Almond Tea Latte
+
+Ingredients:
+• Tea bags
+• Water
+• Almond syrup
+• Whole milk
+• Ground nutmeg
+
+Steps:
+1. Prepare a strong tea with 8 tea bags in 4 cups boiling water
+2. Steep for 5 minutes
+3. Remove tea bags
+4. Pour 5 oz
+5. Of hot tea into each tea cup, add almond syrup and stir
+6. Steam whole milk and top tea with a little steamed milk
+7. Sprinkle with spice if desired<|endoftext|>

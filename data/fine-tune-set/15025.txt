@@ -1,0 +1,14 @@
+Please generate a fried rice recipe.<|endoftext|>Scallion Fried Rice
+
+Ingredients:
+• Cooked rice
+• Scallion
+• Egg
+• Salt and pepper
+• Oil
+
+Steps:
+1. Heat up oil and fry the scallions
+2. Add the beaten egg and fry, breaking up the egg
+3. Add the rice and fry for another minute
+4. Season and serve<|endoftext|>

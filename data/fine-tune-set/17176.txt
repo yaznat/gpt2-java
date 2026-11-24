@@ -1,0 +1,12 @@
+Give me a tea recipe.<|endoftext|>Almond Lemonade Tea
+
+Ingredients:
+• Brewed tea
+• Water
+• Frozen lemonade
+• Sugar
+• Almond extract
+
+Steps:
+1. Combine ingredients in a large pitcher, stirring until sugar dissolves
+2. Serve over ice and refrigerate remaining tea<|endoftext|>

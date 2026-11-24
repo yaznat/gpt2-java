@@ -1,0 +1,1 @@
+Remove all grammatical errors from this text: I have an American girlfriend and she is very fluent in English because it is her mother language.<|endoftext|>I have an American girlfriend, and she is very fluent in English because it is her mother tongue.<|endoftext|>

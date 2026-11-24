@@ -1,0 +1,18 @@
+Give me a recipe for salad.<|endoftext|>Ali Vincent S Mango Quinoa Salad
+
+Ingredients:
+• Quinoa
+• Mango
+• Cilantro
+• Black beans
+• Red bell pepper
+• Green onions
+• Red wine vinegar
+• Olive oil
+• Fresh lime juice
+
+Steps:
+1. In a small bowl, combine vinegar, oil and lime juice
+2. Combine everything else in a big bowl
+3. Drizzle liquid mixture over the salad, and toss until well combined
+4. Chill for about an hour<|endoftext|>

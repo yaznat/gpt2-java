@@ -1,0 +1,14 @@
+Please generate a pudding recipe.<|endoftext|>Amaretto Chocolate Pudding
+
+Ingredients:
+• Chocolate pudding
+• Semisweet chocolate
+• Milk
+• Amaretto
+• Whipped cream
+
+Steps:
+1. Cook pudding mix, chocolate, milk, and amaretto until the mixture thickens
+2. Pour into pudding cups and chill until set
+3. Top with whipped cream
+4. As an alternative, use kahlua instead of amaretto<|endoftext|>

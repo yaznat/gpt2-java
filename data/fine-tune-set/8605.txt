@@ -1,0 +1,1 @@
+Fix grammar in the sentence: Another aspect that can help in easing the problem is the industrial development aspect in a country.<|endoftext|>Another aspect that can help in easing the problem is the industrial development of a country.<|endoftext|>

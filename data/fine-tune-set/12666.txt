@@ -1,0 +1,24 @@
+Please generate a stew recipe.<|endoftext|>Beer Stew
+
+Ingredients:
+• Beef stew meat
+• Onion
+• Garlic
+• Carrots
+• Celery
+• Potatoes
+• Beer
+• Salt and pepper
+• Oregano
+• Tomato paste
+• Butter
+• Flour
+
+Steps:
+1. Cut the beef into 1" squares
+2. Put all but the flour and butter into a slow cooker
+3. Put the cooker on low and cook 8-10 hours
+4. After 8-10 hours, mix the butter with the flour into a paste
+5. Stir the paste into the stew
+6. Adjust seasonings with salt and pepper or anything else you desire
+7. Turn cooker onto high and allow to thicken, maybe 20 minutes<|endoftext|>

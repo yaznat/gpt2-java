@@ -1,0 +1,15 @@
+Generate a recipe for a smoothie.<|endoftext|>Berry Yummy Smoothie Shake
+
+Ingredients:
+• Banana
+• Frozen strawberries
+• Fresh blackberries
+• Apple juice
+• Nonfat yogurt
+• Ice
+• Splenda sugar substitute
+
+Steps:
+1. Add the yogurt, fruit, juice, ice, and splenda into the blender
+2. Blend until free of fruit or ice chunks
+3. Enjoy!<|endoftext|>

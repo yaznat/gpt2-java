@@ -1,0 +1,22 @@
+Give me a waffle recipe.<|endoftext|>Golden Waffles
+
+Ingredients:
+• Flour
+• Baking powder
+• Salt
+• Sugar
+• Egg yolks
+• Milk
+• Butter
+• Egg whites
+
+Steps:
+1. Sift together the dry ingredients
+2. Beat the egg yolks
+3. Add the milk
+4. Add to the dry ingredients
+5. Mix until smooth
+6. Add the melted butter
+7. Beat egg whites until stiff
+8. Fold into batter
+9. Bake in a waffle iron until golden<|endoftext|>

@@ -1,0 +1,12 @@
+Generate a recipe for a milkshake.<|endoftext|>Classic Caramel Milkshake
+
+Ingredients:
+• Milk
+• Caramel ice cream topping
+• Vanilla
+
+Steps:
+1. Place milk, caramel syrup, and ice cream in blender container
+2. Cover
+3. Blend until smooth and thick
+4. Serve immediately!<|endoftext|>

@@ -1,0 +1,1 @@
+Fix grammar in the sentence: Some people don't like this food, but in this restaurant you can eat other types of food, for example Spanish food and Mexican food.<|endoftext|>Some people don't like this food, but at this restaurant, you can eat other types of food. For example, Spanish food and Mexican food.<|endoftext|>

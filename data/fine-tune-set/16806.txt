@@ -1,0 +1,18 @@
+Generate a recipe for a milkshake.<|endoftext|>Milkshake
+
+Ingredients:
+• Ice cream
+• Milk
+• Vanilla
+• Instant malted milk powder
+• Instant pudding mix
+
+Steps:
+1. Put ice cream and milk into blender
+2. Blend on highest speed for a few seconds
+3. Add vanilla, malted milk powder, and pudding mix
+4. Blend again
+5. You may also add fruit if you like
+6. The pudding mix is what makes the shake thick so add as much as you need to make it as thick as you prefer, or not as much if you like less thick shakes
+7. You may add more or less of any ingredients, to your preferred taste
+8. Make it as you like it and enjoy!<|endoftext|>

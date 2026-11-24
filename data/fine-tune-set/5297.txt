@@ -1,0 +1,1 @@
+Fix grammaticality of the sentence: As a result, some sources of energy like nuclear power are used for our daily life.<|endoftext|>As a result, some sources of energy, like nuclear power, are used in our daily life.<|endoftext|>

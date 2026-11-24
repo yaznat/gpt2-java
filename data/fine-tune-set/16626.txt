@@ -1,0 +1,13 @@
+Please give me a recipe for a smoothie.<|endoftext|>Banana Orange Smoothie
+
+Ingredients:
+• Orange juice
+• Plain nonfat yogurt
+• Banana
+• Vanilla extract
+• Honey
+
+Steps:
+1. Place all ingredients in blender and process until smooth
+2. Adjust consistency with orange juice
+3. Pour into glasses and serve<|endoftext|>

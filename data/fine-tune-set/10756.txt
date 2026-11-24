@@ -1,0 +1,16 @@
+Generate a recipe for salad.<|endoftext|>S Wonderful Carrot And Raisin Salad
+
+Ingredients:
+• Carrots
+• Raisins
+• Lemon zest
+• Lemon juice
+• Confectioners' sugar
+• Salt
+• Mayonnaise
+• Pecans
+
+Steps:
+1. Grate carrots coarsely
+2. Add remaining ingredients and mix well
+3. Refrigerate<|endoftext|>

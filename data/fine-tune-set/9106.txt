@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: The bad points of the club are as below,<|endoftext|>The bad points of the club are as below:<|endoftext|>

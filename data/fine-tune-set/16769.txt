@@ -1,0 +1,10 @@
+Give me a milkshake recipe.<|endoftext|>Easy Peasy Cold Buttered Rum Milkshake
+
+Ingredients:
+• Butter pecan ice cream
+• Dark rum
+
+Steps:
+1. Combine ingredients in the container of an electric blender
+2. Cover and process until smooth, stopping once to scrape down the sides
+3. Pour into glasses and serve immediately<|endoftext|>

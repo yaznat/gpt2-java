@@ -1,0 +1,21 @@
+Please generate a cookie recipe.<|endoftext|>Andes Double Chocolate Chip Mint Cookies
+
+Ingredients:
+• Sugar
+• Brown sugar
+• Margarine
+• Eggs
+• Vanilla
+• Flour
+• Baking soda
+• Unsweetened cocoa powder
+• Salt
+• Chocolate chips
+• Mint chip
+
+Steps:
+1. Preheat the oven to 375f
+2. In a large mixing bowl combine the sugar, brown sugar, margarine, eggs, and vanilla
+3. Add the remaining ingredients, except for the mint and chocolate chips
+4. Drop dough by the tablespoon onto a cookie sheet
+5. Cook for 8-10 minutes until golden brown<|endoftext|>

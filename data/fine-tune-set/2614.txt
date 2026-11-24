@@ -1,0 +1,1 @@
+Remove grammar mistakes: There is a coffee table made of wood with a clear glass.<|endoftext|>There is a coffee table made of wood with a clear glass top.<|endoftext|>

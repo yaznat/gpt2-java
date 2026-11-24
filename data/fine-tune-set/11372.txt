@@ -1,0 +1,19 @@
+Can you give me a bread recipe?<|endoftext|>4 H Applesauce Nut Bread
+
+Ingredients:
+• Flour
+• Butter
+• Sugar
+• Applesauce
+• Baking powder
+• Egg
+• Baking soda
+• Walnuts
+
+Steps:
+1. Preheat over to 350 and grease 1 pound loaf pan
+2. Mix dry ingredients
+3. Beat egg, add melted butter, and applesauce
+4. Add to dry ingredients
+5. Fold in nuts
+6. Pour into loaf pan and bake 1 hour<|endoftext|>

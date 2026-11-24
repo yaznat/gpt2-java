@@ -1,0 +1,15 @@
+Give me a recipe for pasta.<|endoftext|>Angel Hair Pasta With Anchovy Sauce
+
+Ingredients:
+• Olive oil
+• Garlic clove
+• Anchovy fillet
+• Fresh ground black pepper
+• Angel hair pasta
+• Parmesan cheese
+
+Steps:
+1. Heat oil in a small saucepan over medium low heat, add garlic and cook about 30 seconds
+2. Add anchovies along with the oil in the can, stir, cook 2 minutes
+3. Season with pepper to taste and pour over pasta and toss
+4. Top with freshly grated parmesan cheese<|endoftext|>

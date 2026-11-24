@@ -1,0 +1,19 @@
+Please generate a chili recipe.<|endoftext|>A Can Of This And A Can Of That Crock Pot Chili
+
+Ingredients:
+• Hamburger
+• Taco seasoning
+• Condensed tomato soup
+• Diced tomatoes
+• Diced tomatoes with jalapenos
+• Black beans
+• Baked beans
+
+Steps:
+1. Spray crockpot liner with pam or other cooking spray
+2. Brown hamburger, drain, rinse to remove excess grease and place in crockpot
+3. Sprinkle taco seasoning over the top of the hamburger
+4. Add soup, tomatoes and beans, without draining liquid from tomatoes and beans
+5. Mix well
+6. Cover and let simmer on low for 8-10 hours
+7. Serve with cheese, sour cream and tortilla chips<|endoftext|>

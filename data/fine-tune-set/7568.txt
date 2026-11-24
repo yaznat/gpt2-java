@@ -1,0 +1,1 @@
+Fix grammar in this sentence: However, as technology evolved with time, the Generation IV power plants are better in terms of security, cost and performance.<|endoftext|>However, as technology has evolved with time, the Generation IV power plants are better in terms of security, cost, and performance.<|endoftext|>

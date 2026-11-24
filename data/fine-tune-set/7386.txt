@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: Moreover, there are many safety measures implemented to minimized potential dangers of operating VHTR.<|endoftext|>Moreover, there are many safety measures implemented to minimize the potential dangers of operating VHTR.<|endoftext|>

@@ -1,0 +1,12 @@
+Give me a recipe for pudding.<|endoftext|>Ambrosia De Laranja Brazilian Orange Pudding
+
+Ingredients:
+• Eggs
+• Orange juice
+• Orange zest
+• Sugar
+
+Steps:
+1. Preheat oven to 300f
+2. Mix all ingredients well with a spoon and pass through a strainer
+3. Pour into an 8 x 6 inch pyrex and bake for 20 minutes or until sides start to brown and become crunchy and top is golden brown<|endoftext|>

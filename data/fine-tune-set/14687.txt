@@ -1,0 +1,17 @@
+Please generate a rice recipe.<|endoftext|>Apple Spiced Rice
+
+Ingredients:
+• Water
+• Unsweetened apple juice
+• Long grain rice
+• Apple
+• Salt
+• Apple pie spice
+• Cinnamon sticks
+
+Steps:
+1. Combine water and apple juice in a medium saucepan
+2. Bring to a boil
+3. Stir in rice and remaining ingredients
+4. Cover and reduce heat to a simmer and cook for 20-25 minutes or until rice is tender and liquid is absorbed
+5. Remove and discard cinnamon sticks<|endoftext|>

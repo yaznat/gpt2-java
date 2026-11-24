@@ -1,0 +1,1 @@
+Fix grammar in this sentence: This could hardly satisfy an ordinary questioner like me, not only an interviewer from a daily journal.<|endoftext|>This could hardly satisfy an ordinary questioner like me, not only an interviewer from a daily newspaper.<|endoftext|>

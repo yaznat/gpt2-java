@@ -1,0 +1,11 @@
+Give me a recipe for pancakes.<|endoftext|>2 Ingredients Eggs Banana Pancakes
+
+Ingredients:
+• Eggs
+• Banana
+• Cooking spray
+
+Steps:
+1. Mash ripe banana well, add in whisk eggs
+2. Warm non stick or cast iron pan to medium, spray with oil
+3. Cook silver dollar size pancakes 30 seconds on each side and serve<|endoftext|>

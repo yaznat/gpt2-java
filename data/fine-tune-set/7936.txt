@@ -1,0 +1,1 @@
+Fix grammar in this sentence: When I read it first, I didn't understand meaning.<|endoftext|>When I first read it, I didn't understand its meaning.<|endoftext|>

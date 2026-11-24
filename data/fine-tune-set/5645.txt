@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: But he did not tell me that today was his birthday and just hanged out with his friends.<|endoftext|>But he did not tell me that today was his birthday, and he just hung out with his friends.<|endoftext|>

@@ -1,0 +1,17 @@
+Give me a recipe for a smoothie.<|endoftext|>Banana Smoothies
+
+Ingredients:
+• Bananas
+• Ice
+• Pineapple juice
+• Coconut milk
+• Lime, juice of
+• Allspice
+• Vanilla
+• Spiced rum
+• Colored crystal sugar
+
+Steps:
+1. Add all ingredients to blender and blend until smooth
+2. Serve in glasses chilled in the freezer
+3. Dip rims in sugar before serving<|endoftext|>

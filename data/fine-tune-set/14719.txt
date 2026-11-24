@@ -1,0 +1,20 @@
+Generate a recipe for rice.<|endoftext|>Arroz Brasileiro Brazilian Rice
+
+Ingredients:
+• Olive oil
+• Onions
+• Rice
+• Hot chicken broth
+• Italian plum tomatoes
+• Salt
+• Cilantro
+• Tomatoes
+
+Steps:
+1. Heat oil in a saucepan over medium heat
+2. Add onions and saute until transparent
+3. Add rice and cook, stirring constantly, until grains are coated with oil and rice is hot
+4. Add broth, tomatoes, and salt, and bring to a boil
+5. Reduce heat to very low
+6. Cover and cook until done, about 20 minutes
+7. Garnish with cilantro and tomatoes<|endoftext|>

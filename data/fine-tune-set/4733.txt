@@ -1,0 +1,1 @@
+Fix grammar in this sentence: Therefore, public spending on the aged is crucial in ensuring the continuance productivity of the aged which in turn benefits the country.<|endoftext|>Therefore, public spending on the aged is crucial in ensuring the continued productivity of the aged, which in turn benefits the country.<|endoftext|>

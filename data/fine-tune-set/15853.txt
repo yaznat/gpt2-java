@@ -1,0 +1,21 @@
+Generate a recipe for a burrito.<|endoftext|>Burrito Pita Pockets
+
+Ingredients:
+• Lean ground beef
+• Taco seasoning
+• Water
+• Sliced ripe olives
+• Pita breads
+• Lettuce
+• Tomatoes
+• Reduced-fat cheddar cheese
+
+Steps:
+1. In a large nonstick skillet coated with nonstick cooking spray, cook beef over medium heat until no longer pink
+2. Drain
+3. Stir in burrito seasoning and water
+4. Bring to a boil
+5. Reduce heat
+6. Simmer, uncovered, for 3-5 minutes or until thickened
+7. Stir in olives
+8. Fill pita bread halves with beef mixture, lettuce, tomato and cheese<|endoftext|>

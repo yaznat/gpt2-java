@@ -1,0 +1,13 @@
+Give me a recipe for a cocktail.<|endoftext|>Aida S Curse Cocktail
+
+Ingredients:
+• Midori melon liqueur
+• Cointreau liqueur
+• Lemon juice
+• Pineapple juice
+• Banana liqueur
+• Ice
+
+Steps:
+1. Build all ingredients except banana liqueur
+2. Slowly pour banana liqueur down the side of the galss so it settles at the bottom<|endoftext|>

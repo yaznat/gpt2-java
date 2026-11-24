@@ -1,0 +1,1 @@
+Fix grammaticality of the sentence: The main role is still human surgeon who will make judgment, and the robot itself cannot do anything without human operating.<|endoftext|>The main role is still a human surgeon who will make a judgments, and the robot itself cannot do anything without human instructions.<|endoftext|>

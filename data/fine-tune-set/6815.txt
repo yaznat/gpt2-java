@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: But before I left there, unfortunately bad accident happened around me.<|endoftext|>But before I left the company there, unfortunately, a bad accident happened around me.<|endoftext|>

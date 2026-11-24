@@ -1,0 +1,19 @@
+Please generate a milkshake recipe.<|endoftext|>Creamy Espresso Milkshake
+
+Ingredients:
+• Sugar
+• Instant espresso powder
+• Unsweetened cocoa powder
+• Low-fat milk
+• Ice cubes
+• Vanilla extract
+
+Steps:
+1. In a small saucepan, combine the sugar, espresso powder, cocoa powder, and 1 / 4 cup of water
+2. Bring to a boil over low heat
+3. Set aside to cool to room temperature
+4. Pour half of the espresso mixture into a blender
+5. Add 2 cups of the milk, 4 of the ice cubes and 1 / 4 teaspoon of the vanilla
+6. Blend until thick and foamy
+7. Pour into 2 tall glasses
+8. Repeat with the remaining espresso mixture, milk, ice and vanilla<|endoftext|>

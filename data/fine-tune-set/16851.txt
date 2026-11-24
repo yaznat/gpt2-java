@@ -1,0 +1,9 @@
+Give me a recipe for a milkshake.<|endoftext|>Strawberry Milkshake
+
+Ingredients:
+• Tequila rose
+• Godiva white chocolate liqueur
+• Milk
+
+Steps:
+1. Shake with ice and strain into glass<|endoftext|>

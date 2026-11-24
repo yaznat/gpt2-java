@@ -1,0 +1,14 @@
+Can you give me a ice cream recipe?<|endoftext|>Chocolate Ice Cream Pie
+
+Ingredients:
+• Sweetened condensed milk
+• Hersheys chocolate syrup
+• Whipping cream
+• Graham cracker pie crusts
+
+Steps:
+1. Combine syrup and sweetened condenced milk
+2. Set aside
+3. Whip cream until stiff peaks form
+4. Slowly fold in milk mixture
+5. Pour into pie shells and freeze<|endoftext|>

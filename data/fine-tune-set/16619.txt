@@ -1,0 +1,14 @@
+Please generate a smoothie recipe.<|endoftext|>Banana Blueberry Smoothie
+
+Ingredients:
+• Banana
+• Frozen blueberries
+• Unsweetened soymilk
+• Flax seed oil
+
+Steps:
+1. Add all ingredients except flax oil and blend until smooth
+2. Pour mixture into measuring cup or other vessel
+3. Stir in flax oil
+4. Drink
+5. When done, check teeth for blueberry bits!<|endoftext|>

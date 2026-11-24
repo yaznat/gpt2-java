@@ -1,0 +1,12 @@
+Generate a recipe for soup.<|endoftext|>10 Minute Fat Free Veggie Soup For One
+
+Ingredients:
+• Water
+• Vegetable bouillon cubes
+• Carrot
+• Celery
+• White onion
+• Cabbage
+
+Steps:
+1. Put all ingredients in a saucepan and simmer until veggies are tender<|endoftext|>

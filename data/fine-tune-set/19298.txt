@@ -1,0 +1,12 @@
+Give me a recipe for a popsicle.<|endoftext|>Mango Coconut Popsicle
+
+Ingredients:
+• Mangoes
+• Coconut milk
+• Sugar
+• Lime juice
+
+Steps:
+1. In a blender, whirl mango chunks, coconut milk, sugar and lime juice until smooth
+2. Add additional sugar to taste
+3. Freeze until firm<|endoftext|>

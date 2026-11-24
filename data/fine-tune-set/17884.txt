@@ -1,0 +1,17 @@
+Give me a recipe for brownies.<|endoftext|>Amish Brownies
+
+Ingredients:
+• Baking chocolate squares
+• Butter
+• Sugar
+• Eggs
+• Vanilla
+• Salt
+• Flour
+• Nuts
+
+Steps:
+1. Melt chocolate and butter in saucepan
+2. Over low to medium heat
+3. Remove from heat and add all other ingredients and stir well -- until blended
+4. Pour into a sprayed 9x13" pan -- bake 20 minutes at 350 --<|endoftext|>

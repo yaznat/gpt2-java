@@ -1,0 +1,1 @@
+Fix grammar in this sentence: I didn't write my cradit number to a hotel that I booked so it was canceled.<|endoftext|>I didn't write my credit card number to a hotel that I booked, so it was canceled.<|endoftext|>

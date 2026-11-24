@@ -1,0 +1,22 @@
+Generate a recipe for salad.<|endoftext|>3 Bean Salad For 25
+
+Ingredients:
+• Cut green beans
+• Cut wax beans
+• Dark red kidney beans
+• Onions
+• Green pepper
+• Vinegar
+• Salad oil
+• Sugar
+• Celery salt
+• Salt
+• Pepper
+• Soy sauce
+
+Steps:
+1. In large bowl
+2. Combine beans, onions, and green pepper
+3. In small bowl, combine vinegar, oil, sugar, celery salt, salt, pepper and soy
+4. Pour dressing over beans and mix lightly
+5. Cover and refrigerate several hours<|endoftext|>

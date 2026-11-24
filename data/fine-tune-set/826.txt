@@ -1,0 +1,1 @@
+Fix grammatical mistakes in this sentence: Thank you for visiting our university for very interesting lecture on the last Friday.<|endoftext|>Thank you for visiting our university and giving a very interesting lecture the last Friday.<|endoftext|>

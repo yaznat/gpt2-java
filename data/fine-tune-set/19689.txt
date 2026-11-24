@@ -1,0 +1,21 @@
+Generate a recipe for fries.<|endoftext|>Baked Cajun Fries
+
+Ingredients:
+• Potatoes
+• Olive oil
+• Paprika
+• Cumin
+• Oregano
+• Thyme
+• Cayenne
+• Sea salt
+
+Steps:
+1. Preheat oven to 450 degrees
+2. Lightly grease a baking sheet
+3. In mixing bowl toss the potatoes with the olive oil to coat them
+4. Mix the spices and salt together and toss with the potatoes until evenly covered
+5. Arrange potatoes in a single layer on baking sheet and bake for 20 minutes
+6. Use tongs to flip the fries and bake another 12-15 minutes
+7. They should be golden brown
+8. Serve with ketchup<|endoftext|>

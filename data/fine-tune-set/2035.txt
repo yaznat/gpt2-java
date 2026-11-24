@@ -1,0 +1,1 @@
+Fix grammar in this sentence: Through decades of development, bar code has been shaped by social factors to some extent.<|endoftext|>Through decades of development, the bar code has been shaped by social factors to some extent.<|endoftext|>

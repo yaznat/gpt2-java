@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: However my lecturer help me when I had a hard time.<|endoftext|>However, my lecturer helped me when I had a hard time.<|endoftext|>

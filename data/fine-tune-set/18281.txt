@@ -1,0 +1,19 @@
+Generate a recipe for pancakes.<|endoftext|>Betty Crocker Peach Pancakes
+
+Ingredients:
+• Egg
+• Flour
+• Milk
+• Vegetable oil
+• Sugar
+• Baking powder
+• Salt
+• Cinnamon
+• Peach
+
+Steps:
+1. Beat egg with hand beater until fluffy
+2. Add rest of ingredients
+3. Grease griddle and heat
+4. Pour about 3 tbsp batter onto hot griddle and cook until edges of pancake puff and look dry around edges
+5. Flip, and cook opposite side until golden brown<|endoftext|>

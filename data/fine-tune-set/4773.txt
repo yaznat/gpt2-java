@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: School is finishing in two weeks and next summer he wants climbing in Scotland.<|endoftext|>School is finishing in two weeks and next summer he wants to climb in Scotland.<|endoftext|>

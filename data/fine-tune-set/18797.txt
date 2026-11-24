@@ -1,0 +1,17 @@
+Generate a recipe for custard.<|endoftext|>Puddingkuchen Custard Bake
+
+Ingredients:
+• Eggs
+• Sugar
+• Flour
+• Milk
+• Butter
+• Fruit
+
+Steps:
+1. In a bowl combine eggs, sugar, flour and milk
+2. Grease a stoneware dish with all the butter
+3. Pour in the dough and add fruit, raisins or almonds to taste
+4. Bake in the cold oven at 180c for about 60 minutes or until custard has set
+5. You might need to cover the dish after 40 minutes or so
+6. Allow to stand and set for at least 10 minutes before serving<|endoftext|>

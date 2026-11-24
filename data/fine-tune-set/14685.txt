@@ -1,0 +1,14 @@
+Give me a rice recipe.<|endoftext|>Apple Cranberry Sweet Rice
+
+Ingredients:
+• Brown rice
+• Fresh cranberries
+• Apples
+• Apple juice
+• Cinnamon
+• Brown sugar
+
+Steps:
+1. Place rice, cranberries, apples, juice, and cinnamon in rice cooker
+2. Turn on and wait until cooker shuts itself off, stirring occasionally
+3. Stir in brown sugar & serve warm<|endoftext|>

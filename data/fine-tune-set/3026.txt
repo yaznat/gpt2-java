@@ -1,0 +1,1 @@
+Fix grammaticality of the sentence: Though the cost of installation of plant and maintenance might be less, however the plant life is only 60 years.<|endoftext|>Though the cost of installation of the plant and maintenance might be less, the plant life is only 60 years.<|endoftext|>

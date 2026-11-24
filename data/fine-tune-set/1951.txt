@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: This is a part of in-store of the restaurant which I went to today.<|endoftext|>This is a part of the insides of the restaurant which I went to today.<|endoftext|>

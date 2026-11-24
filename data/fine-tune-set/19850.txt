@@ -1,0 +1,13 @@
+Give me a recipe for fries.<|endoftext|>Healthy Homemade French Fries
+
+Ingredients:
+• Potatoes
+• Season salt
+• Garlic salt
+• Cumin
+• Black pepper
+
+Steps:
+1. Heat the oven to 375 degrees f
+2. Cut the potatoes into wedges and cover in all the seasonings
+3. Place on a baking sheet lined with parchment paper and bake about 10-15 minutes, depending on desired crispiness<|endoftext|>

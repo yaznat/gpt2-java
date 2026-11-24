@@ -1,0 +1,1 @@
+Fix grammaticality of the sentence: I gave the dinosaur chocolates to my friend who loves dinosaurs, and he looked glad.<|endoftext|>I gave the dinosaur chocolates to my friend, who loves dinosaurs, and he looked happy.<|endoftext|>

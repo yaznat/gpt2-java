@@ -1,0 +1,1 @@
+Fix grammatical mistakes in this sentence: On the left you can see people on an observation area.<|endoftext|>On the left, you can see people in an observation area.<|endoftext|>

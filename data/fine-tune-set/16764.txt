@@ -1,0 +1,12 @@
+Generate a recipe for a milkshake.<|endoftext|>Delicious Chocolate Banana Milkshake
+
+Ingredients:
+• Banana
+• Skim milk
+• Unsweetened cocoa powder
+• Sugar substitute
+• Ice cubes
+
+Steps:
+1. Put everything together in a blender until mixed
+2. Enjoy!<|endoftext|>

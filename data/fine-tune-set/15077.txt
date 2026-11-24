@@ -1,0 +1,18 @@
+Can you give me a pizza recipe?<|endoftext|>Alfredo Prosciutto Pizza
+
+Ingredients:
+• Pizza dough
+• Prosciutto
+• Green onions
+• Alfredo sauce
+• Fresh basil
+• Monterey jack cheese
+• Cornmeal
+
+Steps:
+1. Heat oven to 450 degrees
+2. Spread pizza dough out onto a 10x15 ornmeal lined baking sheet,
+3. Spread alfredo sauce evenly over crust
+4. Divide basil, green onions and prosciutto evenly over sauce
+5. Distribute jack cheese over all
+6. Bake for 20 minutes<|endoftext|>

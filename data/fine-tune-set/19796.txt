@@ -1,0 +1,12 @@
+Give me a recipe for fries.<|endoftext|>Dip For Sweet Potato Fries
+
+Ingredients:
+• Sour cream
+• Mayonnaise
+• Horseradish
+• Honey
+• Paprika
+
+Steps:
+1. Measure and mix all ingredients
+2. Enjoy!<|endoftext|>

@@ -1,0 +1,11 @@
+Give me a ice cream recipe.<|endoftext|>1St Place Lemon Ice Cream For Ice Cream Maker
+
+Ingredients:
+• Lemons
+• White sugar
+• Milk
+
+Steps:
+1. Place all ingredients directly into ice cream maker
+2. Stir well, until smooth
+3. Freeze according to manufacturer's directions<|endoftext|>

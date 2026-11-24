@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: When we met each other 2 years ago, he have to take the exam for university.<|endoftext|>When we met each other 2 years ago, he had to take the exam to apply for university.<|endoftext|>

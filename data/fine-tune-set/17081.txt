@@ -1,0 +1,11 @@
+Give me a recipe for a cocktail.<|endoftext|>Cranberry Cooler Cocktail
+
+Ingredients:
+• Rum
+• Cranberry juice
+• Pineapple sherbet
+
+Steps:
+1. Mix rum and cranberry juice
+2. Pour into stem glasses
+3. Top with small scoop of sherbet<|endoftext|>

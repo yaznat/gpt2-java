@@ -1,0 +1,19 @@
+Give me a ice cream recipe.<|endoftext|>Cinnamon Ice Cream
+
+Ingredients:
+• White sugar
+• Half-and-half cream
+• Eggs
+• Heavy cream
+• Vanilla extract
+• Ground cinnamon
+
+Steps:
+1. In a saucepan over medium-low heat, stir together the sugar and half-and-half
+2. When the mixture begins to simmer, remove from heat, and whisk half of the mixture into the eggs
+3. Whisk quickly so that the eggs do not scramble
+4. Pour the egg mixture back into the saucepan, and stir in the heavy cream
+5. Continue cooking over medium-low heat, stirring constantly, until the mixture is thick enough to coat the back of a metal spoon
+6. Remove from heat, and whisk in vanilla and cinnamon
+7. Set aside to cool
+8. Pour cooled mixture into an ice cream maker, and freeze according to the manufacturer's instructions<|endoftext|>

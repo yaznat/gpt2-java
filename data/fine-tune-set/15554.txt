@@ -1,0 +1,23 @@
+Please generate a taco recipe.<|endoftext|>Authentic Tacos
+
+Ingredients:
+• Ground beef
+• Onion
+• Serrano chilies
+• Cilantro
+• Tomatoes
+• Avocados
+• Limes
+• Extra virgin olive oil
+• Salt
+• Garlic salt
+• Corn tortillas
+
+Steps:
+1. Brown ground beef with garlic salt and drain
+2. Heat a griddle or large skillet on high
+3. Lightly coat tortillas with extra virgin olive oil
+4. Lightly fry tortillas so that they are still flexible, but slightly browned
+5. Drain tortillas on paper towels
+6. Put one spoonful of ground beef on each tortilla, top with serranos, onion, tomato, cilantro, avocado, lime juice and salt
+7. Enjoy!<|endoftext|>

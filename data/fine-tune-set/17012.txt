@@ -1,0 +1,11 @@
+Give me a recipe for a cocktail.<|endoftext|>Chocolate Mocha Almond Cocktail
+
+Ingredients:
+• Chocolate liqueur
+• Amaretto
+• Milk
+• Instant espresso powder
+
+Steps:
+1. Mix all ingredients well, until espresso powder is dissolved
+2. Serve in a rocks glass over ice<|endoftext|>

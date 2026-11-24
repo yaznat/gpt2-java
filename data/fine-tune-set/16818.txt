@@ -1,0 +1,13 @@
+Please give me a recipe for a milkshake.<|endoftext|>Oatmeal Milkshake No Ice Cream
+
+Ingredients:
+• Skim milk
+• Oatmeal
+• Vanilla extract
+• Cocoa
+• Ice cubes
+
+Steps:
+1. Add everything but ice cubes to blender
+2. Pulse a bit to mix oatmeal into the milk
+3. Add ice cubes and blend until thickened<|endoftext|>

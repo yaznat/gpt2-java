@@ -1,0 +1,16 @@
+Please generate a ice cream recipe.<|endoftext|>Banana Chocolate Chip Ice Cream
+
+Ingredients:
+• Low-fat evaporated milk
+• Mashed banana
+• Low-fat yogurt
+• Low-fat milk
+• Maple syrup
+• Vanilla essence
+• Chocolate
+
+Steps:
+1. Pour evaporated milk into a loaf pan, cover with foil & freeze until just firm
+2. Process evaporated milk, bananas, yoghurt, milk maple syrup & essence until thick & creamy
+3. Pour mixture into a 15cm x 25cm loaf pan, cover & freeze until just firm
+4. Repeat processing, stir in chocolate or carob, cover & freeze until firm<|endoftext|>

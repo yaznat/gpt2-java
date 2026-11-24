@@ -1,0 +1,11 @@
+Give me a recipe for a sandwich.<|endoftext|>Basic Tomato Sandwich
+
+Ingredients:
+• White bread
+• Tomatoes
+• Prepared yellow mustard
+• Salt
+• Pepper
+
+Steps:
+1. Spread the mustard on one side of each slice of bread<|endoftext|>

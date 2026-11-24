@@ -1,0 +1,9 @@
+Please generate a smoothie recipe.<|endoftext|>Banana Custard Smoothie
+
+Ingredients:
+• Banana
+• Prepared low-fat custard
+• Milk
+
+Steps:
+1. Blend all ingredients until smooth<|endoftext|>

@@ -1,0 +1,17 @@
+Give me a bread recipe.<|endoftext|>1927 Peanut Butter Bread
+
+Ingredients:
+• Flour
+• Baking powder
+• Salt
+• Sugar
+• Peanut butter
+• Skim milk
+
+Steps:
+1. Preheat oven to 350 degrees fahrenheit
+2. Sift first 4 ingredients together in bowl
+3. Add pb, mix well
+4. Add milk, beat well
+5. Pour batter into a loaf tin
+6. Bake 1 hour or until a toothpick comes out clean<|endoftext|>

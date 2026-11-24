@@ -1,0 +1,1 @@
+Fix grammatical errors in this sentence: The furniture of my house was shaking, and some dishes were broken.<|endoftext|>The furniture of my house was shaking, and some dishes were smashed.<|endoftext|>

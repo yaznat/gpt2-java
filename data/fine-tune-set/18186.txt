@@ -1,0 +1,19 @@
+Give me a pancake recipe.<|endoftext|>Baked Apple Maple Pancakes
+
+Ingredients:
+• Pancake batter
+• Butter
+• Apples
+• Pecans
+• Maple syrup
+• Ground cinnamon
+• Ground cardamom
+
+Steps:
+1. Preheat oven to 350f degrees degrees
+2. Pour melted butter into a 9-inch pie plate
+3. Place apples in plate, then sprinkle with the cinnamon and cardamom
+4. Add pecans on top, and drizzle with the syrup
+5. Pour batter on top
+6. Bake for 30 minutes
+7. Serve with maple syrup<|endoftext|>

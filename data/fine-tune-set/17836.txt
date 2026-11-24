@@ -1,0 +1,17 @@
+Give me a muffin recipe.<|endoftext|>Banana And Cream Of Wheat Muffins Low Fat
+
+Ingredients:
+• Banana
+• Nonfat yogurt
+• Milk
+• Vanilla
+• All-purpose flour
+• Cream of wheat
+• Baking powder
+• Salt
+
+Steps:
+1. In a mixing bowl, mix first 4 ingredients together
+2. In another mixing bowl mix the rest of the ingredients together
+3. Combine both mixtures, until moistened and then pour into muffin tins
+4. Bake at 400 for 20 minutes<|endoftext|>

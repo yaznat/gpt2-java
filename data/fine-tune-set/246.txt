@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: Travelling by car might be more pleasant but it can also be costly, for fuel can be very expensive depending on the current economy.<|endoftext|>Traveling by car might be more pleasant, but it can also be costly because fuel can be very expensive, depending on the current economy.<|endoftext|>

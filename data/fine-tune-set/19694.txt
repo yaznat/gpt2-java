@@ -1,0 +1,21 @@
+Give me a recipe for fries.<|endoftext|>Baked Fries
+
+Ingredients:
+• Nonstick spray coating
+• Baking potatoes
+• Parmesan cheese
+• Paprika
+• Pepper
+
+Steps:
+1. Lightly spray a 15x10x1-inch baking sheet with nonstick coating
+2. Cut potatoes lengthwise into thin wedges
+3. Place potato wedges in a plastic food storage bag
+4. Spray wedges with nonstick coating
+5. Combine cheese, paprika, and pepper
+6. Add to bag
+7. Close bag
+8. Shake to coat potatoes with seasonings
+9. Arrange potatoes in a single layer on the prepared baking sheet
+10. Bake in a preheated 425 degree fahrenheit for 30 minutes or until crisp and fork-tender, turning once
+11. Season with salt<|endoftext|>

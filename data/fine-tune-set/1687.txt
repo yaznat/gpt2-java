@@ -1,0 +1,1 @@
+Fix grammar in this sentence: It is said that Japanese like to eat green soybeans with beer especially in summer but I do not know non-Japanese like it or not.<|endoftext|>It is said that the Japanese like to eat green soybeans with beer, especially in summer, but I do not know if non-Japanese like it or not.<|endoftext|>

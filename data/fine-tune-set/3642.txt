@@ -1,0 +1,1 @@
+Fix grammaticality of the sentence: When I am listening to the English news, I feel sleepy since I hardly understand and not much interesting.<|endoftext|>When I am listening to the English news, I feel sleepy since I hardly understand it, and it's not very interesting.<|endoftext|>

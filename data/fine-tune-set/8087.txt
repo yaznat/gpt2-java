@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: An example would be the Med-eMonitor, invented by InforMedix, which seek as a medicine reminder for the elderly.<|endoftext|>An example would be the Med-eMonitor, invented by InforMedix, which acts as a medicine reminder for the elderly.<|endoftext|>

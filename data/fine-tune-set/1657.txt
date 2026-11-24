@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: Furthermore, VHTR is designed to efficiently produce both electricity and hydrogen at the meantime.<|endoftext|>Furthermore, VHTR is designed to efficiently produce both electricity and hydrogen at the same time.<|endoftext|>

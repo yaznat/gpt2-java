@@ -1,0 +1,12 @@
+Please generate a cocktail recipe.<|endoftext|>Cocktail Team Port
+
+Ingredients:
+• Absolut citron vodka
+• Port wine
+• Simple syrup
+• Lemon, juice of
+
+Steps:
+1. Fill a rocks glass to the rim with ice cubes
+2. Pour absolut citron, port, red and simple syrup over the ice
+3. Garnish with a lemon and an orange<|endoftext|>

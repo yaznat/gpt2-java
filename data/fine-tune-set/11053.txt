@@ -1,0 +1,17 @@
+Give me a sandwich recipe.<|endoftext|>Apple Cream Dream Sandwich
+
+Ingredients:
+• Pumpernickel bread
+• Cream cheese
+• Apples
+• Raisins
+• Pecans
+• Celery
+• Shredded cheddar cheese
+
+Steps:
+1. Toast bread lightly first
+2. Spread bread slices with cream cheese
+3. Place apple slices on top of the cream cheese on one of the toast slices
+4. Sprinkle raisins, pecans, celery, and cheese to taste on the other piece of toast, pressing a little so these items stick to the cream cheese a bit
+5. Put sandwich together, securing with a toothpick<|endoftext|>

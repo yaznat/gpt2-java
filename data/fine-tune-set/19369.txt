@@ -1,0 +1,12 @@
+Generate a recipe for donuts.<|endoftext|>Donut Birthday Cake
+
+Ingredients:
+• Glazed doughnuts
+• Cream
+• Fresh strawberries
+
+Steps:
+1. Place five donuts on a large plate in a circle and pipe cream into each hole
+2. Add another row by topping with four more donuts and pipe cream into each of them as well
+3. Add three more layers, including one donut for the top
+4. Pipe cream into holes and fill in gaps all around the cake, decorate with strawberries and add the birthday candles<|endoftext|>

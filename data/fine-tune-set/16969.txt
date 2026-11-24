@@ -1,0 +1,8 @@
+Give me a recipe for a cocktail.<|endoftext|>Butterballs Cocktail Drink
+
+Ingredients:
+• Butterscotch schnapps
+• Kahlua
+
+Steps:
+1. Layer schnapps then kahlua in a shot glass<|endoftext|>

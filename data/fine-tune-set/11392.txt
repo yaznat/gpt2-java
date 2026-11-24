@@ -1,0 +1,24 @@
+Can you give me a bread recipe?<|endoftext|>Abc Bread
+
+Ingredients:
+• Eggs
+• Sugar
+• Olive oil
+• Applesauce
+• Banana
+• Carrot
+• Cinnamon
+• Allspice
+• Baking powder
+• Baking soda
+• Vanilla
+• Whole wheat flour
+
+Steps:
+1. Beat eggs
+2. Add sugar, oil and vanilla
+3. Add applesauce, bananas, and carrot
+4. Mix well
+5. Mix spices into bowl then add flour gradually
+6. Pour equally into 2 greased loaf pans
+7. Bake at 350 for 1 hours or until knife inserted comes out clean<|endoftext|>

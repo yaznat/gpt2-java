@@ -1,0 +1,1 @@
+Fix grammar in this sentence: The snow lay only three centimeters.<|endoftext|>The snow lay only three centimeters tall.<|endoftext|>

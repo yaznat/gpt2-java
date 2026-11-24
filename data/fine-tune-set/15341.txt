@@ -1,0 +1,13 @@
+Give me a recipe for a burger.<|endoftext|>Amy S Dill Pickle And Lettuce Hamburger Slaw
+
+Ingredients:
+• Mayonnaise
+• Kosher dill pickle
+• Sweet onion
+• Iceberg lettuce
+
+Steps:
+1. Stir together the lettuce, onion, and pickles
+2. Add the mayonnaise to the desired consistency
+3. Cover and refrigerate at least one hour to let the flavors marry before serving
+4. Make sure it's fine, but not overly chopped<|endoftext|>

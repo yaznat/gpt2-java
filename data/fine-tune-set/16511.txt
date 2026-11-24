@@ -1,0 +1,14 @@
+Give me a recipe for a smoothie.<|endoftext|>Apple Banana Smoothie
+
+Ingredients:
+• Banana
+• Apple
+• Orange juice
+• Milk
+• Ice
+• Yogurt
+
+Steps:
+1. In a blender combine banana, apple, orange juice, milk & optional yogurt
+2. Blend until smooth
+3. Pour into glasses and serve<|endoftext|>

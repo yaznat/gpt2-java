@@ -1,0 +1,1 @@
+Fix grammaticality of the sentence: My wife and them are nurses and worked in a same hospital up until 3 years ago, when we moved to Osaka from Nagoya due to my company transfer.<|endoftext|>My wife and they are all nurses and worked in the same hospital up until 3 years ago when we moved to Osaka from Nagoya due to my company transfer.<|endoftext|>

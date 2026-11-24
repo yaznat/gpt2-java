@@ -1,0 +1,1 @@
+Fix grammaticality of the sentence: Someone who has the device and the way to encrypt the code can actually have access to these data.<|endoftext|>Someone who has the device and knows the way to encrypt the code can actually have access to the data.<|endoftext|>

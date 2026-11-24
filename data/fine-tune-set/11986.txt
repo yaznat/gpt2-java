@@ -1,0 +1,19 @@
+Generate a recipe for pie.<|endoftext|>Lemon Coconut Custard Pie
+
+Ingredients:
+• Squash
+• Sugar
+• Eggs
+• Flour
+• Lemon flavoring
+• Coconut flavoring
+• Butter
+• Pie crust
+• Cool whip
+
+Steps:
+1. Whisk together squash, sugar, eggs, flour, lemon and coconut flavorings, and butter
+2. Pour into pie crust
+3. Bake at 350 f for 30-45 minutes
+4. Pie should be set and barely golden brown on top
+5. Can be served with cool-whip or other favored whipped topping<|endoftext|>

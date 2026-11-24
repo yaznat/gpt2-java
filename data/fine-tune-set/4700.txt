@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: At the turn of the millennium, the rising of Asian countries such as China and India has intensified the competition of energy.<|endoftext|>At the turn of the millennium, the rising of Asian countries such as China and India intensified the competition for energy.<|endoftext|>

@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: The two accidents had caused people who lived nearby the nuclear reactors to suffer from the radiation.<|endoftext|>The two accidents caused people who lived nearby the nuclear reactors to suffer from the radiation.<|endoftext|>

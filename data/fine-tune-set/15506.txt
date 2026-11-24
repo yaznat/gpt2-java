@@ -1,0 +1,23 @@
+Give me a burger recipe.<|endoftext|>Bbq Bacon Cheeseburger
+
+Ingredients:
+• 96% lean ground beef
+• Salt
+• Center-cut bacon
+• Light hamburger bun
+• Reduced-fat swiss cheese
+• Red onion
+• Barbecue sauce
+
+Steps:
+1. On wax paper, shape beef into a tight 4-inch patty
+2. Lightly salt both sides
+3. Place in freezer 5 minutes
+4. Preheat grill to high
+5. Meanwhile, cook bacon until crispy
+6. Drain on paper towels
+7. Grill chilled patty to desired doneness
+8. Toast bun on grill rack 30-60 seconds, watching carefully
+9. Top burger with cheese a few seconds before removing from grill
+10. Assemble all ingredients
+11. Serve immediately<|endoftext|>

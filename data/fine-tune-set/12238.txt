@@ -1,0 +1,16 @@
+Give me a soup recipe.<|endoftext|>Thicker Than Pea Soup Pea Soup
+
+Ingredients:
+• Split peas
+• Water
+• Carrots
+• Onions
+• Potatoes
+• Turnips
+• Salt
+• Pepper
+
+Steps:
+1. Throw all the ingredients into a large pot, bring to a boil, then simmer for about 2 hours, or until the peas have completely softened
+2. Make sure you stir this frequently as it will have a tendency to stick to the pot
+3. Add more water if gets too thick<|endoftext|>

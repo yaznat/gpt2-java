@@ -1,0 +1,23 @@
+Give me a recipe for pizza.<|endoftext|>1 Dish Italian 5 Cheese Pizza Bake
+
+Ingredients:
+• Cooking spray
+• All-purpose flour
+• Fast rising yeast
+• Sugar
+• Salt
+• Water
+• Olive oil
+• Pizza sauce
+• Fresh mozzarella cheese
+• Five cheese blend
+• Italian herb seasoning
+
+Steps:
+1. Mix batter ingredients in a 9-1 / 2-inch deep dish pie plate that has been coated with cooking spray
+2. Top dough with the pizza sauce
+3. Evenly distribute fresh mozzarella slices on sauce and top with shredded cheese
+4. Sprinkle with italian herb seasoning
+5. Bake by placing in a cold oven
+6. Set temperature to 350f bake for 30 minutes or until done
+7. Proceed as directed above<|endoftext|>

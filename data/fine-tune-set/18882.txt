@@ -1,0 +1,20 @@
+Please generate a custard recipe.<|endoftext|>Cauliflower Custard
+
+Ingredients:
+• Cauliflower
+• Eggs
+• Milk
+• Sharp cheddar cheese
+• Butter
+• Onion
+• Salt and pepper
+
+Steps:
+1. Preheat oven to 350 degres f
+2. Cook cauliflower in boiling water and drain
+3. In a small bowl, beat eggs and add milk
+4. Mix well
+5. Place cauliflower in a greased baking dish
+6. Pour milk / egg mixture over it
+7. Sprinkle with the remaining ingedients
+8. Bake for 30 minutes<|endoftext|>

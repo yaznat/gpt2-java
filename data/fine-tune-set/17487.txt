@@ -1,0 +1,20 @@
+Can you give me a coffee recipe?<|endoftext|>Bisquick Streusel Coffee Cake
+
+Ingredients:
+• Bisquick
+• Brown sugar
+• Cinnamon
+• Butter
+• Powdered milk
+• Sugar
+• Water
+• Egg
+
+Steps:
+1. Preheat oven to 375f
+2. Mix streusel ingredients in a small bowl until crumbly
+3. Set aside
+4. Mix cake ingredients
+5. Pour batter into 9" greased cake pan
+6. Sprinkle streusel crumbs over the top of the cake
+7. Bake for 20-25 minutes<|endoftext|>

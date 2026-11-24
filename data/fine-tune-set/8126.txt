@@ -1,0 +1,1 @@
+Fix grammar in this sentence: With all that have been said, the advantages of the usage of RFID clearly outweigh the drawbacks of the technology.<|endoftext|>With all that has been said, the advantages of the usage of RFID clearly outweigh the drawbacks of the technology.<|endoftext|>

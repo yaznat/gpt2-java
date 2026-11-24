@@ -1,0 +1,9 @@
+Give me a recipe for a smoothie.<|endoftext|>Berry Watermelon Smoothie
+
+Ingredients:
+• Watermelon
+• Blueberries
+• Milk
+
+Steps:
+1. Blend watermelon, blueberries, and milk<|endoftext|>

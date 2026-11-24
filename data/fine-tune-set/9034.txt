@@ -1,0 +1,1 @@
+Improve the grammar of this text: In 2007, 14% of the world's electricity came from nuclear power and, it can be seen after a few years the nuclear energy will benefit the whole world.<|endoftext|>In 2007, 14% of the world's electricity came from nuclear power, and it will be seen a few years from now that nuclear energy will benefit the whole world.<|endoftext|>

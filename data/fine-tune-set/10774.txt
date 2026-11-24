@@ -1,0 +1,17 @@
+Generate a recipe for salad.<|endoftext|>1905 Salad Dressing Recipe
+
+Ingredients:
+• Garlic cloves
+• Dried oregano
+• Worcestershire sauce
+• Extra virgin olive oil
+• White wine vinegar
+• Fresh lemon juice
+• Salt
+• Fresh ground pepper
+
+Steps:
+1. Whisk together the garlic, oregano and worcestershire sauce
+2. Gradually whisk in the olive oil, continually beating to form an emulsion
+3. Stir in the vinegar and lemon juice
+4. Season with salt and pepper<|endoftext|>

@@ -1,0 +1,15 @@
+Please generate a sandwich recipe.<|endoftext|>Avocado Tomato And Hummus Sandwich
+
+Ingredients:
+• Tomatoes
+• Avocado
+• Hummus
+• Whole wheat bread
+
+Steps:
+1. Lay 4 of the slices of bread out on a plate
+2. Slice the tomato into 8 slices and set aside
+3. Cut the avocado in half and slice it longways into 4 pieces on each half and set aside
+4. On each piece of bread that is already out, spread a tablespoon of hummus
+5. Put two slices of avocado and tomato on top of each bread slice
+6. Top each with the last slices of bread and cut in half<|endoftext|>

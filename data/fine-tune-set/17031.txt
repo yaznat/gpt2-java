@@ -1,0 +1,14 @@
+Give me a recipe for a cocktail.<|endoftext|>Cocktail Cake
+
+Ingredients:
+• Flour
+• Sugar
+• Baking soda
+• Eggs
+• Fruit cocktail
+• Brown sugar
+
+Steps:
+1. Preheat oven to 350
+2. Mix all ingredients together and pour into a greased and floured 13 x 9 x 2 inch cake pan
+3. Put brown sugar on top and bake in oven for 30-35 minutes<|endoftext|>

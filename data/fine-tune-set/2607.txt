@@ -1,0 +1,1 @@
+Fix grammar in the sentence: This is ethically wrong as, in general, humans has their basic right to privacy.<|endoftext|>This is ethically wrong as, in general, humans have their basic right to privacy.<|endoftext|>

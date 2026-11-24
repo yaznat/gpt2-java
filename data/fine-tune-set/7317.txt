@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: The share of cars could remain because of the electric cars.<|endoftext|>The share of cars could remain because of electric cars.<|endoftext|>

@@ -1,0 +1,15 @@
+Give me a smoothie recipe.<|endoftext|>Apricot Cashew Smoothie
+
+Ingredients:
+• Cold water
+• Ice cube
+• Fresh apricots
+• Powdered milk
+• Vanilla extract
+• Fresh lemon juice
+• Cashews
+• Raisins
+
+Steps:
+1. Add all of the ingredients in order listed into a blender and blend till smooth
+2. Add more ice water if needed<|endoftext|>

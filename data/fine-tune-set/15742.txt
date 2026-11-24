@@ -1,0 +1,24 @@
+Please generate a taco recipe.<|endoftext|>Chipotle Ground Beef Tacos
+
+Ingredients:
+• Lean ground beef
+• Chipotle chiles in adobo
+• Tomato sauce
+• Garlic cloves
+• Onion
+• Chili powder
+• Salt
+• Flour tortillas
+• Salsa
+• Sour cream
+• Avocado
+• Tomatoes
+• Lettuce
+• Cheddar cheese
+
+Steps:
+1. Heat a large skillet to medium high
+2. Brown the beef in the skillet for a minute, then add the garlic and onion
+3. Once the meat is no longer pink, drain
+4. Add the chili powder, chipotles, tomato sauce, and salt
+5. Heat over medium until ready to serve on warm tortillas or taco shells with desired toppings<|endoftext|>

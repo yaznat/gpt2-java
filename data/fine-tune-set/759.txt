@@ -1,0 +1,1 @@
+Improve the grammar of this text: We can have fingerprint verification reader combined with built-in smartcard reader, and it only takes seconds to verify one's identification.<|endoftext|>We can have a fingerprint verification reader combined with a built-in smart card reader, and it only takes seconds to verify one's identification.<|endoftext|>

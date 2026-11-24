@@ -1,0 +1,14 @@
+Generate a recipe for salad.<|endoftext|>Aaron S Favorite Ham Salad
+
+Ingredients:
+• Bologna
+• Miracle whip
+• Sweet pickle relish
+• Garlic powder
+• Black pepper
+• Salt
+
+Steps:
+1. Grind bologna in meat grinder
+2. Add all other ingredients and mix well
+3. Great served on fresh white bread or toast, with a slice of cheese, or served as a spread for crackers<|endoftext|>

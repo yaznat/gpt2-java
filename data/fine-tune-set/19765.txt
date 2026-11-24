@@ -1,0 +1,11 @@
+Give me a fries recipe.<|endoftext|>Chili Cumin Salt For French Fries
+
+Ingredients:
+• Salt
+• Chili powder
+• Ground cumin
+
+Steps:
+1. Combine all ingredients
+2. Mix well
+3. Sprinkle over french fries<|endoftext|>

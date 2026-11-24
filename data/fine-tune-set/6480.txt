@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: I went to Egypt on my honeymoon last year, so the exhibition brought me some memories.<|endoftext|>I went to Egypt on my honeymoon last year, so the exhibition brought back some memories.<|endoftext|>

@@ -1,0 +1,11 @@
+Please generate a milkshake recipe.<|endoftext|>Nutella Vanilla Milkshake
+
+Ingredients:
+• Milk
+• Nutella
+• Vanilla extract
+• Ice
+
+Steps:
+1. Place all the ingredients in a blender and pulse 5 - 10 times for 3 seconds each
+2. Serve in a chilled glass and enjoy - slowly!<|endoftext|>

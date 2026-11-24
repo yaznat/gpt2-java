@@ -1,0 +1,1 @@
+Fix grammatical errors in this sentence: But I decided a month ago that I write a diary entry everyday.<|endoftext|>But I decided a month ago that I would write a diary entry every day.<|endoftext|>

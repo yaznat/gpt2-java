@@ -1,0 +1,1 @@
+Fix grammar in this sentence: Back then when she had been a little kid, she had dreamed of seeing the entire world.<|endoftext|>Back then, when she was a little kid, she had dreamed of seeing the entire world.<|endoftext|>

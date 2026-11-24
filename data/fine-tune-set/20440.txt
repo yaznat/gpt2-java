@@ -1,0 +1,17 @@
+Give me a casserole recipe.<|endoftext|>Another Good Casserole
+
+Ingredients:
+• Ground beef
+• Onion
+• Cream cheese
+• Milk
+• Cream of mushroom soup
+• Spaghetti sauce
+• Biscuits
+
+Steps:
+1. Cook the ground beef and the onion together
+2. Drain
+3. Mix everything except the biscuits together
+4. Pour into a greased 2 quart casserole dish and top with the biscuits
+5. Bake at 375 for 30-40 minutes or until biscuits are done and mixture is bubbly<|endoftext|>

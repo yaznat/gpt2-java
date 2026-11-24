@@ -1,0 +1,1 @@
+Fix grammar in this sentence: People who decide to work in show-business or media have to be aware of having less privacy.<|endoftext|>People who decide to work in show business or the media have to be aware of having less privacy.<|endoftext|>

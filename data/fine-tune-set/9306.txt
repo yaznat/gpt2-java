@@ -1,0 +1,1 @@
+Fix grammar in this sentence: I am also ready to work longer shifts on Wednesdays, and on Fridays and Saturdays can work extra time.<|endoftext|>I am also ready to work longer shifts on Wednesdays, and on Fridays and Saturdays, I can work extra time.<|endoftext|>

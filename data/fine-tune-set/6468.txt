@@ -1,0 +1,1 @@
+Fix grammar in the sentence: A colleague bought two boxes of tissues which color are red and black yesterday.<|endoftext|>A colleague bought two boxes of black and red tissues which color was red and black, yesterday.<|endoftext|>

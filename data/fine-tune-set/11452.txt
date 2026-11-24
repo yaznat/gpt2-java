@@ -1,0 +1,23 @@
+Can you give me a bread recipe?<|endoftext|>Almond Peach Yogurt Bread
+
+Ingredients:
+• All-purpose flour
+• Salt
+• Baking soda
+• Baking powder
+• Eggs
+• Vegetable oil
+• Sugar
+• Peach yogurt
+• Almond extract
+• Sliced almonds
+
+Steps:
+1. Preheat oven to 325f measure and sift the dry ingredients except for the sugar into a large bowl
+2. Lightly beat eggs in another bowl
+3. Add oil and sugar to the eggs and blend well
+4. Mix in the yogurt and almond extract
+5. Add the wet mixture to the dry ingredients
+6. Add nuts and mix until just combined
+7. Pour into 2 well-greased loaf pans
+8. Bake for 1 hour<|endoftext|>

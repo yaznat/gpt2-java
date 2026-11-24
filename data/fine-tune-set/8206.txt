@@ -1,0 +1,1 @@
+Improve the grammar of this text: I sit in front of my computer and I acquire news around the world.<|endoftext|>I sit in front of my computer, and I get news from around the world.<|endoftext|>

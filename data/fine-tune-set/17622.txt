@@ -1,0 +1,19 @@
+Give me a recipe for muffins.<|endoftext|>Abc Muffins
+
+Ingredients:
+• Eggs
+• Vegetable oil
+• Applesauce
+• Honey
+• Yellow cake mix
+• Wheat bran
+• Ground cinnamon
+
+Steps:
+1. In a mixing bowl, beat eggs, oil, applesauce and honey
+2. Combine the dry cake mix, bran and cinnamon
+3. Add to egg mixture
+4. Mix just until blended
+5. Fill greased or paper-lined muffin cups two-thirds full
+6. Bake at 350 for 20-25 minutes or until muffins test done
+7. Yield: 1-1 / 2 dozen<|endoftext|>

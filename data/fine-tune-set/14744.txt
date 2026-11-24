@@ -1,0 +1,24 @@
+Generate a recipe for rice.<|endoftext|>Arroz Mexicana Mexican Rice
+
+Ingredients:
+• Onion
+• Olive oil
+• Garlic clove
+• Carrot
+• Raw rice
+• Dried ancho chile powder
+• Cumin
+• Tomatoes
+• Broth
+• Peas
+• Corn
+• Green peppers
+• Oregano
+
+Steps:
+1. Saute onion in oil until soft
+2. Add garlic and carrot, cook for 3 minutes
+3. Stir in rice, cook until light golden, sprinkle with chili powder and cumin
+4. Cook for 5 minutes
+5. Add remaining ingredients and bring to a boil
+6. Cover, reduce heat, simmer over low for 20 minutes or until rice is tender<|endoftext|>

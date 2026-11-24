@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: He crashed into a water tank and dead.<|endoftext|>He crashed into a water tank, and dead died.<|endoftext|>

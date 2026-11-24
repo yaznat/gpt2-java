@@ -1,0 +1,21 @@
+Give me a recipe for cake.<|endoftext|>Absolutely Easy Apple Cake
+
+Ingredients:
+• Yellow cake mix
+• Apple pie filling
+• Eggs
+• Cinnamon
+• Cardamom
+• Nutmeg
+• Ground cloves
+• Nuts
+
+Steps:
+1. Mix together first seven ingredients in mixer
+2. Mix 2 minutes at medium speed
+3. Fold in chopped nuts
+4. Coat bundt pan with cooking spray and flour
+5. Bake at 350 degrees 35-40 minutes
+6. Insert toothpick to check for doneness
+7. Cool 5 mins in pan, invert to plate
+8. Cool, dust with powered sugar<|endoftext|>

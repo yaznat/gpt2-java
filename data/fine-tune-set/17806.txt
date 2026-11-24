@@ -1,0 +1,17 @@
+Please generate a muffin recipe.<|endoftext|>Bacon And Cheese Muffins
+
+Ingredients:
+• Heavy cream
+• Eggs
+• Almond flour
+• Bacon
+• Cheddar cheese
+• Mozzarella cheese
+• Cracked black pepper
+• Kosher salt
+
+Steps:
+1. Mix eggs, cream, almond flour, salt and pepper all together
+2. Stir in bacon and cheeses
+3. Pour mixture into greased muffin pan
+4. Bake @ 350 for 25 to 30 minutes<|endoftext|>

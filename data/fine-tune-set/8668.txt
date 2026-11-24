@@ -1,0 +1,1 @@
+Make the sentence grammatical: This is a set having one diamond necklace, one diamond pendant with a unique shape, one pair of earrings having diamonds and one ring for her ring finger.<|endoftext|>This is a set including one diamond necklace, one diamond pendant with a unique shape, one pair of earrings with diamonds, and one ring for her ring finger.<|endoftext|>

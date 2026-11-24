@@ -1,0 +1,22 @@
+Generate a recipe for a quesadilla.<|endoftext|>Black Bean Quesadilla
+
+Ingredients:
+• Black beans
+• Salsa
+• Cheddar cheese
+• Coriander
+• Green onion
+• Sour cream
+
+Steps:
+1. Preheat oven to 400 degrees
+2. Puree black beans and salsa together
+3. Add coriander and green onions to mixture
+4. Mix well
+5. Divide evenly in bowl into 1 / 6's
+6. Spread over tortillas
+7. Sprinkle with cheese
+8. Fold tortilla in half
+9. Place on baking sheet so they aren't overlapping too much
+10. Bake for 5 minutes and then flip over for another 4-5 minutes
+11. Serve with salsa and sour cream<|endoftext|>

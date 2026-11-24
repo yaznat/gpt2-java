@@ -1,0 +1,14 @@
+Please generate a burger recipe.<|endoftext|>Amy S Spicy Hamburgers
+
+Ingredients:
+• Lean hamburger
+• Green chili peppers
+• Onion soup mix
+• Egg
+• Rolled oats
+• Hamburger buns
+
+Steps:
+1. Combine all ingredients in a large mixing bowl
+2. Mix together thoroughly and form into six hamburger patties
+3. Cook as desired on grill or stovetop<|endoftext|>

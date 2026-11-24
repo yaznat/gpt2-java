@@ -1,0 +1,1 @@
+Improve the grammar of this text: For instance, the introduction of electricity cars by General Motors, uses electricity to power the car's engine instead of fossil fuels.<|endoftext|>For instance, electric cars by General Motors use electricity to power the car's engine instead of fossil fuels.<|endoftext|>

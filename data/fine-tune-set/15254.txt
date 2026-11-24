@@ -1,0 +1,20 @@
+Generate a recipe for pizza.<|endoftext|>Breakfast Sausage Pizza
+
+Ingredients:
+• Sausage
+• Cheddar cheese
+• Hash brown potatoes
+• Pizza crust
+• Parmesan cheese
+• Eggs
+• Milk
+• Salt
+• Pepper
+
+Steps:
+1. Brown and break up sausage, drain well
+2. Roll out crust on a nonstick cookie sheet
+3. Layer sausage, hash browns, and cheddar
+4. Whisk in the milk with the eggs and season
+5. Pour on the pizza
+6. Add parmesan and bake in a 350 degree oven until eggs are set and crust is done, 20-25 minutes<|endoftext|>

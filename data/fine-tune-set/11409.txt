@@ -1,0 +1,19 @@
+Please generate a bread recipe.<|endoftext|>Aioli Bread
+
+Ingredients:
+• Mayonnaise
+• Olive oil
+• Fresh parsley
+• Garlic
+• Lemon, zest of
+• Salt
+• Pepper
+• Baguette
+
+Steps:
+1. Combine mayonnaise, olive oil, parsley, garlic, lemon zest, salt and pepper in small bowl
+2. Cut baugette in half lengthwise
+3. Spread each baguette half evenly with mixture
+4. Place baguette halves on baking sheet, cut side up
+5. Bake at 350f about 15 minutes or until just beginning to brown
+6. Let cool slightly, then cut into serving size pieces<|endoftext|>

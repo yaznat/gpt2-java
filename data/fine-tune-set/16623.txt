@@ -1,0 +1,10 @@
+Give me a smoothie recipe.<|endoftext|>Banana Mango Soy Smoothie
+
+Ingredients:
+• Vanilla-flavored soymilk
+• Bananas
+• Mangoes
+• Honey
+
+Steps:
+1. Process all ingredients in blender until smooth and frothy<|endoftext|>

@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: So we have three days off in a row.<|endoftext|>So we have three consecutive days off in a row.<|endoftext|>

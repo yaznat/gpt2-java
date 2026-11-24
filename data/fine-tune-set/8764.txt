@@ -1,0 +1,1 @@
+Make the sentence grammatical: I had a really nice experience working in a cinema. I wouldn't have done it unless my friend Lucy who encouraged me.<|endoftext|>I had a really nice experience working in a cinema. I wouldn't have done it if my friend Lucy hadn't encouraged me.<|endoftext|>

@@ -1,0 +1,12 @@
+Generate a recipe for a smoothie.<|endoftext|>Banana Chai Smoothie
+
+Ingredients:
+• Ice cream
+• Chai concentrate
+• Vanilla extract
+• Bananas
+• Milk
+
+Steps:
+1. Place all of the ingredients in a blender and blend until smooth
+2. Enjoy!<|endoftext|>

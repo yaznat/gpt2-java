@@ -1,0 +1,1 @@
+Fix grammar in this sentence: The thing is, some people don't think it's ok, and they don't agree, so they just stay inside and try to survive the night.<|endoftext|>The thing is, some people don't think it's OK, and they don't agree, so they just stay inside and try to survive the night.<|endoftext|>

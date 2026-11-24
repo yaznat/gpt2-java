@@ -1,0 +1,15 @@
+Generate a recipe for an omelette.<|endoftext|>Open Omelette
+
+Ingredients:
+• Oil
+• Eggs
+• Ham
+• Tomatoes
+• Chives
+• Potato
+• Salt and pepper
+• Herbes de provence
+
+Steps:
+1. Heat oil in a small frying pan, add the beaten egg adding the other ingredients, sprinkle with the herbs and cook for 3-4 minutes, over a medium flame
+2. Serve with toast<|endoftext|>

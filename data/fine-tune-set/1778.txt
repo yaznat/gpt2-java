@@ -1,0 +1,1 @@
+Improve the grammaticality: From this bar chart we can see that computers sales volume changed in China in the 4 years from 1996 to 1999.<|endoftext|>From this bar chart, we can see how the computer sales volume changed in China during the 4 years from 1996 to 1999.<|endoftext|>

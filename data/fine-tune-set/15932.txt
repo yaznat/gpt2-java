@@ -1,0 +1,22 @@
+Generate a recipe for a burrito.<|endoftext|>Crock Pot Shredded Beef Burritos
+
+Ingredients:
+• Chuck roast
+• Ground cumin
+• Dry oregano
+• Red pepper flakes
+• Paprika
+• Tomatoes
+• Chili pepper
+• Onion
+• Garlic clove
+• Water
+• Flour tortillas
+
+Steps:
+1. Remove as much fat as possible from roast
+2. Place roast in crock pot and cover with remainder of ingredients except tortillas
+3. Cook on low for 8-10 hours
+4. With fork shred roast and stir well with other ingredients in crock pot
+5. Drain meat mixture well and serve in flour tortillas with your favorite toppings
+6. Enjoy<|endoftext|>

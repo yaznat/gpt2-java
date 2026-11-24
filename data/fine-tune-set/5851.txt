@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: There was a place of approximately 20 minutes in a train, but I did not know it.<|endoftext|>There was a place of approximately 20 minutes by train, but I did not know it.<|endoftext|>

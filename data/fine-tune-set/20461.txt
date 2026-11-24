@@ -1,0 +1,14 @@
+Give me a casserole recipe.<|endoftext|>Apple Pineapple Casserole
+
+Ingredients:
+• Flour
+• Pineapple tidbits
+• Sugar
+• Apples
+• Butter
+
+Steps:
+1. Place pineapple and apples in casserole dish
+2. Mix flour and sugar and sprinkle over fruit
+3. Drizzle with melted butter
+4. Bake at 350 for 45 minutes<|endoftext|>

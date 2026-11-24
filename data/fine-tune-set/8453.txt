@@ -1,0 +1,1 @@
+Fix grammatical mistakes in this sentence: By visiting museums we can learn interseting details about the history and culture of that society.<|endoftext|>By visiting museums, we can learn interesting details about the history and culture of that society.<|endoftext|>

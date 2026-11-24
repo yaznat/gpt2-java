@@ -1,0 +1,14 @@
+Generate a recipe for a burger.<|endoftext|>Bacon And Blue Burgers
+
+Ingredients:
+• Ground beef
+• Worcestershire sauce
+• Salt & freshly ground black pepper
+• Bacon
+• Blue cheese
+
+Steps:
+1. Mix the meat with the worcestershire sauce, salt, and pepper and form into 8 patties
+2. Combine the bacon and blue cheese and divide between half the patties
+3. Place the remaining patties on top and press the edges to seal
+4. Grill over hot coals, pan fry, or broil until cooked through, turning once halfway through cooking<|endoftext|>

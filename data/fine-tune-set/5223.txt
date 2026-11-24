@@ -1,0 +1,1 @@
+Make the sentence grammatical: In addition to this, Injuries were more frequent during games than training.<|endoftext|>In addition to this, injuries were more frequent during games than during training.<|endoftext|>

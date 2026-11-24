@@ -1,0 +1,18 @@
+Generate a recipe for muffins.<|endoftext|>Apple And Cinnamon Muffins Vegan
+
+Ingredients:
+• Unsweetened applesauce
+• Raw sugar
+• Vanilla
+• Spelt flour
+• Baking powder
+• Baking soda
+• Cinnamon
+• Walnuts
+
+Steps:
+1. Combine the wet ingredients
+2. Combine the dry ingredients and sift into the wet mix
+3. Add walnuts
+4. Mix gently but thoroughly
+5. Spoon into 5 muffin cases and bake for 20 minutes<|endoftext|>

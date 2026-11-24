@@ -1,0 +1,19 @@
+Generate a recipe for a taco.<|endoftext|>Best Taco Salad
+
+Ingredients:
+• Ground beef
+• Taco seasoning
+• Iceberg lettuce
+• Roma tomatoes
+• Green onions
+• Red kidney beans
+• Black olives
+• Cheddar cheese
+• Catalina dressing
+• Plain doritos
+
+Steps:
+1. Brown ground beef, drain grease, adding taco seasoning and following directions on package
+2. Chill
+3. When ground beef is cold, place in a large bowl and add all remaining ingredients
+4. Mix well and serve<|endoftext|>

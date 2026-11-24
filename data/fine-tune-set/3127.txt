@@ -1,0 +1,1 @@
+Fix grammar in this sentence: As for wages, people aged above 50 will contribute lesser to their CPF accounts and this includes the employer's CPF contribution.<|endoftext|>As for wages, people aged above 50 will contribute less to their CPF accounts, and this includes the employer's CPF contribution.<|endoftext|>

@@ -1,0 +1,14 @@
+Give me a recipe for a smoothie.<|endoftext|>Banana Strawberry Mango Smoothie
+
+Ingredients:
+• Orange juice
+• Nonfat plain yogurt
+• Frozen strawberries
+• Mango
+• Banana
+• Wheat germ
+• Honey
+• Ice cubes
+
+Steps:
+1. Place all of the ingredients into a blender and blend<|endoftext|>

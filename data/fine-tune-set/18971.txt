@@ -1,0 +1,13 @@
+Generate a recipe for custard.<|endoftext|>Duncan S Egg Custard Pie
+
+Ingredients:
+• Unbaked pie shell
+• Milk
+• Sugar
+• Eggs
+• Salt
+• Ground nutmeg
+
+Steps:
+1. Beat everything - except the crust: -) - together in a big bowl with a wire whisk
+2. Pour that into the pie crust and bake at 350 until the custard is set<|endoftext|>

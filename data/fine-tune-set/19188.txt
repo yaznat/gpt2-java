@@ -1,0 +1,14 @@
+Generate a recipe for ice cream.<|endoftext|>Carob Banana Ice Cream
+
+Ingredients:
+• Heavy cream
+• Milk
+• Bananas
+• Apricots
+• Carob powder
+
+Steps:
+1. Blend bananas and dairy until creamy
+2. Add apricots and carob and blend again
+3. Chill until almost solid
+4. Remove from freezer and process in ice-cream maker as directed<|endoftext|>

@@ -1,0 +1,10 @@
+Give me a cocktail recipe.<|endoftext|>Chambord Brunch Cocktail
+
+Ingredients:
+• Pineapple juice
+• Chambord raspberry liquor
+• Champagne
+
+Steps:
+1. Add chambord & pineapple juice to a champagne flute
+2. Top with champagne<|endoftext|>

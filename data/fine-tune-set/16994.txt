@@ -1,0 +1,9 @@
+Please generate a cocktail recipe.<|endoftext|>Chambord Truffle Cocktail
+
+Ingredients:
+• Creme de cacao
+• Chambord raspberry liquor
+• Vanilla liqueur
+
+Steps:
+1. Mix together and pour into a shot glass<|endoftext|>

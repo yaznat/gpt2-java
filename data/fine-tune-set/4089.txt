@@ -1,0 +1,1 @@
+Improve the grammar of this text: Second, there are much bigger windows on Boeing 787 allowing more light into, and new technology which you can make the glass of window darker or lighter.<|endoftext|>Second, there are much bigger windows on Boeing 787, which allows more light into it, and new technology which you can make the glass of the window darker or lighter.<|endoftext|>

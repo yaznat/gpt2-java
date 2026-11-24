@@ -1,0 +1,11 @@
+Give me a recipe for a smoothie.<|endoftext|>Berry Smoothies
+
+Ingredients:
+• Mixed berries
+• Plain yogurt
+• Banana
+• Apple juice
+
+Steps:
+1. Place all ingredients in blender and whirl away
+2. Start with 1 / 2 cup apple juice then add more juice to get the desired thickness<|endoftext|>

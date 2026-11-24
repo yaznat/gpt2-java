@@ -1,0 +1,1 @@
+Remove all grammatical errors from this text: They say that the accidents caused by nuclear power plants caused huge harm to human.<|endoftext|>They say that the accidents caused by nuclear power plants cause huge harm to humans.<|endoftext|>

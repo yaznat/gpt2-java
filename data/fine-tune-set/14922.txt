@@ -1,0 +1,12 @@
+Please generate a fried rice recipe.<|endoftext|>Fried Rice Spice
+
+Ingredients:
+• Garlic powder
+• Ginger powder
+• Sugar
+• Salt
+• Ground black pepper
+
+Steps:
+1. Mix all ingredients well
+2. Store in a sealed container<|endoftext|>

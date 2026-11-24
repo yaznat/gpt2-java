@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: However, Facebook trounced Myspace recently, setting its user number to a record high.<|endoftext|>However, Facebook trounced Myspace recently, setting its user numbers to a record high.<|endoftext|>

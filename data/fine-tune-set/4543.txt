@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: In this case, if a psychologist was employed, he would have seen the engineers' dilemma and used psychological approach to help them overcome their bias.<|endoftext|>In this case, if a psychologist had been employed, he would have seen the engineers' dilemma and used a psychological approach to help them overcome their bias.<|endoftext|>

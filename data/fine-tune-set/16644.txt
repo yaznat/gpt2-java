@@ -1,0 +1,10 @@
+Please give me a recipe for a smoothie.<|endoftext|>Berry Antioxident Heaven Smoothie
+
+Ingredients:
+• Berries
+• Black grapes
+• Cranberry juice
+
+Steps:
+1. Add all ingredients to blender
+2. Pulse until liquified<|endoftext|>

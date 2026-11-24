@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: And, When I was a high school student, I experenced job at airport.<|endoftext|>And when I was a high school student, I experienced a job at an airport.<|endoftext|>

@@ -1,0 +1,12 @@
+Give me a milkshake recipe.<|endoftext|>Tiramisu Milkshake
+
+Ingredients:
+• Espresso coffee
+• Prepared low-fat custard
+• Vanilla cheesecake frozen yogurt
+• Whipped cream
+• Cocoa
+
+Steps:
+1. Blend all ingredients together until smooth
+2. Top with whipped cream & dust with cocoa<|endoftext|>

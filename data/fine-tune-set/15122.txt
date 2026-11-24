@@ -1,0 +1,15 @@
+Please generate a pizza recipe.<|endoftext|>Astonishingly Easy Yeasty Bisquick Pizza Dough
+
+Ingredients:
+• Biscuit mix
+• Whole wheat flour
+• Warm water
+• Yeast
+• Olive oil
+
+Steps:
+1. Mix biscuit mix and yeast
+2. Add warm water until it reaches about the consistency of cake batter
+3. Add wheat flour until a firm dough is formed
+4. Pat or roll out into desired crust shape, using olive oil as desired to prevent sticking
+5. Top as desired and bake at around 400 degrees until done, time of course will depend on how thick you make it but 20 minutes is a good estimate<|endoftext|>

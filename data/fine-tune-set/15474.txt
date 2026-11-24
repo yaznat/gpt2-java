@@ -1,0 +1,17 @@
+Can you give me a burger recipe?<|endoftext|>Bangkok Burgers
+
+Ingredients:
+• Ground beef
+• Brewed coffee
+• Salt
+• Soy sauce
+• Butter
+• Poppy seed rolls
+
+Steps:
+1. Mix ground beef lightly with coffee and salt - shape into 4 patties
+2. Patties should be about 1 inch thick
+3. Brush patties with soy sauce
+4. Pay fry over medium heat in butter for 8 minutes turn and brush again with soy sauce
+5. Cook 8 additional minutes for medium
+6. Serve on rolls<|endoftext|>

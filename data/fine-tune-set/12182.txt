@@ -1,0 +1,19 @@
+Give me a recipe for pie.<|endoftext|>Apple Honey Pie
+
+Ingredients:
+• Pie shells
+• Sliced apples
+• Eggs
+• Plain yogurt
+• Ground cinnamon
+• Salt
+• Honey
+• Walnuts
+
+Steps:
+1. Spread apple slices over pie shell
+2. Combine eggs, yogurt, cinnamon, salt and honey to make a custard mixture
+3. Pour the custard mixture over the spples
+4. Sprinkle with walnuts
+5. Bake 45 minutes at 375 degree
+6. Cool to room tempeture before cutting<|endoftext|>

@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: As the alarm system is directly connected to the relevant contacts, thus a press of button by the elderly would immediately transmit signal for help.<|endoftext|>As the alarm system is directly connected to the relevant contacts, a press of a button by the elderly would immediately transmit a signal for help.<|endoftext|>

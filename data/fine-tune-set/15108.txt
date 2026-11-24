@@ -1,0 +1,25 @@
+Generate a recipe for pizza.<|endoftext|>Apple Cheddar Brunch Pizza
+
+Ingredients:
+• Flour
+• Bread dough
+• Tart apples
+• Brown sugar
+• White sugar
+• Apple pie spice
+• Nutmeg
+• Butter
+• Cheddar cheese
+
+Steps:
+1. Heat oven to 350f degrees
+2. Spray a cookie sheet with nonstick spray
+3. Sprinkle work surface with flour, roll out bread dough until slightly larger than the sheet
+4. Place dough on sheet, stretching to fit, roll edges slightly to form a shallow rim
+5. Spread apples evenly over dough
+6. In a small bowl, combine sugars, 2 tbls flour, cinnamon and nutmeg
+7. Mix well and sprinkle over apples
+8. Dot with the butter
+9. Sprinkle with cheese evenly over
+10. Bake until the apples are tender and the cheese is bubbly, 25-35 minutes
+11. Serve warm<|endoftext|>

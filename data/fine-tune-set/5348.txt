@@ -1,0 +1,1 @@
+Make the sentence grammatical: The high retail price of car will significantly affect the decision of committee to commercialize the product as consumer would not pay much for it.<|endoftext|>The high retail price of the car will significantly affect the decision of the committee to commercialize the product, as a consumers would not pay much for it.<|endoftext|>

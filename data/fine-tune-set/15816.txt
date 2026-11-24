@@ -1,0 +1,18 @@
+Please generate a burrito recipe.<|endoftext|>Blast Off Burritos Chicken And Corn
+
+Ingredients:
+• Flour tortillas
+• Gluten free bread
+• Chicken
+• Tomatoes
+• Frozen corn
+• Salsa
+• Mixed salad greens
+• Monterey jack cheese
+
+Steps:
+1. Preheat oven to 350
+2. Wrap tortillas in the foil, and bake for 10 minutes
+3. Put chicken, corn and salsa in skillet and cook on medium until bubbly, stirring often
+4. Top each tortilla with chicken mixture, greens and tomato
+5. Roll up, and cut in half to serve<|endoftext|>

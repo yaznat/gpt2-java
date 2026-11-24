@@ -1,0 +1,15 @@
+Give me a bread recipe.<|endoftext|>3 2 1 Cornbread
+
+Ingredients:
+• Jiffy cornbread mix
+• Eggs
+• Milk
+• Diced green chilies
+• Mexican blend cheese
+
+Steps:
+1. Make cornbread according to box instructions
+2. Add drained chilies and cheese to batter
+3. Pour in 9x13 greased baking dish
+4. Bake at 400 degrees until golden brown, about 20-25 minutes
+5. Serve with butter, if desired<|endoftext|>

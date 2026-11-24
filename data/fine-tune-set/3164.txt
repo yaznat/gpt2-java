@@ -1,0 +1,1 @@
+Make the sentence grammatical: Healthcare issue has to be taken into consideration because elderly are prone to suffer from several chronic diseases as they grow older.<|endoftext|>Healthcare issue has to be taken into consideration because the elderly are prone to suffer from chronic diseases as they grow older.<|endoftext|>

@@ -1,0 +1,12 @@
+Can you give me a pancake recipe?<|endoftext|>Bisquick Pancakes
+
+Ingredients:
+• Bisquick
+• Skim milk
+• Egg
+
+Steps:
+1. Stir ingredients until blended
+2. Pour batter onto heated griddle
+3. Cook until bubbles break on surface
+4. Turn and cook until golden<|endoftext|>

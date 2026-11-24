@@ -1,0 +1,14 @@
+Give me a recipe for a cocktail.<|endoftext|>Bananas Foster Cocktail
+
+Ingredients:
+• Ice
+• Vanilla vodka
+• Banana liqueur
+• Butterscotch schnapps
+• Chocolate liqueur
+• Light cream
+• Banana
+
+Steps:
+1. In a rocks glass filled with ice, stir together all ingredients
+2. Garnish with banana<|endoftext|>

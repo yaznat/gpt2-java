@@ -1,0 +1,11 @@
+Give me a recipe for a milkshake.<|endoftext|>Pineapple Milkshake
+
+Ingredients:
+• Pineapple
+• Fat free vanilla ice cream
+• Skim milk
+• Cinnamon
+
+Steps:
+1. In a food processor, combine pineapple, ice cream, milk, and cinnamon
+2. Process until smooth<|endoftext|>

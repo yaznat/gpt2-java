@@ -1,0 +1,9 @@
+Please give me a recipe for a milkshake.<|endoftext|>Raspberry Milkshake
+
+Ingredients:
+• Raspberries
+• Vanilla-flavored soymilk
+• Vanilla frozen yogurt
+
+Steps:
+1. Put everything in blender and blend on high speed until smooth<|endoftext|>

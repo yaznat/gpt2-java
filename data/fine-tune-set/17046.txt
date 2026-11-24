@@ -1,0 +1,18 @@
+Generate a recipe for a cocktail.<|endoftext|>Cocktail Orange Pecans
+
+Ingredients:
+• Butter
+• Orange liqueur
+• Orange rind
+• Pecan halves
+• Salt
+
+Steps:
+1. Preheat oven to 300
+2. In a large saucepan, melt the butter over medium heat
+3. Add in liqueur and orange zest
+4. Stir until blended
+5. Remove the pan from heat, add in the pecans, and toss to coat well
+6. Spread the nuts evenly on a large baking sheet and toast in the oven, uncovered, until golden brown, about 30 minutes, tossing the nuts from time to time
+7. Drain on paper towels, sprinkle salt on top
+8. Let cool completely, and serve in crystal bowls with cocktails<|endoftext|>

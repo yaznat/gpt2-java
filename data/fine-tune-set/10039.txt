@@ -1,0 +1,16 @@
+Please generate a chili recipe.<|endoftext|>5 Ingredient Baked Bean Chili
+
+Ingredients:
+• Ground beef
+• Baked beans
+• Tomato juice
+• V8 vegetable juice
+• Chili seasoning mix
+
+Steps:
+1. In a dutch oven, cook beef over medium heat until no longer pink
+2. Drain
+3. Stir in the remaining ingredients
+4. Bring to a boil
+5. Reduce heat
+6. Simmer, uncovered for 10 minutes<|endoftext|>

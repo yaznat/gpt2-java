@@ -1,0 +1,1 @@
+Fix grammar in this sentence: I just started studying the textbook last week and I realized I really need to put an a lot of effort for studying.<|endoftext|>I just started studying the textbook last week, and I realized I really need to put a lot of effort into studying.<|endoftext|>

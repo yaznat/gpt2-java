@@ -1,0 +1,1 @@
+Fix grammar in the sentence: However, by looking at the efficiency of the skunkworks, it is possible for a company to reduce the bureaucracy in order to come out with more innovations.<|endoftext|>However, by looking at the efficiency of skunkworks, it is possible for a company to reduce the bureaucracy in order to come up with more innovations.<|endoftext|>

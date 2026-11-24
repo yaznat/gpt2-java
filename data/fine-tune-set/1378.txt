@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: The monsters is so strong that female fencers are killed easily.<|endoftext|>The monsters are so strong that the female fencers are killed easily.<|endoftext|>

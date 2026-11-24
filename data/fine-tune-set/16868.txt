@@ -1,0 +1,11 @@
+Can you give me a milkshake recipe?<|endoftext|>Vanilla Milkshake Paula Deen
+
+Ingredients:
+• Vanilla ice cream
+• Vanilla extract
+• Sugar
+• Milk
+
+Steps:
+1. Using a blender, blend all ingredients together until smooth
+2. Serve in glasses with a straw<|endoftext|>

@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: He lived in Toronto, which is cold city, but which is even colder at 5 am, the time when Tom's day began.<|endoftext|>He lived in Toronto, which is a cold city, but which is even colder at 5 am, the time when Tom's day began.<|endoftext|>

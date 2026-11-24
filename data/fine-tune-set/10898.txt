@@ -1,0 +1,19 @@
+Give me a salad recipe.<|endoftext|>Al S Egg Salad
+
+Ingredients:
+• Eggs
+• Mayonnaise
+• Dijon mustard
+• Dried onion flakes
+• Dried dill weed
+• Salt & freshly ground black pepper
+
+Steps:
+1. Separate the egg yolks from the whites and place in separate bowls
+2. Chop the egg whites and set aside
+3. Mash the egg yolks thoroughly
+4. Add the mayonnaise, mustard, onion, and dillweed
+5. Salt and pepper, to taste
+6. Blend until smooth
+7. Add the chopped egg whites to the yolk mixture
+8. Adjust seasonings<|endoftext|>

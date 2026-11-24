@@ -1,0 +1,16 @@
+Give me a recipe for curry.<|endoftext|>Cauliflower Curry
+
+Ingredients:
+• Oil
+• Tomatoes
+• Cauliflower
+• Onion
+• Cumin seed
+• Chili powder
+• Cilantro
+
+Steps:
+1. Heat the oil in the pan and put tomatoes, cauliflower, onion and cumin seeds in the oil
+2. Place the lid on the pan, until the cauliflower is cooked, about 15 minutes
+3. Add salt and chilli powder to taste
+4. Garnish with cilantro<|endoftext|>

@@ -1,0 +1,10 @@
+Can you give me a smoothie recipe?<|endoftext|>Aloha Smoothie
+
+Ingredients:
+• Pineapple juice
+• Strawberry yogurt
+• Banana
+
+Steps:
+1. Place ingredients in blender and blend until smooth
+2. Serve immediately<|endoftext|>

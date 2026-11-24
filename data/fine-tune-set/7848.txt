@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: I decided college that I want to go in this summer.<|endoftext|>I decided on the college that I want to go to this summer.<|endoftext|>

@@ -1,0 +1,14 @@
+Generate a recipe for sushi.<|endoftext|>Salmon Sushi
+
+Ingredients:
+• Nori
+• Cooked rice
+• Smoked salmon
+• Carrot
+• Cucumber
+
+Steps:
+1. Jellyroll fashion, roll up the ingredients in the following order
+2. Place the dried seaweed on top of a bamboo mat
+3. Top with a thin layer of rice, followed by the samon and finally 2 strips each of carrot and cucumber for each roll
+4. Roll tightly and slice into 4 pinwheels<|endoftext|>

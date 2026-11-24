@@ -1,0 +1,1 @@
+Fix grammaticality of the sentence: my favorite restaurant is TGI fridays.<|endoftext|>My favorite restaurant is TGI Fridays.<|endoftext|>

@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: Also, for somebody it could be cheaper to travel by a bus, especially for a tourist from a foreign country.<|endoftext|>Also, for some people, it could be cheaper to travel by bus, especially for a tourist from a foreign country.<|endoftext|>

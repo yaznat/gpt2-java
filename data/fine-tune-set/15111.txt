@@ -1,0 +1,15 @@
+Generate a recipe for pizza.<|endoftext|>Approximately Aurelio S Pizza And Pasta Sauce
+
+Ingredients:
+• Tomato puree
+• Beer
+• White sugar
+• Garlic powder
+• Dried basil
+• Dried oregano
+• Salt
+
+Steps:
+1. Combine all ingredients in a saucepan
+2. Bring to a boil over medium-high heat
+3. Reduce heat to medium-low and simmer 30 minutes<|endoftext|>

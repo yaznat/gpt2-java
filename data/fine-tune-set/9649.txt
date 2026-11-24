@@ -1,0 +1,1 @@
+Fix grammar errors: When smoke is being detected, the smoke detector will transmit signals to two receivers which are a bed vibrator and a strobe light.<|endoftext|>When smoke is detected, the smoke detector will transmit signals to two receivers which are a bed vibrator and a strobe light.<|endoftext|>

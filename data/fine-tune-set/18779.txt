@@ -1,0 +1,27 @@
+Give me a pudding recipe.<|endoftext|>Berry Yummy Bread Pudding
+
+Ingredients:
+• Bread
+• Eggs
+• Fresh strawberries
+• Fresh blueberries
+• Fresh raspberry
+• Fresh blackberries
+• Milk
+• Cinnamon
+• Vanilla
+• Sugar
+• Salt
+• Brown sugar
+• Butter
+
+Steps:
+1. Preheat oven to 350 degrees f
+2. Grease a 9x13 baking pan
+3. Mix egg, milk, cinnamon, vanilla, sugar, and salt
+4. Add bread and mix
+5. Add berries
+6. Pour in pan
+7. Sprinkle with brown sugar
+8. Melt butter and drizzle on top
+9. Bake for 45 minutes<|endoftext|>

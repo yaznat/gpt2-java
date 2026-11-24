@@ -1,0 +1,1 @@
+Fix grammar in this sentence: However, because of the increasing standard of living, a growing number of people have chosen to travel which has brought a heavy pressure of transportation.<|endoftext|>However, because of the increasing standard of living, a growing number of people have chosen to travel, which has put heavy pressure on transportation.<|endoftext|>

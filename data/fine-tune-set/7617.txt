@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: So kindle is very useful, I feel sure.<|endoftext|>So the kindle is very useful, I feel sure.<|endoftext|>

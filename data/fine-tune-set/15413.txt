@@ -1,0 +1,16 @@
+Generate a recipe for a burger.<|endoftext|>Bacon Burger Cheese Dogs
+
+Ingredients:
+• Ground beef
+• Bacon
+• Cheddar cheese
+• Cajun seasoning
+
+Steps:
+1. Mix ground and cajan seasoning
+2. Shape into eight square pattys
+3. Place one stick of cheese in center of each patty, sealing well
+4. Wrap bacon around each, usind a toothpick to hold each end of bacon
+5. You should have 8 hot dog shaped burger dogs with cheese in the middle and bacon spirled around the outside
+6. Grill on bbq grill about15 minutes, until done
+7. Serve in hotdog buns<|endoftext|>

@@ -1,0 +1,22 @@
+Give me a chili recipe.<|endoftext|>Beef And Chorizo Chili
+
+Ingredients:
+• Ground chuck
+• Chorizo sausage
+• Onion
+• Garlic
+• Black beans
+• Tomatoes
+• Cumin
+• Tomato juice
+• Salt and pepper
+
+Steps:
+1. Cook beans a day in advance
+2. Brown the beef and chorizo in a heavy pot
+3. Drain off any excess fat
+4. Add the onion and garlic and cook until just soft
+5. Add the remaining ingredients
+6. Bring to a boil
+7. Reduce the heat and simmer for 45 minutes
+8. Serve warm<|endoftext|>

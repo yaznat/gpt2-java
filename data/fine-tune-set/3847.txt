@@ -1,0 +1,1 @@
+Fix grammar in this sentence: Since the introduction of nuclear-powered generators, public opposition was one of the reasons why only limited nuclear reactors have been built in the past.<|endoftext|>Since the introduction of nuclear-powered generators, public opposition has been one of the reasons why only limited nuclear reactors have been built in the past.<|endoftext|>

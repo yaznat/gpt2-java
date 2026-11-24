@@ -1,0 +1,17 @@
+Please generate a cake recipe.<|endoftext|>1 2 3 Banana Split Ice Cream Cake
+
+Ingredients:
+• Strawberry cake mix
+• Pineapple sherbet
+• Bananas
+• Eggs
+
+Steps:
+1. Cream together sherbet, bananas, and eggs
+2. Mix in the cake mix and beat for approximately two minutes
+3. Pour batter into bundt pan sprayed with nonstick cooking spray
+4. Bake at 350f for 45-60 minutes until toothpick comes clean when inserted
+5. Other great combinations include:
+6. Spice cake mix and butter pecan ice cream
+7. Chocolate cake mix and cookies & cream ice cream
+8. Vanilla cake mix and orange sherbet<|endoftext|>

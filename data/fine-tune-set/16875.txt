@@ -1,0 +1,13 @@
+Please generate a cocktail recipe.<|endoftext|>Shrimp Cocktail Sauce
+
+Ingredients:
+• Catsup
+• Horseradish
+• Lemon juice
+• Worcestershire sauce
+• Salt
+• Pepper
+
+Steps:
+1. Mix all ingredients and chill
+2. When ready to serve dip shrimp and enjoy<|endoftext|>

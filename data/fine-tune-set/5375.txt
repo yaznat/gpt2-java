@@ -1,0 +1,1 @@
+Improve the grammaticality of this text: In the 21st century, new desires, as well as new problems have emerged, such as environment pollution, bionics, exploration of outer-space and so on.<|endoftext|>In the 21st century, new desires, as well as new problems, have emerged, such as environmental pollution, bionics, exploration of outer space, and so on.<|endoftext|>

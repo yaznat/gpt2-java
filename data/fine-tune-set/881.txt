@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: First, shopping complexes are full of branches of big chain-stores, so this can be boring to walk through them for a long time.<|endoftext|>First, shopping complexes are full of branches of big chain stores, so it can be boring to walk through them for a long time.<|endoftext|>

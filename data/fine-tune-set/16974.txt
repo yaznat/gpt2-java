@@ -1,0 +1,14 @@
+Give me a cocktail recipe.<|endoftext|>Caipirosca Brazilian Lime Cocktail
+
+Ingredients:
+• Lime
+• Sugar
+• Vodka
+• Ice cubes
+
+Steps:
+1. Wash the lime and cut into fourths
+2. Put lime in a glass and add the sugar
+3. Crush lime with the sugar well
+4. Add the shot of vodka and the ice cubes
+5. Enjoy!<|endoftext|>

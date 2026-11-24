@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: The prevailing issue needs to be resolved before the issue gets worsen.<|endoftext|>The prevailing issue needs to be resolved before the issue gets worse.<|endoftext|>

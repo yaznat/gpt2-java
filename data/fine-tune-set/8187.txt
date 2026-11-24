@@ -1,0 +1,1 @@
+Fix grammar in this sentence: This is because people who have a good sense of humor can bring joy for others.<|endoftext|>This is because people who have a good sense of humor can bring joy to others.<|endoftext|>

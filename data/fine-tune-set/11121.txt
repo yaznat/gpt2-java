@@ -1,0 +1,21 @@
+Give me a recipe for a sandwich.<|endoftext|>Bacon And Egg Sandwich
+
+Ingredients:
+• Bacon
+• Eggs
+• Bread
+• Cheese
+• Butter
+• Strawberries
+• Ketchup
+• Salt
+• Pepper
+
+Steps:
+1. Fry bacon and let rest on paper towels
+2. Fry eggs in single servings using 1-2 eggs per serving
+3. Toast the bread, then butter each slice
+4. Divide toast onto pairs, spread ketchup on one piece and jam on the other
+5. Layer bacon on the jam side and place the cheese on the ketchup side, then place cooked egg on the cheese
+6. Sprinkle salt and pepper on top of the egg, than assemble the sandwich and cut in half
+7. Serve warm / hot<|endoftext|>

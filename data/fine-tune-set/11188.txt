@@ -1,0 +1,11 @@
+Generate a recipe for a sandwich.<|endoftext|>Banana Peanut Butter And Nutella Sandwich
+
+Ingredients:
+• Whole wheat english muffin
+• Crunchy peanut butter
+• Nutella
+• Banana
+
+Steps:
+1. Toast the english muffin, and on either side spread the peanut butter and nutella
+2. Sandwich the banana slices between and enjoy!<|endoftext|>

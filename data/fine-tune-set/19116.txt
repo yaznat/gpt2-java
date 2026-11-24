@@ -1,0 +1,11 @@
+Generate a recipe for ice cream.<|endoftext|>Big Red Ice Cream
+
+Ingredients:
+• Soda pop
+• Eagle brand condensed milk
+• Strawberry
+
+Steps:
+1. Cooking time is approx
+2. Freezing time
+3. Add all ingredients to ice cream freezer and churn according to manufacturers instructions<|endoftext|>

@@ -1,0 +1,23 @@
+Please generate a cake recipe.<|endoftext|>A Little Chocolate Cake
+
+Ingredients:
+• Unsweetened chocolate
+• Flour
+• Baking soda
+• Salt
+• Egg
+• Sugar
+• Water
+• Vegetable oil
+• Semi-sweet chocolate chips
+
+Steps:
+1. Melt chocolate in microwave
+2. Cool
+3. Mix flour, baking soda, and salt
+4. In lg bowl, beat egg and sugar
+5. Beat in water and oil
+6. Stir in chocolate and dry ingredients
+7. Pour into greased 8x8 baking pan
+8. Sprinkle with chocolate chips
+9. Bake at 350 for 35 minutes<|endoftext|>

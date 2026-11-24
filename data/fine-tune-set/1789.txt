@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: Consequently, what are the reasons of my change of heart?<|endoftext|>Consequently, what are the reasons for my change of heart?<|endoftext|>

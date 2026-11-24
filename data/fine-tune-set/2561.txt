@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: These planes are not only a mark of development in speed but also in agility.<|endoftext|>These planes are a mark of development not only in speed but also in agility.<|endoftext|>

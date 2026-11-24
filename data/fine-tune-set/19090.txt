@@ -1,0 +1,12 @@
+Can you give me a ice cream recipe?<|endoftext|>Banana Ice Cream No Machine Needed
+
+Ingredients:
+• Bananas
+• Milk
+• Sugar
+
+Steps:
+1. Place the frozen bananas and sugar in a processor
+2. Process until it starts to pulverise
+3. Start adding the milk and process until smooth and ice cream like
+4. Serve<|endoftext|>

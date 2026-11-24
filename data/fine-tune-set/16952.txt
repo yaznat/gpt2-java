@@ -1,0 +1,14 @@
+Generate a recipe for a cocktail.<|endoftext|>Blue Velvet Cocktail
+
+Ingredients:
+• Raspberry liqueur
+• Melon liqueur
+• Vanilla ice cream
+• Blue curacao
+• Ice
+
+Steps:
+1. Blend with ice till smooth
+2. Pour into parfait glasses
+3. Top with whipped cream and drizzle with blue curacao
+4. Garnish with a cherry<|endoftext|>

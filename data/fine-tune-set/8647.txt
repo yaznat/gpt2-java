@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: Madrid is a huge city which offers a lot of recycling facilities that take care of the environment:<|endoftext|>Madrid is a huge city that offers a lot of recycling facilities that take care of the environment.<|endoftext|>

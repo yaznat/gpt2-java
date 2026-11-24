@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: Though half of Japanese or more, including me, also write in the block style.<|endoftext|>Though Half of the Japanese or more, including me, also write in the block style.<|endoftext|>

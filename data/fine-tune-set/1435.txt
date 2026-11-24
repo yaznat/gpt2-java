@@ -1,0 +1,1 @@
+Make the sentence grammatical: I am writing you because I am interested in the job of summer camps.<|endoftext|>I am writing to you because I am interested in the job at the summer camps.<|endoftext|>

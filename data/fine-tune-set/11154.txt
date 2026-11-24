@@ -1,0 +1,20 @@
+Give me a recipe for a sandwich.<|endoftext|>Baked Club Sandwich Rounds
+
+Ingredients:
+• Bacon
+• French bread dough
+• Cheddar cheese
+• Deli turkey
+• Deli ham
+
+Steps:
+1. Cook, drain and crumble bacon
+2. Unroll dough
+3. Sprinkle cheese over dough
+4. Top with turkey, ham and bacon
+5. Starting with long side, roll up dough, press edges to seal
+6. Make 3 to 4 slits in top of loaf
+7. Place on sprayed cookie sheet
+8. Bake 350 degrees f for 23 to 28 minutes or until golden brown
+9. Cool at least 5 minutes
+10. Cut into 1 inch diagnonal slices<|endoftext|>

@@ -1,0 +1,19 @@
+Give me a custard recipe.<|endoftext|>Custard Cream Filling
+
+Ingredients:
+• Milk
+• Eggs
+• Sugar
+• Flour
+• Salt
+• Vanilla
+• Orange rind
+• Butter
+
+Steps:
+1. Scald milk, being careful not to burn
+2. Mix together sugar, flour and salt
+3. Add eggs to flour mixture and beat well
+4. Add slowly to milk, stirring constantly with whisk until thick
+5. Remove from heat and add vanilla, orange rind and butter
+6. Stir and cool<|endoftext|>

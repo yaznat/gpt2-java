@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: Nuclear energy was proposed to be the solution to this critical issue.<|endoftext|>Nuclear energy has been proposed to be the solution to this critical issue.<|endoftext|>

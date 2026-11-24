@@ -1,0 +1,12 @@
+Give me a recipe for ice cream.<|endoftext|>Breakfast Ice Cream
+
+Ingredients:
+• Banana
+• Fresh pineapple
+• Vanilla
+• Coconut extract
+• Coconut
+
+Steps:
+1. Follow the instructions above, as written by the cook
+2. I can't top that<|endoftext|>

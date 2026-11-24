@@ -1,0 +1,14 @@
+Generate a recipe for donuts.<|endoftext|>Donut Glaze
+
+Ingredients:
+• Whole milk
+• Vanilla extract
+• Confectioners' sugar
+
+Steps:
+1. Combine milk and vanilla in a medium saucepan and heat over low heat until warm
+2. Sift confectioners' sugar into milk mixture
+3. Whisk slowly, until well combined
+4. Remove the glaze from the heat and set over a bowl of warm water
+5. Dip doughnuts into the glaze, 1 at a time, and set on a draining rack placed in a half sheet pan for 5 minutes before serving
+6. -alton brown<|endoftext|>

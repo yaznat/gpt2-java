@@ -1,0 +1,1 @@
+Fix grammar in the sentence: I got a light cold because of heavy rain and cold winds.<|endoftext|>I got a light cold because of the heavy rain and cold winds.<|endoftext|>

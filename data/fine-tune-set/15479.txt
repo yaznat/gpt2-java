@@ -1,0 +1,21 @@
+Can you give me a burger recipe?<|endoftext|>Barbecue Burgers Mix
+
+Ingredients:
+• Onion
+• Green pepper
+• Celery
+• Hamburger
+• Tomato sauce
+• Catsup
+• Vinegar
+• Sugar
+• Worcestershire sauce
+• Salt
+• Tabasco sauce
+
+Steps:
+1. Brown chopped vegetables in skillet
+2. Add hamburger
+3. When hamburger is browned add rest of ingredients
+4. Simmer 30 minutes
+5. Serve on hamburger buns<|endoftext|>

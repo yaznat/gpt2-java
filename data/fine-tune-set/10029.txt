@@ -1,0 +1,12 @@
+Give me a chili recipe.<|endoftext|>3 Cans And A Box Chili Pasta
+
+Ingredients:
+• Rotini pasta
+• Chili with chicken and beans
+• Chili beans
+• Diced tomatoes
+
+Steps:
+1. Cook the pasta according to the directions on the box
+2. Meantime, in a saucepan, combine the chili, beans & tomatoes & heat, but do not boil
+3. When pasta is done, serve pasta in one bowl & chili in another bowl<|endoftext|>

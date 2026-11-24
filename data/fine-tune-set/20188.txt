@@ -1,0 +1,20 @@
+Give me a recipe for stir fry.<|endoftext|>Beefy Green Bean And Walnut Stir Fry
+
+Ingredients:
+• Vegetable oil
+• Garlic cloves
+• Lean ground beef
+• Frozen cut green beans
+• Salt
+• Walnut pieces
+• Egg noodles
+
+Steps:
+1. In large skillet, heat oil and garlic over medium heat, about 30 seconds
+2. Add beef and beans
+3. Sprinkle with salt
+4. Mix well
+5. Cook 5 minutes or until beef is well browned, stirring occasionally
+6. Stir in walnuts
+7. Cook 2 minutes more
+8. Serve over hot cooked egg noodles<|endoftext|>

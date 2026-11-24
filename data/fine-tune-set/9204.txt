@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: Current reactors in used around the world are considered 2nd or 3rd generation systems, with the 1st generation systems having been retired long time ago.<|endoftext|>Current reactors in use around the world are considered 2nd or 3rd generation systems, with the 1st generation systems having been retired a long time ago.<|endoftext|>

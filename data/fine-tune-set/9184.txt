@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: I thought her blood type is A because of high possibility, but it was my surprise that her blood type was B.<|endoftext|>I thought her blood type would be A because of the high possibility, but to my surprise that her blood type was B.<|endoftext|>

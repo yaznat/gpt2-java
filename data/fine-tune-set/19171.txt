@@ -1,0 +1,17 @@
+Please generate a ice cream recipe.<|endoftext|>Caramel Crunch Ice Cream Topping
+
+Ingredients:
+• Butter
+• Almonds
+• Light corn syrup
+• Brown sugar
+• Water
+• Crisp rice cereal
+• Ice cream
+
+Steps:
+1. In a medium skillet melt the butter
+2. Add the almonds, cook and stir over medium-low hear for 5 minutes or until the almonds brown
+3. Add the corn syrup, brown sugar, and water to the skillet
+4. Cook and stir until bubbly and the brown sugar is dissolved, about 4 minutes
+5. Stir in the rice cereal and serve immediately over ice cream<|endoftext|>

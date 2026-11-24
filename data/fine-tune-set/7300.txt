@@ -1,0 +1,1 @@
+Fix grammatical mistakes in this sentence: I cannot deny some tragedies occurred during the exploration and development of nuclear power.<|endoftext|>I cannot deny that some tragedies have occurred during the exploration and development of nuclear power.<|endoftext|>

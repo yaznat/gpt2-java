@@ -1,0 +1,12 @@
+Give me a cocktail recipe.<|endoftext|>Cherry Brandy Cocktail
+
+Ingredients:
+• Vodka
+• Cherry brandy
+• Dry vermouth
+• Bitters
+• Creme de banane
+
+Steps:
+1. Pour vodka, cherry brandy, dry vermouth, campari and creme de bananes into a mixing glass half-filled with ice cubes
+2. Stir well, strain into a cocktail glass, and serve<|endoftext|>

@@ -1,0 +1,14 @@
+Generate a recipe for a cocktail.<|endoftext|>Cucumber Cocktail Sandwiches
+
+Ingredients:
+• Cream cheese
+• Italian salad dressing mix
+• Cucumbers
+• Rye cocktail bread
+• Dill weed
+
+Steps:
+1. Mix together cream cheese and dressing mix with a small amount of milk until of spreadable consistancy
+2. Spread on rye bread slices
+3. Place 1-2 slices of cucumber on top
+4. Sprinkle with dill weed<|endoftext|>

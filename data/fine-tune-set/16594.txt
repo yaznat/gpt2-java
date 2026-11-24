@@ -1,0 +1,11 @@
+Generate a recipe for a smoothie.<|endoftext|>Banana Peanut Butter Smoothie
+
+Ingredients:
+• Flax seed oil
+• Peanut butter
+• Skim milk
+• Banana
+
+Steps:
+1. Pop everything in the blender and blend away!
+2. Bottoms up<|endoftext|>

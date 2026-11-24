@@ -1,0 +1,17 @@
+Give me a recipe for a smoothie.<|endoftext|>Banana Pumpkin Smoothie
+
+Ingredients:
+• Low-fat vanilla yogurt
+• Canned pumpkin
+• Ice cube
+• Fresh orange juice
+• Brown sugar
+• Cinnamon
+• Nutmeg
+• Ground cloves
+• Banana
+
+Steps:
+1. Combine all ingredients in blender
+2. Process until smooth
+3. Garnish with dash of cinnamon, if desired<|endoftext|>

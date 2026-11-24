@@ -1,0 +1,13 @@
+Please give me a recipe for a smoothie.<|endoftext|>Apple Smoothie
+
+Ingredients:
+• Applesauce
+• Apple cider
+• Orange juice
+• Honey
+• Ground cinnamon
+• Nutmeg
+
+Steps:
+1. Place all ingredients in a blender and process until smooth
+2. Pour into glasses, and garnish with additional cinnamon, if desired<|endoftext|>

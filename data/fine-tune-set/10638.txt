@@ -1,0 +1,25 @@
+Give me a recipe for pasta.<|endoftext|>Anytime Pasta Salad
+
+Ingredients:
+• Rotini noodles
+• Broccoli
+• Red onion
+• Green pepper
+• Red pepper
+• Zucchini
+• Pea pods
+• Pitted black olives
+• Cherry tomatoes
+• Sweet basil
+• Salt
+• Lemon juice
+• Garlic-flavored red wine vinegar
+• Olive oil
+• Fresh parmesan cheese
+
+Steps:
+1. Cook pasta according to instructions, rinse and let cool
+2. Blanche broccoli and pea pods for 2 minutes, drain and rinse with cool water
+3. Add all vegetable to noodles
+4. Mix well with dressing and chill overnight
+5. You can add or take out vegetable that you want in your pasta salad<|endoftext|>

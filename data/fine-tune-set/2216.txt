@@ -1,0 +1,1 @@
+Fix grammar in this sentence: Second day was awful.<|endoftext|>The second day was awful.<|endoftext|>

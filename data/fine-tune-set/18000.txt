@@ -1,0 +1,20 @@
+Generate a recipe for brownies.<|endoftext|>Brown Sugar Brownies
+
+Ingredients:
+• Golden brown sugar
+• Butter
+• Eggs
+• Unsweetened chocolate
+• All-purpose flour
+• Walnuts
+
+Steps:
+1. Preheat over to 325 degrees
+2. Grease 8x8x2-inch baking pan
+3. In large bowl beat sugar and butter until fluffy
+4. Beat in eggs, one at a time
+5. Beat in chocolate, then flour
+6. Stir in nuts
+7. Pour into pan
+8. Bake 25 minutes
+9. Cool in pan and cut into bars<|endoftext|>

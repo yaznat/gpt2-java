@@ -1,0 +1,1 @@
+Make the sentence grammatical: I always enjoy seeing its beautiful golden leaves in autumn, and when all the leaves were gone, I feel the cold of winter.<|endoftext|>I always enjoy seeing its beautiful golden leaves in autumn, and when all the leaves are gone, I feel the cold of winter.<|endoftext|>

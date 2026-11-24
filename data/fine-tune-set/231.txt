@@ -1,0 +1,1 @@
+Fix grammatical errors in this sentence: If you starting this sport you need to think it's funny to play it.<|endoftext|>If you are starting this sport, you need to think it's fun to play it.<|endoftext|>

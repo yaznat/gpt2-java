@@ -1,0 +1,15 @@
+Generate a recipe for a burger.<|endoftext|>Barbecue Hamburgers
+
+Ingredients:
+• Hamburger patties
+• Hamburger buns
+• Tomatoes
+• Lettuce
+• Cheese slices
+• Sliced mushrooms
+
+Steps:
+1. Slice tomato
+2. Separate lettuce into leaves
+3. Barbecue patties on one side, turn over and add mushrooms and cheese
+4. Barbecue until done<|endoftext|>

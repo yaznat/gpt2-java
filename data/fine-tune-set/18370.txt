@@ -1,0 +1,19 @@
+Generate a recipe for waffles.<|endoftext|>Best Waffles
+
+Ingredients:
+• Flour
+• Baking powder
+• Salt
+• Eggs
+• Milk
+• Canola oil
+
+Steps:
+1. Mix flour, baking powder & salt in large bowl
+2. In another bowl mix egg yolks
+3. Add milk and oil
+4. Add wet mixture to dry mixture and stir until just mixed
+5. In separate bowl beat egg whites until stiff
+6. Fold egg whites into waffle mixture
+7. When mixing wet to dry, mixture should be a bit lumpy
+8. When folding in egg whites leave a few "fluffs" not mixed in completely<|endoftext|>

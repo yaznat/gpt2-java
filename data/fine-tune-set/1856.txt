@@ -1,0 +1,1 @@
+Improve the grammar of this text: I am writing in response to yor advertisement which I saw in "The Daily Magazine" last week.<|endoftext|>I am writing in response to your advertisement which I saw in "The Daily Magazine" last week.<|endoftext|>

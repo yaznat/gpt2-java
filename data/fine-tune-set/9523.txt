@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: The main reason for this is, that the TV is teaching us, because it is an important medium in our lives.<|endoftext|>The main reason for this is that TV teaches us because it is an important medium in our lives.<|endoftext|>

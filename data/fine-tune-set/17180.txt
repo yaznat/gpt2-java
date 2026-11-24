@@ -1,0 +1,21 @@
+Please generate a tea recipe.<|endoftext|>Almond Tea Cake
+
+Ingredients:
+• Butter
+• Sugar
+• Eggs
+• Flour
+• Salt
+• Almond extract
+• Slivered almonds
+
+Steps:
+1. Preheat oven to 350f
+2. Melt butter and then add sugar in a mixing bowl
+3. Beat in eggs one at a time
+4. Add extract
+5. Add flour and salt, mixing well
+6. Pour batter into a large cast-iron skillet that has been lined with foil
+7. Sprinkle with almonds
+8. Bake for 30 minutes
+9. Cool completely and remove foil<|endoftext|>

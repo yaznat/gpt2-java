@@ -1,0 +1,1 @@
+Fix grammar in this sentence: Not only they will be used to telephone, but we could pay with them.<|endoftext|>Not only will they be used for telephone, but we could pay with them too.<|endoftext|>

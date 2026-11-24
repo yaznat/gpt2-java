@@ -1,0 +1,1 @@
+Fix grammar in this sentence: Furthermore, to stimulate economic growth, the government needs to work out carefully on the national budget for different sectors in the country.<|endoftext|>Furthermore, to stimulate economic growth, the government needs to work out carefully the national budget allocated to different sectors in the country.<|endoftext|>

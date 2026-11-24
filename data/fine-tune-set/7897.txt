@@ -1,0 +1,1 @@
+Improve the grammar of this text: If the elevator was closed, then it can't be opened until the next morning because the control room was very far from that building.<|endoftext|>If the elevator was closed, then it couldn't be opened until the next morning because the control room was very far from that building.<|endoftext|>

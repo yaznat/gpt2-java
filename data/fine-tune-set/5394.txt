@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: Maybe it would be take a few more years before the eco-car have a potential to be marketed.<|endoftext|>Maybe it would take a few more years before the eco-car has the potential to be marketed.<|endoftext|>

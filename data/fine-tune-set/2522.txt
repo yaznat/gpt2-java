@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: At the same time, more and more facilities are designed to meet the needs of elderly and disability.<|endoftext|>At the same time, more and more facilities are designed to meet the needs of the elderly and those with disabled.<|endoftext|>

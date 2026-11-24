@@ -1,0 +1,21 @@
+Can you give me a burger recipe?<|endoftext|>Aussie Burgers
+
+Ingredients:
+• Kaiser rolls
+• Eggs
+• Bacon
+• Ground beef
+• Cheese
+• Lettuce
+• Pineapple rings
+• Onions
+• Tomatoes
+• Beetroots
+• Ketchup
+
+Steps:
+1. Slice kaiser rolls and set aside
+2. Divide ground beef into 2 equal portions and shape into patties
+3. Fry or grill until desired doneness
+4. Place cooked patties on the kaiser roll
+5. Stack all the other ingredients on top of patty in any order and top with ketchup<|endoftext|>

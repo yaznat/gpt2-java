@@ -1,0 +1,21 @@
+Generate a recipe for steak.<|endoftext|>Best Steak Marinade
+
+Ingredients:
+• Soy sauce
+• Olive oil
+• Fresh lemon juice
+• Worcestershire sauce
+• Garlic powder
+• Basil
+• Parsley flakes
+• White pepper
+• Hot pepper sauce
+• Instant minced garlic
+
+Steps:
+1. Place the soy sauce, olive oil, lemon juice, worcestershire sauce, garlic powder, basil, parsley, and pepper in a blender
+2. Add hot pepper sauce and garlic, if desired
+3. Blend on high speed for 30 seconds until thoroughly mixed
+4. Pour marinade over desired type of meat
+5. Cover, and refrigerate for up to 8 hours
+6. Cook meat as desired<|endoftext|>

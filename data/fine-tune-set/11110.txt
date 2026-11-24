@@ -1,0 +1,14 @@
+Give me a recipe for a sandwich.<|endoftext|>Baby Bear Sandwiches
+
+Ingredients:
+• Bread
+• Peanut butter
+• Honey
+• Raisins
+• Maraschino cherry
+
+Steps:
+1. Mix the peanut butter with honey if desired and spread mixture onto bread
+2. Cut the bread into a heart shape, using a cookie cutter
+3. Use the raisins on the heart shape to make the eyes
+4. Place the cherry on the point of the heart shape to make the nose<|endoftext|>

@@ -1,0 +1,18 @@
+Generate a recipe for ice cream.<|endoftext|>Chocolate Almond Ice Cream Topping
+
+Ingredients:
+• Water
+• Sugar
+• Butter
+• Semi-sweet chocolate chips
+• Dark chocolate chips
+• Almond extract
+
+Steps:
+1. In a small saucepan, bring the water, sugar and butter to a boil
+2. Boil for 2-3 minutes until sugar is dissolved
+3. Remove from heat
+4. Add the chocolate chips and almond extract
+5. Whisk until chips are melted and mixture is smooth
+6. Serve warm over ice cream
+7. Goes well with bananas, or toasted coconut<|endoftext|>

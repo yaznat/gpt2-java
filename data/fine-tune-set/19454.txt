@@ -1,0 +1,13 @@
+Please generate a potato recipe.<|endoftext|>30 Minute Baked Potato
+
+Ingredients:
+• Potato
+• Olive oil
+
+Steps:
+1. Stab the potato with a fork several times and wrap in a paper towel
+2. Place in a microwave on high for 8 minutes, turning half way through
+3. Remove from microwave and brush with olive oil
+4. Then place in a pre-heated 200 c oven for 15 minutes
+5. Remove from oven and slice with a cross
+6. Add butter or other toppings as desired<|endoftext|>

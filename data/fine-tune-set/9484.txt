@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: Second, the cost for building the infrastructure of the electric cars is really a big amount of money.<|endoftext|>Second, the cost of building the infrastructure of electric cars is really a big amount of money.<|endoftext|>

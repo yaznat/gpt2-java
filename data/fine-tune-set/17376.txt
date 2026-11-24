@@ -1,0 +1,10 @@
+Generate a recipe for coffee.<|endoftext|>Almond Chocolate Coffee
+
+Ingredients:
+• Amaretto
+• Dark creme de cacao
+• Hot coffee
+
+Steps:
+1. Pour ingredients into coffee cup in order
+2. Top with whipped creme and chocolate shavings<|endoftext|>

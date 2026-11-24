@@ -1,0 +1,19 @@
+Generate a recipe for a taco.<|endoftext|>Baked Sausage Taco Dip
+
+Ingredients:
+• Italian sausage
+• Refried beans
+• Mild salsa
+• Cheddar cheese
+• Monterey jack cheese
+• Black olives
+• Green onion
+• Sour cream
+• Tortilla chips
+
+Steps:
+1. Preheat oven to 350f
+2. Cook sausage over medium heat, breaking up the meat with the edge of a spoon, drain
+3. Spread the beans over the bottom of a 2 1 / 2 quart shallow baking dish and top with sausage
+4. Pour salsa over sausage, add cheeses, sprinkle with olives and green onions
+5. Bake uncovered 25-30 minutes, top with sour cream and serve with chips<|endoftext|>

@@ -1,0 +1,15 @@
+Generate a recipe for pudding.<|endoftext|>Banana Pudding Nut Bread
+
+Ingredients:
+• Banana cake mix
+• Vanilla instant pudding mix
+• Oil
+• Water
+• Eggs
+• Bananas
+• Nuts
+
+Steps:
+1. Preheat oven to 350 degrees
+2. Blend all ingredients in large bowl
+3. Bake in loaf pan for 30 minutes<|endoftext|>

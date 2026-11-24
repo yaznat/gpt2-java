@@ -1,0 +1,1 @@
+Fix grammaticality: It was very cold though the snow had stopped.<|endoftext|>It was very cold, though the snow had stopped.<|endoftext|>

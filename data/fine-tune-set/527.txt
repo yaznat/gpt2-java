@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: If you can't go with me, I think we can go out some nights.<|endoftext|>If you can't go with me, I think we could go out some nights.<|endoftext|>

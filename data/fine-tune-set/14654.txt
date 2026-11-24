@@ -1,0 +1,14 @@
+Please generate a rice recipe.<|endoftext|>Amanda S Chicken And Rice
+
+Ingredients:
+• White rice
+• Chicken
+• Butter
+
+Steps:
+1. In skillet spread out rice
+2. Layer on chicken chunks next
+3. Put butter in middle
+4. Add pepper and salt to taste
+5. Add 1 cup water
+6. Cook on low heat until finished<|endoftext|>

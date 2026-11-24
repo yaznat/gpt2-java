@@ -1,0 +1,19 @@
+Generate a recipe for muffins.<|endoftext|>100 Whole Wheat Blueberry Muffins
+
+Ingredients:
+• Whole wheat flour
+• Baking soda
+• Buttermilk
+• Egg whites
+• Vegetable oil
+• Honey
+• Blueberries
+
+Steps:
+1. Preheat oven to 350
+2. Coat 12 muffin cups with cooking spray
+3. Sift together the flour and baking soda
+4. In a separate bowl, whisk together the buttermilk, egg whites, oil, and honey until creamy, then stir in the blueberries
+5. Pour the wet ingredients into the dry
+6. Fold together with a rubber spatula until the batter is moist yet remains slightly lumpy
+7. Pour into muffin cups and bake 30 to 35 minutes<|endoftext|>

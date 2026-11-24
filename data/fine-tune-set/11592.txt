@@ -1,0 +1,18 @@
+Please give me a recipe for cake.<|endoftext|>1234 Cake
+
+Ingredients:
+• Butter
+• White sugar
+• Flour
+• Baking powder
+• Salt
+• Eggs
+• Milk
+• Vanilla
+
+Steps:
+1. Cream butter, adding sugar gradually, beat in eggs one by one
+2. Sift dry ingredients together and add to first mixture alternately with milk and flavouring
+3. Bake in greased loaf pan or 9" round or square pan
+4. Bake one hour or until a toothpick comes out dry when inserted into centre of cake
+5. Bake in 350 degree oven<|endoftext|>

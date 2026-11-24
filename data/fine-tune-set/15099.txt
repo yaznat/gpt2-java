@@ -1,0 +1,14 @@
+What's a recipe for pizza?<|endoftext|>Anthony S French Bread Pizza
+
+Ingredients:
+• French bread
+• Pizza sauce
+• Mozzarella cheese
+• Pepperoni slices
+
+Steps:
+1. Slice the french bread lengthwise in half
+2. Spread the pizza sauce on each half with cut side up
+3. Sprinkle the cheese equally between the two halves
+4. Layer the pepperoni slices
+5. Bake in a preheated oven at 375 degrees for 10 minutes<|endoftext|>

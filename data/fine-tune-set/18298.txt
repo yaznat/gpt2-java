@@ -1,0 +1,13 @@
+Give me a pancake recipe.<|endoftext|>Bisquick Strawberry Banana Pancakes
+
+Ingredients:
+• Bisquick baking mix
+• Milk
+• Strawberry
+• Banana
+• Eggs
+
+Steps:
+1. Beat all ingredients with wire whisk until well blended
+2. Pour by spoonfuls onto a hot griddle, greased
+3. Cook until edges are dry, turn, cook until golden brown<|endoftext|>

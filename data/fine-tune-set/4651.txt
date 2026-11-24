@@ -1,0 +1,1 @@
+Fix grammar in this sentence: There is a lighthouse tower appeared white far away on the high hill near the entrance to the harbour.<|endoftext|>There is a lighthouse tower, which appeared white, far away on the high hill near the entrance to the harbor.<|endoftext|>

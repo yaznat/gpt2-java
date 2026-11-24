@@ -1,0 +1,1 @@
+Fix grammar in the sentence: Furthermore, in 1994, as the cold war had ended, the US government then decided to fully open the GPS for public use.<|endoftext|>Furthermore, in 1994, since the cold war had ended, the US government decided to fully open the GPS for public use.<|endoftext|>

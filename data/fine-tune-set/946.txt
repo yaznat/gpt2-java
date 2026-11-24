@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: Advantages of computer science are, that you get information of the internet and you can download some music.<|endoftext|>The advantages of computer science are that you get information from the internet and you can download some music.<|endoftext|>

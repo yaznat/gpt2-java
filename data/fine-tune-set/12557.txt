@@ -1,0 +1,21 @@
+Generate a recipe for stew.<|endoftext|>Bahian Shrimp Stew
+
+Ingredients:
+• Olive oil
+• Onions
+• Bell pepper
+• Tomatoes
+• Cilantro
+• Garlic clove
+• Tomato paste
+• Bay shrimp
+• Lemon juice
+• Coconut milk
+
+Steps:
+1. Heat oil in skillet, add onion, pepper, tomatoes, cilantro, garlic and tomato paste
+2. Cook for 10 minutes
+3. Bring sauce to a boil, then add shrimp and lemon juice
+4. Reduce heat to medium and cook for 2 minutes
+5. Add coconut milk and bring the mixture to a boil
+6. Serve over rice<|endoftext|>

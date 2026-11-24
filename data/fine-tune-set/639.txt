@@ -1,0 +1,1 @@
+Make the sentence grammatical: There are a lot of work especially middle and small companies.<|endoftext|>There is a lot of work, especially in middle and small companies.<|endoftext|>

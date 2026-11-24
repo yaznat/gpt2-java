@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: But in contrast to what many people would think, even a generation III reactor used today have structures that can sustain a plane crashing into it.<|endoftext|>But in contrast to what many people would think, even a generation III reactor used today has structures that can sustain a plane crashing into it.<|endoftext|>

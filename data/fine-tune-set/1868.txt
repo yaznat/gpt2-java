@@ -1,0 +1,1 @@
+Fix grammar in the sentence: Although I only know dishes from my country, I could learn more about your meal because cooking is one of my favourite hobbies.<|endoftext|>Although I only know dishes from my country, I could learn more about your cuisine because cooking is one of my favorite hobbies.<|endoftext|>

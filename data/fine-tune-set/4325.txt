@@ -1,0 +1,1 @@
+Fix grammar in this sentence: Often people, who are watching a commercial, do not remember what details or elements of other visual art types they have seen before.<|endoftext|>Often, people who are watching a commercial do not remember what details or elements of other visual art types they have seen before.<|endoftext|>

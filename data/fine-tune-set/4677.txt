@@ -1,0 +1,1 @@
+Remove all grammatical errors from this text: He picked it up and found that it was full of gold, a note was also attached to it.<|endoftext|>He picked it up and found that it was full of gold, and a note was also attached to it.<|endoftext|>

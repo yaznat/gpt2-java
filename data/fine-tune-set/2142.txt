@@ -1,0 +1,1 @@
+Make the sentence grammatical: I hope I can get enough money to buy a WII for my parents, then they could do some exercises even I'm not at home.<|endoftext|>I hope I can get enough money to buy a WII for my parents, so then they can do some exercises even when I'm not at home.<|endoftext|>

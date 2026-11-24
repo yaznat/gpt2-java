@@ -1,0 +1,23 @@
+Generate a recipe for pancakes.<|endoftext|>Apple Puff Pancake
+
+Ingredients:
+• Unsalted butter
+• Eggs
+• Milk
+• All-purpose flour
+• Whole wheat flour
+• Brown sugar
+• Vanilla extract
+• Cinnamon
+• Apple
+• Confectioners' sugar
+
+Steps:
+1. Heat oven to 450 degrees
+2. Coat bottom and side of 10-inch heavy skillet with 2 t
+3. Butter
+4. Whisk eggs, milk, flours, brown sugar, vanilla, and cinnamon in mixing bowl until completely blended
+5. Stir in apples
+6. Pour into skillet and spread apples evenly
+7. Bake until puffed and golden, about 15 minutes
+8. Sprinkle with confectioner's sugar and serve at once<|endoftext|>

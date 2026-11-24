@@ -1,0 +1,15 @@
+Please generate a cocktail recipe.<|endoftext|>Adult Strawberry Pineapple Punch Cocktail
+
+Ingredients:
+• Fresh strawberries
+• Canned pineapple
+• Pineapple syrup
+• Lime juice
+• Simple syrup
+• White rum
+
+Steps:
+1. Muddle fruit
+2. Pour over ice with other ingredients
+3. Shake vigorously
+4. Garnish with fruit<|endoftext|>

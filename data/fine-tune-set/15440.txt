@@ -1,0 +1,23 @@
+Generate a recipe for a burger.<|endoftext|>Bacon Cheeseburger Roll Up
+
+Ingredients:
+• Ground beef
+• Bacon
+• Onion
+• Velveeta cheese
+• Pizza crusts
+• Garlic powder
+• Pepper
+• Seasoning salt
+
+Steps:
+1. Preheat oven to 400 degrees
+2. Cook ground beef and onion together in skillet
+3. Drain
+4. Add cubed velveeta and cook till melted, then stir in the crumbled bacon
+5. Lightly grease a rectangle cookie sheet
+6. Press out pizza dough into roughly a 15 x 8 inch rectangle, spread evenly with meat mixture
+7. Roll into log, starting at one of the long sides
+8. Rearrange if necessary, so that seam side is down
+9. Bake 20-25 minutes, or until golden brown
+10. Cut diagonally into slices to serve<|endoftext|>

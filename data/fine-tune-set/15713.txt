@@ -1,0 +1,18 @@
+Give me a taco recipe.<|endoftext|>Chicken Taco Fettuccine
+
+Ingredients:
+• Fettuccine pasta
+• Cooked chicken
+• Garlic
+• Olive oil
+• Heavy whipping cream
+• Taco seasoning
+• Parmesan cheese
+
+Steps:
+1. Cook pasta according to package directions
+2. Meanwhile, in a large skillet over medium heat, cook the chicken and garlic in oil for 4 to 5 minutes or until heated through
+3. Whisk in cream and taco seasoning until blended
+4. Cook until heated through, do not boil
+5. Stir in parmesan cheese
+6. Drain pasta, toss with chicken mixture<|endoftext|>

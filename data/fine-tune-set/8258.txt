@@ -1,0 +1,1 @@
+Improve the grammar of this text: When I checked my diary this morning, the freind who got acquainted for the first time had already corrected it.<|endoftext|>When I checked my diary this morning, the friend who got acquainted for the first time, the friend whom I had just met, had already corrected it.<|endoftext|>

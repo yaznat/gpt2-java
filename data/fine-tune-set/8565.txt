@@ -1,0 +1,1 @@
+Fix the grammar mistakes: If we win to 3 teams, we will be the champion.<|endoftext|>If we win against the other 3 teams, then we will be the champion.<|endoftext|>

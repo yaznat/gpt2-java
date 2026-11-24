@@ -1,0 +1,20 @@
+Please generate a ice cream recipe.<|endoftext|>Banana Nut Ice Cream
+
+Ingredients:
+• Skim milk
+• Fat-free half-and-half
+• Eggs
+• Sugar
+• Salt
+• Banana
+• Vanilla
+• Nutmeg
+• Pecan pieces
+
+Steps:
+1. Combine the milk, half and half, eggs, sugar and salt in a medium saucepan
+2. Cook and stir over low heat until mixture thickens slightly and coats the back of a spoon
+3. Refrigerate until mixture is thoroughly chilled
+4. Combine the cooled custard with the banana, vanilla and nutmeg in blender container, blending well
+5. Add the pecan pieces and pour into freezer container
+6. Freeze according to manufacturer's instructions<|endoftext|>

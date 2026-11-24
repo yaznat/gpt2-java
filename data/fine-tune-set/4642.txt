@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: We enjoyed delicious meal and sake.<|endoftext|>We enjoyed a delicious meal and sake.<|endoftext|>

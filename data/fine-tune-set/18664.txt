@@ -1,0 +1,16 @@
+Please generate a pudding recipe.<|endoftext|>Avocado Pudding
+
+Ingredients:
+• Avocados
+• Banana
+• Milk
+• Sugar
+• Vanilla
+• Cocoa powder
+
+Steps:
+1. In blender combine avocado and banana
+2. Blend until smooth
+3. Add milk, sugar, vanilla and cocoa powder
+4. Blend again
+5. Pour into small dessert bowls and chill for at least 20 minutes<|endoftext|>

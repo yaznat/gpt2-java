@@ -1,0 +1,21 @@
+Give me a recipe for a taco.<|endoftext|>California Soft Tacos
+
+Ingredients:
+• Whole wheat tortillas
+• Kidney beans
+• Cheddar cheese
+• Romaine lettuce
+• Chopped tomato
+• Avocado
+• Ranch dressing
+
+Steps:
+1. Heat up the tortillas so that they are firm enough to hold all of the above ingredients
+2. Throwing them in the skillet for about 6 minutes should do the trick
+3. Take about a quarter cup of cheddar and place it down the center of the tortilla
+4. Add about 3 oz of kidney beans
+5. Add a quarter of the chopped tomato
+6. Add lettuce
+7. Add a quarter sliced avocado
+8. Pour as much ranch dressing as desired
+9. Enjoy your salad in a tortilla!<|endoftext|>

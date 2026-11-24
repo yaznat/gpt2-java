@@ -1,0 +1,15 @@
+Generate a recipe for pizza.<|endoftext|>An Aussie Vegemite Pizza
+
+Ingredients:
+• Prepared pizza crust
+• Vegemite
+• Ham
+• Onion
+• Tasty cheese
+• Eggs
+
+Steps:
+1. Preheat oven to 190c
+2. Spread the vegemite over the pizza base and top with the ham, onion, cheese
+3. Pour beaten egg over the pizza
+4. Cook for 12-15 minutes or until golden and egg is cooked through<|endoftext|>

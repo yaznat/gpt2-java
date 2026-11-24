@@ -1,0 +1,36 @@
+Generate a recipe for sushi.<|endoftext|>Types Of Sushi Rolls
+
+Ingredients:
+• Nori
+• Cooked japanese-style rice
+
+Steps:
+1. Crunchy roll:
+2. Masago, crunchy tempura flakes, spicy mayonnaise sauce, cucumber, tempura shrimp
+3. California roll:
+4. Sesame seeds, avocado, crab stick, cucumber
+5. Manhattan roll:
+6. Lump crab mixed with spicy mayonnaise sauce with masago outside: tempura shrimp roll inside
+7. Dragon roll:
+8. Inside: california roll
+9. Outside: eel, avocado and masago
+10. Eel roll:
+11. Eel, cucumber, scallion, sesame seeds, topped with eel sauce
+12. Philadelphia roll:
+13. Smoked salmon, cream cheese, cucumber
+14. Shrimp tempura roll:
+15. Shrimp tempura, avocado, asparagus, scallion, masago, sesame seeds topped with eel sauce
+16. Rainbow roll:
+17. California roll topped with assorted raw fish, avocado, masago
+18. Spider roll:
+19. Soft shell crab tempura, avocado, masago, sesame seeds
+20. New york roll:
+21. Shrimp tempura, eel, cream cheese, avocado, scallion, masago, sesame seeds
+22. Phat roll:
+23. Lobster tempura, asparagus, avocado, scallion, masago, sesame seeds, topped with crab mixed with spicy mayonnaise sauce
+24. Rock & roll:
+25. Inside: eel, avocado, cucumber
+26. Outside: masago
+27. Spicy tuna roll:
+28. Tuna, scallion, spicy mayonnaise sauce
+29. Veggie roll - cucumber, carrots, scallion, avocado, asparagus, cream cheese<|endoftext|>

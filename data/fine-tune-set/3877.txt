@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: Singaporeans live in the comfort of their own homes believing that all the things that can be invented are already made.<|endoftext|>Singaporeans live in the comfort of their own homes, believing that all the things that can be invented have already been made.<|endoftext|>

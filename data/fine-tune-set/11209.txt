@@ -1,0 +1,19 @@
+Generate a recipe for a sandwich.<|endoftext|>Barbecued Santa Fe Chicken Sandwich
+
+Ingredients:
+• Sourdough bread
+• Skinless chicken breast half
+• Monterey jack pepper cheese
+• Barbecue sauce
+• Guacamole
+• Sour cream
+• Tomatoes
+• Lettuce
+
+Steps:
+1. Cut a pocket in chicken breast half
+2. Fill with cheese
+3. Secure with metal or soaked wooden skewers
+4. Grill chicken, covered, over medium heat for 6-8 minutes on each side until juices run clear to desired doneness
+5. Toast bread, place sliced tomato on bread, lettuce and chicken
+6. Spread sour cream / guacamole mixture on top of bun and place on top of sandwich<|endoftext|>

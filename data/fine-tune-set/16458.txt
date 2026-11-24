@@ -1,0 +1,13 @@
+Generate a recipe for a smoothie.<|endoftext|>The Elvis Smoothie
+
+Ingredients:
+• Banana
+• Natural-style peanut butter
+• 2% low-fat milk
+• Sugar-free non-fat vanilla yogurt
+
+Steps:
+1. Place all ingredients in blender
+2. Blend until very smooth
+3. Serve immediately
+4. For a vegan smoothie, make with soy milk and soy yogurt<|endoftext|>

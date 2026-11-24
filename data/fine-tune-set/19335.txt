@@ -1,0 +1,11 @@
+Generate a recipe for a popsicle.<|endoftext|>Yoghurt Popsicles
+
+Ingredients:
+• Yogurt
+• Fruit
+• Sugar
+
+Steps:
+1. Mix all the ingredients in a small bowl
+2. Pour into popsicle moulds
+3. Freeze at least 5-6 hours<|endoftext|>

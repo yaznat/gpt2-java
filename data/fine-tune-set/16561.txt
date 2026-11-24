@@ -1,0 +1,11 @@
+Please give me a recipe for a smoothie.<|endoftext|>Banana Bavaria Smoothie
+
+Ingredients:
+• Milk
+• Banana
+• Chocolate ice cream
+
+Steps:
+1. Whir all ingredients in blender
+2. Makes 1 serving
+3. Top with scoop of ice cream, if desired<|endoftext|>

@@ -1,0 +1,13 @@
+Generate a recipe for ice cream.<|endoftext|>Black Raspberry Ice Cream
+
+Ingredients:
+• Black raspberries
+• Heavy cream
+• Sugar
+• Lemon juice
+
+Steps:
+1. Puree raspberries
+2. Strain through a jelly bag to remove seeds, if desired
+3. Blend all ingredients in blender for one minute to thoroughly dissolve the sugar
+4. Pour mixture into freezer can of ice cream maker and follow the manufacturers directions to process the ice cream<|endoftext|>

@@ -1,0 +1,1 @@
+Remove all grammatical errors from this text: As a result, not only is public transport the option they have, but it is also the only one.<|endoftext|>As a result, not only is public transport an option they have, but it is also the only option.<|endoftext|>

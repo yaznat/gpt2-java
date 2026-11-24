@@ -1,0 +1,1 @@
+Fix grammar in this sentence: VHTR systems do not use waste recycling thus reducing the risk of proliferation.<|endoftext|>VHTR systems do not use waste recycling, thus reducing the risk of proliferation.<|endoftext|>

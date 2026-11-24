@@ -1,0 +1,1 @@
+Fix grammatical mistakes in this sentence: Many people were playing in a swimming pool when I arrived, and other people were eating Mexican food.<|endoftext|>A lot of people were playing in the swimming pool when I arrived, and other people were eating Mexican food.<|endoftext|>

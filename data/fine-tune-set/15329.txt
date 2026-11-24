@@ -1,0 +1,22 @@
+Please generate a burger recipe.<|endoftext|>All American Loaded Burgers
+
+Ingredients:
+• Dry breadcrumbs
+• Onion
+• Italian salad dressing
+• Eggs
+• Ground beef
+• Kaiser rolls
+• Lettuce
+• Cheese slice
+• Tomatoes
+• Ketchup
+• Mustard
+• French fried onion rings
+
+Steps:
+1. In large bowl, combine the bread crumbs, onion, salad dressing and eggs
+2. Crumble beef over mixture and mix well
+3. Shape into six patties
+4. Grill burgers, covered, over medium heat or broil 4 inches from heat for 5-7 minutes on each side or until a meat thermometer reads 160 degrees and juices run clear
+5. Serve on rolls with your choice of optional ingredients<|endoftext|>

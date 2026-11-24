@@ -1,0 +1,1 @@
+Fix grammar in this sentence: However, they should be aware of high costs of living in my town.<|endoftext|>However, they should be aware of the high cost of living in my town.<|endoftext|>

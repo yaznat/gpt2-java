@@ -1,0 +1,13 @@
+Give me a recipe for a smoothie.<|endoftext|>Banana Berry Blast Green Smoothie
+
+Ingredients:
+• Spinach
+• Almond milk
+• Blueberries
+• Raspberries
+• Bananas
+
+Steps:
+1. Blend leafy greens and liquid together first
+2. Once its nice and creamy, add remaining ingredients and blend again
+3. Enjoy!<|endoftext|>

@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: Today I e-mailed human resources department to ask them about my payment.<|endoftext|>Today I e-mailed the human resources department to ask them about my payment.<|endoftext|>

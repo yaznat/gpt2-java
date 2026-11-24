@@ -1,0 +1,24 @@
+Generate a recipe for a taco.<|endoftext|>Avocado Taco Dip
+
+Ingredients:
+• Avocado
+• Sour cream
+• Cream cheese
+• Taco seasoning
+• Salt
+• Mrs. dash table blend seasoning
+• Tomatoes
+• Four-cheese mexican blend cheese
+
+Steps:
+1. Peel and mash avocados
+2. Slightly heat cream cheese until very soft
+3. Mix with sour cream
+4. Stir mashed avocado into sour cream and cream cheese mixture
+5. Add taco seasoning, salt, and mrs
+6. Dash
+7. Mix to taste
+8. Add more seasoning to taste if desired
+9. Pour into flat bottomed serving dish
+10. Top with diced tomato and cheese
+11. Serve with tortilla chips<|endoftext|>

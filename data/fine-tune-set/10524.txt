@@ -1,0 +1,18 @@
+Generate a recipe for pasta.<|endoftext|>Aglio Olio Garlic And Oil Pasta
+
+Ingredients:
+• Linguine
+• Garlic cloves
+• Crushed red pepper flakes
+• Extra virgin olive oil
+• Anchovy fillets
+• Flat leaf parsley
+• Black pepper
+
+Steps:
+1. Cook pasta to desired done-ness
+2. In a large skillet over medium heat, cook the garlic and pepper flakes until they start making noise
+3. Add the anchovies and stir them in the oil until they are no longer visible
+4. Toss with the cooked and drained pasta
+5. Adjust salt and pepper if needed
+6. Serve<|endoftext|>

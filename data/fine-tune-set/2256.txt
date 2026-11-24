@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: The battery of the vehicle must be able to recharge within short hours.<|endoftext|>The battery of the vehicle must be able to recharge within a few hours.<|endoftext|>

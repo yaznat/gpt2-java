@@ -1,0 +1,11 @@
+Please generate a coffee recipe.<|endoftext|>Big Apple Coffee
+
+Ingredients:
+• Mint chocolate liqueur
+• White chocolate liqueur
+• Coffee
+• Whipped cream
+• Chocolate shavings
+
+Steps:
+1. Pour liquer and coffee into mug, top with whipped cream and garnish with chocolate shavings<|endoftext|>

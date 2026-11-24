@@ -1,0 +1,1 @@
+Fix grammar in the sentence: My father drives wherever he wants and he often takes my mother for having coffe, shopping and etc.<|endoftext|>My father drives wherever he wants, and he often takes my mother for having to have coffee, go shopping, etc.<|endoftext|>

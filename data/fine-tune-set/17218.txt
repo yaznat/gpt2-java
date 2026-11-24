@@ -1,0 +1,18 @@
+Give me a tea recipe.<|endoftext|>Apple Ginger Mint Iced Tea
+
+Ingredients:
+• Green tea bags
+• Ginger
+• Apple
+• Mint
+• Boiling water
+• Apple cider
+• Ice
+• Honey
+
+Steps:
+1. Combine tea bags, ginger, apple and mint in a tea pot
+2. Fill with boiling hot water and steep for 5 minutes
+3. Pour and strain into ice-filled pitcher
+4. Add apple cider and honey as desired
+5. Fill individual glasses with ice and serve<|endoftext|>

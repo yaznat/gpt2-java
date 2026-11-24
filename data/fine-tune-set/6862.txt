@@ -1,0 +1,1 @@
+Fix grammatical errors in this sentence: Almost all the people the same grade as me are doing job hunting now.<|endoftext|>Almost all the people in the same grade year as I are doing job hunting now.<|endoftext|>

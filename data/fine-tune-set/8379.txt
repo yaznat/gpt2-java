@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: When he was twenty first years old, he started to go to the most famous Dutch studies school in Japan at that time.<|endoftext|>When he was twenty-one years old, he started to go to the most famous Dutch studies school in Japan at that time.<|endoftext|>

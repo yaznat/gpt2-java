@@ -1,0 +1,19 @@
+Please generate a sandwich recipe.<|endoftext|>Bacon Wrapped Grilled Chicken Sandwich
+
+Ingredients:
+• Chicken breast halves
+• Bacon
+• Lime juice
+• Lemon juice
+• Garlic salt
+• Avocado
+• Swiss cheese
+• Texas toast thick bread
+
+Steps:
+1. Marinate breast halves in lemon, lime juice, pepper and garlic salt unrefrigerated for about 1 / 2 hour
+2. Wrap chicken with two pieces of bacon, using toothpicks to hold bacon
+3. Place breast halves on a hot grill and grill until chicken is done, turning frequently
+4. When chicken is near done, place avocado slices on top of chicken then top with swiss cheese
+5. Grill just until cheese is melted
+6. Remove chicken from grill and place on texas toast or buns with toppings of choice<|endoftext|>

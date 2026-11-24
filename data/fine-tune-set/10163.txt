@@ -1,0 +1,14 @@
+Give me a recipe for chili.<|endoftext|>Beans And Burger Hillbilly Chili
+
+Ingredients:
+• Lean ground beef
+• Baked beans
+• Onion
+• Barbecue sauce
+
+Steps:
+1. Brown beef in a large high-sided skillet or soup pot
+2. Drain the fat from the beef and discard
+3. Return the cooked beef to the pot and add the onion, beans, and barbecue sauce
+4. Cook for about 30 minutes over medium heat, stirring occaisionally
+5. Serve with corn muffins, fried potatoes, hot sauce, or diced raw onion<|endoftext|>

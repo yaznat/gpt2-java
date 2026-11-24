@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: They had a lot of things in common, they liked the same kind of music, the same kind of food and they both liked to read about fantasies and comics.<|endoftext|>They had a lot of things in common, they liked the same kind of music, and the same kind of food, and they both liked to read fantasies and comics.<|endoftext|>

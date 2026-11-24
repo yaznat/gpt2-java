@@ -1,0 +1,15 @@
+Generate a recipe for a milkshake.<|endoftext|>Chocolate Peanut Butter Banana Milkshake
+
+Ingredients:
+• Lowfat chocolate milk
+• Banana
+• Creamy peanut butter
+• Low-fat vanilla ice cream
+
+Steps:
+1. Place milk, banana and peanut butter in blender
+2. Cover and process on high power until smooth
+3. Add ice cream
+4. Process until smooth
+5. Variations:
+6. Can replace vanilla with 1 cup chocolate ice cream or ice milk, if desired<|endoftext|>

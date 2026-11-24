@@ -1,0 +1,1 @@
+Remove all grammatical errors from this text: The government can subsidize part of the healthcare expenses borne by the elderly.<|endoftext|>The government can subsidize part of the healthcare expenses incurred by the elderly.<|endoftext|>

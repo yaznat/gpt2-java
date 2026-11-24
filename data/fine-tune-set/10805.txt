@@ -1,0 +1,18 @@
+Give me a salad recipe.<|endoftext|>5 Star Balsamic Strawberry Salad Dressing
+
+Ingredients:
+• Balsamic vinegar
+• Red wine vinegar
+• Strawberries
+• Sugar
+• Olive oil
+• Onion
+• Fresh parsley
+• Fresh strawberries
+
+Steps:
+1. Boil balsamic and red wine vinegar and strawberries
+2. Reduce by 3 / 4
+3. Add sugar, diced onion and parsley
+4. Simmer 10-15 minutes and cool
+5. When cooled, gradually whisk in the oil<|endoftext|>

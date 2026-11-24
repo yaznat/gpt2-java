@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: At the entrance of the gallery, there was a big christmas tree illuminated beautifully and the sky turns to the night with grey sky.<|endoftext|>At the entrance of the gallery, there was a big Christmas tree illuminated beautifully, and the sky turned to night with the grey sky.<|endoftext|>

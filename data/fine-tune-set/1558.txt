@@ -1,0 +1,1 @@
+Fix grammar in this sentence: I hope that Christmas is coming soon, and may everyone has a Merry Christmas this year!!!<|endoftext|>I hope that Christmas is coming soon, and may everyone have a Merry Christmas this year!!!<|endoftext|>

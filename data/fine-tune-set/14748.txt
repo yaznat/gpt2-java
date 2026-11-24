@@ -1,0 +1,15 @@
+Please generate a rice recipe.<|endoftext|>Arroz Brazilian Style Rice
+
+Ingredients:
+• Long grain rice
+• Water
+• Onion
+• Olive oil
+• Salt
+
+Steps:
+1. Heat the olive oil in a large heavy saucepan over medium heat
+2. Add the chopped onion and cook until limp
+3. Do not let it brown!
+4. Add the rice and saut until the grains become shiny
+5. Add the water, cover the pan, and cook over low heat until all the water is absorbed and the grains are tender<|endoftext|>

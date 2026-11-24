@@ -1,0 +1,15 @@
+Give me a recipe for cake.<|endoftext|>3 Ingredient Chocolate Cake
+
+Ingredients:
+• Semisweet chocolate
+• Unsalted butter
+• Extra large eggs
+• Salt
+
+Steps:
+1. Preheat oven to 375
+2. Line the bottom of an 81 / 2" sprinform pan with parchment paper and spray with non-stick spray
+3. Heat chocolate and butter in a double boiler, stir until melted
+4. Put eggs and a pinch of salt in the bowl of an electric mixer, whip for 8 minutes until tripled in volume
+5. With a rubber spatula fold chocolate into egg mixture until well incorporated pour into springform pan, bake for 20 minutes
+6. Center will be moist remove and let it cool 30 minutes before removing from pan and slicing<|endoftext|>

@@ -1,0 +1,1 @@
+Fix grammar in this sentence: However, in terms of efficiency and economic value, nuclear energy takes great advantages over both solar energy and wind force.<|endoftext|>However, in terms of efficiency and economic value, nuclear energy has great advantages over both solar energy and wind force.<|endoftext|>

@@ -1,0 +1,17 @@
+Give me a stew recipe.<|endoftext|>Bacon Stew
+
+Ingredients:
+• Thick slab bacon
+• Onions
+• Potatoes
+• Mustard powder
+• Black pepper
+• Bay leaf
+• Fresh parsley
+
+Steps:
+1. Place a layer of onions in the base of a large, heavy-bottomed pot, add a layer of bacon and then a layer of sliced potatoes, seasoning each layer with a little mustard and pepper
+2. Continue layering and seasoning and finish with a layer of potatoes
+3. Place a bayleaf on top and pour in sufficient cold water to come just below the top layer of potatoes
+4. Cover with a lid, bring to the boil, and then simmer very gently for about 1 hours
+5. Serve the stew garnished with chopped parsley or chives and with a side dish of buttered boiled carrots<|endoftext|>

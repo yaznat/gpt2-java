@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: With good music, I danced and jumped and drunk very much.<|endoftext|>With good music, I danced and jumped to good music and drank a lot very much.<|endoftext|>

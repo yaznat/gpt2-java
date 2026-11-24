@@ -1,0 +1,1 @@
+Fix grammaticality of the sentence: But if the blade is damaged by lightning and need replacement, the wind must be slight enough to undertake the construction work safely.<|endoftext|>But if the blade is damaged by lightning and needs replacement, the wind must be slight enough to undertake the repair work safely.<|endoftext|>

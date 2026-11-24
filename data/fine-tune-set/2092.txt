@@ -1,0 +1,1 @@
+Improve the grammar of this text: Among young people exist a statement that shopping is always an enjoyable way to spend your free time.<|endoftext|>Among young people, there is a statement that shopping is always an enjoyable way to spend your free time.<|endoftext|>

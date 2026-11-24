@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: In the future everyone will be able to go on holiday all around the world since the transport will be faster and cheaper.<|endoftext|>In the future, everyone will be able to go on holiday all around the world since transport will be faster and cheaper.<|endoftext|>

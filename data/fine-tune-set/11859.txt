@@ -1,0 +1,24 @@
+Give me a recipe for curry.<|endoftext|>Broken Egg Curry
+
+Ingredients:
+• Ginger
+• Garlic cloves
+• Onions
+• Ghee
+• Tomatoes
+• Coriander leaves
+• Green chilies
+• Salt
+• Coconut milk
+• Eggs
+
+Steps:
+1. Grind ginger and garlic together to make a paste
+2. Fry onions in ghee until golden
+3. Add ginger / garlic paste and tomatoes and let simmer until tomatoes are pulpy
+4. Add coriander, chiles, salt, and coconut milk
+5. Increase the heat
+6. Let the curry come to boil
+7. Then break the eggs into the curry and do not stir
+8. When the eggs set the curry is ready
+9. Serve with rice<|endoftext|>

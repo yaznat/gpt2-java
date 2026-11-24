@@ -1,0 +1,1 @@
+Improve the grammar of this text: And I predict this accident will bring some costs to me.<|endoftext|>And I predict that this accident will bring some costs to me.<|endoftext|>

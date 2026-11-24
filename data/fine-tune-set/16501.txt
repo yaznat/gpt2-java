@@ -1,0 +1,11 @@
+Can you give me a smoothie recipe?<|endoftext|>Amaretto Smoothie
+
+Ingredients:
+• Amaretto liqueur
+• Milk
+• Vanilla ice cream
+
+Steps:
+1. In a blender combine amaretto, milk and ice cream
+2. Blend until smooth
+3. Pour over ice into 4 glasses<|endoftext|>

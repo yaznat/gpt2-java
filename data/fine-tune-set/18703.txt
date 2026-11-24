@@ -1,0 +1,19 @@
+Generate a recipe for pudding.<|endoftext|>Banana Rice Pudding
+
+Ingredients:
+• Bananas
+• Lemon juice
+• Sugar
+• Salt
+• Orange rind
+• Eggs
+• Milk
+• Cooked rice
+
+Steps:
+1. Mash bananas, then add lemon juice
+2. Stir in 2 / 3 cups sugar, salt, orange rind, egg yolks, milk and rice
+3. Pour into baking dish and set in pan of water
+4. Bake at 350 degf for about 35 minutes
+5. Beat egg whites until stiff and add remaining sugar
+6. Spread over pudding and bake about 15 minutes longer<|endoftext|>

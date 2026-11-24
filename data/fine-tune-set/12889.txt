@@ -1,0 +1,17 @@
+Please generate a steak recipe.<|endoftext|>Biscuit Topped Steak Pie
+
+Ingredients:
+• Steak
+• Mixed vegetables
+• Baking potato
+• Beef gravy
+• Thyme
+• Black pepper
+• Refrigerated buttermilk biscuits
+
+Steps:
+1. Preheat oven to 375f and spray 8x8 pan with nonstick cooking spray
+2. Combine steak, veggies, and potato in prepared dish and then stir in gravy and seasonings
+3. Bake, uncovered, 40 minutes and then remove from oven
+4. Increase oven temperature to 400f
+5. Top meat mixture with biscuits and bake 8-10 minutes or until biscuits are golden brown<|endoftext|>

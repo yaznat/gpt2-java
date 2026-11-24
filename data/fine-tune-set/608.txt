@@ -1,0 +1,1 @@
+Fix grammatical mistakes in this sentence: However, they stopped us from doing many fun things as well, what are those things, do we really need computers, are they really helping us?<|endoftext|>However, they have stopped us from doing many fun things as well. What are those things? Do we really need computers? Are they really helping us?<|endoftext|>

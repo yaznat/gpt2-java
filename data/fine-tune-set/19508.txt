@@ -1,0 +1,19 @@
+Please generate a potato recipe.<|endoftext|>Alaine S Tangy Stove Top Sweet Potatoes
+
+Ingredients:
+• Sweet potatoes
+• Butter
+• Marshmallows
+• Ginger
+• Yogurt
+
+Steps:
+1. Peel and cube the sweet potatoes
+2. Boil in water until tender, drain and rinse pot
+3. Melt butter and marshmallows in pot on low heat, 45 seconds
+4. Add ginger and stir
+5. Turn off heat
+6. Fold in potatoes until completely coated
+7. Add yogurt, fold into potatoes
+8. The result should be a little creamy, with large chunks of potatoes
+9. Serve at room temperature<|endoftext|>

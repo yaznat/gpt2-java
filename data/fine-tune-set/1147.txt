@@ -1,0 +1,1 @@
+Fix grammar in this sentence: Suddenly, a deafening noise coming from the dining room stopped the party but nobody knew what happened.<|endoftext|>Suddenly, a deafening noise coming from the dining room stopped the party, but nobody knew what had happened.<|endoftext|>

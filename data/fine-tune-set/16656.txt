@@ -1,0 +1,14 @@
+Give me a recipe for a smoothie.<|endoftext|>Berry Blast Smoothie
+
+Ingredients:
+• Apple juice
+• Lemonade
+• Frozen raspberries
+• Frozen strawberries
+• Raspberry sherbet
+
+Steps:
+1. Pour all liquid ingredients into smoothie maker or blender
+2. Add all the frozen ingredients
+3. Blend at low setting for 30 seconds then high setting until smooth
+4. Serve immediately<|endoftext|>

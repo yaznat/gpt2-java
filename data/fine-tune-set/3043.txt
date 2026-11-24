@@ -1,0 +1,1 @@
+Improve the grammaticality of this text: It was very nice day today.<|endoftext|>It was a very nice day today.<|endoftext|>

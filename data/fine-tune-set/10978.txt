@@ -1,0 +1,10 @@
+Please generate a sandwich recipe.<|endoftext|>Berry Good Sandwich Spread
+
+Ingredients:
+• Whole berry cranberry sauce
+• Sour cream
+• Prepared horseradish
+
+Steps:
+1. In medium size bowl, coarsely mash cranberry sauce
+2. Stir in sour cream and horseradish until well blended<|endoftext|>

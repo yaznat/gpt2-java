@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: I don't like a rainy day so much, but a shortage of water is a problem so I accept it.<|endoftext|>I don't like a rainy day so much, but a shortage of water is a problem, so I have no choice accept it.<|endoftext|>

@@ -1,0 +1,11 @@
+Give me a recipe for a milkshake.<|endoftext|>Sugar Free Jello Milkshake
+
+Ingredients:
+• Milk
+• Sugar-free jello
+• Ice cream
+
+Steps:
+1. Place milk, jello and ice cream in a pitcher with a tight fitting lid
+2. Shake vigorously until well blended
+3. Serve immediately in glasses<|endoftext|>

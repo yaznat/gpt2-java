@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: To sum up I think that it's important to know that we should recycle plastic as well as carton, glass, etc.<|endoftext|>To sum up, I think that it's important to know that we should recycle plastic as well as cardboard, glass, etc.<|endoftext|>

@@ -1,0 +1,14 @@
+Generate a recipe for a milkshake.<|endoftext|>Marks Awesome Strawberry Milkshake
+
+Ingredients:
+• Milk
+• Ice cubes
+• Strawberry
+• Sugar
+
+Steps:
+1. Put ice, milk and sugar in blender
+2. Cut ends off strawberries
+3. Put strawberries in blender
+4. Blend for 3 to 5 minutes
+5. Enjoy!<|endoftext|>

@@ -1,0 +1,18 @@
+Generate a recipe for a sandwich.<|endoftext|>Barbie S Tuna Sandwich
+
+Ingredients:
+• Solid white tuna
+• Mayonnaise
+• Parmesan cheese
+• Sweet pickle relish
+• Onion flakes
+• Curry powder
+• Dried dill weed
+• Garlic powder
+
+Steps:
+1. In a medium bowl, combine tuna, mayonnaise, parmesan cheese and onion flakes
+2. Season eith remaining ingredients
+3. Mix well
+4. Chill
+5. Serve on crackers or as sandwich spread<|endoftext|>

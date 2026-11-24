@@ -1,0 +1,1 @@
+Fix the grammatical mistakes: However, the price was double price compared to usual price.<|endoftext|>However, the price was double priced compared to usual prices.<|endoftext|>

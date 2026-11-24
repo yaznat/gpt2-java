@@ -1,0 +1,1 @@
+Fix grammar in this sentence: The grass is green and in shape, and the walkways is always clean.<|endoftext|>The grass is green and in shape, and the walkways are always clean.<|endoftext|>

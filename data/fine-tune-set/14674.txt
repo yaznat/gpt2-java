@@ -1,0 +1,20 @@
+Give me a recipe for rice.<|endoftext|>Apple Onion Rice
+
+Ingredients:
+• White rice
+• Apple juice
+• Water
+• Dry onion soup mix
+• Margarine
+
+Steps:
+1. Wash rice and drain
+2. Add apple juice and water in large saucepan
+3. Add margarine and dry onion soup mix
+4. Bring saucepan to a simmer
+5. Add rice
+6. Stir
+7. Cover
+8. Turn heat to low
+9. Cook until liquid is absorbed
+10. Cooking time is about 15 to 20 minutes<|endoftext|>

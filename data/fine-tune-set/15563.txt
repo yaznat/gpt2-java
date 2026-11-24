@@ -1,0 +1,15 @@
+Give me a recipe for a taco.<|endoftext|>Backyard Taco Dip
+
+Ingredients:
+• Cream cheese
+• Salsa
+• Green pepper
+• Red pepper
+• Cheddar cheese
+
+Steps:
+1. Ensure cream cheese is at room temperature
+2. Whip in a large bowl until smooth
+3. Mix in salsa
+4. Add in peppers and cheddar
+5. Serve with taco chips<|endoftext|>

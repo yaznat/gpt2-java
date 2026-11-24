@@ -1,0 +1,21 @@
+Generate a recipe for salad.<|endoftext|>California Roll Salad
+
+Ingredients:
+• White rice
+• Seasoned rice vinegar
+• Lettuce
+• Cucumber
+• Avocado
+• Imitation crabmeat
+• Soy sauce
+• Pickled ginger
+
+Steps:
+1. Prepare rice according to directions
+2. Pour rice into medium bowl and toss with 1 tbsp vinegar
+3. Set aside
+4. Thinly slice cucumber and avacado
+5. Break up crabmeat into chunks
+6. Mix lettuce leaves with seasoned rice, cucumber, avocado slices and crabmeat
+7. In separate cup, mix together soy sauce and remaining 2 tbl of seasoned rice vinegar
+8. Drizzle this dressing over salad, and add pickled ginger on top of salad<|endoftext|>

@@ -1,0 +1,1 @@
+Remove all grammatical errors from this text: That day was weekday, so it was discounted 1,000 yen.<|endoftext|>That day was a weekday, so it was discounted by 1,000 yen.<|endoftext|>

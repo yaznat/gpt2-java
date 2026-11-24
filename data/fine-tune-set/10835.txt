@@ -1,0 +1,22 @@
+Give me a recipe for salad.<|endoftext|>A Different Macaroni Salad
+
+Ingredients:
+• Thousand island dressing
+• Vinegar
+• Hard-boiled eggs
+• Fresh lemon juice
+• Prepared mustard
+• Sugar
+• Salt
+• Pepper
+• Elbow macaroni
+• Celery
+• Green peppers
+• Onion
+
+Steps:
+1. Combine first 6 ingredients, in this step include only the egg yolks leaving the whites
+2. This is your sauce
+3. Chop the whites of the eggs
+4. Stir in remaining ingredients
+5. Cover, chill<|endoftext|>

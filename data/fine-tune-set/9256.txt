@@ -1,0 +1,1 @@
+Fix grammatical mistakes in this sentence: We can easily see that the great sales ensured the development of this technology.<|endoftext|>We can easily see that great sales have ensured the development of this technology.<|endoftext|>

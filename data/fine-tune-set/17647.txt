@@ -1,0 +1,25 @@
+Generate a recipe for muffins.<|endoftext|>Alternative Muffins
+
+Ingredients:
+• Whole wheat flour
+• Flax seed meal
+• Wheat germ
+• Baking powder
+• Egg
+• Plain low-fat yogurt
+• Skim milk
+• Honey
+• Hazelnut oil
+• Carob chips
+• Walnuts
+• Chocolate chips
+• Blueberries
+• Coarse sugar
+
+Steps:
+1. Blend all dry ingredients together
+2. Combine the rest of the ingredients and then add to the dry mixture
+3. Stir just until everything is mixed
+4. Best not to overmix
+5. Fill muffin tins 2 / 3 full
+6. Bake at 350 for about 15 minutes or until dry when checked with toothpick in center<|endoftext|>

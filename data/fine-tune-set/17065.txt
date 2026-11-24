@@ -1,0 +1,11 @@
+Please generate a cocktail recipe.<|endoftext|>Coco Snowball Cocktail
+
+Ingredients:
+• Vanilla vodka
+• Malibu rum
+• Coco lopez
+• Blue curacao
+
+Steps:
+1. Rim a martini glass with honey and fresh shredded coconut
+2. Shake well and pour into a martini glass<|endoftext|>

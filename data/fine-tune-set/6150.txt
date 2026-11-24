@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: This is so as no investor would be willing to fund a project that does not make money.<|endoftext|>This is so that no investor would be willing to fund a project that does not make money.<|endoftext|>

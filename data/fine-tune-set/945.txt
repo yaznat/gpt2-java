@@ -1,0 +1,1 @@
+Improve the grammar of this text: It was a long time since I saw such a beautiful stars!<|endoftext|>It had been a long time since I saw such beautiful stars!<|endoftext|>

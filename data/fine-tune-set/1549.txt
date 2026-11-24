@@ -1,0 +1,1 @@
+Improve the grammaticality of this text: I played the video, and I could see my family wearing each hats.<|endoftext|>I played the video, and I could see my family wearing hats.<|endoftext|>

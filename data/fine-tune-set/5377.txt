@@ -1,0 +1,1 @@
+Fix grammatical errors in this sentence: Before moving to Augsburg, I studied biology for two semesters in Erlangen, but soon noticed that it wasn't the right subject of study for me.<|endoftext|>Before moving to Augsburg, I studied biology for two semesters in Erlangen but soon realized that it wasn't the right subject of study for me.<|endoftext|>

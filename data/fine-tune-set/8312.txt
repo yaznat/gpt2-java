@@ -1,0 +1,1 @@
+Fix grammatical mistakes in this sentence: I've been not so confident in my English, but today I found, even if my English is not good as I wish, still I can be helpful for somebody.<|endoftext|>I've not been not so confident in my English, but today I found even if my English is not as good as I wish, I can still be helpful to somebody.<|endoftext|>

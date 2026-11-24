@@ -1,0 +1,11 @@
+Generate a recipe for a smoothie.<|endoftext|>Best Ever Banana And Berry Smoothies
+
+Ingredients:
+• Milk
+• Banana
+• Blueberries
+• Yogurt
+
+Steps:
+1. In a blender, combine milk and fruit, blending until smooth
+2. Add yogurt and blend at low speed for 1-2 minutes<|endoftext|>

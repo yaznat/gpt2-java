@@ -1,0 +1,18 @@
+Generate a recipe for fried rice.<|endoftext|>Quick Fried Rice
+
+Ingredients:
+• Frozen peas and carrot
+• Cooked white rice
+• Soy sauce
+• Oyster sauce
+• Sesame oil
+• Egg
+• Cooked chicken
+
+Steps:
+1. Place sesame oil in a wok and heat
+2. Add rice, veggies, soy sauce and oyster sauce
+3. Saut ingredients in oil making sure to thoroughly mix rice and sauce together
+4. After 5 minutes of sauting on medium heat move rice so that the middle of the wok is empty
+5. Add egg into the wok and scramble until cooked
+6. Finally mix egg into rice and serve<|endoftext|>

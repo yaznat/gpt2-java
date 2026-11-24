@@ -1,0 +1,17 @@
+Generate a recipe for pancakes.<|endoftext|>Banana Pancakes Eggless
+
+Ingredients:
+• All-purpose flour
+• Whole wheat flour
+• Salt
+• Baking powder
+• White sugar
+• Skim milk
+• Bananas
+
+Steps:
+1. In a large bowl, mix all-purpose flour, whole wheat flour, salt, baking powder and sugar
+2. Stir in milk and bananas just until moistened
+3. Heat a lightly oiled griddle or frying pan over medium high heat
+4. Pour or scoop the batter onto the griddle, using approximately 1 / 4 cup for each pancake
+5. Brown on both sides and serve hot<|endoftext|>

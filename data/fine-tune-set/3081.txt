@@ -1,0 +1,1 @@
+Fix grammar: There were some earthquakes near Yokohama but my town is safety.<|endoftext|>There were some earthquakes near Yokohama, but my town is safe.<|endoftext|>

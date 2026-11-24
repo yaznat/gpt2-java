@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: In some cases, although the idea of the project was brilliant, the executives rejected the proposal due to the economic situation of the company.<|endoftext|>In some cases, although the idea of the project was brilliant, the executives rejected the proposal due to the financial situation of the company.<|endoftext|>

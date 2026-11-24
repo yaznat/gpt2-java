@@ -1,0 +1,22 @@
+Give me a salad recipe.<|endoftext|>American Macaroni Salad
+
+Ingredients:
+• Elbow macaroni
+• Celery
+• Red onion
+• Diced tomato
+• Mayonnaise
+• Yellow mustard
+• Sugar
+• Cider vinegar
+• Sour cream
+• Salt
+• Black pepper
+
+Steps:
+1. In a large bowl combine the macaroni, celery, onion, and tomato
+2. In a small bowl, whisk together the mayonnaise, mustard, sugar, vinegar, sour cream and salt
+3. Pour the dressing over the salad and stir to combine
+4. Season with salt and pepper to taste
+5. Serve
+6. Store covered in the refrigerator, for up to 3 days<|endoftext|>

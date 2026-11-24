@@ -1,0 +1,13 @@
+Give me a recipe for a cocktail.<|endoftext|>Big Chill Cocktail
+
+Ingredients:
+• Dark rum
+• Pineapple juice
+• Orange juice
+• Cranberry juice
+• Cream of coconut
+• Ice cream
+
+Steps:
+1. Blend ingredients with 1 scoop of ice cream
+2. Serve in 12 oz pilsner glass with a pineapple garnish<|endoftext|>

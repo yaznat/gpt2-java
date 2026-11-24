@@ -1,0 +1,1 @@
+Fix grammar in this sentence: The only thing that differs is that film actor has several takes opposed to stage actor who has to play perfectly at one dash.<|endoftext|>The only thing that differs is that the film actor has several takes as opposed to the stage actor, who has to play perfectly at one dash.<|endoftext|>

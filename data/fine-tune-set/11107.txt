@@ -1,0 +1,12 @@
+Give me a recipe for a sandwich.<|endoftext|>B B L T Sandwiches
+
+Ingredients:
+• Tomatoes
+• Fresh basil
+• Iceberg lettuce
+• Bacon
+• Mayonnaise
+• Whole grain bread
+
+Steps:
+1. Assemble sandwiches by layering bacon, tomato slices, lettuce, and basil on toast that has been spread with mayo<|endoftext|>

@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: The wind was freezing cold, and now he had to walk to the office, which was a 25-minute walk.<|endoftext|>The wind was freezing cold, and now he had to walk to the office, which was a 25-minute walk away.<|endoftext|>

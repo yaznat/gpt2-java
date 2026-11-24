@@ -1,0 +1,1 @@
+Remove all grammatical errors from this text: when you travel by bus you must have a timetable and it is less comfortable than travelling by car.<|endoftext|>When you travel by bus, you must have a timetable, and it is less comfortable than traveling by car.<|endoftext|>

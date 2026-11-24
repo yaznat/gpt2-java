@@ -1,0 +1,1 @@
+Fix grammar in this sentence: To the national championships in swimming, she was preparing since last summer.<|endoftext|>She was going to the national championships in swimming, and she had been preparing since last summer.<|endoftext|>

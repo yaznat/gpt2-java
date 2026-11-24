@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: I saw a colorful pop-up ad and I decided to check it.<|endoftext|>I saw a colorful pop-up ad, and I decided to check it out.<|endoftext|>

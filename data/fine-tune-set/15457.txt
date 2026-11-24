@@ -1,0 +1,23 @@
+Can you give me a burger recipe?<|endoftext|>Bacon Wrapped Cheeseburgers
+
+Ingredients:
+• Cheddar cheese
+• Egg
+• Ketchup
+• Parmesan cheese
+• Worcestershire sauce
+• Salt
+• Pepper
+• Ground beef
+• American cheese
+• Bacon
+• Hamburger buns
+
+Steps:
+1. Preheat an outdoor grill and lightly oil grate
+2. In a large bowl, combine first 8 ingredients
+3. Crumble beef over mixture and mix thoroughly
+4. Shape into 8 patties
+5. Wrap bacon around each patty and secure with a toothpick
+6. Place burger patties on prepared grill, top with cheese slices at the end of grill time
+7. Serve with lettuce, tomatoes, pickles and onions<|endoftext|>

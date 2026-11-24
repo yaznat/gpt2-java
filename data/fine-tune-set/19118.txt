@@ -1,0 +1,15 @@
+Please generate a ice cream recipe.<|endoftext|>Bitter Orange Ice Cream
+
+Ingredients:
+• Seville oranges
+• Confectioners' sugar
+• Heavy cream
+
+Steps:
+1. If using the seville oranges, grate the zest of two of the oranges
+2. Squeeze the juice of all three oranges into a bowl with the zest and sugar
+3. If using the one orange and two limes, grate the zest of the orange and one lime, juice all and add the sugar as before
+4. Stir to dissolve the sugar and add the heavy cream
+5. Whip everything until it holds soft peaks, and then turn into a shallow airtight container with a lid
+6. Cover and freeze until firm, about 3 to 5 hours
+7. Remove to ripen for 15-20 minutes at room temperature or 30-40 minutes in the refrigerator before eating<|endoftext|>

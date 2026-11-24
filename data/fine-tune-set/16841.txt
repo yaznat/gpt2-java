@@ -1,0 +1,11 @@
+Please generate a milkshake recipe.<|endoftext|>Ron S Irish Cream Milkshake
+
+Ingredients:
+• Vanilla ice cream
+• Milk
+• Baileys irish cream
+
+Steps:
+1. Place ingredients into blender
+2. Mix until blended
+3. Enjoy!<|endoftext|>

@@ -1,0 +1,21 @@
+Generate a recipe for bread.<|endoftext|>Angie S Irish Soda Bread
+
+Ingredients:
+• Flour
+• Baking powder
+• Baking soda
+• Sugar
+• Butter
+• Raisins
+• Egg
+• Buttermilk
+
+Steps:
+1. Preheat oven to 350 degrees
+2. Grease loaf pan and set aside
+3. Combine flour, baking powder, and baking soda
+4. Stir in sugar and butter to combine
+5. Add raisins, stirring to combine
+6. Add eggs and buttermilk
+7. Pour into prepared pan and bake for 1 hour
+8. Let cool and serve<|endoftext|>

@@ -1,0 +1,1 @@
+Fix grammatical mistakes in this sentence: But he had to work, we couldn't.<|endoftext|>But he had to work, so we couldn't.<|endoftext|>

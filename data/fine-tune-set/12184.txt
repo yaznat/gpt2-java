@@ -1,0 +1,18 @@
+Please generate a pie recipe.<|endoftext|>Apple Krispies
+
+Ingredients:
+• Vegetable oil cooking spray
+• Apples
+• Brown sugar
+• Butter
+• Rice krispies
+• Cinnamon
+
+Steps:
+1. Preheat oven to 350f
+2. Spray an 8-inch square baking pan with non-stick vegetable spray
+3. Spread the apples evenly in the prepared pan
+4. In a mixing bowl, combine the brown sugar and butter with a pastry blender until crumbly
+5. Using a wooden spoon, stir the cereal into the butter mixture
+6. Sprinkle the cereal topping over the apples
+7. Bake for 20 minutes or until apples are tender and topping is light brown<|endoftext|>

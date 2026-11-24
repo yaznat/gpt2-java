@@ -1,0 +1,14 @@
+Can you give me a sandwich recipe?<|endoftext|>Banana And Nutella Sandwiches
+
+Ingredients:
+• Bananas
+• Nutella
+• Bread
+
+Steps:
+1. Add butter to one side of each slice of bread
+2. Fry butter side down
+3. Remove bread when golden brown
+4. Spread on nutella on the non-fried side
+5. Add sliced bananas
+6. Fold and eat<|endoftext|>

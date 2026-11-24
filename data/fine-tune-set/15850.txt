@@ -1,0 +1,13 @@
+Please generate a burrito recipe.<|endoftext|>Burrito Meat In The Crock Pot
+
+Ingredients:
+• Chuck roast
+• Salt and pepper
+• Condensed cream of celery soup
+• Diced green chilies
+
+Steps:
+1. Season meat with salt and pepper as you normally would a roast
+2. Dump everything in the crock pot
+3. Cook on low for 6-8 hours or until meat can be easily pulled apart with a fork
+4. Serve shredded in juice<|endoftext|>

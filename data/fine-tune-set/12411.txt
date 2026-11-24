@@ -1,0 +1,23 @@
+Please generate a soup recipe.<|endoftext|>Amish Chicken Corn Soup
+
+Ingredients:
+• Water
+• Boneless skinless chicken breasts
+• Onion
+• Celery
+• Carrot
+• Chicken bouillon cubes
+• Cream-style corn
+• Egg noodles
+• Butter
+• Salt
+• Pepper
+
+Steps:
+1. In a dutch oven or soup kettle, combine the water, chicken, onion, celery, carrots and bouillon
+2. Bring to a boil
+3. Reduce heat
+4. Simmer, uncovered, for 30 minutes or until chicken is no longer pink and vegetables are tender
+5. Stir in the corn, noodles and butter
+6. Cook 10 minutes longer or until noodles are tender
+7. Season with salt and pepper<|endoftext|>

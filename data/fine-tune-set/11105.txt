@@ -1,0 +1,16 @@
+Give me a recipe for a sandwich.<|endoftext|>Awesome Tuna Sandwich
+
+Ingredients:
+• White bread
+• Mayonnaise
+• Butter
+• Tuna
+• Lettuce
+
+Steps:
+1. Open the tuna and drain it
+2. Mix the tuna with as much mayo as you want
+3. Spread butter on one slice of bread and mayo on the other
+4. Spread the tuna-mayo mixture on
+5. Put on lettuce
+6. Put both slices together and serve<|endoftext|>

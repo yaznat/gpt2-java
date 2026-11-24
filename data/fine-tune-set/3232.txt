@@ -1,0 +1,1 @@
+Fix grammar in this sentence: Moreover, the use of your own car has more advantages. Travelling by car avoids getting wet when the weather is rainy.<|endoftext|>Moreover, the use of your own car has more advantages. Traveling by car prevents you from getting wet when the weather is rainy.<|endoftext|>

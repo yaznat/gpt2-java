@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: Statistics suggest that the R&D teams in companies tend to reduce.<|endoftext|>Statistics suggest that the R&D teams in companies tend to decrease in number.<|endoftext|>

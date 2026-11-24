@@ -1,0 +1,16 @@
+Please generate a cocktail recipe.<|endoftext|>Courage Cocktail
+
+Ingredients:
+• Amaretto liqueur
+• Southern comfort
+• Coconut rum
+• Blue curacao
+• Orange juice
+• Cranberry juice
+• Pineapple juice
+
+Steps:
+1. Pour the amaretto, southern comfort, malibu rum and blue curacao into a cocktail shaker 3 / 4 filled with ice cubes
+2. Add juices
+3. Shake well
+4. Strain into a highball glass, and serve<|endoftext|>

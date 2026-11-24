@@ -1,0 +1,1 @@
+Fix grammaticality of the sentence: After taking the car out of the garage, he had to drive all the way to the airport and wait for Rob to come.<|endoftext|>After taking the car out of the garage, he had to drive all the way to the airport and wait for Rob to arrive.<|endoftext|>

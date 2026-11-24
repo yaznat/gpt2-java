@@ -1,0 +1,19 @@
+Please generate a fries recipe.<|endoftext|>Baked Plantain Fries
+
+Ingredients:
+• Plantains
+• Olive oil
+• Salt
+• Garlic powder
+• Ground coriander
+• Cayenne pepper
+
+Steps:
+1. Preheat oven to 400f
+2. Cut the plantains into the shape of fries
+3. Spread fries on a baking sheet
+4. Brush fries with olive oil
+5. Combine salt, garlic powder, ground coriander, and cayenne pepper
+6. Sprinkle mixture on fries
+7. Bake at 400 degrees for 20 minutes
+8. Turning them over about after 10 minutes<|endoftext|>

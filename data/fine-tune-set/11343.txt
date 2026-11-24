@@ -1,0 +1,20 @@
+Generate a recipe for bread.<|endoftext|>100 Whole Wheat Bread Bread Machine
+
+Ingredients:
+• Water
+• Powdered milk
+• Margarine
+• Honey
+• Molasses
+• Salt
+• Whole wheat flour
+• Yeast
+
+Steps:
+1. Follow directions for your machine for a 2-pound loaf of whole wheat bread
+2. Instructions for my machine are: add all ingredients in the order listed
+3. Insert the baking pan into the oven chamber and lock the pan
+4. Select whole wheat setting and 2 pound loaf
+5. Press start
+6. When the baking is finished, i like to put the loaf in a large zip lock bag and seal it
+7. Then place on wire rack to cool completely before slicing<|endoftext|>

@@ -1,0 +1,1 @@
+Fix grammatical errors in this sentence: Therefore, very little money is devoted to design process for innovation and these companies only repeat this low-end production circle.<|endoftext|>Therefore, very little money is devoted to the design process for innovation, and these companies only reproduce this low-end production circle.<|endoftext|>

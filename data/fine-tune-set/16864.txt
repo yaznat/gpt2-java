@@ -1,0 +1,10 @@
+Please give me a recipe for a milkshake.<|endoftext|>Toddler Mana Milkshake
+
+Ingredients:
+• Banana
+• Milk
+• Vanilla
+• Cinnamon
+
+Steps:
+1. Put all ingredients in the blender and liquify until all banana chunks are gone<|endoftext|>

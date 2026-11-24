@@ -1,0 +1,16 @@
+Please generate a beef recipe.<|endoftext|>A Different Roast Beef Sandwich
+
+Ingredients:
+• Mayonnaise
+• Prepared horseradish
+• Chili sauce
+• Rye bread
+• Deli roast beef
+• Tomatoes
+• Red onion
+• Romaine lettuce
+
+Steps:
+1. Combine first 3 ingredients
+2. Spread mixture on bread slices
+3. Layer lettuce, roast beef, tomato slices and onion<|endoftext|>

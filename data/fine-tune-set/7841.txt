@@ -1,0 +1,1 @@
+Fix grammatical mistakes in this sentence: My mom started to learn Haiku a year ago, and she wanted me to join, so I wrote several Haiku for the lesson.<|endoftext|>My mom started to learn haiku a year ago, and she wanted me to join, so I wrote several haiku for the lesson.<|endoftext|>

@@ -1,0 +1,15 @@
+Please generate a rice recipe.<|endoftext|>Company S Coming Rice
+
+Ingredients:
+• Rice
+• Beef consomme soup
+• French onion soup
+• Sliced water chestnuts
+• Butter
+
+Steps:
+1. Preheat oven to 350 degrees
+2. Place rice, uncooked, in a baking dish
+3. Pour in soups, add water chestnuts
+4. Cut butter into chunks and drop onto soups
+5. Bake uncovered for 45 minutes or until it is bubbling and top has browned<|endoftext|>

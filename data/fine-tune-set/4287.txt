@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: At that moment I thought that an accident or a similar something had happened to my family but fortunately it wasn't so.<|endoftext|>At that moment, I thought that an accident or something similar had happened to my family, but fortunately, it wasn't so.<|endoftext|>

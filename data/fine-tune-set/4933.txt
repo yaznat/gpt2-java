@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: Moving to the ISS one of them lost his life and so only one of the crew remains alive fighting for the survival.<|endoftext|>Moving to the ISS, one of them loses his life and so only one of the crew remains alive, fighting for survival.<|endoftext|>

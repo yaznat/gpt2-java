@@ -1,0 +1,14 @@
+Generate a recipe for coffee.<|endoftext|>Arabian Coffee
+
+Ingredients:
+• Water
+• Ground coffee
+• Sugar
+• Cinnamon
+• Cardamom
+• Vanilla
+
+Steps:
+1. Mix all ingredients in a saucepan and heat until foam gathers on top
+2. Do not pass through a filter
+3. Stir it up before you serve it<|endoftext|>

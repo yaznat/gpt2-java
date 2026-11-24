@@ -1,0 +1,20 @@
+Please generate a fried rice recipe.<|endoftext|>Fried Rice With Shrimp 1953
+
+Ingredients:
+• Peanut oil
+• Onion
+• Celery
+• Mushroom
+• Cooked shrimp
+• Cooked rice
+• Soy sauce
+• Salt
+• Eggs
+
+Steps:
+1. Heat oil in a skillet over low heat
+2. Add onion and cook until tender but not brown, about 3 minutes
+3. Add celery, mushrooms and shrimp, and cook about 5 minutes
+4. Stir in rice, soy sauce and salt, and cook about 2 minutes
+5. Add eggs and stir well
+6. Cook, stirring, until eggs are cooked, 2-3 minutes<|endoftext|>

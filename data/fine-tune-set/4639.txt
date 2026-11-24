@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: However, developing new and clean water technology needs large amount of money.<|endoftext|>However, developing new and clean water technology needs large amounts of money.<|endoftext|>

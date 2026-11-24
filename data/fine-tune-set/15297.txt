@@ -1,0 +1,13 @@
+Generate a recipe for a burger.<|endoftext|>4 Ingredient Hamburger Dinner In 4 Easy Steps
+
+Ingredients:
+• Hamburger
+• Seasoning salt
+• Pepper
+• Mixed vegetables
+
+Steps:
+1. Brown hamburger
+2. Add seasoned salt, pepper, and vegetables
+3. Simmer ten minutes
+4. Serve<|endoftext|>

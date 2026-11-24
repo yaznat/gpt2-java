@@ -1,0 +1,13 @@
+Generate a recipe for a smoothie.<|endoftext|>Avocado Smoothie
+
+Ingredients:
+• Avocado
+• Lemon juice
+• Sugar
+• Milk
+
+Steps:
+1. Put everything in blender, and blend until smooth and free of lumps
+2. Taste the smoothie if you think you need more sugar add it
+3. It will really depend on the size of the avocado
+4. This is best eaten right away, because if you store the smoothie in the fridge it will turn a slight brown on top and alter the taste<|endoftext|>

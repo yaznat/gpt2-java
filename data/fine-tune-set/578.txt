@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: It had become increasingly sophisticated for long time.<|endoftext|>It had become increasingly sophisticated for a long time.<|endoftext|>

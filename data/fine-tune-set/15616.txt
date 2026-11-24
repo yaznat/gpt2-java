@@ -1,0 +1,16 @@
+Generate a recipe for a taco.<|endoftext|>Beef Taco Skillet
+
+Ingredients:
+• Ground beef
+• Tomato soup
+• Salsa
+• Water
+• Flour tortillas
+• Cheddar cheese
+
+Steps:
+1. Cook beef in a large skillet until brown
+2. Drain off extra fat
+3. Stir in soup, salsa, water, tortillas and bring to a boil
+4. Reduce heat to low and cook for 5 minutes stirring frequently
+5. Top with cheese<|endoftext|>

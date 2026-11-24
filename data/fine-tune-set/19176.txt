@@ -1,0 +1,14 @@
+Generate a recipe for ice cream.<|endoftext|>Caramel Ice Cream Soda
+
+Ingredients:
+• Dulce de leche ice cream
+• Pepsi
+• Caramel topping
+
+Steps:
+1. Set ice cream out to soften
+2. Drizzle caramel on sides of large glass
+3. Pour almost complete can of pepsi in a bowl
+4. Add softened ice cream and mix till desired consistency
+5. Pour ice cream mixture into glass
+6. Pour remaining soda on top for extra head<|endoftext|>

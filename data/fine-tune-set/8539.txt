@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: The situation is even worse when elderly is faced with illness.<|endoftext|>The situation is even worse when the elderly are faced with illness.<|endoftext|>

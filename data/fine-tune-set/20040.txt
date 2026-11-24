@@ -1,0 +1,16 @@
+Give me a omelette recipe.<|endoftext|>Pasta Omelette
+
+Ingredients:
+• Olive oil
+• Garlic clove
+• Cooked pasta
+• Eggs
+• Milk
+• Fresh parsley
+• Cheddar cheese
+
+Steps:
+1. Heat the oil in a small frying pan and fry the garlic and pasta for 2-3 mins until heated through
+2. Beat together the eggs, milk, parsley and a little seasoning
+3. Pour over the pasta and cook gently for 3-4 mins until the egg is almost set on top
+4. Sprinkle the cheese over and place under a hot grill for 2-3 mins until golden and bubbly<|endoftext|>

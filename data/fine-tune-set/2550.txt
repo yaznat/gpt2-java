@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: This picture is of colored leaves that I took at a nearby temple last autumn.<|endoftext|>This picture is of some colored leaves that I took at a nearby temple last autumn.<|endoftext|>

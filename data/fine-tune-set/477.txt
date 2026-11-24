@@ -1,0 +1,1 @@
+Fix grammatical errors in this sentence: In this long time period, technology developed together with human society.<|endoftext|>In this long time period, technology has developed together with human society.<|endoftext|>

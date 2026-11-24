@@ -1,0 +1,23 @@
+Give me a recipe for fried rice.<|endoftext|>Easy Chahan Japanese Fried Rice
+
+Ingredients:
+• Rice
+• Egg
+• Green onion
+• Carrots
+• Bacon
+• Soy sauce
+• Sake
+• Salt
+• Pepper
+• Olive oil
+
+Steps:
+1. Chop long green onions, carrots, and bacon into little pieces
+2. Put 400g warm rice into a bowl and mix raw egg with it throughly, make sure the egg is coating the rice totally
+3. Fry the egg and rice mix with olive oil in a frying pan
+4. When the rice starts to spatter, add all the other ingredients except soy sauce and sake
+5. Fry all of the contents
+6. Add soy sauce and mix it throughly
+7. Add sake and mix it throughly
+8. Lastly, add salt and pepper to taste<|endoftext|>

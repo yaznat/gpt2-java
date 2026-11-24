@@ -1,0 +1,22 @@
+Give me a recipe for curry.<|endoftext|>Beef Coconut Curry
+
+Ingredients:
+• Peanut oil
+• Beef rump
+• Onion
+• Ginger
+• Garlic clove
+• Mild curry paste
+• Coconut milk
+• Yellow capsicum
+• Green beans
+
+Steps:
+1. Heat half of the oil in wok
+2. Stir fry beef, in batches, til browned all over
+3. Heat remaining oil in wok, stir fry onion til softened
+4. Add ginger, garlic and curry paste, stir fry til fragrant
+5. Stir in coconut milk
+6. Bring to a boil
+7. Return beef to wok with capsicum and beans
+8. Stry fry until vegetables are just tender<|endoftext|>

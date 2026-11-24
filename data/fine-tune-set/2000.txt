@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: Once you got some negative information about your genes as regards to these kinds of incurable diseases, the only thing you can do is just wait to die.<|endoftext|>Once you receive some negative information about your genes as regards these kinds of incurable diseases, the only thing you can do is just wait to die.<|endoftext|>

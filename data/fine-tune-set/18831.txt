@@ -1,0 +1,15 @@
+Give me a custard recipe.<|endoftext|>Baked Egg Custard
+
+Ingredients:
+• Eggs
+• Sugar
+• Salt
+• Nutmeg
+• Vanilla
+• Milk
+
+Steps:
+1. Bring milk just to a boil and add beaten eggs and remaining ingredients
+2. Whisk well
+3. Pour into a buttered casserole dish and bake in a 350 preheated oven for 30 minutes
+4. Enjoy<|endoftext|>

@@ -1,0 +1,11 @@
+Please generate a ice cream recipe.<|endoftext|>Chocolate Affogato With Vanilla Ice Cream
+
+Ingredients:
+• Dark cooking chocolate
+• Espresso coffee
+• French vanilla ice cream
+
+Steps:
+1. Place a scoop of ice-cream into 4 small glasses
+2. Pour 1 / 4 cup coffee into each glass and drizzle liberally with melted chocolate
+3. Serve with biscotti or sponge finger biscuits<|endoftext|>

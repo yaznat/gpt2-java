@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: A good public transport is the sign of a civilized city. in this way there are fewer cars so less traffic.<|endoftext|>A good public transport system is a sign of a civilized city. In this way, there are fewer cars, so there is less traffic.<|endoftext|>

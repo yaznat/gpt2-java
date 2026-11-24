@@ -1,0 +1,21 @@
+Give me a recipe for waffles.<|endoftext|>Banana Oatmeal Waffles
+
+Ingredients:
+• Flour
+• Oatmeal
+• Brown sugar
+• Baking powder
+• Baking soda
+• Cinnamon
+• Nutmeg
+• Buttermilk
+• Eggs
+• Bananas
+• Butter
+
+Steps:
+1. Combine flour, oats, sugar, baking powder, baking soda, cinnamon and nutmeg
+2. Whisk buttermilk and eggs together in a separate bowl
+3. Stir buttermilk into flour mixture
+4. Stir in bananas and melted butter
+5. Bake waffles in a waffle iron<|endoftext|>

@@ -1,0 +1,26 @@
+Please give me a recipe for a burrito.<|endoftext|>Burritos El Grande
+
+Ingredients:
+• Ground beef
+• Green pepper
+• Refried beans
+• Cheese
+• Sour cream
+• Salsa
+• Minute rice
+• Flour tortillas
+• Lettuce
+
+Steps:
+1. Brown meat
+2. Drain
+3. Add salsa and green pepper
+4. Mix
+5. Bring to boil
+6. Stir in rice
+7. Cover
+8. Reduce to low and simmer 5 minutes
+9. Meanwhile, heat beans up to warm
+10. Spread beans down center of tortillas
+11. Top evenly with meat mixture, cheese and lettuce
+12. Serve with sour cream<|endoftext|>

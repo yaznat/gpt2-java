@@ -1,0 +1,1 @@
+Remove all grammatical errors from this text: I sent Christmas card to my friend in a foreign country.<|endoftext|>I sent a Christmas card to my friend in a foreign country.<|endoftext|>

@@ -1,0 +1,16 @@
+Please generate a salad recipe.<|endoftext|>Absolutely Delicious Fruit Salad
+
+Ingredients:
+• Vanilla pudding mix
+• Fruit cocktail
+• Pineapple chunks
+• Mandarin orange
+• Bananas
+
+Steps:
+1. Measure reserved juice to equal 1 1 / 2 cups
+2. Put fruit in a large bowl
+3. In a medium saucepan cook pudding mix and juice over medium heat
+4. Stir constantly until thick
+5. Cool slightly and pour over drained fruit and bananas
+6. Cool in fridge<|endoftext|>

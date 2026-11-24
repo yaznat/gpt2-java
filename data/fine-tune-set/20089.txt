@@ -1,0 +1,16 @@
+Please generate a omelette recipe.<|endoftext|>Tomato Omelette
+
+Ingredients:
+• Egg white
+• Water
+• Roma tomato
+• Ground black pepper
+• Parsley flakes
+• Allspice
+
+Steps:
+1. Whisk egg whites, water, pepper, and parsley flakes in a small bowl until frothy
+2. Pour mixture into a small pan and distribute tomatoes evenly over top
+3. Cook 10 minutes, or until edges are nice and crispy
+4. Season with allspice and serve
+5. Enjoy!<|endoftext|>

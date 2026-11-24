@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: But those countries are very developed and they have any facilities.<|endoftext|>But those countries are very developed, and they have many facilities.<|endoftext|>

@@ -1,0 +1,23 @@
+Please generate a pizza recipe.<|endoftext|>Bea S Buffalo Chicken And Blue Cheese Pizza
+
+Ingredients:
+• Pizza dough
+• Frank's red hot sauce
+• Butter
+• Chicken
+• Onion
+• Blue cheese
+• Mozzarella cheese
+• Ranch dressing
+
+Steps:
+1. Preheat oven to 400 degrees fahrenheit
+2. Grease a 12 inch x 12 inch non-stick pizza pan or a 15 inch x 10 inch non-stick baking sheet with shortening
+3. Press dough onto sheet
+4. Mix hot sauce and butter together
+5. Spread half of the hot sauce mixture over dough
+6. Mix together the onions, chicken and remainder of hot sauce
+7. Spoon mixture evenly over dough
+8. Sprinkle with cheeses
+9. Bake 15 to 20 minutes or until bottom of crust is golden brown
+10. Drizzle ranch dressing over pizza and serve<|endoftext|>

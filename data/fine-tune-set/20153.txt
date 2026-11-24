@@ -1,0 +1,13 @@
+Give me a recipe for stir fry.<|endoftext|>Basic Stir Fry
+
+Ingredients:
+• Vegetable oil
+• Soya sauce
+• Water
+• Vegetables
+
+Steps:
+1. Cook the chicken if you are using
+2. Mix the vegetable oil, soya sauce and water together in a small bowl
+3. Place vegetables in a wok and add in sauce and cook until vegetables are tender
+4. Then add in the chicken if using and cook until hot<|endoftext|>

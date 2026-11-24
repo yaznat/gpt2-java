@@ -1,0 +1,23 @@
+Give me a beef recipe.<|endoftext|>Bacon And Beef Gravy
+
+Ingredients:
+• Bacon
+• Onions
+• Beef consomme
+• Dijon-style mustard
+• Catsup
+• Water
+• Cornstarch
+
+Steps:
+1. Prepare gravy by cooking bacon in a sauce pan until partially done
+2. Add onions and saute for 5 miuntes
+3. Pour in the beef consumne'
+4. Bring to a boil
+5. Mix water and corn starch together
+6. Add corn starch mixture to sauce pan
+7. Cook till mixture has thicken
+8. Lower heat
+9. Add mustard, salt and pepper to taste
+10. Stir in catsup
+11. Serve over mashed potatoes, or noodles<|endoftext|>

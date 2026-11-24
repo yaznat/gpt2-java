@@ -1,0 +1,18 @@
+Give me a recipe for brownies.<|endoftext|>Brownie Bread Pudding
+
+Ingredients:
+• Dry breadcrumbs
+• Semisweet chocolate
+• Sugar
+• Milk
+• Butter
+• Egg
+• Salt
+• Walnuts
+
+Steps:
+1. Combine breadcrumbs, chocolate chunks, sugar& milk in the top of a double boiler until chocolate is melted
+2. Stir in butter
+3. In a small dish, beat egg& salt together and add into chocolate mixture, along with walnuts
+4. Pour into a greased 1 quart dish
+5. Set dish in a pan filled with 1" of water and bake at 350 degrees for about 55 minutes, until a knife inserted in the center comes out clean<|endoftext|>

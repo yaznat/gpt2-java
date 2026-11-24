@@ -1,0 +1,25 @@
+Generate a recipe for a burger.<|endoftext|>Awesome Hamburger Soup
+
+Ingredients:
+• Ground chuck
+• Corn
+• Green beans
+• Potatoes
+• Celery
+• Onion
+• Garlic
+• Carrots
+• Water
+• Beef bouillon cubes
+• Diced tomatoes
+• Rice
+• Salt and pepper
+
+Steps:
+1. In a large stockpot, brown ground chuck
+2. When almost done, add onions, garlic, celery, and carrots
+3. Drain meat
+4. Add rest of the ingredients except rice
+5. Bring to a boil and then simmer for about 1 hour
+6. Add the rice and cook until done
+7. Enjoy!<|endoftext|>

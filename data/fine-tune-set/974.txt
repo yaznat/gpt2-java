@@ -1,0 +1,1 @@
+Fix grammaticality of the sentence: I had never done knitting before but the ladies were good teachers, and I learned how to do plane knitting.<|endoftext|>I had never done knitting before, but the ladies were good teachers, and I learned how to do plain knitting.<|endoftext|>

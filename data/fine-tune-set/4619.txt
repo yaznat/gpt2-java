@@ -1,0 +1,1 @@
+Fix grammatical errors in this sentence: Eventually HDD came back, and I could restore all photos.<|endoftext|>Eventually, the HDD came back, and I could restore all the photos.<|endoftext|>

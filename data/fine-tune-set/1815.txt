@@ -1,0 +1,1 @@
+Fix grammar in this sentence: The invention of laptop was originally designed to fit crowded offices and small homes which were typical in Japan.<|endoftext|>The invention of laptop was originally designed to fit crowded offices and small homes, which were typical in Japan.<|endoftext|>

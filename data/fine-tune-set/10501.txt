@@ -1,0 +1,15 @@
+Can you give me a pasta recipe?<|endoftext|>15 Minute Parmesan Pasta
+
+Ingredients:
+• Pasta
+• Garlic clove
+• Butter
+• Parmesan cheese
+
+Steps:
+1. Cook pasta as directed on package
+2. Meanwhile, cook and stir garlic in butter in large saucepan on medium heat until tender but not browned
+3. Add drained pasta to saucepan, mix lightly
+4. Sprinkle with cheese
+5. Toss to coat
+6. Serve immediately<|endoftext|>

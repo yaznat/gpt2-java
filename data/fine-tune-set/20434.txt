@@ -1,0 +1,20 @@
+Generate a recipe for a casserole.<|endoftext|>Angie S Hash Brown Casserole
+
+Ingredients:
+• Hash browns
+• Butter
+• Salt
+• Pepper
+• Onion
+• Sour cream
+• Cream of mushroom soup
+• Cheddar cheese
+• Corn flakes
+
+Steps:
+1. Preheat oven to 350 degrees
+2. Mix all ingredients together in large bowl
+3. Pour into buttered 9x13 pan
+4. Cover top of potatoes with the crushed cornflakes
+5. Drizzle melted butter over cornflakes
+6. Bake uncovered 45 minutes<|endoftext|>

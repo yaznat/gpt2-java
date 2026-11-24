@@ -1,0 +1,11 @@
+Please generate a smoothie recipe.<|endoftext|>Banana Mango Smoothie
+
+Ingredients:
+• Low-fat plain yogurt
+• Orange juice
+• Banana
+• Mango
+
+Steps:
+1. Place 1 / 4 cup low-fat plain yogurt, 1 / 4 cup orange juice, 1 / 2 sliced banana, and 1 / 2 mango into a blender
+2. Puree the mixture until it's smooth<|endoftext|>

@@ -1,0 +1,15 @@
+Please generate a casserole recipe.<|endoftext|>Arizona Casserole
+
+Ingredients:
+• Cream of mushroom soup
+• Cream of celery soup
+• Tater tots
+• Ground beef
+• Cheddar cheese
+
+Steps:
+1. Brown ground beef in a bowl mix together all the soup and the browned ground beef
+2. Spread the mixture evenly in a casserole dish grate cheese over the mixture evenly
+3. Line the entire casserole dish with tator tots
+4. Grate cheese over the tator tots
+5. Bake at 375 until the tator tots are completely cooked<|endoftext|>

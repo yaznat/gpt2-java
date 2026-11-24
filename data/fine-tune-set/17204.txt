@@ -1,0 +1,19 @@
+Please generate a tea recipe.<|endoftext|>Another Holiday Spiced Tea
+
+Ingredients:
+• Tea bags
+• Water
+• Whole cloves
+• Sugar
+• Lemon juice
+• Frozen orange juice concentrate
+
+Steps:
+1. Brew the tea in 1 / 2 gallon of the water, and set aside
+2. Brew the cloves separately in 2 cups of the water until the water is amber-colored and has a strong clove scent
+3. This brewing process will take longer than the tea
+4. Strain the clove water
+5. Stir the sugar into the tea until it dissolves
+6. Add the orange juice, lemon juice, and clove water
+7. Pour all into a gallon jug
+8. Add enough additional water to fill the jug<|endoftext|>

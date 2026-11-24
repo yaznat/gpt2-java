@@ -1,0 +1,1 @@
+Fix grammatical errors in this sentence: It is very beautiful because it is structured like a mountain (and so you can start from the last floor and then you go down visiting other floors).<|endoftext|>It is very beautiful because it is structured like a mountain (and so you can start from the top floor, and then you go down, visiting other floors).<|endoftext|>

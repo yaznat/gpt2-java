@@ -1,0 +1,24 @@
+Can you give me a stew recipe?<|endoftext|>Autumn Stew
+
+Ingredients:
+• Ground beef
+• Onion
+• Water
+• Tomatoes
+• Carrot
+• Celery
+• Potatoes
+• Salt
+• Brown bouquet sauce
+• Pepper
+• Bay leaf
+• Basil
+
+Steps:
+1. In a large saucepan, cook and stir meat until brown
+2. Drain off fat
+3. Cook and stir onions with meat until onions are tender, almost 5 minutes
+4. Stir in all remaining ingredients
+5. Heat to boiling
+6. Reduce heat
+7. Cover and simmer at least 40 minutes or till vegetables are tender<|endoftext|>

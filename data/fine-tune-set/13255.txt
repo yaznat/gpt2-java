@@ -1,0 +1,14 @@
+Please generate a chicken recipe.<|endoftext|>4 Ingredient Crock Pot Chicken
+
+Ingredients:
+• Chicken drumsticks
+• Maple syrup
+• Soy sauce
+• Whole berry cranberry sauce
+
+Steps:
+1. Wash the chicken and place it in the crockpot
+2. Mix the maple syrup, soy souce, and whole cranberry sauce
+3. Pour the syrup and sauce mixture over the chicken
+4. Cook on high heat for 1 hour
+5. Reduce crockpot to low heat for 3-4 hours<|endoftext|>

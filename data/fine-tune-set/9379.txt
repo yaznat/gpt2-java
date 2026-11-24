@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: First of all, for the energetic students, doing sports is their favorite.<|endoftext|>First of all, for energetic students, doing sports is their favorite activity.<|endoftext|>

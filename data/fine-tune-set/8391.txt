@@ -1,0 +1,1 @@
+Fix grammar in this sentence: I often come up with ideas for reports when I read books, have a lunch or play cards with cutting class.<|endoftext|>I often come up with ideas for reports when I read books, have lunch, or play cards while cutting class.<|endoftext|>

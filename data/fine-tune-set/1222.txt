@@ -1,0 +1,1 @@
+Fix grammar in this sentence: But can you imagine that in the near, unspecified future all homes will be like that?<|endoftext|>But can you imagine that in the near, unspecified future, all homes will be like that?<|endoftext|>

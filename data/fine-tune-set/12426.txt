@@ -1,0 +1,17 @@
+Give me a recipe for soup.<|endoftext|>Andy S Spicy Potato Soup
+
+Ingredients:
+• Ground beef
+• Onion
+• Water
+• Tomato sauce
+• Potatoes
+• Corn
+• Salt
+• Ground black pepper
+• Hot pepper sauce
+
+Steps:
+1. Brown beef and onion well, drain off excess grease
+2. Add remaining ingredients
+3. Bring to a boil, then simmer for about 1 hour or until potatoes are cooked<|endoftext|>

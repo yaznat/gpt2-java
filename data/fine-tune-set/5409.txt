@@ -1,0 +1,1 @@
+Fix grammaticality of the sentence: A few days ago, I've got my job started as a waitress in a restaurant of the hotel where my husband worked in.<|endoftext|>A few days ago, I got my job started as a waitress in a restaurant of the hotel restaurant where my husband worked. works near,<|endoftext|>

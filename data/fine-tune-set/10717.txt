@@ -1,0 +1,21 @@
+Generate a recipe for pasta.<|endoftext|>Bacon And Pepper Pasta
+
+Ingredients:
+• Bacon
+• Onions
+• Garlic cloves
+• Green pepper
+• Sweet red pepper
+• Stewed tomatoes
+• Linguine
+• Jalapeno pepper
+
+Steps:
+1. In a large skillet, cook bacon until crisp
+2. Remove bacon with slotted spoon and set aside, reserving the drippings
+3. Saute onions and garlic in drippings for 3 minutes
+4. Add peppers, cook and stir for 3 minutes
+5. Stir in tomatoes and heat through
+6. Add bacon and mix well
+7. Serve over pasta
+8. Cooking time does not reflect time to cook pasta<|endoftext|>

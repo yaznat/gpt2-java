@@ -1,0 +1,11 @@
+Please generate a coffee recipe.<|endoftext|>Buttered Almond Coffee
+
+Ingredients:
+• Hot coffee
+• Almond extract
+• Molly mcbutter
+• Splenda sugar substitute
+
+Steps:
+1. Pour coffee into a heavy mug
+2. Add remaining ingredients and stir until dissolved<|endoftext|>

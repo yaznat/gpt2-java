@@ -1,0 +1,18 @@
+Give me a recipe for steak.<|endoftext|>Baked Round Steak
+
+Ingredients:
+• Round steak
+• Tomato soup
+• Dry mustard
+• Worcestershire sauce
+• Onion
+• French dressing
+• Raw potatoes
+• Water
+
+Steps:
+1. Trim fat from steak and cut into seving-size pieces
+2. Place in 13" x 9" pan
+3. Cover with sliced raw potatoes
+4. Combine soup, dry mustard, worchestershire sauce, onion, and dressing, and pour over meat and potatoes
+5. Cover tightly and bake at 325f for 2 hours<|endoftext|>

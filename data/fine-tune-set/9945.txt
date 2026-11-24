@@ -1,0 +1,1 @@
+Fix grammar in the sentence: I know that I can cout on my friend when I have a problem and she can count on me.<|endoftext|>I know that I can count on my friend when I have a problem, and she can count on me.<|endoftext|>

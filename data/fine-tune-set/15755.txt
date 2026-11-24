@@ -1,0 +1,22 @@
+Please generate a burrito recipe.<|endoftext|>3 Can Burritos
+
+Ingredients:
+• Olive oil
+• Onion
+• Garlic clove
+• Chili
+• Cumin
+• Red bell pepper
+• Button mushrooms
+• Kidney beans
+• Refried beans
+• Diced tomatoes
+• Tortilla
+
+Steps:
+1. Heat the oil in a large saucepan and saute onion, garlic, chilli and cumin until fragrant and soft
+2. Add bell pepper and mushrooms
+3. Saute until soft
+4. Add both types of beans and the tomatoes
+5. Bring to the boil then reduce heat to low and simmer for 15-20 minutes
+6. Serve with warm tortillas and other fillings at the table for people to wrap into burritos<|endoftext|>

@@ -1,0 +1,20 @@
+Generate a recipe for pancakes.<|endoftext|>Baked Pancake Squares
+
+Ingredients:
+• Milk
+• Butter
+• Egg substitute
+• Sugar
+• All-purpose flour
+• Baking powder
+• Salt
+
+Steps:
+1. Preheat oven to 350 degrees
+2. Lightly grease an 8x8-inch baking dish
+3. In a large mixing bowl, beat together milk, butter and egg substitute
+4. Add the sugar, then gradually beat in the flour
+5. Carefully stir in the baking powder and salt
+6. Pour batter into prepared pan
+7. Bake in preheated oven for 30 minutes
+8. Cut into 16 square servings<|endoftext|>

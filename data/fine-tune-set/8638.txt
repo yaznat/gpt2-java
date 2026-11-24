@@ -1,0 +1,1 @@
+Fix grammar in this sentence: I like his humor, because he is able to make me smile.<|endoftext|>I like his sense of humor because he is able to make me smile.<|endoftext|>

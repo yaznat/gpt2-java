@@ -1,0 +1,18 @@
+Can you give me a burger recipe?<|endoftext|>All American Burgers
+
+Ingredients:
+• Lean ground beef
+• Ketchup
+• Seasoning
+• Worcestershire sauce
+• American cheese
+• Hamburger buns
+• Cooked bacon
+
+Steps:
+1. Mix ground beef, ketchup, hamburger seasoning and worcestershire sauce in bowl
+2. Shape into 4 patties
+3. Grill over medium heat 4 to 6 minutes per side or until burgers are cooked through
+4. Add cheese slices to burgers 1 minute before cooking is completed
+5. Toast rolls on the grill, open-side down, about 30 seconds
+6. Serve burgers with bacon slices on toasted rolls<|endoftext|>

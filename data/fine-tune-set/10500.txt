@@ -1,0 +1,17 @@
+Generate a recipe for pasta.<|endoftext|>15 Minute Pasta Combo
+
+Ingredients:
+• Spaghetti
+• Italian salad dressing
+• Fresh tomatoes
+• Smoked turkey breast
+• Parmesan cheese
+
+Steps:
+1. Cook spaghetti until tender
+2. Drain
+3. In same pan, heat the italian salad dressing over medium heat
+4. Add cooked pasta
+5. Toss to coat well
+6. Add tomatoes, turkey and parmesan cheese
+7. Toss lightly and serve<|endoftext|>

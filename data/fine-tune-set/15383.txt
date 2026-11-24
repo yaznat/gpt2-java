@@ -1,0 +1,16 @@
+Give me a recipe for a burger.<|endoftext|>Aunt Mag S Spoonburgers
+
+Ingredients:
+• Hamburger
+• Onion
+• Heinz 57 steak sauce
+• Ketchup
+• Hot sauce
+• Rolls
+
+Steps:
+1. Cook onions over low to med heat until tender
+2. Add hamburger, cook until brown
+3. Add 57 sauce, ketchup and hot sauce
+4. Simmer 15 minutes
+5. Spoon over the buns of you choice<|endoftext|>

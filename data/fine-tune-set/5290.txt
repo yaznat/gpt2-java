@@ -1,0 +1,1 @@
+Remove all grammatical errors from this text: Additionally, a politician from Philadelphia, USA was elected after take advantage of his Twitter account appropriately during his campaign.<|endoftext|>Additionally, a politician from Philadelphia, USA, was elected after taking advantage of his Twitter account appropriately during his campaign.<|endoftext|>

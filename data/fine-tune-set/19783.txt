@@ -1,0 +1,13 @@
+Give me a fries recipe.<|endoftext|>Cumin Carrot Fries
+
+Ingredients:
+• Carrots
+• Olive oil
+• Ground cumin
+• Kosher salt
+
+Steps:
+1. Place carrots a baking sheet
+2. Add olive oil, spices and salt
+3. Toss well to coat evenly
+4. Roast in a 400f oven for 30 minutes, turning after 15 minutes<|endoftext|>

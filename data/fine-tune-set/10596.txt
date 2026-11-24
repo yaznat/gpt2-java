@@ -1,0 +1,16 @@
+Give me a recipe for pasta.<|endoftext|>Angel Hair Pasta With Lemon And Chicken
+
+Ingredients:
+• Angel hair pasta
+• Butter
+• Lemon juice
+• Fresh parsley
+• Dried marjoram
+• Garlic powder
+• Chicken
+
+Steps:
+1. Prepare pasta according to package directions
+2. Toss pasta with butter, lemon juice, parsley, marjoram and garlic powder
+3. Add chicken
+4. Season with salt and ground black pepper<|endoftext|>

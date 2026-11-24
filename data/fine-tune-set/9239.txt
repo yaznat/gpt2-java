@@ -1,0 +1,1 @@
+Fix grammar in the sentence: It seems to me that these clothes may have a high price and sometimes they do not worth it.<|endoftext|>It seems to me that these clothes may have a high price and sometimes they are not worth it.<|endoftext|>

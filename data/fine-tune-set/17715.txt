@@ -1,0 +1,19 @@
+Give me a recipe for muffins.<|endoftext|>Apple Pie Muffins
+
+Ingredients:
+• Eggs
+• Oil
+• Vanilla
+• Apples
+• Sugar
+• Salt
+• Cinnamon
+• Nutmeg
+• Flour
+• Baking powder
+• Baking soda
+
+Steps:
+1. Preheat oven to 350f grease two muffin tins combine eggs, oil, vanilla mix well
+2. Combine dry ingredients add to egg / oil mixture and mix well stir in apples last
+3. Bake for 20-25 mins<|endoftext|>

@@ -1,0 +1,18 @@
+Please generate a cake recipe.<|endoftext|>The Cake
+
+Ingredients:
+• Yellow cake mix
+• Water
+• Cream cheese
+• Powdered sugar
+• Margarine
+• Egg
+• Eggs
+
+Steps:
+1. Mix cake mix, margarine, water and one egg
+2. Pat into bottom of 12x18-inch pan
+3. Mix cream cheese, 3 eggs
+4. Add sugar and mix
+5. Pour on top of batter in pan
+6. Bake for 35-45 minutes at 350 degrees<|endoftext|>

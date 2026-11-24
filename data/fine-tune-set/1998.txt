@@ -1,0 +1,1 @@
+Fix grammar in the sentence: If you want to learn Korean, I can teach it!!<|endoftext|>If you want to learn Korean, I can teach it to you!!<|endoftext|>

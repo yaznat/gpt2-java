@@ -1,0 +1,14 @@
+Give me a smoothie recipe.<|endoftext|>Banana Mango Smoothies
+
+Ingredients:
+• Apple juice
+• Mangoes
+• Bananas
+• Honey
+• Ice cubes
+
+Steps:
+1. Pour apple juice or coconut milk into blender
+2. Add mango, banana and honey
+3. Add ice cubes
+4. Cover and blend until nearly smooth<|endoftext|>

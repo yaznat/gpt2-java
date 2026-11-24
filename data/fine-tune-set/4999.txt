@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: I have to memorize difficult terms.<|endoftext|>I have to memorize many difficult terms.<|endoftext|>

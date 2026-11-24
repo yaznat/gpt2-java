@@ -1,0 +1,1 @@
+Improve the grammaticality of this text: The train staffs did not stop and exam the problem when a passenger reported strange noise and a large piece of metal coming up through the floor.<|endoftext|>The train staff did not stop and examine the problem when a passenger reported strange noise and a large piece of metal coming up through the floor.<|endoftext|>

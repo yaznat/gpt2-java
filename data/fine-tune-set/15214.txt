@@ -1,0 +1,14 @@
+Give me a recipe for pizza.<|endoftext|>Biscuit Mix Pizza Dough
+
+Ingredients:
+• Yeast
+• Water
+• Biscuit mix
+
+Steps:
+1. In a large bowl, dissolve the yeast in the warm water
+2. Add the biscuit mix and mix well
+3. Knead the dough until smooth
+4. Roll it out to desired thickness and press into a greased pizza or baking pan
+5. Let rise in a warm place for 30 minutes
+6. Top with your favorite toppings and bake at 400 degrees for about 20 minutes, or until crust is crispy<|endoftext|>

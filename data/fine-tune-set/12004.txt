@@ -1,0 +1,12 @@
+Give me a pie recipe.<|endoftext|>100 Year Old Pie Crust
+
+Ingredients:
+• Flour
+• Shortening
+• Vinegar
+• Milk
+• Salt
+
+Steps:
+1. Mix first 3 ingredients plus salt until crumbly
+2. Add milk until mixed into dough<|endoftext|>

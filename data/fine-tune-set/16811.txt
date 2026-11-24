@@ -1,0 +1,11 @@
+What's a recipe for a milkshake?<|endoftext|>Mixed Berry Milkshake
+
+Ingredients:
+• Vanilla ice cream
+• Berries
+• Whole milk
+
+Steps:
+1. Add the ice cream, berries, and milk to a blender
+2. Blend until smooth, stopping occasionally to stir with a spoon
+3. Pour into glasses<|endoftext|>

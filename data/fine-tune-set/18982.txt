@@ -1,0 +1,16 @@
+Generate a recipe for custard.<|endoftext|>Eggnog Custard Pie
+
+Ingredients:
+• Pie crust
+• Sugar
+• Eggnog
+• Eggs
+
+Steps:
+1. Partially bake the pie crust
+2. In a large bowl, combine eggnog, sugar, and eggs
+3. Blend well
+4. Pour into crust
+5. Sprinkle with nutmeg or cinnamon
+6. Bake at 350 for 35 minute
+7. Or until almost set<|endoftext|>

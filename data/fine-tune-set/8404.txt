@@ -1,0 +1,1 @@
+Fix grammar in the sentence: I am some experience in this kind of job as I worked in a restaurant for two years.<|endoftext|>I have some experience in this kind of job as I worked in a restaurant for two years.<|endoftext|>

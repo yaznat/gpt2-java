@@ -1,0 +1,24 @@
+Give me a muffin recipe.<|endoftext|>Amazing Apple Nut Muffins
+
+Ingredients:
+• Egg
+• Apple juice
+• Vegetable oil
+• Vanilla
+• Sugar
+• Flour
+• Brown sugar
+• Baking powder
+• Salt
+• Pecans
+• Apple
+• Cinnamon
+
+Steps:
+1. Preheat oven to 400
+2. In a large bowl, beat egg with juice / milk, oil and vanilla
+3. Stir in flour, sugars, baking powder, and salt until moistened
+4. Stir in nuts and apple
+5. Fill large, paper-lined muffin cups with batter
+6. Mix the last amount of sugar and cinnamon and sprinkle on muffins
+7. Bake for 20 minutes<|endoftext|>

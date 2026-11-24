@@ -1,0 +1,27 @@
+Please generate a burger recipe.<|endoftext|>Bacon Cheeseburger Meatloaf
+
+Ingredients:
+• Hamburger
+• Ground pork
+• Bacon
+• Cheddar cheese
+• Eggs
+• Breadcrumbs
+• Mayonnaise
+• Worcestershire sauce
+• Salt
+• Ground black pepper
+• Ketchup
+• Prepared mustard
+• French-fried onions
+
+Steps:
+1. Preheat oven to 350f
+2. In a large bowl, combine hamburger and pork, and next 8 ingredients, mixing well
+3. In a small bowl, combine the ketchup and mustard
+4. Stir 1 / 4 cup ketchup mixture into meat mixture, reserving remaining ketchup mixture
+5. Press meat mixture into a 9 x 5 x 3 inch loaf pan, or shape into a loaf and place on a rack in a broiler pan
+6. Spread remaining ketchup mixture over loaf
+7. Bake 45 minutes
+8. Top with french fired onions
+9. Bake another 15 minutes, or until meat is no longer pink<|endoftext|>

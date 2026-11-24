@@ -1,0 +1,12 @@
+Give me a recipe for a wrap.<|endoftext|>Bacon Wrapped Hot Dog
+
+Ingredients:
+• Hot dog
+• Bacon
+• Hot dog bun
+
+Steps:
+1. Wrap the hot dog with the bacon, and place in a hot skillet or you can put it in the oven on 350f
+2. Cook until bacon is crispy
+3. Remove from skillet
+4. Open the bun and place, in the skillet, let it brown, and place hot dog on the bun<|endoftext|>

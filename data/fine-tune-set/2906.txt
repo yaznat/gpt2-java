@@ -1,0 +1,1 @@
+Fix grammar in this sentence: Firstly I would like to say that I have some experience in looking after children because I have worked at a local summer camp last summer.<|endoftext|>Firstly, I would like to say that I have some experience of looking after children because I worked at a local summer camp last summer.<|endoftext|>

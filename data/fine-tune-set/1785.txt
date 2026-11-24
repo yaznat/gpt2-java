@@ -1,0 +1,1 @@
+Fix grammar in this sentence: But everything has changed since he came to Danang city to further study.<|endoftext|>But everything has changed since he came to Danang city for further study.<|endoftext|>

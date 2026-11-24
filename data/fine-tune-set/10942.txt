@@ -1,0 +1,21 @@
+Give me a recipe for salad.<|endoftext|>Aloha Delight Salad
+
+Ingredients:
+• Orange
+• Mangoes
+• Bananas
+• Pineapple chunks
+• Unsweetened coconut
+• Walnuts
+• Dates
+• Honey
+• Lemon juice
+
+Steps:
+1. Peel, section, and dice orange
+2. Peel, pit, and slice mangoes
+3. Peel bananas and slice into 1 / 4" rounds
+4. Drain pineapple, saving the juice
+5. Put all the fruit in a large bowl
+6. Add coconut, walnuts, and date pieces
+7. With a fork, whip honey, lemon juice, and 1 / 4 cup pineapple juice together in a bowl and drizzle over fruit<|endoftext|>

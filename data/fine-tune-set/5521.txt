@@ -1,0 +1,1 @@
+Fix grammatical mistakes in this sentence: Okinawa is a tropical island and located in the southernmost part of Japan.<|endoftext|>Okinawa is a tropical island and is located in the southernmost part of Japan.<|endoftext|>

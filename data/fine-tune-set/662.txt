@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: Hope that you follow my ideas and you like Spain<|endoftext|>I hope that you follow my ideas and you like Spain.<|endoftext|>

@@ -1,0 +1,15 @@
+Give me a recipe for fries.<|endoftext|>Baked Sesame Fries
+
+Ingredients:
+• Potatoes
+• Olive oil
+• Gomashio
+
+Steps:
+1. Preheat the oven to 400f
+2. Dice the potatoes to desired size and place in a bowl with some cold water
+3. Let sit 5 minutes
+4. Drain potatoes and toss with the oil and gomashio
+5. Lay potatoes on a non stick cookie sheet
+6. Bake 30 minutes, flipping after 15 minutes
+7. Enjoy!<|endoftext|>

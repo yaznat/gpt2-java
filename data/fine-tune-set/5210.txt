@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: Pretty much everywhere you go in France you might have to wait for long time due to their slow work.<|endoftext|>Pretty much everywhere you go in France, you might have to wait for a long time due to their slow working.<|endoftext|>

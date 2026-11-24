@@ -1,0 +1,1 @@
+Fix grammar in the sentence: The feature is that the festival is held for about 2 months and has low-price tickets.<|endoftext|>The feature that of the festival is that it is held for about 2 months and has low-priced tickets.<|endoftext|>

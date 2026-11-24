@@ -1,0 +1,18 @@
+Generate a recipe for salad.<|endoftext|>Algerian Salad
+
+Ingredients:
+• Sweet red peppers
+• Tomatoes
+• Cucumber
+• Onions
+• Black olives
+• Anchovy fillets
+• Hard-boiled eggs
+• Fresh basil
+• Olive oil
+• Vinegar
+• Salt and pepper
+
+Steps:
+1. Place all ingredients into a large salad bowl and toss gently
+2. May be served with pita bread<|endoftext|>

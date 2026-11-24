@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: For example, restaurant business and technology industry is totally different in Taiwan.<|endoftext|>For example, the restaurant business and the technology industry are totally different in Taiwan.<|endoftext|>

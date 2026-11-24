@@ -1,0 +1,1 @@
+Fix grammar in the sentence: And I wanted to write many proses, poems or other things about art.<|endoftext|>And I wanted to write a lot of prose, many proses, poems or any other things about art.<|endoftext|>

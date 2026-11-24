@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: In Singapore, there are problems that hamper engineering design processes for innovations.<|endoftext|>In Singapore, there are problems that hamper engineering design processes for innovation.<|endoftext|>

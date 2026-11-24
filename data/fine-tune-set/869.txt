@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: Thus, the government is investing large amount of money into medical research on age-related diseases and bringing in new medical technology.<|endoftext|>Thus, the government is investing large amounts of money into the medical research on age-related diseases and bringing in new medical technology.<|endoftext|>

@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: This means the time and money required to do the research for SFR is much less than that of SWCR.<|endoftext|>This means that the time and money required to do the research for SFR are much less than that of SWCR.<|endoftext|>

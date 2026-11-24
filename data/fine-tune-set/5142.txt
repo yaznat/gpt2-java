@@ -1,0 +1,1 @@
+Fix the grammatical mistakes: I am interested in applying for the job vacancy in the Cafe you run.<|endoftext|>I am interested in applying for the job vacancy at the Cafe you run.<|endoftext|>

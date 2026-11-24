@@ -1,0 +1,1 @@
+Fix grammar in this sentence: But fortunately they were quite well, my wife and I headed to airport.<|endoftext|>But fortunately, they were quite well; my wife and I headed to the airport.<|endoftext|>

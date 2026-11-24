@@ -1,0 +1,16 @@
+Generate a recipe for rice.<|endoftext|>10 Minute Cheesy Mexican Rice
+
+Ingredients:
+• Condensed chicken broth
+• Salsa
+• Minute rice
+• Velveeta cheese
+
+Steps:
+1. Mix broth and salsa in medium saucepan
+2. Bring to a boil
+3. Add rice and velveeta
+4. Stir
+5. Cover and remove from heat
+6. Let stand for 5 minutes
+7. Stir until velveeta is melted<|endoftext|>

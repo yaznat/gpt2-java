@@ -1,0 +1,1 @@
+Fix grammaticality of the sentence: I think that to be professional on business, it is better to fully enjoy the weekend and to be refreshed so that I can concentrate on my job from the next week.<|endoftext|>I think that to be professional in business, it is better to fully enjoy the weekend and to be refreshed so that I can concentrate on my job the following week.<|endoftext|>

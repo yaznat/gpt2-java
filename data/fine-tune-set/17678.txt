@@ -1,0 +1,20 @@
+Give me a recipe for muffins.<|endoftext|>Apple Caramel Muffins
+
+Ingredients:
+• Flour
+• Sugar
+• Cinnamon
+• Baking powder
+• Egg
+• Milk
+• Vanilla
+• Butter
+• Apple
+• Caramel candies
+
+Steps:
+1. In a large bowl mix together first 4 ingredients
+2. In a small bowl blend egg, milk& vanilla
+3. Add melted butter& then pour into mixture& stir-do not overmix
+4. Mix in apples& caramels
+5. Fill muffin cups& bake 20@ 350 or until toothpick comes out clean<|endoftext|>

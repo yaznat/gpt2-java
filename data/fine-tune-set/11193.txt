@@ -1,0 +1,17 @@
+Please generate a sandwich recipe.<|endoftext|>Bar H Sandwiches
+
+Ingredients:
+• Tomato soup
+• Lemon juice
+• Brown sugar
+• Mustard
+• Worcestershire sauce
+• Onion
+• Accent seasoning
+• Ground beef
+
+Steps:
+1. Brown ground beef and onions in a skillet
+2. Mix all other ingredients together
+3. Simmer for 15 minutes
+4. Serve on buns or over bread<|endoftext|>

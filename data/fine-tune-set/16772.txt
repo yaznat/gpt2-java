@@ -1,0 +1,14 @@
+Please generate a milkshake recipe.<|endoftext|>Easy Vanilla Milkshake
+
+Ingredients:
+• Milk
+• Eggs
+• Vanilla extract
+• Vanilla ice cream
+• Sugar
+• Ice cubes
+
+Steps:
+1. Pour all of the ingredients into a blender
+2. Blend for 30 seconds, or until it's the way you like it
+3. Pour into a cup and enjoy<|endoftext|>

@@ -1,0 +1,23 @@
+Please generate a cocktail recipe.<|endoftext|>Avocado And Shrimp Cocktail
+
+Ingredients:
+• Avocados
+• Lemon
+• Baby shrimp
+• Mayonnaise
+• Heavy cream
+• Tabasco sauce
+• Worcestershire sauce
+• Salt
+• Pepper
+• Paprika
+• Cucumber
+
+Steps:
+1. Halve avocados, remove pits, rub surface with lemon slice
+2. Combine mayonnaise, cream, tabasco, worcestershire, salt and pepper
+3. Fold in shrimp
+4. Spoon into avocados
+5. Sprinkle with paprika and chill
+6. Garnish with cucumber and lemon slices
+7. Serve chilled on bed of lettuce<|endoftext|>

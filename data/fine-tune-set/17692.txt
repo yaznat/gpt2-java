@@ -1,0 +1,22 @@
+Please generate a muffin recipe.<|endoftext|>Apple Cranberry Walnut Muffins
+
+Ingredients:
+• Flour
+• Baking soda
+• Cinnamon
+• Salt
+• Eggs
+• Dark brown sugar
+• Vegetable oil
+• Sour cream
+• Vanilla
+• Apple
+• Cranberries
+• Walnuts
+
+Steps:
+1. Mix flour, baking soda, cinnamon and salt in a large bowl
+2. In a separate bowl, whisk eggs, sugar, oil, sour cream and vanilla until smooth
+3. Stir in apple, cranberries and walnuts
+4. Fold into dry ingredients
+5. Bake at 350f, for 20 to 25 minutes<|endoftext|>

@@ -1,0 +1,16 @@
+Give me a recipe for pancakes.<|endoftext|>Bisquick Buttermilk Lemon Pancakes
+
+Ingredients:
+• Bisquick baking mix
+• Buttermilk
+• Milk
+• Sugar
+• Lemon peel
+• Lemon juice
+• Egg
+
+Steps:
+1. Beat all ingredients with whire whisk until well blended
+2. Pour by spoonfuls onto a hot griddle, greased
+3. Cook until edges are lightly brown
+4. Turn, cook until golden brown<|endoftext|>

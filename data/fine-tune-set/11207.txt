@@ -1,0 +1,22 @@
+Give me a recipe for a sandwich.<|endoftext|>Barbecued Pork Sandwiches
+
+Ingredients:
+• Boneless pork roast
+• Salt
+• Fresh ground pepper
+• Barbecue sauce
+• Hamburger buns
+
+Steps:
+1. Heat oven to 325f
+2. Sprinkle pork with salt and pepper
+3. Heat a dutch oven for 1 minute over medium-high heat
+4. Brown pork on all sides, about 4 minutes per side
+5. Add barbecue sauce to dutch oven
+6. Cover and bake 1 hours until pork is fork-tender
+7. Transfer pork to cutting board
+8. Slice into thin pieces
+9. Return to dutch oven and cook for 5 minutes over medium heat
+10. Place rolls on serving plate
+11. Divide pork mixture and spoon into each roll
+12. Serve with coleslaw, if desired<|endoftext|>

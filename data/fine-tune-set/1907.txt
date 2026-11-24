@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: So it is easier to guarantee the safety of nuclear power plants because if workers follow the regulations, no accidents will be caused.<|endoftext|>So it is easier to guarantee the safety of nuclear power plants because if workers follow the regulations, no accidents will occur.<|endoftext|>

@@ -1,0 +1,19 @@
+Give me a cake recipe.<|endoftext|>123 Cake
+
+Ingredients:
+• Oil
+• Yellow cake mix
+• Instant vanilla pudding
+• Water
+• Apple pie filling
+• Egg
+
+Steps:
+1. In 9x13 pan, pour oil
+2. Covering bottom and sides
+3. Add cake mix, pudding, water and egg
+4. Mix with fork
+5. Moistening all dry ingredients
+6. Pour in pie filling
+7. Swirl into mixture
+8. Bake at 350 for 35 minutes, or until toothpick comes out clean<|endoftext|>

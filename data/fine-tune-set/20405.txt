@@ -1,0 +1,23 @@
+Generate a recipe for a casserole.<|endoftext|>All In One Breakfast Casserole
+
+Ingredients:
+• Eggs
+• Salt
+• Pepper
+• Bacon
+• Prepared stuffing
+• Hash brown potatoes
+• Cheese
+
+Steps:
+1. Mix up eggs
+2. Add a dash of salt and pepper
+3. Cook bacon / sausage
+4. Drain
+5. Get out a baking dish
+6. Put stuffing mix on the bottom of the dish
+7. Add the hash browns
+8. Add eggs
+9. Add cooked bacon / sausage
+10. Top with cheese
+11. Bake at 350 degrees fahrenheit for 45 to 50 minutes or until set<|endoftext|>

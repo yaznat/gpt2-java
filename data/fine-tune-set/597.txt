@@ -1,0 +1,1 @@
+Improve the grammar of this text: In the morning I worked a little and had a nap about an hour.<|endoftext|>In the morning, I worked a little and had a nap for about an hour.<|endoftext|>

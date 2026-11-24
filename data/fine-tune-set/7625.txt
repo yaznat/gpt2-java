@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: In addition, HDB is also building more studio apartments which are suitable for elderly as it is customized with elderly-friendly fixtures and fittings.<|endoftext|>In addition, HDB is also building more studio apartments that are suitable for the elderly as it is customized with elderly-friendly fixtures and fittings.<|endoftext|>

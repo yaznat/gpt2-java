@@ -1,0 +1,27 @@
+Give me a recipe for muffins.<|endoftext|>Apple Pecan Bran Muffins
+
+Ingredients:
+• Eggs
+• Canola oil
+• Buttermilk
+• Molasses
+• Honey
+• Wheat bran
+• Whole wheat pastry flour
+• Rolled oats
+• Baking powder
+• Baking soda
+• Cinnamon
+• Ginger
+• Nutmeg
+• Apple
+• Pecans
+
+Steps:
+1. Preheat oven to 400f and grease or line a 12-cup muffin tin
+2. In a large bowl, beat together the eggs, oil, buttermilk / yogurt, molasses, and honey
+3. Stir in the wheat bran
+4. In medium bowl, mix together the pastry flour, oats, baking powder, baking soda, cinnamon, ginger, and nutmeg
+5. Stir the flour mixture into the bran mixture, being careful not to overmix
+6. Fold in the apple and pecans
+7. Spoon the batter into muffin tin and bake 20 to 25 minutes, or until toothpick inserted into the center of a muffin comes out clean<|endoftext|>

@@ -1,0 +1,1 @@
+Fix grammatical mistakes in this sentence: By the way, some adults drink alcohol, smoking, etc.<|endoftext|>By the way, some adults drink alcohol, smoking smoke, etc.<|endoftext|>

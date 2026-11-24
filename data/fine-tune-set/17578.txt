@@ -1,0 +1,14 @@
+Please generate a coffee recipe.<|endoftext|>Calypso Island Coffee
+
+Ingredients:
+• Brewed coffee
+• Frangelico
+• Malibu rum
+• Chocolate
+• Sugar
+• Whipped cream
+
+Steps:
+1. Combine your frangelico, gourmet coffee and malibu rum
+2. Add chocolate and stir to melt
+3. Add sugar then top with whipped cream<|endoftext|>

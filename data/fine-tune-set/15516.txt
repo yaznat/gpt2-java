@@ -1,0 +1,19 @@
+Give me a taco recipe.<|endoftext|>5 Tacos
+
+Ingredients:
+• Ground beef
+• Taco seasoning
+• Taco shells
+• Lettuce
+• Tomatoes
+• Onion
+• Salsa
+• Cheddar cheese
+• Corn cobs
+
+Steps:
+1. Cook meat
+2. Add taco seasoning
+3. Place meat into taco shells / tortillas
+4. Top with tomatoes, onions, lettuce, salsa and cheese
+5. Boil corn cobs 5-7 minutes<|endoftext|>

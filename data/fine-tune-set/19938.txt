@@ -1,0 +1,11 @@
+Please generate a omelette recipe.<|endoftext|>Chinese Confinement Egg Omelette With Sesame Oil
+
+Ingredients:
+• Eggs
+• Water
+
+Steps:
+1. In a small bowl, combine eggs, water and salt by whipping lightly with a fork
+2. Heat a wok over medium heat, add sesame oil, saut garlic and ginger till fragrant
+3. Pour in egg mixture and fry until cooked, turning over occasionally
+4. Serve as a sandwich for breakfast or with rice for lunch<|endoftext|>

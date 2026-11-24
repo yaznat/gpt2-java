@@ -1,0 +1,15 @@
+Give me a pasta recipe.<|endoftext|>Antipasta Salad
+
+Ingredients:
+• Romaine lettuce
+• Red onion
+• Provolone cheese
+• Pepperoni
+• Hard salami
+• Black olives
+• Balsamic vinaigrette
+• Cracked black pepper
+
+Steps:
+1. Mix ingredients together
+2. Serve<|endoftext|>

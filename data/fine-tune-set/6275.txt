@@ -1,0 +1,1 @@
+Fix grammar in the sentence: I discovered the English language when I was eight, and that amazed me so much that one year later I started to take a course.<|endoftext|>I discovered the English language when I was eight, and it amazed me so much that one year later, I started to take a course.<|endoftext|>

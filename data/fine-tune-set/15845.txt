@@ -1,0 +1,15 @@
+Generate a recipe for a burrito.<|endoftext|>Burrito Blt Sandwiches
+
+Ingredients:
+• Bacon
+• Lettuce
+• Cheddar cheese
+• Tomatoes
+• Mayonnaise
+• Flour tortillas
+
+Steps:
+1. Toss all ingredients except tortillas
+2. Spread one sixth of bacon mixture on each tortilla
+3. Fold up bottom third of each tortilla
+4. Roll up to form cone shape with folded end at bottom<|endoftext|>

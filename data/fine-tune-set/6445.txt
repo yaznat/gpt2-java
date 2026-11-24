@@ -1,0 +1,1 @@
+Fix grammatical mistakes in this sentence: Electric fans do great job and play great roles in this season and coming summer.<|endoftext|>Electric fans do a great job and play great roles this season and the coming summer.<|endoftext|>

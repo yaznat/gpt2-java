@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: Even though most of people think that Messi or Ronaldo Nazario are even better than him, other people think same as me.<|endoftext|>Even though most people think that Messi or Ronaldo Nazario is even better than him, other people think the same as me.<|endoftext|>

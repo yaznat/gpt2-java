@@ -1,0 +1,19 @@
+Generate a recipe for fries.<|endoftext|>Chili Fries
+
+Ingredients:
+• Olive oil
+• Chili powder
+• Salt
+• Dried oregano
+• Garlic powder
+• Ground cumin
+• Baking potatoes
+
+Steps:
+1. Preheat oven to 450 degrees
+2. Combine first 6 ingredients in a large bowl
+3. Peel potatoes, and cut into 1 / 4 inch strips
+4. Add potato strips to olive oil mixture
+5. Toss gently to coat
+6. Arrange potato strips in a single layer on a baking sheet lightly coated with cooking spray
+7. Bake, for 25 minutes or until golden brown<|endoftext|>

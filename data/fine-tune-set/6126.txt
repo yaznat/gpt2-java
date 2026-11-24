@@ -1,0 +1,1 @@
+Fix grammar in this sentence: They told that it was alright if he was interested in other projects, but he still needed to give the same working performance.<|endoftext|>They said that it was alright if he was interested in other projects, but he still needed to give the same working performance.<|endoftext|>

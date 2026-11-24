@@ -1,0 +1,1 @@
+Fix grammatical mistakes in this sentence: To conclude, trekking is one of the most enjoyable sports even for people don't like sports like me.<|endoftext|>To conclude, hiking is one of the most enjoyable sports, even for people who don't like sports, like me.<|endoftext|>

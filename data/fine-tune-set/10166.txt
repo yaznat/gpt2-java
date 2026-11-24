@@ -1,0 +1,19 @@
+Please generate a chili recipe.<|endoftext|>Beef Black Bean Chili
+
+Ingredients:
+• Ground round
+• Black beans
+• Chunky salsa
+• Tomato sauce
+• Chili seasoning mix
+• Sour cream
+• Cheddar cheese
+
+Steps:
+1. Cook meat in large saucepan over medium-high heat until meat is browned, stirring until it crumbles
+2. Drain, if necessary
+3. While meat cooks, drain and mash 1 can black beans
+4. Add mashed beans, undrained beans, salsa, tomato sauce, and seasoning mix to meat
+5. Stir well
+6. Cook over medium heat for 10 minutes, or until thoroughly heated
+7. Spoon into serving bowls, top with sour cream and cheddar cheese<|endoftext|>

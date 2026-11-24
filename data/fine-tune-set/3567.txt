@@ -1,0 +1,1 @@
+Remove grammatical mistakes: Dear Juan, we moved to London for the holidays in December, to a huge and beautiful house with a big garden, garage and a tennis pitch.<|endoftext|>Dear Juan, we moved to London for the holidays in December, to a huge and beautiful house with a big garden, a garage, and a tennis court.<|endoftext|>

@@ -1,0 +1,17 @@
+Generate a recipe for a milkshake.<|endoftext|>Peaches And Cream Milkshake
+
+Ingredients:
+• Peach
+• Milk
+• Peach ice cream
+
+Steps:
+1. Place peaches and the 1 / 4 cup milk in blender container
+2. Cover and blend till smooth, about 10 seconds
+3. Spoon in ice cream
+4. Cover and blend again till softened
+5. Add remaining milk
+6. Mix till blended
+7. Sweeten with a little sugar, if desired
+8. Pour into tall glasses
+9. Garnish each serving with fresh peach slices<|endoftext|>

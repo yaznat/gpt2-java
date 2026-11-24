@@ -1,0 +1,12 @@
+Give me a recipe for ice cream.<|endoftext|>Black Forest Ice Cream Shake
+
+Ingredients:
+• Chocolate ice cream
+• Frozen cherries
+• Milk
+• Chocolate chips
+
+Steps:
+1. Place the pint of chocolate ice cream on the counter to soften
+2. Place the softened ice cream, cherries, milk, and chocolate chips in a blender
+3. Blend on high speed until very smooth<|endoftext|>

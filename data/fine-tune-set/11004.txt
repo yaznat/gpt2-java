@@ -1,0 +1,14 @@
+Please generate a sandwich recipe.<|endoftext|>A Grown Up S Jelly Sandwich
+
+Ingredients:
+• Fig preserves
+• Challah
+• Mascarpone
+• Apricot preserves
+
+Steps:
+1. Spread the fig preserves on each of 2 slices of bread
+2. Evenly spread the mascarpone over the preserves
+3. Spread the apricot preserves on each of the two remaining slices of bread
+4. Top each sandwich with one of these slices, preserve side down
+5. Slice on the diagonal and serve<|endoftext|>

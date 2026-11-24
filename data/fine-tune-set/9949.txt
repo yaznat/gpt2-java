@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: Unlike barcodes, RFID do not need to be placed precisely relative to the scanner.<|endoftext|>Unlike barcodes, RFID does not need to be placed precisely relative to the scanner.<|endoftext|>

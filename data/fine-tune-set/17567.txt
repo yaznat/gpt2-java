@@ -1,0 +1,18 @@
+Please generate a coffee recipe.<|endoftext|>Caf A La Russe Chocolate Coffee
+
+Ingredients:
+• Semisweet chocolate
+• Sugar
+• Salt
+• Water
+• Half-and-half
+• Vanilla
+• Hot coffee
+• Ground nutmeg
+
+Steps:
+1. Place the chocolate, sugar, salt, and water in the top of a double boiler, and melt the chocolate
+2. Cook, stirring for 5 minutes, then add the cream
+3. Reheat, but do not let come to a boil
+4. Add the vanilla and the coffee
+5. Pour into cups and garnish with nutmeg if desired<|endoftext|>

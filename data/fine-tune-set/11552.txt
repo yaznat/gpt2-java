@@ -1,0 +1,10 @@
+Please give me a recipe for cake.<|endoftext|>Better Cake Mix
+
+Ingredients:
+• Butter
+• Flour
+• Baking powder
+
+Steps:
+1. Add these 3 ingredients to boxed caked mix
+2. Mix as usual<|endoftext|>

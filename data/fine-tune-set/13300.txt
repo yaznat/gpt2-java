@@ -1,0 +1,13 @@
+Generate a recipe for chicken.<|endoftext|>A Good Easy Garlic Chicken
+
+Ingredients:
+• Butter
+• Boneless skinless chicken breast halves
+• Garlic powder
+• Seasoning salt
+• Onion powder
+
+Steps:
+1. Melt butter in a large skillet over medium high heat
+2. Add chicken and sprinkle with garlic powder, seasoning salt and onion powder
+3. Saute about 10 to 15 minutes on each side, or until chicken is cooked through and juices run clear<|endoftext|>

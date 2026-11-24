@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: When I went back home by train, it didn't come because of accident.<|endoftext|>When I went back home by train, the train didn't come because of an accident.<|endoftext|>

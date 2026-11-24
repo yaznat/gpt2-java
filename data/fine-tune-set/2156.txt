@@ -1,0 +1,1 @@
+Fix the grammatical mistakes: The eatery is run by my friend, who loves American goods and cultures and clothes.<|endoftext|>The eatery is run by my friend, who loves American goods, culture, and clothes.<|endoftext|>

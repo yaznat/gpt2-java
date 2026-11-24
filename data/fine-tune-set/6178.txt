@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: Although I did well for a long time, one day, he contacted again with me, so I didn't ignore him.<|endoftext|>Although I did well for a long time, one day, he contacted me again, so I didn't ignore him.<|endoftext|>

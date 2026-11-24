@@ -1,0 +1,1 @@
+Fix grammatical mistakes in this sentence: As you asked for my advice I would suggest to get a job in summer because you said you would only want to work for about three months.<|endoftext|>As you asked for my advice, I would suggest getting a job in the summer because you said you would only want to work for about three months.<|endoftext|>

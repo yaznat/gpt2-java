@@ -1,0 +1,1 @@
+Fix grammar in this sentence: But I was so busy preparing to go to school every morning so I forgot to take it.<|endoftext|>But I was so busy preparing to go to school every morning that I forgot to take it.<|endoftext|>

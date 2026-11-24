@@ -1,0 +1,22 @@
+Can you give me a soup recipe?<|endoftext|>Cream Of Mushroom Soup
+
+Ingredients:
+• Mushrooms
+• Margarine
+• Garlic cloves
+• Dry-roasted cashews
+• Water
+• Vegetable bouillon cubes
+• Parsley
+• Chili powder
+• Nutmeg
+
+Steps:
+1. In a 4 quart pot, saut the mushrooms in butter till tender
+2. Add garlic
+3. Saut on low heat 5 minutes
+4. In a blender, pure the cashews with the water until very smooth
+5. Add to the mushrooms
+6. Add the bouillon and cook on low heat, stirring frequently, until the soup begins to thicken
+7. Add parsley and nutmeg
+8. Serve<|endoftext|>

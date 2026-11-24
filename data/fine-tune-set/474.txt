@@ -1,0 +1,1 @@
+Fix grammar in this sentence: This make me think it is better to buy shoes at $ 100 in Japan than to buy at the reasonable price like this on eBay.<|endoftext|>This makes me think it is better to buy shoes for $ 100 in Japan than to buy them at a reasonable price like this on eBay.<|endoftext|>

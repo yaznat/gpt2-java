@@ -1,0 +1,23 @@
+Please generate a beef recipe.<|endoftext|>5 Hour Beef Stew
+
+Ingredients:
+• Stew meat
+• Canned green beans
+• Peas
+• Mushrooms
+• Celery
+• Carrots
+• Potatoes
+• Onion
+• Burgundy wine
+• Tomato soup
+• Salt
+• Pepper
+• Ground pepper
+
+Steps:
+1. Preheat oven to 275 degrees
+2. In a large bowl add all the ingredients and mix to combine
+3. Place mixture in a baking dish, cover and bake for 5 hours
+4. Do not uncover during baking time
+5. Serve in bread bowls or with hard rolls<|endoftext|>

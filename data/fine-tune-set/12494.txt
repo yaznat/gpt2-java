@@ -1,0 +1,17 @@
+Please generate a stew recipe.<|endoftext|>Aleecha Vegetable Stew
+
+Ingredients:
+• Cabbage
+• Butter
+• Onions
+• Curry powder
+• Carrots
+• Potatoes
+• Cauliflower
+
+Steps:
+1. Boil the cabbage until softened
+2. Fry onions in butter until translucent
+3. Add curry powder - cook for 1 minute
+4. Add 1 / 4 cup water to the onion mixture, cook for 5 minutes add carrots and potatoes and cook 15 minutes add cauliflower, cook 5 minutes add cabbage, cook for 15 minutes
+5. Serve<|endoftext|>

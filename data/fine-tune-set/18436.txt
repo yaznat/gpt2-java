@@ -1,0 +1,20 @@
+Generate a recipe for waffles.<|endoftext|>Corn Waffles
+
+Ingredients:
+• Flour
+• Baking powder
+• Sugar
+• Salt
+• Eggs
+• Milk
+• Canned corn
+• Butter
+
+Steps:
+1. Sift your dry ingredients first and then measure them
+2. Beat the egg yolks and add milk
+3. Stir your liquid ingredients into the dry ones and add the corn and melted butter
+4. Beat the egg whites until they are stiff and add them to the batter
+5. Preheat waffle iron for 2 minutes
+6. Add batter and bake for one minute
+7. Turn the power off and let it sit there for another 2 minutes<|endoftext|>

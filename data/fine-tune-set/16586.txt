@@ -1,0 +1,14 @@
+Give me a recipe for a smoothie.<|endoftext|>Banana Mocha Smoothie
+
+Ingredients:
+• Low-fat vanilla frozen yogurt
+• Nonfat milk
+• Banana
+• Instant coffee granules
+• Ice cube
+
+Steps:
+1. In a blender, combine all ingredients
+2. Cover and process for 45 to 60 seconds or until frothy
+3. Pour into glasses
+4. Serve immediately<|endoftext|>

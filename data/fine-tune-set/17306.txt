@@ -1,0 +1,17 @@
+Give me a recipe for tea.<|endoftext|>Baked Country Style Steak
+
+Ingredients:
+• Cube steaks
+• Cream of mushroom soup
+• Kitchen bouquet
+• Flour
+• Water
+• Onion
+• Oil
+
+Steps:
+1. Preheat oven 200 degrees
+2. Flour and brown steaks in a small amount of oil in skillet
+3. Place steaks in 8x12 casserole
+4. Add mushroom soup, water, and onion to meat drippings in skillet in which meat was browned
+5. Simmer together and add kitchen bouquet, pour over steaks and bake covered for 2 hours<|endoftext|>

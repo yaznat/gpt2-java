@@ -1,0 +1,16 @@
+Give me a pasta recipe.<|endoftext|>Asparagus Pesto Pasta
+
+Ingredients:
+• Fresh asparagus
+• Fresh basil leaves
+• Parmesan cheese
+• Garlic clove
+• Pecans
+• Olive oil
+• Spaghetti
+
+Steps:
+1. Prepare pasta according to package directions
+2. When ready, drain and then toss with remaining tablespoon of olive oil
+3. Meanwhile, combine asparagus, basil, parmesan cheese, garlic, pecans, and 2 tablespoons olive oil in a blender or food processor and process until smooth
+4. Serve asparagus pesto over prepared pasta<|endoftext|>

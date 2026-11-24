@@ -1,0 +1,1 @@
+Fix grammaticality of the sentence: My friend told me that she already knows the grades from all classes she had taken this semerter.<|endoftext|>My friend told me that she already knows the grades from all classes she took had taken this semester.<|endoftext|>

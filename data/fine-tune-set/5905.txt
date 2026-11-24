@@ -1,0 +1,1 @@
+Fix grammar in the sentence: First of all, people who do not support the development of nuclear power are worried about the safety during the nuclear power's processing.<|endoftext|>First of all, people who do not support the development of nuclear power are worried about the safety during its processing.<|endoftext|>

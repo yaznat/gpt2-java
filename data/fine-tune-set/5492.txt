@@ -1,0 +1,1 @@
+Improve the grammaticality of this text: The bullet is BB bullet, and it's painful if you are hit.<|endoftext|>The bullet is a BB bullet, and it's painful if you are hit.<|endoftext|>

@@ -1,0 +1,17 @@
+Please generate a cake recipe.<|endoftext|>Fake Blueberry Cheesecake
+
+Ingredients:
+• Graham wafers
+• Vanilla pudding mix
+• Cool whip
+• Blueberry pie filling
+
+Steps:
+1. Cook pudding according to package directions
+2. Cool
+3. Add cool whip to vanilla pudding and mix together
+4. In a 9 x 12 pan, line the bottom with the graham crackers
+5. Add a layer of the pudding mixture, then another layer of graham crackers
+6. Continue layers, ending with pudding mixture
+7. Spread blueberry pie filling on top
+8. Sprinkle top with crushed graham crackers or shaved chocolate<|endoftext|>

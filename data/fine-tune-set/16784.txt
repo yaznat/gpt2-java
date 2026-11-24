@@ -1,0 +1,12 @@
+Give me a recipe for a milkshake.<|endoftext|>Healthy Blueberry Milkshake
+
+Ingredients:
+• Bananas
+• Blueberries
+• Yogurt
+• Milk
+
+Steps:
+1. Place all ingredients into a blended
+2. Blend until smooth
+3. Alternatively, blend in a tall 16-17 fl oz cup using a stick blender<|endoftext|>

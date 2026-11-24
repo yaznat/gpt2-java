@@ -1,0 +1,15 @@
+Give me a recipe for ice cream.<|endoftext|>Allspice Cream Cheese Frosting
+
+Ingredients:
+• Cream cheese
+• Butter
+• Ground allspice
+• Confectioners' sugar
+• Vanilla extract
+• Milk
+
+Steps:
+1. In a medium bowl, beat cream cheese, butter and allspice until blended
+2. Gradually add confectioner's sugar and mix until well combined
+3. Stir in vanilla
+4. Gradually add milk, beating until frosting is of spreading consistency<|endoftext|>

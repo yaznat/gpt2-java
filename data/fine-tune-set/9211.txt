@@ -1,0 +1,1 @@
+Fix grammar in this sentence: The cyclamen is strong plants, and a beautiful flower blooms every year.<|endoftext|>The cyclamen is a strong plant, and a beautiful flower blooms every year.<|endoftext|>

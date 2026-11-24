@@ -1,0 +1,13 @@
+Please generate a beans recipe.<|endoftext|>Asian Green Beans In A Snap
+
+Ingredients:
+• Cut green beans
+• Onion
+• Garlic clove
+• Soy sauce
+• Bacon
+
+Steps:
+1. Cook the onion and garlic in a little oil until tender
+2. Add the soy sauce and green beans, and cook until hot, stirring frequently
+3. Stir in bacon and serve<|endoftext|>

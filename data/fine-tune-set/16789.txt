@@ -1,0 +1,13 @@
+Give me a recipe for a milkshake.<|endoftext|>Ice Creamless Milkshake
+
+Ingredients:
+• Chocolate syrup
+• Sugar-free vanilla syrup
+• Ice cubes
+• Milk
+
+Steps:
+1. Put ice cubes into blender
+2. Pour in chocolate syrup, vanilla syrup and milk
+3. Blend until the noise of big chunks knocking together stops
+4. Pour into glass and enjoy!<|endoftext|>

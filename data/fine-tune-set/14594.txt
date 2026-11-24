@@ -1,0 +1,14 @@
+Generate a recipe for rice.<|endoftext|>15 Minute Microwaved Rice
+
+Ingredients:
+• Basmati rice
+• Chicken broth
+• Salt and pepper
+
+Steps:
+1. Place the rice in a strainer and rinse it well under cold running water
+2. Combine the rice and broth in a microwave-safe bowl
+3. Season with salt and pepper
+4. Place the bowl in the oven and microwave on high power for about 15 minutes
+5. Stir
+6. Cover and let rest for 10 minutes<|endoftext|>

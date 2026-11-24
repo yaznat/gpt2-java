@@ -1,0 +1,11 @@
+Please generate a cocktail recipe.<|endoftext|>Banana Sunrise Cocktail
+
+Ingredients:
+• Pina colada nonalcoholic drink mix
+• Coconut rum
+• Creme de banane
+• Orange juice
+
+Steps:
+1. Pour all the ingredients into a cocktail shaker with ice
+2. Shake well and strain into a highball glass before serving<|endoftext|>

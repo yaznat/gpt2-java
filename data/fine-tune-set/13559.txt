@@ -1,0 +1,19 @@
+Please generate a beef recipe.<|endoftext|>Bachelor Beef Stew
+
+Ingredients:
+• Onions
+• Stewing beef
+• Carrots
+• Celery
+• Tomatoes
+• Tomato sauce
+• Potatoes
+• Tapioca
+• Salt
+
+Steps:
+1. Place all ingredients in a heavy 5 quart pot with tightly fitting cover
+2. Bake in 300 degree oven for 5 hours
+3. Do not open oven at any time
+4. Do not increase amounts of ingredients
+5. Turns out perfect every time<|endoftext|>

@@ -1,0 +1,17 @@
+Please generate a chili recipe.<|endoftext|>Almost Instant Black Bean Chili
+
+Ingredients:
+• Water
+• Onion
+• Garlic cloves
+• Bell pepper
+• Crushed tomatoes
+• Black beans
+• Chilies
+• Ground cumin
+
+Steps:
+1. In a large skillet or pot, heat the water
+2. Add onion, garlic, and pepper
+3. Cook over high heatstirring oftenfor about 5 minutes or until onion is translucent
+4. Add remaining ingredients and simmerstirring occasionallyfor about 15 minutes or until flavors are blended<|endoftext|>

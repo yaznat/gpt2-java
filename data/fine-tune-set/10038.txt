@@ -1,0 +1,19 @@
+Give me a chili recipe.<|endoftext|>40 Minute Chili
+
+Ingredients:
+• Hamburger
+• Onion
+• Beans
+• Tomato soup
+• Tomato juice
+• Water
+• Chili powder
+• Salt
+• Garlic salt
+• Pepper
+• Paprika
+
+Steps:
+1. Brown meat and onions and drain fat
+2. Add remaining ingredients
+3. Simmer for 45 minutes<|endoftext|>

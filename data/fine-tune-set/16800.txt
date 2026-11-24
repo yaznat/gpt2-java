@@ -1,0 +1,10 @@
+Give me a recipe for a milkshake.<|endoftext|>Mango Milkshakes
+
+Ingredients:
+• Milk
+• Mangoes
+• Sugar
+
+Steps:
+1. Mix all the ingredients in a blender for about a minute
+2. Serve cold<|endoftext|>

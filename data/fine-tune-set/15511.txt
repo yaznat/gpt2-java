@@ -1,0 +1,18 @@
+Generate a recipe for a burger.<|endoftext|>Bbq Cheeseburger Bake
+
+Ingredients:
+• Ground chuck
+• Tomato sauce
+• Ketchup
+• Brown sugar
+• Mustard
+• American cheese
+• Refrigerated biscuits
+
+Steps:
+1. Brown ground chuck and drain off fat
+2. Mix together all the ingredients
+3. Pour into 8x8 baking dish
+4. Put slices of cheese on top
+5. Put biscuits on top
+6. Bake@ 350 for 15 minutes or until biscuits are brown<|endoftext|>

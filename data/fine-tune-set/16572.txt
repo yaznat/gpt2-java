@@ -1,0 +1,13 @@
+Give me a smoothie recipe.<|endoftext|>Banana Chocolate Strawberry Smoothie
+
+Ingredients:
+• Light vanilla soymilk
+• Banana
+• Strawberry slices
+• Light chocolate syrup
+
+Steps:
+1. Measure all your ingredients into a blender
+2. Blend until well mixed
+3. Serve right away with a straw, if desired
+4. You can add a little chocolate sauce on top for presentation, if desired<|endoftext|>

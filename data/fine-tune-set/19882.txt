@@ -1,0 +1,12 @@
+Please generate a fries recipe.<|endoftext|>Kicked Up French Fries
+
+Ingredients:
+• Frozen french fries
+• Oil
+• Smoked paprika
+
+Steps:
+1. Pour frozen french fries in bowl
+2. Toss with oil and smoked paprika
+3. Bake according to package directions or until desired crispiness
+4. Enjoy<|endoftext|>

@@ -1,0 +1,16 @@
+Give me a milkshake recipe.<|endoftext|>Cantaloupe Milkshakes
+
+Ingredients:
+• Cantaloupe
+• Milk
+• Sugar
+• Ice
+• Cardamom
+
+Steps:
+1. Fill one cup measure with cantaloupe
+2. Pour milk over cantaloupe until cup is filled to the top
+3. Pour milk and cantaloupe into blender
+4. Add ice, sugar and cardamom
+5. Blend until smooth and creamy
+6. Serve immediately<|endoftext|>

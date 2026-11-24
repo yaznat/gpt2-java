@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: If temperature in a room is 28C or over, they must turn on the air conditioner.<|endoftext|>If the temperature in a room is 28C or over, they must turn on the air conditioner.<|endoftext|>

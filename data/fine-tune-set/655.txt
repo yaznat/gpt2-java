@@ -1,0 +1,1 @@
+Fix grammatical mistakes in this sentence: Based on their scores of the Center Test, people determine the universities they want.<|endoftext|>Based on their scores on the Center Test, people determine the universities they want.<|endoftext|>

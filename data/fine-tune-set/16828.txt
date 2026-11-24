@@ -1,0 +1,17 @@
+Generate a recipe for a milkshake.<|endoftext|>Peanut Butter Banana Carob Milkshake
+
+Ingredients:
+• Banana
+• Light vanilla soymilk
+• Carob powder
+• Peanut butter
+• Sugar
+• Ice cubes
+• Cinnamon
+
+Steps:
+1. If using carob chips, place the peanut butter and chips in the microwave-safe bowl and microwave on high for about 7-10 seconds, or until the mixture is smooth and pourable
+2. Spoon into blender along with banana, soy milk, and ice cubes
+3. If using carob powder, combine in blender along with banana, soy milk, peanut butter, sugar, and ice cubes
+4. For both: blend until smooth
+5. Sprinkle with cinnamon to taste<|endoftext|>

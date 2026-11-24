@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: it is amazing sport.<|endoftext|>It is an amazing sport.<|endoftext|>

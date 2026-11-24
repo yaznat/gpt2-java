@@ -1,0 +1,12 @@
+Can you give me a milkshake recipe?<|endoftext|>Candy Apple Milkshake
+
+Ingredients:
+• Dulce de leche ice cream
+• Apple cider
+• Rice milk
+• Nuts
+• Whipped cream
+
+Steps:
+1. Put ice cream, milk and cider in blender and mix
+2. Garnish with whipped cream and nuts<|endoftext|>

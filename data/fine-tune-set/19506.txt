@@ -1,0 +1,16 @@
+Please generate a potato recipe.<|endoftext|>Aish S Grated Potato Kugel
+
+Ingredients:
+• Potatoes
+• Onions
+• Oil
+• Eggs
+• Salt
+• Pepper
+• Potato flour
+
+Steps:
+1. Beat eggs until thick
+2. Stir in potatoes and rest of ingredients
+3. Grease dish
+4. Bake at 350 degrees f for 1 hour until browned<|endoftext|>

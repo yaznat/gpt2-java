@@ -1,0 +1,17 @@
+Generate a recipe for a taco.<|endoftext|>Bratwurst Tacos
+
+Ingredients:
+• Bratwursts
+• 8-inch flour tortillas
+• Cheddar cheese
+• Iceberg lettuce
+• Onion
+• Tomatoes
+• Salsa
+
+Steps:
+1. Grill brats over warm coals until cooked through, about 20-25 minutes
+2. Warm tortillas briefly in the microwave, until softened
+3. On flour tortilla, place a cooked brat, some of the cheese, lettuce, onion, and tomato
+4. Top with salsa
+5. Serve at once<|endoftext|>

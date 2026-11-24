@@ -1,0 +1,1 @@
+Fix grammar in this sentence: This concern is reasonable because if the surgeon is not familiar with the system, he may take longer time for the surgery and thus create a risk.<|endoftext|>This concern is reasonable because if the surgeon is not familiar with the system, he may take a longer time for the surgery, thus creating a risk.<|endoftext|>

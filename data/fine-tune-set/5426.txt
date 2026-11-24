@@ -1,0 +1,1 @@
+Fix grammar in this sentence: After a few lessons you will be able to go diving on yourself and enjoy the sensation of freedom that provides you this sport.<|endoftext|>After a few lessons, you will be able to go diving by yourself and enjoy the sensation of freedom that this sport gives you.<|endoftext|>

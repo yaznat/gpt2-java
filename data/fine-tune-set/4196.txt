@@ -1,0 +1,1 @@
+Remove all grammatical errors from this text: I think you know that I have a friend which is a teacher.<|endoftext|>I think you know that I have a friend who is a teacher.<|endoftext|>

@@ -1,0 +1,10 @@
+Please generate a smoothie recipe.<|endoftext|>Blu Ban O Smoothie
+
+Ingredients:
+• Bananas
+• Blueberries
+• Orange
+• Water
+
+Steps:
+1. Blend until smooth and serve<|endoftext|>

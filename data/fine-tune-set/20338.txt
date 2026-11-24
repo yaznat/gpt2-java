@@ -1,0 +1,16 @@
+Generate a recipe for stir fry.<|endoftext|>Courgette And Mushroom Stir Fry
+
+Ingredients:
+• Oil
+• Garlic cloves
+• Mushrooms
+• Courgettes
+• Sherry wine
+
+Steps:
+1. Heat oil in a pan or wok
+2. Saute the garlic for 1 minute before adding the vegetables
+3. Toss to coat
+4. Cover and cook on medium to low heat until courgettes are tender
+5. Stir in the sherry
+6. Serve hot<|endoftext|>

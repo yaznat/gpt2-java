@@ -1,0 +1,13 @@
+Please generate a fries recipe.<|endoftext|>Figure Friendly French Fries
+
+Ingredients:
+• Sweet potatoes
+• Egg whites
+• Season salt
+
+Steps:
+1. Peel potatos
+2. Cut potatos into strips
+3. Brush potatos with egg whites, be sure to all sides are coated
+4. Sprinkle all sides with season salt
+5. Bake at 375 for about 30 minutes or until they reach desired crispiness<|endoftext|>

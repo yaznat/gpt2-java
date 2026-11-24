@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: First of all, I make my every effort to do my job better, however, they only consider that I waste my time doing wrong thing.<|endoftext|>First of all, I make every effort to do my job better, but they only consider that I waste my time doing the wrong thing.<|endoftext|>

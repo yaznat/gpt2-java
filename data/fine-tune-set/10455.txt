@@ -1,0 +1,20 @@
+Please generate a cookie recipe.<|endoftext|>Any Flavour Cookies
+
+Ingredients:
+• Margarine
+• Sugar
+• Vanilla
+• Baking powder
+• Salt
+• Flour
+• Liquid
+
+Steps:
+1. Cream margarine and vanilla with sugar
+2. Mix salt and baking powder with flour
+3. Incorporate into margarine mixture, alternating with the liquid
+4. If they are too dry, add a little bit of liquid
+5. Preheat oven to 350f
+6. Roll into 1-inch balls and place on a cookie sheet
+7. Flatten slightly with a fork
+8. Bake 25-30 minutes, until bottoms are nice and golden<|endoftext|>

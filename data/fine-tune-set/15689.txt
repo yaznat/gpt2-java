@@ -1,0 +1,15 @@
+Please give me a recipe for a taco.<|endoftext|>Cheesy Taco Sloppy Joes
+
+Ingredients:
+• Ground beef
+• Tomato soup
+• Salsa
+• Cheddar cheese
+• Hamburger buns
+
+Steps:
+1. In skillet, brown the beef
+2. Add in the soup and salsa
+3. Combine well
+4. Sprinkle cheese on top
+5. Serve on buns<|endoftext|>

@@ -1,0 +1,16 @@
+Give me a recipe for a milkshake.<|endoftext|>Mocha Caramel Kahlua Milkshake
+
+Ingredients:
+• Whole milk
+• Instant espresso powder
+• Chocolate syrup
+• Caramel sauce
+• Vanilla ice cream
+• Kahlua
+• Whipped cream
+• Chocolate-covered coffee beans
+
+Steps:
+1. Combine the milk, espresso powder, chocolate syrup, caramel sauce, and kahlua in a blender and blend until combined, about 5 seconds
+2. Add the ice cream and blend until smooth, about 10 seconds
+3. Serve immediately, garnished with the whipped cream and chocolate-covered espresso beans and a drizzle of caramel sauce, if desired<|endoftext|>

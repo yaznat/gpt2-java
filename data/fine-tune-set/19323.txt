@@ -1,0 +1,13 @@
+Give me a recipe for a popsicle.<|endoftext|>Strawberry Popsicle
+
+Ingredients:
+• Strawberry
+• Water
+• Sugar
+• Lime
+
+Steps:
+1. Mix everything
+2. Pour them in popsicle moulds or in little cups
+3. Freeze
+4. Serve<|endoftext|>

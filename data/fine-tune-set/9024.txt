@@ -1,0 +1,1 @@
+Fix grammar in this sentence: I am sure only about one thing: technologies will have a more important place in our lives.<|endoftext|>I am only sure about one thing: technologies will have a more important place in our lives.<|endoftext|>

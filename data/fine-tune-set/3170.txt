@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: When I entered high school, I was interested in wind orchestra on the school.<|endoftext|>When I entered high school, I was interested in the school's wind orchestra on the school.<|endoftext|>

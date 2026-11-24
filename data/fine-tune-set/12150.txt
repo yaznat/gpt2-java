@@ -1,0 +1,25 @@
+Give me a recipe for pie.<|endoftext|>Apple Bacon Pancake Pie
+
+Ingredients:
+• Butter
+• Onion
+• Bacon
+• Pears
+• Apples
+• Thyme
+• Flour
+• Milk
+• Eggs
+• Salt
+
+Steps:
+1. Heat butter in a large frying pan
+2. Add onion and bacon and cook until softened
+3. Stir in pears, apples and thyme, and cook until heated through
+4. Place flour in a small bowl
+5. Add eggs and remaining milk and beat until smooth
+6. Whisk in salt
+7. Spread fruit over bottom of a 9x13-inch baking pan
+8. Pour batter on top
+9. Bake in 350f oven for 30 minutes until puffed and lightly browned
+10. Cut in squares and serve with warmed maple syrup<|endoftext|>

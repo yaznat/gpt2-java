@@ -1,0 +1,14 @@
+Please generate a fries recipe.<|endoftext|>Frieten Belgian French Fries
+
+Ingredients:
+• Potato
+• Salt
+• Oil
+
+Steps:
+1. Cut the potatoes in the form of french fries and rinse them well with water
+2. Make them dry with a clean dish cloth
+3. Deep fry them 5 minutes at 150 degrees celsius,
+4. Take them out of the oil and leave them to cool down
+5. Heat the oil to 180 degrees celsius and deep fry the fries until they are crispy on the outside and golden brown
+6. Sprinkle with salt and serve with mayonnaise<|endoftext|>

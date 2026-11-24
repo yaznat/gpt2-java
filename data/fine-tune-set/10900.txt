@@ -1,0 +1,15 @@
+Give me a salad recipe.<|endoftext|>Albanian Tomato Cucumber Salad
+
+Ingredients:
+• Tomatoes
+• Cucumber
+• Onion
+• Green pepper
+• Olive oil
+• Feta cheese
+• Kalamata olive
+
+Steps:
+1. Combine tomatoes, cucumber, onion, and peppers in a mixing bowl and toss
+2. Drizzle the olive oil over the salad and season with salt to taste
+3. Garnish with olives and cheese<|endoftext|>

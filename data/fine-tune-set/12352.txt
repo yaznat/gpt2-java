@@ -1,0 +1,22 @@
+Please generate a soup recipe.<|endoftext|>African Peanut Tomato Soup
+
+Ingredients:
+• Peanut oil
+• Garlic clove
+• Chopped tomatoes
+• Tomato paste
+• Creamy peanut butter
+• Chicken broth
+• Balsamic vinegar
+• Cayenne pepper
+• Kosher salt
+• White rice
+• Scallions
+• Salted peanuts
+
+Steps:
+1. In a medium saucepan over medium, heat the oil and garlic for 1 minute
+2. Add the tomatoes, tomato paste, peanut butter, broth, vinegar, cayenne, and salt, whisk to combine
+3. Bring to a boil
+4. Add the rice, reduce heat to low, cover and cook for 20 minutes
+5. Garnish with scallions and peanuts<|endoftext|>

@@ -1,0 +1,1 @@
+Fix grammaticality of the sentence: Maybe you spend more hours than travelling by car but I think it worth it, because you can save money.<|endoftext|>Maybe you spend more hours than traveling by car, but I think it is worth it because you can save money.<|endoftext|>

@@ -1,0 +1,1 @@
+Fix grammar errors: In the centre of the park there is a shaft which is The shaft is beautifully illuminated at night.<|endoftext|>In the center of the park, there is a shaft which is. The shaft is beautifully illuminated at night.<|endoftext|>

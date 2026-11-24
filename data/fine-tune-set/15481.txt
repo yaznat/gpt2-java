@@ -1,0 +1,15 @@
+Give me a recipe for a burger.<|endoftext|>Barbecue Feta Turkey Burgers
+
+Ingredients:
+• Ground turkey
+• Feta cheese
+• Olives
+• Dried oregano
+• Black pepper
+
+Steps:
+1. In a large bowl, mix together the turkey, feta cheese, olives, oregano, and pepper until well blended
+2. Divide the mixture into 4 or 6 and form each portion into balls
+3. Turn each ball onto a lightly floured surface and pres between two plates to form burgers
+4. Cook over hot coals for 10 to 12 minutes, turning halfway through
+5. Serve hot<|endoftext|>

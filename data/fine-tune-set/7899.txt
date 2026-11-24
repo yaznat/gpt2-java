@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: This is because the Chernobyl accident caused many direct fatalities in the explosion and future fatalities due to the effects of nuclear radiations.<|endoftext|>This is because the Chornobyl accident caused many direct fatalities in the explosion and future fatalities due to the effects of nuclear radiation.<|endoftext|>

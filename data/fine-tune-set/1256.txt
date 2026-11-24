@@ -1,0 +1,1 @@
+Fix grammaticality of the sentence: In spite of having detailed and careful design, if the company decided to cut edges especially in safety, it is very likely that accidents can still occur.<|endoftext|>In spite of having a detailed and careful design, if the company decides to cut edges, especially for safety, it is very likely that accidents can still occur.<|endoftext|>

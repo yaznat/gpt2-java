@@ -1,0 +1,1 @@
+Fix grammar in the sentence: Stephan still listening to the music and crossing the street.<|endoftext|>Stephan was still listening to music and crossing the street.<|endoftext|>

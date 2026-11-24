@@ -1,0 +1,20 @@
+Please give me a recipe for a sandwich.<|endoftext|>Apple Wrap Sandwich
+
+Ingredients:
+• Apples
+• Water
+• Lemon juice
+• Fat-free mayonnaise
+• Mustard
+• Low-fat flour tortillas
+• Ham
+• Nonfat cheddar cheese
+• Lettuce
+
+Steps:
+1. Core apples, but do not peel
+2. Cut apples into thin slices and place in a bowl with water and lemon juice to prevent browning
+3. In a small bowl, mix mayonnaise and mustard
+4. Remove apples from bowl and pat dry
+5. Spread each tortilla with mayonnaise mixture, layer with 2 slices of ham, 2 slices of cheese, apple slices and lettuce
+6. Roll tortillas tightly and cut in half diagonally<|endoftext|>

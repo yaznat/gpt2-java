@@ -1,0 +1,25 @@
+Give me a recipe for pancakes.<|endoftext|>Baked Apple Pancake
+
+Ingredients:
+• Unsalted butter
+• Sugar
+• Cinnamon
+• Granny smith apples
+• Eggs
+• Milk
+• Sour cream
+• Flour
+• Lemon zest
+• Confectioners' sugar
+
+Steps:
+1. Preheat oven to 400 degrees
+2. In a 10-inch ovenproof skillet, melt the butter over medium-high heat
+3. Stir in the sugar and cinnamon, and then add the apples and saute until soft
+4. In a medium mixing bowl, beat eggs until frothy
+5. Beat in the milk and sour cream
+6. Add the flour and beat well
+7. Stir in the lemon zest
+8. Pour the batter over the hot apples in the skillet
+9. Bake for 12 to 15 minutes until browned and puffy
+10. Dust with the confectioner's sugar and serve at once<|endoftext|>

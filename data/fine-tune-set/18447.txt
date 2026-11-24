@@ -1,0 +1,16 @@
+Give me a recipe for waffles.<|endoftext|>Cream Waffles
+
+Ingredients:
+• Whipping cream
+• Flour
+• Ice water
+• Butter
+• Powdered sugar
+
+Steps:
+1. Whip the cream until stiff
+2. Fold in the flour, then the ice water
+3. Chill 1 hour
+4. Melt the butter and stir into the batter
+5. Spoon a little batter into each section of a heated waffle iron and bake until brown
+6. Sprinkle with powdered sugar and serve hot<|endoftext|>

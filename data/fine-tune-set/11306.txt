@@ -1,0 +1,12 @@
+Can you give me a bread recipe?<|endoftext|>Grilled Ranch Bread
+
+Ingredients:
+• Butter
+• Dry ranch dressing mix
+• French bread
+
+Steps:
+1. Cream the butter with the dressing mix
+2. Spread evenly on the bread halves
+3. Place under the broiler for 2-3 minutes, until golden and the butter begins to seep and bubble
+4. Serve hot<|endoftext|>

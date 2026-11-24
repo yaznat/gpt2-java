@@ -1,0 +1,17 @@
+Please generate a ice cream recipe.<|endoftext|>Buttermilk Fudge Ice Cream
+
+Ingredients:
+• Sugar
+• Unsweetened cocoa
+• Milk
+• Buttermilk
+• Vanilla
+
+Steps:
+1. In saucepan, combine sugar and nonsweetened cocoa
+2. Add milk and heat
+3. Stir until sugar dissolves
+4. Cool
+5. Beat smooth buttermilk and vanilla
+6. Combine with chocolate milk
+7. Chill and stir freeze<|endoftext|>

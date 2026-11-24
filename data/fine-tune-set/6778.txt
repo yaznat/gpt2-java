@@ -1,0 +1,1 @@
+Fix grammar in this sentence: Therefore, compulsory service at in the army gives special military knowledge, which helps the population to protect their country during a military conflict.<|endoftext|>Therefore, compulsory service in the army gives special military knowledge, which helps the population protect their country during a military conflict.<|endoftext|>

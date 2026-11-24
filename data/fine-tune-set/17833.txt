@@ -1,0 +1,24 @@
+Generate a recipe for muffins.<|endoftext|>Banana Apple Oatmeal Muffins
+
+Ingredients:
+• Butter
+• Sugar
+• Eggs
+• Banana
+• Apple
+• Honey
+• All-purpose flour
+• Quick-cooking oats
+• Baking powder
+• Baking soda
+• Salt
+
+Steps:
+1. In a mixing bowl, cream butter and sugar
+2. Add eggs, bananas, apple and honey
+3. Mix well
+4. Combine dry ingredients
+5. Stir into creamed mixture just until moistened
+6. Fill paper-lined muffin cups two-thirds full
+7. Bake at 350 degrees f for 15-18 minutes or until muffins test done
+8. Cool in pan 10 minutes before removing to a wire rack<|endoftext|>

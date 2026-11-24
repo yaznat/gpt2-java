@@ -1,0 +1,21 @@
+Give me a recipe for fries.<|endoftext|>Cheesy Seasoned Oven Fries
+
+Ingredients:
+• Parmesan cheese
+• Garlic salt
+• Onion powder
+• Paprika
+• Cayenne
+• Rosemary
+• Baking potatoes
+• Vegetable oil
+
+Steps:
+1. Preheat oven to 425
+2. Grease large baking pan
+3. Combine parmesan cheese and rest of seasonings into a large resealable plastic bag
+4. Combine potatoes and oil in bowl, stir well, covering all potatoes in oil
+5. Add potatoes to bag with seasonings
+6. Shake to coat all
+7. Arrange potatoes in pan bake for 10 minute
+8. Turn over potatoes and bake for another 10 minute<|endoftext|>

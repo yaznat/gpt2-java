@@ -1,0 +1,1 @@
+Fix grammar in the sentence: However I took some pictures by the back camera of the iPad 2, and the quality of their pictures were better than I thought.<|endoftext|>However, I took some pictures with the back camera of the iPad 2, and the quality of their pictures was better than I thought.<|endoftext|>

@@ -1,0 +1,19 @@
+Generate a recipe for a burrito.<|endoftext|>Beef And Bean Burrito Filling
+
+Ingredients:
+• Oil
+• Onion
+• Garlic
+• Ground beef
+• Chili powder
+• Cumin
+• Salt and pepper
+• Tomato sauce
+• Refried beans
+
+Steps:
+1. Saute the onion in the oil until tender
+2. Add the beef and garlic and cook until meat is no longer pink
+3. Add the chili powder, cumin and other seasonings
+4. Stir in tomato sauce and simmer for five minutes
+5. Add refried beans and cook and stir until well blended<|endoftext|>

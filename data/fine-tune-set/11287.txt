@@ -1,0 +1,10 @@
+Give me a recipe for sushi.<|endoftext|>Sushi Vinegar
+
+Ingredients:
+• Rice vinegar
+• Sugar
+• Salt
+
+Steps:
+1. Combine the vinegar ingredients in and a sauce pan and heat slowly till the sugar has dissolved, stirring constantly
+2. Remove from heat<|endoftext|>

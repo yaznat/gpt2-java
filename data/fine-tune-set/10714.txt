@@ -1,0 +1,18 @@
+Give me a pasta recipe.<|endoftext|>Bacon Tomato Presto Pasta
+
+Ingredients:
+• Bacon
+• Cherry tomatoes
+• Chive & onion cream cheese
+• Milk
+• Parmesan cheese
+• Cooked penne
+
+Steps:
+1. Cook bacon in skillet 5 minute or until bacon is crisp, stirring occasionally
+2. Drain skillet, leaving bacon in skillet
+3. Stir in cherry tomatoes
+4. Add cream cheese spread, milk and parmesan cheese
+5. Mix well
+6. Cook until hot and bubbly, stirring frequently
+7. Stir in pasta<|endoftext|>

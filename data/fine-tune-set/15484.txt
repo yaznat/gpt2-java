@@ -1,0 +1,19 @@
+Give me a burger recipe.<|endoftext|>Barbecue In The Burgers
+
+Ingredients:
+• Ground beef
+• Scallion
+• Lemon, zest of
+• Tomato paste
+• Garlic cloves
+• Brown sugar
+• Soy sauce
+• Chili powder
+• Dijon mustard
+• Black pepper
+• Kosher salt
+
+Steps:
+1. Add all ingredients, except salt, to a large bowl
+2. Combine ingredients by lightly folding with fingers
+3. Shape into 6-8 patties, sprinkle both sides with salt and grill or pan fry until juices run clear when pierced with a fork<|endoftext|>

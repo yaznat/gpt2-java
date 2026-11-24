@@ -1,0 +1,19 @@
+Generate a recipe for a taco.<|endoftext|>Cheap Easy Taco Bake
+
+Ingredients:
+• Ground beef
+• Taco seasoning
+• Baking mix
+• Refried beans
+• Green chilies
+• Water
+• Salsa
+• Cheddar cheese
+
+Steps:
+1. Preheat oven to 375f
+2. Prepare the ground beef and taco seasoning mix according to package directions
+3. While meat is browning, mix baking mix, beans, green chilies and water
+4. Spread bean mixture in the bottom of a 2-quart casserole dish
+5. Top with meat, salsa, then cheese
+6. Bake for 25 minutes<|endoftext|>

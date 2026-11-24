@@ -1,0 +1,18 @@
+Generate a recipe for pizza.<|endoftext|>Artichoke And Red Pepper Pizza
+
+Ingredients:
+• Boboli thin pizza shell
+• Olive oil
+• Red bell pepper
+• Dried basil
+• Dried oregano
+• Garlic
+• Artichoke hearts
+• Mushrooms
+• Part-skim mozzarella cheese
+• Fresh cracked pepper
+
+Steps:
+1. Heat oil in a nonstick skillet, simmer ingredients until tender
+2. Place on boboli shell and top with cheese
+3. Bake at directions on boboli package<|endoftext|>

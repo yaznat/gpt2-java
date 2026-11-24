@@ -1,0 +1,14 @@
+Give me a recipe for cookies.<|endoftext|>5 Layer Cookies
+
+Ingredients:
+• Butter
+• Coconut
+• Butterscotch chips
+• Walnuts
+• Sweetened condensed milk
+• Graham cracker
+• Chocolate
+
+Steps:
+1. Arrange in layers in order given in 9x9 pan
+2. Bake at 350 for 20 minutes<|endoftext|>

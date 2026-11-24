@@ -1,0 +1,1 @@
+Fix grammatical mistakes in this sentence: Even though some say that by revealing the result, one's family will also get depressed and this will affect the whole family.<|endoftext|>Even though some say that by revealing the result, one's family will also get depressed, and this will affect the whole family,<|endoftext|>

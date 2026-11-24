@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: We decided to go skating on the next weekend at the park, which has a wide walk path by the sea.<|endoftext|>We decided to go skating the next weekend at the park, which has a wide path by the sea.<|endoftext|>

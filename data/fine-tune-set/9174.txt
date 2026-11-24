@@ -1,0 +1,1 @@
+Fix grammar in the sentence: John draw a sketch to see how it was going to look.<|endoftext|>John drew a sketch to see how it was going to look.<|endoftext|>

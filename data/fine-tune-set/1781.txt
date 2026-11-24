@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: The municipal board of Clayton does an excellent job in educating its people to keep the environment in a healthy state.<|endoftext|>The municipal board of Clayton does an excellent job of educating its people to keep the environment in a healthy state.<|endoftext|>

@@ -1,0 +1,1 @@
+Fix grammaticality: Drinking beer on hot day is very nice!<|endoftext|>Drinking beer on a hot day is very nice!<|endoftext|>

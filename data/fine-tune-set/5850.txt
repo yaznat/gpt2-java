@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: On the following Sunday, as discussed, trees were planted and before we realized, they started adding beauty to our town.<|endoftext|>On the following Sunday, as discussed, trees were planted, and before we realized it, they started adding beauty to our town.<|endoftext|>

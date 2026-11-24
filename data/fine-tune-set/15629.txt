@@ -1,0 +1,15 @@
+Generate a recipe for a taco.<|endoftext|>Bird S Ultimate Taco Salad
+
+Ingredients:
+• Doritos
+• Chili with beans
+• Monterey jack and cheddar cheese blend
+• Lettuce
+• Tomatoes
+• Sour cream
+
+Steps:
+1. Onto two plates, arrange doritos
+2. Heat chili, and pour over doritos
+3. Top with half the cheese, then lettuce, then tomatoes
+4. Add a dollop of sour cream onto each serving, then sprinkle with remaining cheese and serve<|endoftext|>

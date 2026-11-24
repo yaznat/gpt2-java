@@ -1,0 +1,19 @@
+Please generate a cookie recipe.<|endoftext|>Anise Almond Cookies
+
+Ingredients:
+• Flour
+• Almonds
+• Salt
+• Butter
+• Sugar
+• Egg
+• Anise extract
+
+Steps:
+1. Heat oven to 350 degrees
+2. Mix flour, almonds and salt, set aside
+3. Beat butter and sugar until creamy
+4. Blend in egg and extract
+5. Gradually mix in flour mixture
+6. Drop by rounded tablespoon onto ungreased cookie sheet
+7. Bake 10 - 12 minutes until golden brown<|endoftext|>

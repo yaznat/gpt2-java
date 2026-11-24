@@ -1,0 +1,12 @@
+Give me a recipe for salad.<|endoftext|>5 Cup Fruit Salad
+
+Ingredients:
+• Sour cream
+• Shredded coconut
+• Marshmallows
+• Mandarin orange
+• Crushed pineapple
+
+Steps:
+1. Place all ingredients in a bowl and mix thoroughly
+2. Place in refrigerator at least 12 hours prior to serving to allow setup<|endoftext|>

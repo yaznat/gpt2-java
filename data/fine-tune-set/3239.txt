@@ -1,0 +1,1 @@
+Improve the grammaticality of this text: This is not new movie but since someone said to me that it was interesting movie, I bought it at Amazon.<|endoftext|>This is not a new movie, but since someone said told me that it was an interesting movie, I bought it at Amazon.<|endoftext|>

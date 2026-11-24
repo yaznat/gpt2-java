@@ -1,0 +1,10 @@
+Please generate a cocktail recipe.<|endoftext|>Corpse Reviver Cocktail Beverage
+
+Ingredients:
+• Brandy
+• Calvados
+• Vermouth
+
+Steps:
+1. Put all ingredients into a sml shaker w / ice
+2. Shake & then strain into a 3 oz serving glass<|endoftext|>

@@ -1,0 +1,23 @@
+Give me a recipe for rice.<|endoftext|>5 Spice Beef Rice
+
+Ingredients:
+• Ground beef
+• Onion
+• Pepper
+• Bay leaf
+• Garlic powder
+• Thyme
+• Oregano
+• Mushroom soup
+• Tomatoes
+• Brown rice
+• Olive
+
+Steps:
+1. Brown meat and onion
+2. Stir in seasonings, soup, tomatoes and rice
+3. You may need a little bit of extra water if using brown instant rice
+4. Bring to a boil, and then reduce the heat
+5. Simmer for 5 to 10 minutes, stirring occasionally, until rice is cooked
+6. Serve with sliced olives
+7. Salt and pepper to taste<|endoftext|>

@@ -1,0 +1,1 @@
+Improve the grammaticality of this text: I arrived at the school with all the energy, and I decided that this semester will be better than the other.<|endoftext|>I arrived at school with all the energy, and I decided that this semester would be better than the last.<|endoftext|>

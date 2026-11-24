@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: While in America, there may be not night, and American people will be looking at blue sky.<|endoftext|>While in America, there may be might not be night, and American people will be looking at a blue sky.<|endoftext|>

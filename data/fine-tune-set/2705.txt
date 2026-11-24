@@ -1,0 +1,1 @@
+Fix grammar in this sentence: That was an expensive watch and was not water resistant.<|endoftext|>That It was an expensive watch and was not water resistant.<|endoftext|>

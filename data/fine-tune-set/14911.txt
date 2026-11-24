@@ -1,0 +1,21 @@
+Give me a fried rice recipe.<|endoftext|>Fried Rice Chow Fun
+
+Ingredients:
+• Rice
+• Bacon
+• Eggs
+• Meat
+• Green onions
+• Fresh bean sprout
+• Mushrooms
+• Salt
+• Black pepper
+• Soy sauce
+
+Steps:
+1. Cook bacon til lightly browned but not crunchy and set aside
+2. Add beaten eggs to bacon drippings and scramble
+3. Remove and chop very fine
+4. Add cooked rice and fry for approximately 5 minutes stirring constantly then add remaining ingredients
+5. Mix well and continue cooking for 10 minutes longer
+6. Serve piping hot<|endoftext|>

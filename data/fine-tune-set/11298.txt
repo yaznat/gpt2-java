@@ -1,0 +1,16 @@
+Generate a recipe for sushi.<|endoftext|>Tuna Salad Sushi
+
+Ingredients:
+• Light chunk tuna in water
+• Mayonnaise
+• Celery
+• Flour tortillas
+• Carrots
+
+Steps:
+1. In a mixing bowl, stir together tuna, mayonnaise and celery, breaking up any large chunks of tuna
+2. Place half of the tuna salad on each tortilla in a line, slightly below the center of the tortilla
+3. Make a line of carrot strips along the middle of the tuna salad
+4. Roll into a cylinder, sushi-fashion
+5. Trim ends and cut each roll across into 6 pieces
+6. Place into resealable lunch containers, cut side up<|endoftext|>

@@ -1,0 +1,1 @@
+Remove all grammatical errors from this text: In conclusion I think that all forms of art are made for the same reason, to communicate something.<|endoftext|>In conclusion, I think that all forms of art are made for the same reason; to communicate something.<|endoftext|>

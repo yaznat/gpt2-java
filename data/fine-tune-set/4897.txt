@@ -1,0 +1,1 @@
+Fix grammaticality of the sentence: This trip I feel boring and happy.<|endoftext|>This trip I felt feel boring and happy.<|endoftext|>

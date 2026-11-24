@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: I tried some ways to sleep, and I've finally found the good way.<|endoftext|>I tried some ways to sleep, and I've finally found the good best way.<|endoftext|>

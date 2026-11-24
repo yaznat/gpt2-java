@@ -1,0 +1,1 @@
+Fix grammaticality of the sentence: First of all, Dogs and cats are a very loyal creatures.<|endoftext|>First of all, dogs and cats are very loyal creatures.<|endoftext|>

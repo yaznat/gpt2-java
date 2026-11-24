@@ -1,0 +1,16 @@
+Please generate a chicken recipe.<|endoftext|>Alice Springs Chicken
+
+Ingredients:
+• Chicken breasts
+• Marbled cheddar and swiss cheese
+• Mushroom
+• Bacon
+• Honey mustard dressing
+
+Steps:
+1. Preheat oven to 350
+2. On each piece of chicken, carefully layer the mushrooms first and then the bacon
+3. Cover and bake for 30-45 minutes or until chicken is cooked through
+4. Remove from oven
+5. Add cheese and bake for 15 minutes uncovered
+6. Serve with a side of honey mustard salad dressing for a real treat!<|endoftext|>

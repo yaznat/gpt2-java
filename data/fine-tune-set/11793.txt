@@ -1,0 +1,19 @@
+Give me a recipe for curry.<|endoftext|>Bacon Curry Coleslaw
+
+Ingredients:
+• Mayonnaise
+• Vinegar
+• Sugar
+• Curry powder
+• Cabbage
+• Raisins
+• Green onions
+• Bacon
+• Peanuts
+
+Steps:
+1. Combine mayonnaise, vinegar, sugar and curry powder
+2. Cover and chill
+3. Combine cabbage, raisins and green onions: cover and chill
+4. Just before serving, combine cabbage mixture, bacon and peanuts in a bowl
+5. Add the mayonnaise mixture to this and toss well to coat<|endoftext|>

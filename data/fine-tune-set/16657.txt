@@ -1,0 +1,11 @@
+Please generate a smoothie recipe.<|endoftext|>Berry Blaster Smoothie
+
+Ingredients:
+• Apple juice
+• Lemonade
+• Berries
+• Sherbet
+
+Steps:
+1. Place all ingredients in blender
+2. Mix on low speed for 30 seconds then blend on high speed until smooth<|endoftext|>

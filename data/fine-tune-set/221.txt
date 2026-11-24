@@ -1,0 +1,1 @@
+Remove grammar mistakes: The artist draw with strong and beautiful taste.<|endoftext|>The artist draw drew with a strong and beautiful taste.<|endoftext|>

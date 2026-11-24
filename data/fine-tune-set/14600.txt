@@ -1,0 +1,22 @@
+Generate a recipe for rice.<|endoftext|>2Bleu S Lemony Rice With Peas Risi E Bisi
+
+Ingredients:
+• Butter
+• Extra virgin olive oil
+• Green onions
+• Rice
+• Peas
+• Lemons, juice and zest of
+• Fresh parsley
+• Salt
+• Black pepper
+• Walnuts
+
+Steps:
+1. Heat butter and oil in large nonstick skillet over medium-high heat
+2. Add all but 2 tablespoons green onions
+3. Saut 30 seconds
+4. Add rice and saut until heated through, about 4 minutes
+5. Add peas, lemon juice, zest, parsley, and salt and pepper
+6. Saut 2 minutes to blend flavors
+7. Garnish with remaining green onions and optional chopped walnuts and serve immediately<|endoftext|>

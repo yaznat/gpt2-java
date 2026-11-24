@@ -1,0 +1,21 @@
+Generate a recipe for a casserole.<|endoftext|>Bacon Egg Casserole
+
+Ingredients:
+• Bacon
+• Eggs
+• Milk
+• Mustard powder
+• Salt
+• Cheddar cheese
+• Bread
+
+Steps:
+1. Grease a 9x13 glass baking dish and set aside
+2. Fry the bacon, drain on paper toweling, cut into 1 inch pieces
+3. Cube the bread into 3 / 4 inch pieces and set aside
+4. In a large bowl, beat the eggs
+5. Add the milk, mustard powder, salt, and blend well
+6. Stir in the bacon, cheese, and bread cubes
+7. Stir well to combine
+8. Pour the mixture into the baking dish, cover with plastic wrap, and refrigerate overnight
+9. Preheat oven to 350f and bake for one hour<|endoftext|>

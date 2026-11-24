@@ -1,0 +1,1 @@
+Fix grammaticality of the sentence: I think I have sufficient background, my GPA is good enough.<|endoftext|>I think I have the appropriate background; my GPA is good enough.<|endoftext|>

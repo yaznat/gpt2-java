@@ -1,0 +1,21 @@
+What's a recipe for brownies?<|endoftext|>Apple Brownies
+
+Ingredients:
+• Butter
+• Brown sugar
+• Granulated sugar
+• Eggs
+• Vanilla
+• All-purpose flour
+• Baking powder
+• Salt
+• Apple
+• Nuts
+
+Steps:
+1. Preheat oven to 350 degrees
+2. Mix butter, sugars, eggs and vanilla
+3. Mix in flour, baking powder and salt
+4. Stir in apples and nuts
+5. Spread into a greased 9x9x2-inch baking pan
+6. Bake for 35-40 minutes, or until toothpick inserted into center comes out clean<|endoftext|>

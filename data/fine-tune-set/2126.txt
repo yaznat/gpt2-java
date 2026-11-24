@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: On the way there everyone who participated in the workshop stopped to buy some snacks.<|endoftext|>On the way there, everyone who participated in the workshop stopped to buy some snacks.<|endoftext|>

@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: China is a big industrial country so there are a great number of factories and trucks.<|endoftext|>China is a big industrial country, so there are a great number of factories and trucks.<|endoftext|>

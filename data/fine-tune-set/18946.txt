@@ -1,0 +1,14 @@
+Give me a custard recipe.<|endoftext|>Custard Filling
+
+Ingredients:
+• Milk
+• Eggs
+• Sugar
+• Salt
+• Nutmeg
+
+Steps:
+1. Scald milk
+2. Add eggs, sugar, and salt
+3. Stir constantly while adding the hot milk
+4. Cool and use in doughnuts, pies, and pastries<|endoftext|>

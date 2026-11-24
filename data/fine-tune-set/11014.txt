@@ -1,0 +1,18 @@
+Give me a sandwich recipe.<|endoftext|>Adam Eve Sandwich
+
+Ingredients:
+• English muffins
+• Ham
+• Hard-boiled eggs
+• Cheddar cheese
+• Prepared mustard
+• Worcestershire sauce
+• Cream
+
+Steps:
+1. Toast english muffins and butter immediately
+2. Place a slice of ham on 4 muffin halves
+3. Place sliced eggs on top of ham
+4. Make a sauce by mixing together the cheese, mustard, worcestershire and cream
+5. Cook slowly until cheese melts
+6. Pour over sandwich halves and top with other half of muffin<|endoftext|>

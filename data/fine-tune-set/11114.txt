@@ -1,0 +1,13 @@
+Please generate a sandwich recipe.<|endoftext|>Bacon Egg Breakfast Spread Sandwiches
+
+Ingredients:
+• Hard-boiled eggs
+• Mayonnaise
+• Bacon
+• Worcestershire sauce
+• Cheddar cheese
+• Whole wheat toast
+
+Steps:
+1. Mix eggs, mayonnaise, bacon, worcestershire sauce, and cheese together until they're a good consistency for spreading
+2. Serve on crackers or bread<|endoftext|>

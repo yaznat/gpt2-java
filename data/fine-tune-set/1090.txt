@@ -1,0 +1,1 @@
+Fix grammar in the sentence: The last step of the design process is to test and implement the solution.<|endoftext|>The last step in the design process is to test and implement the solution.<|endoftext|>

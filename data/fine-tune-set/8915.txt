@@ -1,0 +1,1 @@
+Remove all grammatical errors from this text: She swiftly came beside my bed and gave me a letter.<|endoftext|>She swiftly came to my bed and gave me a letter.<|endoftext|>

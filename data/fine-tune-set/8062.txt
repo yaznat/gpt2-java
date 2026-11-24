@@ -1,0 +1,1 @@
+Fix grammar in this sentence: It depends on where and what kind of place you want to reach and it depends on the time of the day<|endoftext|>It depends on where and what kind of place you want to reach, and it depends on the time of day.<|endoftext|>

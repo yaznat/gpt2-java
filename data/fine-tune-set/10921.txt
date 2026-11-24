@@ -1,0 +1,13 @@
+Generate a recipe for salad.<|endoftext|>Almendras Saladas Salted Almonds Tapas
+
+Ingredients:
+• Blanched almonds
+• Sea salt
+• Sweet paprika
+• Olive oil
+
+Steps:
+1. Pour 1 inch depth of olive oil into a saucepan and heat to 380 degrees
+2. Fry the almonds until lightly golden
+3. Drain, sprinkle with the salt and paprika and mix well
+4. Place in small bowl for tapas serving<|endoftext|>

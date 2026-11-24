@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: But if we speak of the change of people's lives there have to be some more dramatically things.<|endoftext|>But if we speak of the change in people's lives, there have to be some more dramatic things.<|endoftext|>

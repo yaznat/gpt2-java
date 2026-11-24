@@ -1,0 +1,12 @@
+Generate a recipe for a smoothie.<|endoftext|>Beet Smoothie
+
+Ingredients:
+• Cooked beets
+• Baby carrots
+• Unsweetened applesauce
+• Honey
+• Water
+
+Steps:
+1. Blend altogether until you get the consistency you want
+2. You can add more water, or put ice in blender if you want to drink it right away<|endoftext|>

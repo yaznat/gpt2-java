@@ -1,0 +1,1 @@
+Remove all grammatical errors from this text: Furthermore, surveillance technologies also can be used to improve the social security.<|endoftext|>Furthermore, surveillance technologies can also be used to improve social security.<|endoftext|>

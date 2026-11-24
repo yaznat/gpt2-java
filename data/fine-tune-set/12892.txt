@@ -1,0 +1,14 @@
+Please generate a steak recipe.<|endoftext|>Bison Steak Marinade
+
+Ingredients:
+• Olive oil
+• Balsamic vinegar
+• Fresh rosemary
+• Fresh sage
+• Fresh thyme
+• Garlic cloves
+• Lemon, zest of
+
+Steps:
+1. Mix all ingredients together until well combined
+2. Use to marinate steaks at least 2 hours and up to overnight<|endoftext|>

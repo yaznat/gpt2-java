@@ -1,0 +1,13 @@
+Please generate a milkshake recipe.<|endoftext|>Toasted Almond Milkshake
+
+Ingredients:
+• Amaretto
+• Kahlua
+• Vodka
+• Cream
+• Vanilla ice cream
+• Cinnamon
+
+Steps:
+1. Place the first 5 ingredients in a blender with a little ice and blend until creamy
+2. Pour into glass and sprinkle with a touch of cinnamon<|endoftext|>

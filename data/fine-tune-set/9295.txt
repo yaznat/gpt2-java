@@ -1,0 +1,1 @@
+Make the sentence grammatical: So it is when all factors taken into consideration, expensive reactor.<|endoftext|>So when all factors are taken into consideration, it is an expensive reactor.<|endoftext|>

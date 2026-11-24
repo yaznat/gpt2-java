@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: Now, I not only work hard, but also think about my future.<|endoftext|>Now I not only work hard, but I am also thinking about my future.<|endoftext|>

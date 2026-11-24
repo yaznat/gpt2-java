@@ -1,0 +1,1 @@
+Improve the grammaticality of this text: The weather was really good and so hot that I could feel comfortable under the sea.<|endoftext|>The weather was really good and so hot that I could only feel comfortable under the sea.<|endoftext|>

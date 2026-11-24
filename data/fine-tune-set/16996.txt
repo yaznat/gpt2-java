@@ -1,0 +1,11 @@
+Can you give me a cocktail recipe?<|endoftext|>Champagne Cocktail With Pomegranate Juice
+
+Ingredients:
+• Champagne
+• Ginger ale
+• Pomegranate juice
+• Pomegranate seeds
+
+Steps:
+1. Combine all 3 liquids
+2. If desired, garnish with pomegranate seeds or pomegranate seed ice cubes<|endoftext|>

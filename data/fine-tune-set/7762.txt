@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: To begin with we wrote information about ourselves on some piece of paper.<|endoftext|>To begin with, we wrote information about ourselves on a piece of paper.<|endoftext|>

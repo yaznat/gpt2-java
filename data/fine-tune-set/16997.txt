@@ -1,0 +1,13 @@
+Can you give me a cocktail recipe?<|endoftext|>Chartreuse Cocktail
+
+Ingredients:
+• Tequila
+• Green chartreuse liqueur
+• Lime juice
+• Ice
+
+Steps:
+1. Pour all ingredients over ice in tightly covered container
+2. Shake until very cold
+3. Pour into serving glass
+4. Garnish with lime slice, if desired<|endoftext|>

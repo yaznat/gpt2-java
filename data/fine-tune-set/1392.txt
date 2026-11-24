@@ -1,0 +1,1 @@
+Improve the grammaticality of this text: Anna looked at her watch and as fast as she can run to the park.<|endoftext|>Anna looked at her watch and went as fast as she could to run to the park.<|endoftext|>

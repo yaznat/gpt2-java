@@ -1,0 +1,1 @@
+Fix grammaticality of the sentence: Everyone are using Internet now, but it was rare in those days.<|endoftext|>Everyone is using the Internet now, but it was rare in those days.<|endoftext|>

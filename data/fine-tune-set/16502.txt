@@ -1,0 +1,19 @@
+Give me a smoothie recipe.<|endoftext|>Andrea S Favorite Smoothie
+
+Ingredients:
+• Fresh strawberries
+• Banana
+• Kiwi fruits
+• Plain yogurt
+• Vanilla extract
+• Mangoes
+• Honey
+• Powdered soy protein concentrate
+• Ice cubes
+
+Steps:
+1. Put the 1st 8 ingredients in a blender
+2. Blend till smooth
+3. Start adding ice cubes to the mixture as you're continuing to blend
+4. Serve cold
+5. Keep extra refrigerated<|endoftext|>

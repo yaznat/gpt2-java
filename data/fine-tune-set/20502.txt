@@ -1,0 +1,14 @@
+Generate a recipe for a casserole.<|endoftext|>Asparagus Tilapia Casserole
+
+Ingredients:
+• Tilapia fillet
+• Fresh ground pepper
+• Asparagus
+• Cream of mushroom soup
+
+Steps:
+1. Layer frozen fish fillets in greased casserole dish, overlapping if needed
+2. Sprinkle with pepper to your liking
+3. Spread the very well drained asparagus evenly over the fish
+4. Spread soup evenly on top of fish and asparagus
+5. Bake uncovered at 350 for about 45 minutes<|endoftext|>

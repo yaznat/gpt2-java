@@ -1,0 +1,23 @@
+Give me a tea recipe.<|endoftext|>1 2 3 Steak On Noodles
+
+Ingredients:
+• Flank steaks
+• Oil
+• Salt and pepper
+• Onion
+• Green bell pepper
+• 7-up soda
+• Tomato soup
+• Cooked noodles
+
+Steps:
+1. Brown steak slowly in oil
+2. Season to taste with salt and pepper
+3. Add onion and green pepper the last 5 minutes of browning
+4. Combine 7up and soup
+5. Pour over steak
+6. Cover, cook slowly 1 1 / 2 hours or until fork tender
+7. Slice meat thinly
+8. Place on platter
+9. Surround with noodles
+10. Pour sauce over meat or serve separately<|endoftext|>

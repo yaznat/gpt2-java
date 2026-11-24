@@ -1,0 +1,15 @@
+Can you give me a soup recipe?<|endoftext|>1 2 3 Healthy Soup
+
+Ingredients:
+• Soybeans
+• Chicken stock
+• Broccoli
+• Red potatoes
+• Green cabbage
+• Salt and pepper
+
+Steps:
+1. Cook the soy beans as directed on package in the chicken stock
+2. Once beans are cooked add all other ingredients to the borth and cook 15-20 minutes or until potatoes are cooked through
+3. Once soup has cooled to room temperature puree the broth in a blender
+4. Bon apetite<|endoftext|>

@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: However, it is common sense that maintenance fees should be much lower than the cost of building a new one.<|endoftext|>However, it is common sense that maintenance fees should be much lower than the cost of building a new reactor.<|endoftext|>

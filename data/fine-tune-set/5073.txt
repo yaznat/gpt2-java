@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: Last but not least, time spent on these courses are different too.<|endoftext|>Last but not least, the time spent on these courses is different too.<|endoftext|>

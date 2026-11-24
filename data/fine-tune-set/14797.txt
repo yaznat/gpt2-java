@@ -1,0 +1,24 @@
+Give me a recipe for rice.<|endoftext|>Avocado And Rice Salad
+
+Ingredients:
+• Cooked basmati rice
+• Tomatoes
+• Vidalia onion
+• Cilantro
+• Lemon juice
+• Jalapenos
+• Olive oil
+• Salt
+• Pepper
+• Avocado
+• Lime juice
+• Romaine lettuce
+• Limes
+
+Steps:
+1. In a large bowl combine rice, tomato, onion, cilantro, lemon juice, jalapenos, olive oil, salt and pepper
+2. Toss avocado with lime juice
+3. Stir into rice mixture
+4. Cover and chill for 2 to 8 hours
+5. Spoon mixture on top of shredded romaine lettuce
+6. Serve with lime wedges<|endoftext|>

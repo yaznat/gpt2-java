@@ -1,0 +1,18 @@
+Generate a recipe for a taco.<|endoftext|>Chicken Nacho Tacos
+
+Ingredients:
+• Vegetable oil
+• Onion
+• Chili powder
+• Fiesta nacho cheese soup
+• Chicken
+• Taco shells
+• Lettuce
+• Chopped tomato
+
+Steps:
+1. Heat the oil in a 10-inch skillet over medium-high heat
+2. Add the onion and chili powder and cook until the onion is tender, stirring often
+3. Stir the soup and chicken in the skillet and cook until the mixture is hot and bubbling
+4. Spoon the chicken mixture into the taco shells
+5. Top with the lettuce and tomato<|endoftext|>

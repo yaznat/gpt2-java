@@ -1,0 +1,1 @@
+Fix grammatical mistakes in this sentence: This picture is of boiled a bamboo shoot.<|endoftext|>This picture is of a boiled bamboo shoot.<|endoftext|>

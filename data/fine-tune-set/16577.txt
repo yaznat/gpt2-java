@@ -1,0 +1,14 @@
+Please generate a smoothie recipe.<|endoftext|>Banana Coffee Smoothie
+
+Ingredients:
+• Bananas
+• Low-fat milk
+• Plain yogurt
+• Instant coffee
+• Ground cinnamon
+• Nutmeg
+
+Steps:
+1. Combine all ingredients in blender
+2. Blend until smooth
+3. Serve and enjoy!<|endoftext|>

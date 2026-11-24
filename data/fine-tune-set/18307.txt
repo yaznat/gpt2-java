@@ -1,0 +1,17 @@
+Generate a recipe for pancakes.<|endoftext|>Blender Pancakes Waffles
+
+Ingredients:
+• Milk
+• Wheatberries
+• Eggs
+• Sugar
+• Cooking oil
+• Baking powder
+• Baking soda
+• Salt
+
+Steps:
+1. Put 1 cup milk into blender, add 3 / 4 cups clean whole wheat kernels
+2. Blend for 4 minutes
+3. Assemble and add the remaining ingredients, blending a few seconds more
+4. Pour on lightly oiled, hot griddle or waffle iron and bake until done<|endoftext|>

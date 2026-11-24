@@ -1,0 +1,14 @@
+Generate a recipe for salad.<|endoftext|>A Potato Salad Sandwich
+
+Ingredients:
+• Hamburger bun
+• Mayonnaise
+• Lettuce
+• Tomatoes
+• Potato salad
+
+Steps:
+1. Open bun and spread each side with mayonnaise
+2. Place lettuce leaves and tomato slices on bottom half of bun
+3. Scoop potato salad onto tomato, and gently spread toward edges of bun
+4. Cover with top of bun<|endoftext|>

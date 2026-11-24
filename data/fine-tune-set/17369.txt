@@ -1,0 +1,11 @@
+Generate a recipe for coffee.<|endoftext|>Admiral S Coffee
+
+Ingredients:
+• Brewed coffee
+• Creme de menthe
+• Dark creme de cacao
+• Whipped cream
+
+Steps:
+1. To each cup of hot coftee, add a jigger of creme de cacao and 1 / 2 jigger of creme de menthe
+2. Top with whipped cream<|endoftext|>

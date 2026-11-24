@@ -1,0 +1,19 @@
+Please generate a burger recipe.<|endoftext|>Baked Tuna Burger
+
+Ingredients:
+• Tuna
+• Ricotta cheese
+• Spring onion
+• Mayonnaise
+• Lemon, juice of
+• Pepper
+• Salt
+• Hamburger buns
+
+Steps:
+1. In a large bowl, mix together tuna, ricotta cheese, spring onion, mayonnaise, lemon juice and season with pepper and salt
+2. Cut the hamburger buns in half, separating top from bottom
+3. Scoop out some of the bread from inside the buns to make room for the tuna mixture
+4. Fill the buns with the tuna mixture and place both halves back together
+5. Wrap the bun in tin foil and place in a moderate oven for 15-20 minutes
+6. To serve, cut the buns in half from the top<|endoftext|>

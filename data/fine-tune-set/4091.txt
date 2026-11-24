@@ -1,0 +1,1 @@
+Improve the grammaticality of this text: Recently, many taiyaki shops are being opened in Tokyo and many major cities in Japan.<|endoftext|>Recently, many taiyaki shops have opened are being opened in Tokyo and many major cities in Japan.<|endoftext|>

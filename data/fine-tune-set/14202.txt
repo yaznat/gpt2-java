@@ -1,0 +1,16 @@
+Give me a recipe for tofu.<|endoftext|>Chinese Eggplant And Tofu In Black Bean Sauce
+
+Ingredients:
+• Eggplant
+• Tofu
+• Black bean sauce
+• Oil
+• Flour
+
+Steps:
+1. Coat eggplant cubes in flour
+2. Fry in oil 4 minutes
+3. Add tofu
+4. Fry for 4 minutes until golden
+5. Add black bean sauce to coat
+6. Done<|endoftext|>

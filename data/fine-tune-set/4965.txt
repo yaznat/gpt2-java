@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: The main reason of this, is that cars use diesel or petrol, whereas trains use electricity.<|endoftext|>The main reason for this is that cars use diesel or petrol, whereas trains use electricity.<|endoftext|>

@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: The Chicago bears are supposed to be very strong, but not this year.<|endoftext|>The Chicago Bears are usually supposed to be very strong, but not this year.<|endoftext|>

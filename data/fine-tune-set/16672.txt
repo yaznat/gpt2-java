@@ -1,0 +1,15 @@
+Give me a recipe for a smoothie.<|endoftext|>Berry Pink Smoothie
+
+Ingredients:
+• Orange juice
+• Fresh strawberries
+• Plain yogurt
+• Ice cubes
+• Whipped cream
+
+Steps:
+1. Place all ingredients in the order listed into blender container
+2. Cover and blend on high until thick and slushy
+3. Pour into two tall glasses
+4. Top with whipped cream or nondairy whipped topping and garnish with a fresh strawberry
+5. Serve immediately<|endoftext|>

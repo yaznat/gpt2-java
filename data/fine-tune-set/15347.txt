@@ -1,0 +1,17 @@
+Generate a recipe for a burger.<|endoftext|>Andy S Seven Season Hamburgers
+
+Ingredients:
+• Lean ground beef
+• Salt
+• Pepper
+• Garlic powder
+• Onion powder
+• Celery salt
+• Chili powder
+• Dried oregano
+• Hamburger buns
+
+Steps:
+1. Combine ground beef and seasonings, mix well
+2. Form into 4 patties
+3. Grill on barbeque or cook over medium heat<|endoftext|>

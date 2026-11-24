@@ -1,0 +1,20 @@
+Give me a taco recipe.<|endoftext|>Chicken Taco Soup
+
+Ingredients:
+• Chicken breasts
+• Diced tomatoes with green chilies
+• Diced tomatoes
+• Diced green chilies
+• Kidney beans
+• Black beans
+• Whole kernel corn
+• Taco seasoning mix
+• Ranch dressing mix
+• Sour cream
+
+Steps:
+1. Shred the chicken, if desired
+2. Do not drain the remaining cans
+3. Combine all the ingredients into a crock-pot and stir
+4. Cook on high for 2 hours or on low for 4 hours
+5. Garnish as desired<|endoftext|>

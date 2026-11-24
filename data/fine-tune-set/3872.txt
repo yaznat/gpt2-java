@@ -1,0 +1,1 @@
+Make the sentence grammatical: The production cost of solar energy is higher than that of fossil fuel energy, which therefore impedes its popularization.<|endoftext|>The production cost of solar energy is higher than that of fossil fuel energy, which therefore impedes its popularity.<|endoftext|>

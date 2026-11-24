@@ -1,0 +1,18 @@
+Give me a recipe for pizza.<|endoftext|>Brie And Cranberry Pizza
+
+Ingredients:
+• Refrigerated crescent dinner rolls
+• Brie cheese
+• Whole berry cranberry sauce
+• Pecans
+
+Steps:
+1. Preheat oven to 425 degrees
+2. Lightly grease a 9x13 inch baking dish
+3. Unroll the crescent rolls and press into baking dish pinching seams together
+4. Bake 5 minutes, or until lightly brown
+5. Remove from the oven and sprinkle with pieces of brie cheese
+6. Spoon the cranberry sauce over the cheese
+7. Top with pecans
+8. Bake an additional 8 minutes, or until the cheese is melted and the crust is golden brown
+9. Cool 5 minutes and cut into squares<|endoftext|>

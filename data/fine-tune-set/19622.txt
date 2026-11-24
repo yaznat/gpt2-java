@@ -1,0 +1,16 @@
+Give me a recipe for potatoes.<|endoftext|>Arin S Potatoes
+
+Ingredients:
+• Canned whole potatoes
+• Lemon pepper
+• Salt
+• Season salt
+• Oregano
+• Butter
+
+Steps:
+1. Melt butter in a small saucepan
+2. Heat on medium low
+3. Drain potatoes and add to pan
+4. Add seasonings and heat while stirring
+5. Cook about 15 minutes or until heated through<|endoftext|>

@@ -1,0 +1,12 @@
+Generate a recipe for custard.<|endoftext|>Custard Ice Cream
+
+Ingredients:
+• Eggs
+• Milk
+• White sugar
+• Vanilla
+
+Steps:
+1. Add milk, sugar and vanilla to beaten eggs
+2. Cook the mixture in a double boiler until the custard thickens
+3. Let custard cool, then pour it into an ice cream freezer and freeze it<|endoftext|>

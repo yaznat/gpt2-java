@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: However, others believe that public transport is better due to the fact that public transport is environmentally friendly.<|endoftext|>However, others believe that public transport is better, due to the fact that public transport is environmentally friendly.<|endoftext|>

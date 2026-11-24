@@ -1,0 +1,11 @@
+Can you give me a coffee recipe?<|endoftext|>Afternoon Coffee
+
+Ingredients:
+• Frangelico
+• Kahlua
+• Baileys irish cream
+• Brewed espresso
+• Cream
+
+Steps:
+1. Build ingredients & float cream on top<|endoftext|>

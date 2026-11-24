@@ -1,0 +1,15 @@
+Give me a recipe for a cocktail.<|endoftext|>Coctel Bandera Mexicana Mexican Flag Cocktail
+
+Ingredients:
+• Tequila
+• Limes, juice of
+• Ice
+• Powdered sugar
+• Banana
+• Thompson seedless grapes
+• Maraschino cherries
+
+Steps:
+1. Mix the sugar and lime juice thoroughly, and then pour in tequila
+2. Shake with chopped ice and serve in cocktail glasses
+3. Drop into each glass a grape, cherry and banana ball<|endoftext|>

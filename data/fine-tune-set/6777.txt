@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: I hope that I'll eat a strawberry Christmas cake of the same price last year.<|endoftext|>I hope that I'll eat a strawberry Christmas cake for the same price as last year.<|endoftext|>

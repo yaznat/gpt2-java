@@ -1,0 +1,14 @@
+Please generate a omelette recipe.<|endoftext|>Honey Banana Omelette
+
+Ingredients:
+• Eggs
+• Milk
+• Honey
+• Oil
+• Banana
+
+Steps:
+1. Whisk eggs, milk & honey until combined
+2. Heat oil in a pan, pour in egg mixture & sprinkle with banana
+3. Cover pan & cook on moderate heat until underside is browned
+4. Place pan under a hot grill to cook the top and serve<|endoftext|>

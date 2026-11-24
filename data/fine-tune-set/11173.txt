@@ -1,0 +1,22 @@
+Generate a recipe for a sandwich.<|endoftext|>Baked Rolled Sub Sandwich
+
+Ingredients:
+• French bread dough
+• Dijon mustard
+• Italian dressing
+• Turkey
+• Prosciutto
+• Provolone cheese
+• Egg
+• Poppy seeds
+
+Steps:
+1. Lightly grease a baking sheet
+2. Toll out the dough to pretty much cover the baking sheet
+3. Spread with mustard / italian dressing combo, leaving the edges dry
+4. Lay down turkey on top of dressing, then prosciutto, then provolone
+5. Roll it up fairly tight into a log, pinching the edge and ends closed
+6. Brush with egg
+7. Sprinkle with seeds
+8. Bake according to french bread instructions
+9. Cool 10 minutes before cutting<|endoftext|>

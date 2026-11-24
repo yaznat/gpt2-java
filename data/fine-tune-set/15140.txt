@@ -1,0 +1,19 @@
+Please give me a recipe for pizza.<|endoftext|>Bacon Tomato Spinach Pizza
+
+Ingredients:
+• Frozen pizza dough
+• Alfredo sauce
+• Mozzarella cheese
+• Frozen chopped spinach
+• Plum tomatoes
+• Cooked bacon
+
+Steps:
+1. Preheat oven to 425 degrees
+2. Coat a 12-inch pizza pan with cooking spray
+3. Press dough onto pan
+4. Spread alfredo sauce over dough, leaving a half-inch border
+5. Sprinkle with 1 / 2 cup cheese
+6. Top with spinach, tomatoes, and bacon
+7. Sprinkle with remaining 1 / 2 cup cheese
+8. Bake until heated through and cheese is melted and lightly browned, 15-18 minutes<|endoftext|>

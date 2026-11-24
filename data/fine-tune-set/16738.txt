@@ -1,0 +1,10 @@
+Give me a milkshake recipe.<|endoftext|>Chocolate Coconut Milkshake
+
+Ingredients:
+• Coconut milk
+• Ice
+• Cocoa powder
+• Artificial sweetener
+
+Steps:
+1. Place all in vitalmix blender and blend until smooth<|endoftext|>

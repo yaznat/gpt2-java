@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: I am writing in response to your advertisment for the job in USA summer camps.<|endoftext|>I am writing in response to your advertisement for the job in the USA summer camps.<|endoftext|>

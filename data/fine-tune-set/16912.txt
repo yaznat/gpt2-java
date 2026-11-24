@@ -1,0 +1,12 @@
+Give me a recipe for a cocktail.<|endoftext|>Bahama Mama Sunrise Cocktail
+
+Ingredients:
+• Dark rum
+• Spiced rum
+• Orange juice
+• Pineapple juice
+• Grenadine
+
+Steps:
+1. Mix everything together
+2. Pour into a collins glass and serve<|endoftext|>

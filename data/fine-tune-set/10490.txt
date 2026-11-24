@@ -1,0 +1,16 @@
+Give me a pasta recipe.<|endoftext|>Mexican Pasta
+
+Ingredients:
+• Fettuccine pasta
+• Cheddar cheese soup
+• Milk
+• Picante sauce
+• Black olives
+• Jalapeno
+
+Steps:
+1. Boil pasta as directed on package
+2. Drain and put in large serving bowl
+3. Mix picante sauce, milk, and cheese soup in a smaller bowl until creamy
+4. Heat in microwave until warm
+5. Mix sauce and pasta together and garnish with olives and jalepenos if desired<|endoftext|>

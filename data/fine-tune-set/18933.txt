@@ -1,0 +1,21 @@
+Please generate a custard recipe.<|endoftext|>Custard Blender
+
+Ingredients:
+• Eggs
+• Granulated sugar
+• Soft margarine
+• Milk
+• All-purpose flour
+• Vanilla extract
+• Coconut
+• Cinnamon
+
+Steps:
+1. Place all ingredients except cinnamon in a blender in order given
+2. Process until thoroughly blended
+3. It will be slightly foamy
+4. Pour into a buttered casserole dish
+5. Sprinkle top with cinnamon
+6. Bake at 375 for 45 minutes to 1 hour
+7. This makes it's own crust
+8. The top will be brown and puff up as it cooks but will settle down as it cools<|endoftext|>

@@ -1,0 +1,19 @@
+Give me a rice recipe.<|endoftext|>15 Minute Cheeseburger Rice
+
+Ingredients:
+• Lean ground beef
+• Water
+• Ketchup
+• Mustard
+• Minute white rice
+• Cheddar cheese
+
+Steps:
+1. Brown ground beef in large skillet
+2. Drain
+3. Add water, ketchup and mustard
+4. Bring to a boil
+5. Stir in 2 cups uncooked minute rice
+6. Sprinkle with 1 cup shredded cheddar cheese
+7. Cover
+8. Cook on low heat 5 minutes<|endoftext|>

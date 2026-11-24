@@ -1,0 +1,22 @@
+Generate a recipe for an omelette.<|endoftext|>Pizza Omelette
+
+Ingredients:
+• Eggs
+• Butter
+• Water
+• Pizza sauce
+• Mozzarella cheese
+• Parmesan cheese
+• Salt and pepper
+• Pepperoni slice
+• Canned mushroom slices
+• Green pepper
+• Onion
+
+Steps:
+1. In a large bowl whisk together the eggs and water
+2. In a large non stick skillet melt butter over medium heat and pour in egg mixture
+3. When eggs are almost set on surface spread pizza sauce over half the eggs
+4. Add the cheeses and any optional ingredients you wish
+5. Cover, remove from heat and let stand for 2 minutes
+6. Cut in half and serve with italian sausages for a different breakfast or a great dinner!<|endoftext|>

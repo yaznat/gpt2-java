@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: When we had dinner together, Some friends asked to me something.<|endoftext|>When we had dinner together, some friends asked me something.<|endoftext|>

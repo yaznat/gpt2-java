@@ -1,0 +1,1 @@
+Fix grammar in the sentence: Many people were killed and many buildings were broken.<|endoftext|>Many people were killed, and many buildings were broken and shattered.<|endoftext|>

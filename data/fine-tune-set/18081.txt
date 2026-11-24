@@ -1,0 +1,19 @@
+Give me a pancake recipe.<|endoftext|>100 Whole Wheat Buttermilk Pancakes
+
+Ingredients:
+• Whole wheat flour
+• Egg whites
+• Low-fat buttermilk
+• Granulated sugar
+• Baking powder
+• Baking soda
+• Canola oil
+• Salt
+• Flax seed meal
+
+Steps:
+1. Preheat non-stick skillet over medium heat
+2. Using whisk, combine all ingredients until smooth
+3. Pour approximately 1 / 4 c batter into skillet
+4. When edges begin to bubble and lift from skillet, flip pancakes
+5. Cook both sides until golden brown<|endoftext|>

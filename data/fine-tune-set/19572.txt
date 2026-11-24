@@ -1,0 +1,22 @@
+Give me a potato recipe.<|endoftext|>Amish Potato Salad
+
+Ingredients:
+• Potatoes
+• Hard-boiled eggs
+• Onion
+• Celery
+• Salad dressing
+• Sugar
+• Prepared mustard
+• Vinegar
+• Salt
+• Milk
+
+Steps:
+1. Chop potatoes, eggs, onion and celery finely
+2. Place in bowl
+3. Combine dressing ingredients in another bowl
+4. Mix well
+5. Pour in parts and mix with potato mixture until desired wetness is received
+6. Mix well to blend
+7. Chill until ready to serve<|endoftext|>

@@ -1,0 +1,14 @@
+Give me a recipe for fries.<|endoftext|>Cheeseburger N Fries Casserole
+
+Ingredients:
+• Lean ground beef
+• Condensed mushroom soup
+• Cheddar cheese soup
+• Frozen french fries
+
+Steps:
+1. Brown the beef in a skillet
+2. Stir in soups
+3. Pour in a greased 13x9 inch pan
+4. Arrange fries on top
+5. Bake uncovered at 350 degrees for 50-55 minutes or until fries are golden brown<|endoftext|>

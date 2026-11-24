@@ -1,0 +1,1 @@
+Make the sentence grammatical: I've seen your letter and I'm writing this to you to say what I do in my country to help saving the environment.<|endoftext|>I've seen your letter, and I'm writing this to you to say what I do in my country to help save the environment.<|endoftext|>

@@ -1,0 +1,19 @@
+Give me a cake recipe.<|endoftext|>100 Year Old Pancakes
+
+Ingredients:
+• Egg whites
+• Egg yolks
+• Butter
+• Buttermilk
+• Flour
+• Sugar
+• Salt
+• Baking powder
+• Baking soda
+
+Steps:
+1. In a small bowl, beat egg whites until stiff
+2. In a large bowl, beat egg yolks until blended, add melted butter and beat together
+3. Stir the buttermilk into the beaten egg yolks, than sift in the flour, sugar, salt, baking powder, and baking soda
+4. Fold in egg whites
+5. Cook in a pan greased with butter<|endoftext|>

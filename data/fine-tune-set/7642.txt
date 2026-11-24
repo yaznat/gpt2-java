@@ -1,0 +1,1 @@
+Fix grammar in this sentence: So they are good teacher.<|endoftext|>So they are a good teacher.<|endoftext|>

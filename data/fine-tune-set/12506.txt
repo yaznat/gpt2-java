@@ -1,0 +1,15 @@
+Please generate a stew recipe.<|endoftext|>Almond Milk Hot Chocolate Martha Stewart
+
+Ingredients:
+• Almond milk
+• Cinnamon stick
+• Sugar
+• Cocoa
+• Semisweet chocolate
+• Salt
+
+Steps:
+1. Heat milk and cinnamon stick until boiling
+2. Reduce heat and simmer 10 minutes
+3. Remove cinnamon, stir in remaining ingredients until melted and combined
+4. Serve<|endoftext|>

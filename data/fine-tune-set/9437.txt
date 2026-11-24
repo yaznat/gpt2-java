@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: The hottest issue nowadays is the global warming.<|endoftext|>The hottest issue nowadays is global warming.<|endoftext|>

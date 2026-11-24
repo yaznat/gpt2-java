@@ -1,0 +1,15 @@
+What's a good sandwich recipe?<|endoftext|>Avocado Sandwiches
+
+Ingredients:
+• Bacon
+• Avocados
+• Salt and pepper
+• Mayonnaise
+• Lemon juice
+• Whole wheat bread
+
+Steps:
+1. Cook bacon until crisp, drain on paper towels
+2. Gently toss avocados with salt and pepper
+3. Combine mayonnaise and lemon juice and spread over toast
+4. Top with avocado and bacon and serve immediately<|endoftext|>

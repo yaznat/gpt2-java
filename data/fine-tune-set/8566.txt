@@ -1,0 +1,1 @@
+Improve the grammar of this text: However, she let me take many vegetables and fruits which weighed very heavy.<|endoftext|>However, she let me take many vegetables and fruits, which were very heavy.<|endoftext|>

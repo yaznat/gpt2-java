@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: The increase in life expectancy and decline in fertility are two main causes of ageing population.<|endoftext|>The increase in life expectancy and decline in fertility are the two main causes of an aging population.<|endoftext|>

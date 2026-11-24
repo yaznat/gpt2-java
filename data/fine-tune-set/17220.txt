@@ -1,0 +1,18 @@
+Give me a recipe for tea.<|endoftext|>Apple Iced Tea
+
+Ingredients:
+• Boiling water
+• Tea bags
+• Sugar
+• Frozen apple juice concentrate
+• Cold water
+• Cinnamon stick
+
+Steps:
+1. Pour a heat-proof bowl or use a saucepan pour 3 cups boiling water over the tea bags
+2. Cover and steep for about 5 minutes
+3. Remove tea bags and discard
+4. Stir in sugar, juice concentrate and 2 cups cold water
+5. Stir well
+6. Serve over ice
+7. Garnish with a cinnamon in each glass<|endoftext|>

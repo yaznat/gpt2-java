@@ -1,0 +1,22 @@
+Please give me a recipe for a sandwich.<|endoftext|>Avocado Chicken Salad Sandwiches
+
+Ingredients:
+• Cooked chicken
+• Avocado
+• Onions
+• Pimentos
+• Fresh parsley
+• Celery
+• Mayonnaise
+• Lemon juice
+• Hot pepper sauce
+• Salt
+• Pepper
+• Rolls
+• Lettuce
+
+Steps:
+1. Combine all ingredients except rolls and lettuce in a medium bowl
+2. Slice rolls in half, and toast if desired
+3. Lay lettuce leaves on bottom halves of rolls, and divide chicken salad between them
+4. Place roll tops on sandwich<|endoftext|>

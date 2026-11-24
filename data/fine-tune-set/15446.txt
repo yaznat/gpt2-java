@@ -1,0 +1,26 @@
+Generate a recipe for a burger.<|endoftext|>Bacon Cheeseburger Spaghetti
+
+Ingredients:
+• Spaghetti
+• Lean ground beef
+• Onion
+• Bacon
+• Ketchup
+• Dill pickle
+• Barbecue sauce
+• Prepared mustard
+• Shredded cheddar cheese
+
+Steps:
+1. Cook spaghetti according to package directions
+2. Meanwhile, in a large skillet, cook beef and onion over medium heat until meat is no longer pink
+3. Drain
+4. Stir in the bacon, ketchup, pickles, barbecue sauce and mustard
+5. Bring to a boil
+6. Reduce heat
+7. Simmer, uncovered, for 5 minutes
+8. Drain spaghetti
+9. Stir into meat mixture
+10. Sprinkle with cheese
+11. Remove from the heat
+12. Cover and let stand until cheese is melted<|endoftext|>

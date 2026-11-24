@@ -1,0 +1,20 @@
+Give me a recipe for a casserole.<|endoftext|>Amish Chicken Casserole
+
+Ingredients:
+• Noodles
+• Cooked chicken
+• Chicken broth
+• Milk
+• Mushrooms
+• Salt
+• Pepper
+• Margarine
+• Flour
+• Parmesan cheese
+
+Steps:
+1. Melt margarine, then add flour and stir until smooth
+2. Gradually add milk and broth, then seasonings and mushrooms
+3. Combine chicken, cooked noodles, and prepared sauce
+4. Place in an ungreased 9 x 13 inch baking pan and top with parmesan cheese
+5. Bake at 350f for 35-45 minutes, or until heated thoroughly and top is browned slightly<|endoftext|>

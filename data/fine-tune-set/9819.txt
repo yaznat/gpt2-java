@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: Despite it was very dark, we could see something moving on the sand.<|endoftext|>Despite it being very dark, we could see something moving on the sand.<|endoftext|>

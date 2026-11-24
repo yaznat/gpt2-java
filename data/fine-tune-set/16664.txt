@@ -1,0 +1,15 @@
+Give me a recipe for a smoothie.<|endoftext|>Berry Good For You Smoothie
+
+Ingredients:
+• Banana
+• Blueberries
+• Strawberry
+• Green tea
+• Cranberry juice
+• Ice cubes
+• Canola oil
+
+Steps:
+1. In a blender, add banana, blueberries, strawberries, green tea, cranberry juice, ice cubes and canola oil
+2. Blend until combined
+3. Serve immediately<|endoftext|>

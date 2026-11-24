@@ -1,0 +1,1 @@
+Make the sentence grammatical: If one has a sunny and windy weather, it is nice because the sun warms one up and the wind helps keep it fresh.<|endoftext|>If one has sunny and windy weather, it is nice because the sun warms one up, and the wind helps keep one fresh.<|endoftext|>

@@ -1,0 +1,18 @@
+Generate a recipe for custard.<|endoftext|>Custard Tart
+
+Ingredients:
+• Eggs
+• Sugar
+• Cornflour
+• Milk
+• Vanilla essence
+• Ground nutmeg
+• Unbaked pastry shells
+
+Steps:
+1. Preheat oven to 200 degree celsius
+2. Mix eggs and sugar till thick and creamy
+3. Combine cornflour, milk and vanilla essence and slowly add to egg and sugar mix beating as you do so
+4. Spoon mixture into pastry shell and sprinkle with ground nutmeg
+5. Bake at 200 degree celsius for 10 minutes, reduce heat to 180 degree celsius and bake for a further 20 to 25 minutes
+6. Skewer inserted at centre should come out clean<|endoftext|>

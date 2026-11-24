@@ -1,0 +1,18 @@
+Generate a recipe for pie.<|endoftext|>Apple Ginger Cranberry Pie
+
+Ingredients:
+• Pie crust
+• Golden delicious apples
+• Fresh cranberries
+• Crystallized ginger
+• Sugar
+• Salt
+• Flour
+• Lemon juice
+
+Steps:
+1. In a large bowl, stir together the apples, cranberries, crystallized ginger, sugar, salt, flour, lemon juice
+2. Pour into 9" deep dish pie shell lined with pastry
+3. Cut remaining crust into strips and weave on top of pie to create lattice top, or place whole crust onto top and cut slits in top for venting
+4. Bake at 400f for 1 hour in lower third of oven, covering edges with foil if getting too dark
+5. Transfer to rack for cooling, serve with vanilla ice cream<|endoftext|>

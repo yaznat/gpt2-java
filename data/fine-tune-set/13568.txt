@@ -1,0 +1,20 @@
+Generate a recipe for beef.<|endoftext|>Baked Bbq Beef
+
+Ingredients:
+• Ground beef
+• Onion
+• Green pepper
+• Condensed tomato soup
+• Chili sauce
+• Vinegar
+• Prepared mustard
+• Sugar
+• Salt
+• Pepper
+• Hamburger buns
+
+Steps:
+1. In a dutch oven, brown ground beef and onions and drain
+2. Stir in the next eight ingredients
+3. Bake uncovered at 325 degrees for 2 hours, stirring occasionally
+4. Serve on buns and enjoy!<|endoftext|>

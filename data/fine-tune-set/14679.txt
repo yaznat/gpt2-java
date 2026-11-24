@@ -1,0 +1,20 @@
+Generate a recipe for rice.<|endoftext|>Apple Rice Casserole
+
+Ingredients:
+• Cooked brown rice
+• Sweet apples
+• Apple juice
+• Brown sugar
+• Lemon juice
+• Vanilla extract
+• Ground cinnamon
+• Ground nutmeg
+
+Steps:
+1. Preheat oven to 350f
+2. Lightly oil a 1-1 / 2 quart casserole or spray with a nonstick cooking spray
+3. In a large bowl, combine all ingredients
+4. Mix well
+5. Spoon into prepared pan
+6. Cover tightly and bake 45 minutes
+7. Serve hot<|endoftext|>

@@ -1,0 +1,22 @@
+Please generate a ice cream recipe.<|endoftext|>Apple Pie In A Scoop Ice Cream
+
+Ingredients:
+• Sugar
+• All-purpose flour
+• Milk
+• Eggs
+• Whipping cream
+• Apple pie filling
+• Vanilla
+• Ground cinnamon
+
+Steps:
+1. In large saucepan, combine sugar and flour
+2. Stir in milk
+3. Cook and stir until slightly thickened and bubbly
+4. Stir about 1 cup of the hot mixture into eggs
+5. Return egg mixture to saucepan
+6. Cook and stir 2 minutes or more
+7. Cover and chill
+8. Stir in whipping cream, pie filling, vanilla and cinnamon
+9. Freeze ina 4- or 5-quart ice-cream freezer according to manufacturer's directions<|endoftext|>

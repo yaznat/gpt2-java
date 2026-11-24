@@ -1,0 +1,13 @@
+Generate a recipe for salad.<|endoftext|>African Orange Spice Salad
+
+Ingredients:
+• Oranges
+• Radish
+• Cumin
+• Salt and pepper
+• Dates
+• Pomegranate seeds
+• Lettuce leaf
+
+Steps:
+1. Combine all ingredients in a bowl and serve on lettuce leaves if desired<|endoftext|>

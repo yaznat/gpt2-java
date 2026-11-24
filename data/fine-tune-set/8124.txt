@@ -1,0 +1,1 @@
+Make the sentence grammatical: Last week, our store was supposed to have observation of the president of Apple from HQ in USA.<|endoftext|>Last week, our store was supposed to have an observation by the president of Apple from HQ in the USA.<|endoftext|>

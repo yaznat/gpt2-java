@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: During Lula's era, from 2002 to 2010, Brazil experienced an economic boom as never before and became a world's economic power.<|endoftext|>During Lula's era, from 2002 to 2010, Brazil experienced an economic boom like never before and became a world economic power.<|endoftext|>

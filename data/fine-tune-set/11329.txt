@@ -1,0 +1,23 @@
+Please generate a bread recipe.<|endoftext|>Modified Banana Bread By Paula Deen
+
+Ingredients:
+• Butter
+• Unsweetened applesauce
+• Sugar
+• Artificial sweetener
+• Salt
+• Eggs
+• Vanilla extract
+• All-purpose flour
+• Baking soda
+• Baking powder
+• Bananas
+
+Steps:
+1. Preheat oven to 350 degrees
+2. Grease a 9"x5" loaf pan
+3. In a mixing bowl, combine butter, apple sauce and sugar / sweetener
+4. Mix well
+5. Add salt, eggs, vanilla, flour, baking soda, baking powder, and bananas
+6. Mix well
+7. Pour the batter into prepared pan and bake for 50 minutes<|endoftext|>

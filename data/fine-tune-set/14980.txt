@@ -1,0 +1,15 @@
+Please generate a fried rice recipe.<|endoftext|>Mexican Fried Rice
+
+Ingredients:
+• Vegetable oil
+• Long grain rice
+• Salsa
+• Onion
+• Garlic clove
+• Water
+
+Steps:
+1. In 12 skillet, heat oil, add rice
+2. Cook until golden brown, stirring frequently
+3. Stir in remaining ingredients
+4. Bring to a boil, reduce heat, cover and simmer 15 to 20 minutes<|endoftext|>

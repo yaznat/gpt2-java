@@ -1,0 +1,15 @@
+Give me a recipe for an omelette.<|endoftext|>Omelette In A Bag
+
+Ingredients:
+• Eggs
+• Ziploc bag
+• Cheese
+• Ham
+• Onion
+
+Steps:
+1. Start the water boiling in a pot
+2. Put two eggs in the quart sized bag
+3. Insert other ingredients
+4. Close bag tightly and shake the ingredients together
+5. When the water boils, put the omelette in the water for 13 minutes<|endoftext|>

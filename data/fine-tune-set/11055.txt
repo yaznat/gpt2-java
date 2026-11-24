@@ -1,0 +1,22 @@
+Give me a recipe for a sandwich.<|endoftext|>Apple N Prosciutto Sandwiches
+
+Ingredients:
+• Olive oil
+• Walnuts
+• Parmesan cheese
+• Fresh rosemary
+• Focaccia bread
+• Prosciutto
+• Apple
+• Brie cheese
+
+Steps:
+1. In a blender, combine the oil, walnuts, parmesan cheese and rosemary
+2. Cover and process until blended and nuts are finely chopped
+3. With a bread knife, split focaccia into 2 horizontal layers
+4. Spread rosemary mixture over cut sides of bread
+5. On bottom of bread, layer prosciutto, apple, and brie
+6. Replace bread top
+7. Cut into quarters
+8. Cook on indoor grill for 2-3 minutes or until bread is browned and cheese is melted
+9. To serve, cut each wedge in half<|endoftext|>

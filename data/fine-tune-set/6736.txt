@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: For instance art museums include art collections such as paintings from many different artists.<|endoftext|>For instance, art museums include art collections such as paintings by many different artists.<|endoftext|>

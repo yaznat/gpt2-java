@@ -1,0 +1,22 @@
+Please generate a pancake recipe.<|endoftext|>Apple Cinnamon Buttermilk Pancakes
+
+Ingredients:
+• Baking soda
+• Flour
+• Baking powder
+• Brown sugar
+• Salt
+• Ground cinnamon
+• Eggs
+• Buttermilk
+• Sour cream
+• Butter
+• Apple
+
+Steps:
+1. In a large bowl, mix together the baking soda, flour, baking powder, brown sugar, salt and cinnamon
+2. In another bowl, whisk together the eggs, buttermilk, sour cream and melted butter
+3. Add to the flour mixture and stir just until the flour is moistened
+4. Stir in the grated apple
+5. Drop a scant 1 / 4 cup of batter onto a hot lightly greased griddle
+6. Cook, turning once until golden brown<|endoftext|>

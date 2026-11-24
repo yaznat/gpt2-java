@@ -1,0 +1,14 @@
+Give me a cocktail recipe.<|endoftext|>Cocktail Sauce
+
+Ingredients:
+• Catsup
+• Chili sauce
+• Horseradish
+• Hot sauce
+• Worcestershire sauce
+• Lemon juice
+• White pepper
+• Celery salt
+
+Steps:
+1. Combine all ingredients and chill<|endoftext|>

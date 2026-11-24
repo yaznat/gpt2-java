@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: However, it will remain in the future as still many people use it or even depend on it.<|endoftext|>However, it will remain in the future, as many people still use it or even depend on it.<|endoftext|>

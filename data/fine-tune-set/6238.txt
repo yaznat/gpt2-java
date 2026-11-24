@@ -1,0 +1,1 @@
+Fix grammatical errors in this sentence: We will run 40 laps on the track in the National Stadium and donate 100 yen every lap for giving safe water.<|endoftext|>We will run 40 laps on the track in the National Stadium and donate 100 yen for every lap to provide giving safe water.<|endoftext|>

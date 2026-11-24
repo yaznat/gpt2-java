@@ -1,0 +1,11 @@
+Please give me a recipe for a sandwich.<|endoftext|>Almond Butter And Jelly Sandwich
+
+Ingredients:
+• Whole grain bread
+• Almond butter
+• Fruit spread
+
+Steps:
+1. Spread one slice of bread with almond butter and fruit spread
+2. Put other slice on top and cut sandwich in half
+3. Serve and eat!<|endoftext|>

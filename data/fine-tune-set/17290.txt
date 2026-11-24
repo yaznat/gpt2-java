@@ -1,0 +1,22 @@
+Give me a recipe for tea.<|endoftext|>Awesome Chai Tea
+
+Ingredients:
+• Cinnamon stick
+• Green cardamom pods
+• Whole cloves
+• Gingerroot
+• Black peppercorns
+• Water
+• Black tea bags
+• Dark brown sugar
+• Low-fat milk
+
+Steps:
+1. Place the cinnamon stick, cardamom, cloves, ginger, peppercorns and water in a saucepan
+2. Bring to a boil, then cover and reduce the heat to simmer for 5 minutes
+3. Remove from heat and allow the mixture to steep for 10 minutes
+4. Return to a boil
+5. Remove from heat, add the tea bags and let steep for 3 to 5 minutes
+6. Strain the tea and return to the saucepan
+7. Add brown sugar and milk while stirring over low heat for one minute
+8. Serve immediately<|endoftext|>

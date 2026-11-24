@@ -1,0 +1,20 @@
+Please give me a recipe for a sandwich.<|endoftext|>Baked Italian Sub Sandwiches
+
+Ingredients:
+• Hoagie rolls
+• Italian dressing
+• Deli roast beef
+• Deli turkey
+• Deli ham
+• Monterey jack pepper cheese
+• Tomatoes
+• Onion
+
+Steps:
+1. Preheat oven to 350 degrees
+2. Brush the cut sides of the rolls with italian dressing
+3. Layer the bottom halves with meats, cheeses, onion and tomato
+4. Replace hoagie tops
+5. Wrap each sandwich in foil, tightly
+6. Bake 12-15 minutes or until cheese is melted
+7. Remove foil and serve<|endoftext|>

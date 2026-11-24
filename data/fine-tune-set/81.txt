@@ -1,0 +1,1 @@
+Fix grammar in the sentence: Cars are much convenient but this not mean that all other means of transportation are not important.<|endoftext|>Cars are much more convenient, but this does not mean that all other means of transportation are not important.<|endoftext|>

@@ -1,0 +1,1 @@
+Fix grammar in the sentence: My parents reminded not to forget to bring all the fishing equipment.<|endoftext|>My parents reminded me not to forget to bring all the fishing equipment.<|endoftext|>

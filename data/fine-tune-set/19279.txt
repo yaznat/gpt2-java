@@ -1,0 +1,14 @@
+Generate a recipe for a popsicle.<|endoftext|>Breakfast Cereal Popsicles
+
+Ingredients:
+• Trix cereal
+• Almond milk
+• Vanilla ice cream
+
+Steps:
+1. Pour the cereal into a large bowl and add the milk
+2. Let this mixture sit for 10-15 minutes
+3. Melt two scoops of vanilla ice cream in a bowl until liquid
+4. Combine the cereal / milk mixture and the melted vanilla ice cream
+5. Pour the mixture into popsicle molds and put them in the freezer for 45 minutes
+6. Then remove, add popsicle sticks and freeze for another four hours<|endoftext|>

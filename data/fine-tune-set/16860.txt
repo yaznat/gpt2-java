@@ -1,0 +1,19 @@
+Generate a recipe for a milkshake.<|endoftext|>Thick Milkshakes
+
+Ingredients:
+• Ice cream
+• Vanilla
+• Whole milk
+• Instant malted milk powder
+• Instant pudding mix
+
+Steps:
+1. Scoop the ice cream into a blender
+2. Fill the blender with whole milk until it just covers the first scoop
+3. Put in the vanilla if this is a vanilla oriented shake
+4. Put in the pudding mix
+5. Here you can stick in whatever extra flavor you want
+6. I have tried peanut butter, bananas, chocolate syrup, strawberries, or nothing
+7. Last put in the malt if you want it malted
+8. Blend in bursts, then blend somewhat slowly to consistency of choice
+9. Enjoy thick milkshake<|endoftext|>

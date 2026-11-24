@@ -1,0 +1,21 @@
+Generate a recipe for sushi.<|endoftext|>Sushi Bake
+
+Ingredients:
+• Cooked sushi rice
+• Mayonnaise
+• Sour cream
+• Crabmeat
+• Baby shrimp
+• Tobiko
+• Seasoning
+• Nori
+
+Steps:
+1. Preheat oven to 375 degrees
+2. Combine crab, chopped shrimp, mayonnaise and sour cream together in a bowl and mix well
+3. Spread cooked rice onto 9x13 pan
+4. Spread crab / shrimp mixture over the cooked rice
+5. Spread tobiko over mixture, then sprinkle furikake over the dish
+6. Bake at 375 degrees for about 15 to 20 minutes
+7. To serve, cut seaweed sheets into four
+8. Add a spoonful of baked sushi on each seaweed, fold it into a roll and serve immediately<|endoftext|>

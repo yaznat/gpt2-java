@@ -1,0 +1,9 @@
+Give me a milkshake recipe.<|endoftext|>Easy Pudding Milkshake
+
+Ingredients:
+• Milk
+• Jell-o pudding mix
+• Ice cream
+
+Steps:
+1. Put in blender and mix<|endoftext|>

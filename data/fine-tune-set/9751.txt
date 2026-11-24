@@ -1,0 +1,1 @@
+Fix grammar in the sentence: This topic leads me to think of professional skill "Architecture design".<|endoftext|>This topic leads me to think of the professional skill "Architecture design."<|endoftext|>

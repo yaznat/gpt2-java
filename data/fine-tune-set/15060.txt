@@ -1,0 +1,27 @@
+Generate a recipe for pizza.<|endoftext|>4 Layer Pizza Dip
+
+Ingredients:
+• Fat free cream cheese
+• Fat free sour cream
+• Mozzarella cheese
+• Diced tomatoes
+• Garlic powder
+• Onion powder
+• Italian seasoning
+• Kosher salt
+• Pepper
+• Pepperoni
+• Cooked bacon
+
+Steps:
+1. Preheat oven to 350
+2. In a blender combine tomatoes, garlic, onion, italian seasoning, salt, and pepper
+3. Blend until pureed
+4. Set pizza sauce aside
+5. In a medium bowl, combine cream cheese, sour cream and 2 ounces of shredded cheese
+6. Mix well until well combined
+7. Spread cream cheese mixture in an even layer over baking dish
+8. Pour blended pizza sauce over cream cheese mixture and evenly distribute with spatula
+9. Sprinkle remaining shredded cheese over pizza sauce
+10. Top pizza dip with bacon and pepperoni
+11. Bake for 20-25 minutes, until cheese is browned and bubbly<|endoftext|>

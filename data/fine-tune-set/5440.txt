@@ -1,0 +1,1 @@
+Make the sentence grammatical: The designers of the 3-D printer had ensured that their product appeal to a large consumer group by boosting its functionality.<|endoftext|>The designers of the 3-D printer have ensured that their product appeals to a large consumer group by boosting its functionality.<|endoftext|>

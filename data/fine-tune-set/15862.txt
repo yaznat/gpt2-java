@@ -1,0 +1,22 @@
+Give me a recipe for a burrito.<|endoftext|>Burritos Made Easy
+
+Ingredients:
+• Ground beef
+• Onion
+• Chili with beans
+• Chunky salsa
+• Green chilies
+• Flour tortillas
+• American cheese
+• Taco sauce
+• Lettuce
+
+Steps:
+1. In a large skillet, cook ground beef and onion over medium heat until meat is no longer pink
+2. Drain off fat
+3. To meat mixture, add canned chili, salsa, and green chilies
+4. Bring to a boil, reduce heat and simmer, uncovered, for 5 minutes
+5. Spoon about 1 / 2 cupful of beef mixture off-center on each tortilla
+6. Top each with a slice of cheese
+7. Roll up
+8. Serve with taco sauce and lettuce if desired<|endoftext|>

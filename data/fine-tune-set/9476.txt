@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: People will tend to go for simpler designs, because of the long time required to create a proper full design.<|endoftext|>People tend to go for simpler designs because of the long time required to create a proper full design.<|endoftext|>

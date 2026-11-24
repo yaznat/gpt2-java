@@ -1,0 +1,1 @@
+Make the sentence grammatical: Player is required to run all over the field to chase the ball and to return it to the opponent.<|endoftext|>A player is required to run all over the field to chase the ball and return it to the teammates.<|endoftext|>

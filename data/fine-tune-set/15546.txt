@@ -1,0 +1,20 @@
+Please generate a taco recipe.<|endoftext|>Asparagus Cheese Tacos
+
+Ingredients:
+• Corn tortillas
+• Asparagus
+• Monterey jack cheese
+• Cheddar cheese
+• Salt and pepper
+• Olive oil
+• Salsa
+• Avocado
+• Green onion
+• Tomatoes
+
+Steps:
+1. Prepare grill
+2. For each taco, spread 1 / 4 of the cheeses and 4 pcs of the asparagus on each tortilla, then season with salt and pepper
+3. Fold in half and lightly brush the outside with olive oil
+4. Grill for 3 minutes on each side or until the tortilla is crispy and cheese has melted
+5. Add any optional ingredients<|endoftext|>

@@ -1,0 +1,1 @@
+Remove all grammatical errors from this text: We made a reservation to a hotel nearby early July, and stayed one night.<|endoftext|>We made a reservation at a nearby hotel in early July and stayed one night.<|endoftext|>

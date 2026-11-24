@@ -1,0 +1,1 @@
+Improve the grammaticality of this text: There was in a small forest a bird not too big nor too small, he was average.<|endoftext|>There was in a small forest a bird not too big nor too small; he was average-sized.<|endoftext|>

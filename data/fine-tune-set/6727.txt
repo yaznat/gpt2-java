@@ -1,0 +1,1 @@
+Fix grammar in this sentence: She was expecting a letter of the local drama club, in which they would reveal the character list of their new play.<|endoftext|>She was expecting a letter from the local drama club, in which they would reveal the character list of their new play.<|endoftext|>

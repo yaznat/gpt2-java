@@ -1,0 +1,15 @@
+Please generate a cocktail recipe.<|endoftext|>Cookies Cream Cocktail
+
+Ingredients:
+• Oreo cookies
+• Milk
+• Ice cream
+• Baileys irish cream
+• Kahlua
+• Honey
+• Strawberry
+
+Steps:
+1. Add milk, ice cream, baileys and kahlua to crushed cookies and blend until well combined
+2. Drizzle honey on the inside of two cocktail glasses
+3. Pour cocktail into each glass and serve garnished with strawberries<|endoftext|>

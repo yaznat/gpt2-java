@@ -1,0 +1,13 @@
+Please give me a recipe for a smoothie.<|endoftext|>Berry Berry Smoothie
+
+Ingredients:
+• Low-fat blueberry yogurt
+• Grape juice
+• Frozen blueberries
+• Frozen blackberries
+
+Steps:
+1. In a blender container, combine yogurt and juice
+2. Blend to combine
+3. Add berries and process until smooth and thick
+4. Pour into glasses and serve immediately<|endoftext|>

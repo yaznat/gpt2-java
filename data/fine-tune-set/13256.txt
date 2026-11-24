@@ -1,0 +1,13 @@
+Generate a recipe for chicken.<|endoftext|>4 Ingredient Sweet And Spicy Chicken Wings
+
+Ingredients:
+• Chicken wings
+• Honey
+• Soy sauce
+• Barbecue sauce
+
+Steps:
+1. Preheat oven to 350 degrees
+2. Place wings in a greased 9 x 13 baking dish
+3. Combine sauces and honey and pour over the wings
+4. Bake for about an hour, or until juices run clear<|endoftext|>

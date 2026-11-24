@@ -1,0 +1,17 @@
+Generate a recipe for cake.<|endoftext|>7 Up Pound Cake
+
+Ingredients:
+• Butter
+• Sugar
+• Eggs
+• Cake flour
+• Lemon flavoring
+• Carbonated lemon-lime beverage
+
+Steps:
+1. Preheat oven to 300f and grease / flour a tube pan
+2. Cream butter and sugar together until light and fluffy
+3. Add eggs one at a time, beating after each one
+4. Add flour alternating with 7-up
+5. Stir in lemon flavoring
+6. Bake in prepared pan until cake tests done, approximately an hour<|endoftext|>

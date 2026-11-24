@@ -1,0 +1,19 @@
+Generate a recipe for fried rice.<|endoftext|>Better Than Takeout Chicken Fried Rice From Rachel Schultz
+
+Ingredients:
+• Rice
+• Boneless skinless chicken breast
+• Peas and carrots
+• White onion
+• Garlic cloves
+• Eggs
+• Sesame oil
+• Soy sauce
+
+Steps:
+1. Heat sesame oil in a large skillet on medium heat
+2. Add onion, garlic, peas, and carrots
+3. Stir fry until tender
+4. Crack eggs into pan and scramble, mixing throughout vegetables
+5. Add rice, and chicken to pan
+6. Stir in soy sauce and remove from heat<|endoftext|>

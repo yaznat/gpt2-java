@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: Nevertheless, nuclear power now is substantially cheaper and they are expected to be even lower in the near future through further research and development.<|endoftext|>Nevertheless, nuclear power is now substantially cheaper, and it is expected to be even lower in the near future through further research and development.<|endoftext|>

@@ -1,0 +1,18 @@
+Give me a omelette recipe.<|endoftext|>Menhaden Turkish Omelette
+
+Ingredients:
+• Eggs
+• Onions
+• Fresh parsley
+• Green peppers
+• Tomatoes
+• Butter
+• Salt
+
+Steps:
+1. In a medium bowl, whisk eggs well
+2. Add salt and whisk again
+3. In a frying pan, heat butter and saute the vegetables, except parsley, until almost done
+4. Add the eggs to the sauteed vegetables
+5. Add more salt if required
+6. Garnish with more parsley and serve hot<|endoftext|>

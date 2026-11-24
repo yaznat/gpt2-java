@@ -1,0 +1,14 @@
+Generate a recipe for an omelette.<|endoftext|>Apple Pie Omelette
+
+Ingredients:
+• Apple
+• Egg whites
+• Artificial sweetener
+• Cinnamon
+
+Steps:
+1. Core and dice the apple
+2. Sprinkle with sweetener and spices
+3. Microwave for approx 2 minutes
+4. Lightly whip the egg whites and cook in skillet until done
+5. Slide onto a plate, put apple mixture on one half then flip the other half of the omletter over<|endoftext|>

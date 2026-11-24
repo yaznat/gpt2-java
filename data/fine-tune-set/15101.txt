@@ -1,0 +1,21 @@
+Give me a recipe for pizza.<|endoftext|>Anytime Pizza Casserole
+
+Ingredients:
+• Ground beef
+• Onion
+• Vegetable oil
+• Garlic powder
+• Mozzarella cheese
+• Onion powder
+• Spaghetti sauce
+• Cooked macaroni
+• Pepperoni
+
+Steps:
+1. Brown beef and onion in oil
+2. Cook until onion is tender
+3. In a bowl, combine spaghetti sauce, garlic and onion powders
+4. Mix well and combine with the macaroni and the beef and onion mixture
+5. In a 2-quart casserole, layer the meat / macaroni mixture with the shredded cheese and pepperoni
+6. Ending with the cheese
+7. Bake, uncovered, in a preheated 350 degree oven for 30 minutes or until hot and bubbly<|endoftext|>

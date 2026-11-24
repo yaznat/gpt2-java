@@ -1,0 +1,18 @@
+What's a good burger recipe?<|endoftext|>Bbq Cheeseburger Rice
+
+Ingredients:
+• Ground beef
+• Barbecue sauce
+• Mustard
+• Dried onion
+• Pepper
+• Cooked rice
+• Cheddar cheese
+
+Steps:
+1. Brown ground beef, drain
+2. Add barbecue sauce, mustard, onion, and pepper
+3. Bring to a boil
+4. Stir in the rice
+5. Sprinkle with cheese
+6. Reduce heat, cover, and simmer 5 minutes<|endoftext|>

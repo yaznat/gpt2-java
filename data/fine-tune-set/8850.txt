@@ -1,0 +1,1 @@
+Fix grammaticality of the sentence: I have seen the advertisement of the vacancy in your cafe in the local newspaper and would like to apply for this position.<|endoftext|>I have seen the advertisement for the vacancy in your cafe in the local newspaper and would like to apply for this position.<|endoftext|>

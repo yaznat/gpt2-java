@@ -1,0 +1,1 @@
+Fix grammar in the sentence: I work at Japanese bar, and the work is so hard.<|endoftext|>I work at a Japanese bar, and the work is so hard.<|endoftext|>

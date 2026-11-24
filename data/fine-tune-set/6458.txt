@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: Such political circumstances changed the nature of design process, and consequently, loosen the safety regulations.<|endoftext|>Such political circumstances changed the nature of the design process and, consequently, loosened the safety regulations.<|endoftext|>

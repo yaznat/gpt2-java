@@ -1,0 +1,25 @@
+Generate a recipe for soup.<|endoftext|>Amish Chicken Corn Soup
+
+Ingredients:
+• Chicken
+• Water
+• Onion
+• Parsley
+• Celery
+• Corn
+• Salt and pepper
+• Flour
+• Egg
+• Milk
+
+Steps:
+1. Simmer chicken in boiling water until tender
+2. Remove bones and skin
+3. Strain the stock
+4. Return stock and chicken to pot
+5. Add onions, celery, corn and parsley
+6. Simmer till vegetables are tender
+7. Mix flour with egg and milk
+8. Rub mixture with fork till it crumbles
+9. Drop crumbs in soup
+10. Cook 10 more minutes covered<|endoftext|>

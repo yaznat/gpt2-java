@@ -1,0 +1,19 @@
+Generate a recipe for a burger.<|endoftext|>Baked Pizza Burgers
+
+Ingredients:
+• Ground beef
+• Onion
+• Dried oregano
+• Pizza sauce
+• Shredded cheddar cheese
+• Hamburger buns
+
+Steps:
+1. Heat oven to 375 degrees
+2. Brown ground beef with onion until no longer pink
+3. Drain
+4. In a large bowl combine ground beef, oregano, pizza sauce and cheese along with any other meats or vegetables you wish to add
+5. Mix well
+6. Spoon 2 heaping tablespoons of mixture on each bun half and place on cookie sheet
+7. Bake for 15 minutes or until cheese is melted
+8. Let set for a few minutes before serving<|endoftext|>

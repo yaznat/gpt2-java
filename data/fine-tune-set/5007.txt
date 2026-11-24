@@ -1,0 +1,1 @@
+Fix grammar in this sentence: The process of concept generation, product testing and product implementation requires lots of resources.<|endoftext|>The process of concept generation, product testing, and product implementation requires a lot of resources.<|endoftext|>

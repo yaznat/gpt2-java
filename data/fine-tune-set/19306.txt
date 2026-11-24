@@ -1,0 +1,15 @@
+Please generate a popsicle recipe.<|endoftext|>Pick Your Flavor Kool Aid Popsicles Frozen Treats
+
+Ingredients:
+• Gelatin powder
+• Sugar
+• Hot water
+• Powdered drink mix
+• Cold water
+
+Steps:
+1. In a large bowl mix together the jello with the hot water stirring until dissolved
+2. Mix in the kool-aid drink mix powder then the cold water
+3. Stir until completely dissolved
+4. Pour into popsicle molds
+5. Freeze until completely frozen<|endoftext|>

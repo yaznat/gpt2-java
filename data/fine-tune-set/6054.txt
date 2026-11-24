@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: And when I arrived, we made snowman and had snowball fight.<|endoftext|>And when I arrived, we made snowmen and had a snowball fight.<|endoftext|>

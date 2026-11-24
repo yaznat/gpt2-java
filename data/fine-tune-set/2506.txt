@@ -1,0 +1,1 @@
+Fix grammaticality in this sentence: My dad took even a photo of us with him.<|endoftext|>My dad even took a photo of us with him.<|endoftext|>

@@ -1,0 +1,1 @@
+Fix grammar errors in this sentence: Some people do not have enough money immunize but thanks to government, everyone can take it.<|endoftext|>Some people do not have enough money to immunize, but thanks to the government, everyone can take it.<|endoftext|>

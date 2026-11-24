@@ -1,0 +1,10 @@
+Generate a recipe for a smoothie.<|endoftext|>Blue Hawaii Smoothie
+
+Ingredients:
+• Frozen blueberries
+• Ice cubes
+• Pineapple juice
+• Banana
+
+Steps:
+1. Blend ingredients in blender<|endoftext|>

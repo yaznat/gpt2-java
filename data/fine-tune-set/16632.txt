@@ -1,0 +1,10 @@
+Give me a smoothie recipe.<|endoftext|>Basic Green Smoothie Raw Food
+
+Ingredients:
+• Orange juice
+• Berries
+• Kale
+• Spinach
+
+Steps:
+1. Throw ingredients in blender and process until smooth<|endoftext|>

@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: This premise leads to their conclusion that nothing could have been done, on the part of psychology, to change the situation should things went wrong.<|endoftext|>This premise leads to their conclusion that nothing could have been done, on the part of psychology, to change the situation should things go wrong.<|endoftext|>

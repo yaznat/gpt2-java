@@ -1,0 +1,10 @@
+Please generate a cocktail recipe.<|endoftext|>Border Crossing Cocktail
+
+Ingredients:
+• Tequila
+• Lime juice
+• Lemon juice
+• Cola
+
+Steps:
+1. Add tequila & juices to a glass with ice, top up with cola & garnish with a wedge of lime if desired<|endoftext|>

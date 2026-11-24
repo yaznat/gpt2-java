@@ -1,0 +1,19 @@
+Please generate a soup recipe.<|endoftext|>10 Minute Cream Of Mushroom Soup
+
+Ingredients:
+• Mushrooms
+• Water
+• Butter
+• Onion
+• All-purpose flour
+• Seasoning salt
+• Evaporated milk
+
+Steps:
+1. Drain mushroom liquid into a measuring cup, and add water to make 2 cups
+2. Melt butter in large saucepan over medium heat, add onion and cook until softened
+3. Remove from heat
+4. Stir in flour and seasoning salt
+5. Slowly add the mushroom liquid mixture and milk, stirring to prevent lumps
+6. Return to heat
+7. Add mushrooms and cook until mixture comes to a boil<|endoftext|>

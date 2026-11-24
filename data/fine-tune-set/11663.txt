@@ -1,0 +1,18 @@
+Please generate a cake recipe.<|endoftext|>8 Minute Cheesecake W Strawberries
+
+Ingredients:
+• Cream cheese
+• Granulated sugar
+• Sour cream
+• Vanilla extract
+• Non-dairy whipped topping
+• Graham cracker pie crust
+• Strawberry
+
+Steps:
+1. In a large mixing bowl beat cream cheese until softened
+2. Gradually add sugar
+3. Blend in sour cream and vanilla until well mixed
+4. Gently fold in non-dairy whipped topping, blending well
+5. Spoon into prepared graham cracker crust and chill
+6. Garnish with sliced strawberries<|endoftext|>

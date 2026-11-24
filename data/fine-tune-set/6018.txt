@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: In actual fact, much technical viability issues are waiting to be resolved.<|endoftext|>In actual fact, many technical viability issues are waiting to be resolved.<|endoftext|>

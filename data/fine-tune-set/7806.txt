@@ -1,0 +1,1 @@
+Improve the grammar of this text: This picture is of the hydrangea taken by the iPad's camera.<|endoftext|>This picture is of the hydrangea taken by my iPad's camera.<|endoftext|>

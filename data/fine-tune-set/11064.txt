@@ -1,0 +1,19 @@
+Give me a recipe for a sandwich.<|endoftext|>Apple Walnut Turkey Sandwiches
+
+Ingredients:
+• Mayonnaise
+• Celery
+• Raisins
+• Walnuts
+• Tart apple
+• Deli turkey
+• Sourdough bread
+• Lettuce leaf
+
+Steps:
+1. In a bowl, combine the mayonnaise, celery, raisins, and walnuts
+2. Stir in apple
+3. Season to taste with salt and pepper
+4. Set aside
+5. Place turkey on four slices of bread
+6. Top with apple mixture, lettuce, and remaining bread<|endoftext|>

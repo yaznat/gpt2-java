@@ -1,0 +1,1 @@
+Fix grammar in this sentence: When he grew up he struggled to pass his illness and he became a sane, strong, handsome young adult man.<|endoftext|>When he grew up, he struggled to overcome his illness, and he became a sane, strong, handsome young adult man.<|endoftext|>

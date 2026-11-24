@@ -1,0 +1,8 @@
+Please give me a recipe for coffee.<|endoftext|>Amarula Coffee
+
+Ingredients:
+• Amarula cream liqueur
+• Coffee
+
+Steps:
+1. Pour hot coffee into a cup and top up with amarula cream<|endoftext|>

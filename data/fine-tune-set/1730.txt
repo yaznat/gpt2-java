@@ -1,0 +1,1 @@
+Fix grammar in the sentence: Because of cell phone's appearance, our lives have changed.<|endoftext|>Because of the cell phone's appearance, our lives have changed.<|endoftext|>

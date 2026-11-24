@@ -1,0 +1,11 @@
+Please give me a recipe for a milkshake.<|endoftext|>Old Fashioned Chocolate Milkshake
+
+Ingredients:
+• Vanilla ice cream
+• Milk
+• Chocolate syrup
+
+Steps:
+1. Put all the ingredients in a blender
+2. Blend until smooth
+3. Serve in tall glasses with a straw<|endoftext|>

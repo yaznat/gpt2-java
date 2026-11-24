@@ -1,0 +1,1 @@
+Fix grammar in this sentence: In skysurfing you jump out of an airplane and use a board to "surf" the air, doing gymnastics in mid-air!<|endoftext|>In skysurfing, you jump out of an airplane and use a board to "surf" the air, doing gymnastics in mid-air!<|endoftext|>

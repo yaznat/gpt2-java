@@ -1,0 +1,21 @@
+Give me a chili recipe.<|endoftext|>All American Chili Mccormick
+
+Ingredients:
+• Lean ground beef
+• Onion
+• Chili powder
+• Cumin
+• Garlic salt
+• Oregano leaves
+• Kidney beans
+• Diced tomatoes
+• Low-sodium tomato sauce
+
+Steps:
+1. Cook ground beef and onion in large skillet on medium-high heat until beef is no longer pink, stirring occasionally
+2. Drain fat, if needed
+3. Stir in spices and remaining ingredients
+4. Bring to boil
+5. Reduce heat to low
+6. Cover and simmer 20 minutes, stirring occasionally
+7. Serve with shredded cheese, sour cream and chopped onion, if desired<|endoftext|>

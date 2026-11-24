@@ -1,0 +1,21 @@
+Please generate a soup recipe.<|endoftext|>Amazingly Simple Chicken Noodle Soup
+
+Ingredients:
+• Butter
+• Carrots
+• Green onions
+• Chicken broth
+• Bay leaf
+• Salt & pepper
+• Egg noodles
+• Cooked chicken
+• Frozen peas
+
+Steps:
+1. Cook carrots in melted butter 4 min
+2. Stir in onion, broth and bay leaf
+3. Season with salt and pepper to taste
+4. Bring to a boil, then simmer 5 min until carrots are almost tender
+5. Return to a boil
+6. Add noodles, chicken, peas and simmer until noodles are tender
+7. Enjoy<|endoftext|>

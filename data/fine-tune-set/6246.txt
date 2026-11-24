@@ -1,0 +1,1 @@
+Fix grammatical errors in this sentence: And with economic growth, the country becomes richer and the people enjoy a higher standard of living.<|endoftext|>And with economic growth, the country will become richer, and the people will enjoy a higher standard of living.<|endoftext|>

@@ -1,0 +1,20 @@
+Please generate a curry recipe.<|endoftext|>Cashew Curry
+
+Ingredients:
+• Olive oil
+• Cashews
+• Onions
+• Curry powder
+• Garlic
+• Ginger
+• Water
+• Firm tofu
+• Red peppers
+• Frozen peas
+
+Steps:
+1. Heat oil in skillet over medium heat
+2. Add cashews and onion a saute 5 minutes
+3. Reduce heat and add curry, garlic ginger, water, tofu and peppers
+4. Cover and cook 5 minutes
+5. Add peas and cook 5 minutes more<|endoftext|>

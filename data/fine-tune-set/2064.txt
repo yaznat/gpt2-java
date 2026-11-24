@@ -1,0 +1,1 @@
+Make the sentence grammatical: Even if my sky is blue, it will be sunny soon.<|endoftext|>Even if my sky is blue-gray, it will be sunny soon.<|endoftext|>

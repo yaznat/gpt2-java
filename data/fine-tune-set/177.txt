@@ -1,0 +1,1 @@
+Remove all grammatical errors from this text: I usually go to the train station for 10 minutes by bus, but this morning took 30 minutes due to terrible rain.<|endoftext|>I usually go to the train station for 10 minutes by bus, but this morning it took 30 minutes due to terrible rain.<|endoftext|>

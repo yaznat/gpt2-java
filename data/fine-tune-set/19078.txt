@@ -1,0 +1,16 @@
+Give me a recipe for ice cream.<|endoftext|>Balsamic Cherry Ice Cream Topping
+
+Ingredients:
+• Balsamic vinegar
+• Apple juice
+• Water
+• Sugar
+• Lemon, zest of
+• Cinnamon
+• Dried cherries
+
+Steps:
+1. Simmer together balsamic vinegar, apple juice, water and sugar until sugar is completely dissolved
+2. Add lemon zest, cinnamon and cherries
+3. Simmer on low heat until cherries are plump
+4. Wonderful drizzled over real vanilla ice cream<|endoftext|>

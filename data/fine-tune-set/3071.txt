@@ -1,0 +1,1 @@
+Fix grammar in this sentence: Therefore, at that time, we have to decide the right choice quickly.<|endoftext|>Therefore, at that time, they have to decide the right choice quickly.<|endoftext|>

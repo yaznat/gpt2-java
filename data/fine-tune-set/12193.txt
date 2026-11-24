@@ -1,0 +1,18 @@
+Generate a recipe for pie.<|endoftext|>Apple Pie 3
+
+Ingredients:
+• Water
+• Sugar
+• Soda crackers
+• Margarine
+• Cream of tartar
+• Cinnamon
+• Nutmeg
+• Pastry for double-crust pie
+
+Steps:
+1. Preheat oven to 350f
+2. Line pie tin with bottom crust
+3. Combine the rest of the ingredients and place in crust
+4. Cover with top crust, crimp edges attractively and pierce evenly all over with a fork to release the steam
+5. Bake for 35 minutes or until crust is golden brown<|endoftext|>

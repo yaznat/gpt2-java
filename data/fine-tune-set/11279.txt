@@ -1,0 +1,15 @@
+Give me a recipe for sushi.<|endoftext|>Sushi Now Sushi Rice
+
+Ingredients:
+• Long-grain white rice
+• Rice vinegar
+• Sugar
+• Salt
+
+Steps:
+1. Cook rice according to package directions
+2. Stir in remaining ingredients until combined
+3. Cool to room temperature
+4. I advise starting with just a teaspoon of salt and adding as needed as it depends on the vinegar that you have etc
+5. That will determine how salty this rice will be
+6. I have found playing around by adding bit by bit of the vinegar and sugar will give you the taste you're looking for<|endoftext|>

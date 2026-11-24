@@ -1,0 +1,13 @@
+Give me a recipe for bread.<|endoftext|>Anchovy Breadcrumb Pasta
+
+Ingredients:
+• Olive oil
+• Anchovy
+• Italian breadcrumbs
+• Pasta
+
+Steps:
+1. Heat olive oil in skillet add liquid from anchovies
+2. Chop up anchovies and put in skillet on medium heat, for just a couple minutes
+3. Turn skillet off, add bread crumbs and stir thoroughly
+4. Pour over pasta<|endoftext|>

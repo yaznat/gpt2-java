@@ -1,0 +1,1 @@
+Improve the grammaticality of this sentence: After studying our advertising options, it was found that two of them can be suitable for our purpose.<|endoftext|>After studying our advertising options, it was found that two of them could be suitable for our purpose.<|endoftext|>

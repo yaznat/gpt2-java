@@ -1,0 +1,23 @@
+Generate a recipe for muffins.<|endoftext|>Apple And Cheddar Corn Muffins
+
+Ingredients:
+• Flour
+• Yellow cornmeal
+• Baking powder
+• Apple
+• Frozen corn
+• Low-fat cheddar cheese
+• Sugar
+• Cinnamon
+• Nutmeg
+• Canola oil
+• Eggs
+
+Steps:
+1. Preheat oven to 400
+2. Line 12 muffin cups with paper baking cups
+3. In large bowl, combine flour, cornmeal, and baking powder
+4. Add apples, corn, cheese, sugar, cinnamon, nutmg, stir to combine
+5. In small bowl, beat eggs and oil
+6. Stir into flour mixture
+7. Fill baking cups and bake for 15 minutes<|endoftext|>

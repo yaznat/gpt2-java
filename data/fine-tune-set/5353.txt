@@ -1,0 +1,1 @@
+Fix grammar in this sentence: In 2006, roughly twenty-five percents of the Japanese population was over the working age and approximately eighteen percents was under the working age.<|endoftext|>In 2006, roughly twenty-five percent of the Japanese population was over the working age, and approximately eighteen percent was under the working age.<|endoftext|>

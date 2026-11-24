@@ -1,0 +1,18 @@
+Please generate a ice cream recipe.<|endoftext|>Best Ever Low Fat Custard Ice Cream
+
+Ingredients:
+• Fat-free sweetened condensed milk
+• Fat-free evaporated milk
+• Eggs
+• Sugar
+• Flour
+• Salt
+• Vanilla flavoring
+• Skim milk
+
+Steps:
+1. Put eggs, sugar, flour, and part of milk in blender
+2. Blend well
+3. Add remaining ingredients
+4. Cook on low heat until the mixture thickens slightly
+5. Cool and refrigerate until you are ready to churn<|endoftext|>

@@ -1,0 +1,22 @@
+Please generate a fried rice recipe.<|endoftext|>Ham Fried Rice
+
+Ingredients:
+• Cooked rice
+• Oil
+• Garlic
+• Onion
+• Soy sauce
+• Eggs
+• Ham
+• Teriyaki sauce
+• Peas
+
+Steps:
+1. In a wok or frying pan heat 2 tbsp oil
+2. Add onions and garlic
+3. Saut until onions are tender
+4. Add rice, soy sauce, eggs, teriyaki sauce and ham
+5. Let sit 10-15 minutes stirring occasionally
+6. The less you stir it the more crunchiness there will be
+7. Add peas, cover and let stand 5 minutes
+8. Garnish with green onions and sesame seeds<|endoftext|>

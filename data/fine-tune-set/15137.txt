@@ -1,0 +1,34 @@
+Please generate a pizza recipe.<|endoftext|>Bacon Cheeseburger Upside Down Pizza
+
+Ingredients:
+• Lean ground beef
+• Onion
+• Bell pepper
+• Bacon
+• Pizza sauce
+• Italian plum tomatoes
+• Cheddar cheese
+• Eggs
+• Milk
+• Oil
+• All-purpose flour
+• Salt
+
+Steps:
+1. Heat oven to 400 degrees f
+2. In large saucepan, brown ground beef with onion and bell pepper
+3. Drain
+4. Stir in 6 slices crumbled bacon and pizza sauce
+5. Spoon into ungreased 13 x 9-inch baking dish
+6. Sprinkle evenly with tomatoes
+7. Top with cheese slices
+8. In medium bowl, beat eggs slightly
+9. Add milk and oil
+10. Mix well
+11. Lightly spoon flour into measuring cup
+12. Level off
+13. Add flour and salt
+14. Beat 2 minutes at medium speed
+15. Pour evenly over cheese slices
+16. Sprinkle with crumbled bacon
+17. Bake at 400 degrees f for 20 to 30 minutes or until topping is slightly puffed and deep golden brown<|endoftext|>

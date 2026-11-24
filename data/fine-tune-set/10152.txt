@@ -1,0 +1,22 @@
+Please generate a chili recipe.<|endoftext|>Barley Chili
+
+Ingredients:
+• Lean ground beef
+• Onion
+• All-purpose flour
+• Water
+• Pearl barley
+• Tomato sauce
+• Beef bouillon granules
+• Chili powder
+• Ground cumin
+• Salt
+• Dried oregano
+
+Steps:
+1. In a large saucepan, cook beef and onion over medium heat until meat is no longer pink
+2. Drain
+3. Stir in flour
+4. Add the remaining ingredients
+5. Bring to a boil
+6. Reduce heat, simmer, uncovered, for 1 hour or until barley is tender<|endoftext|>

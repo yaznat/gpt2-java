@@ -1,0 +1,1 @@
+Fix grammatical mistakes in this sentence: " Are you two the people who will make their skill test? "<|endoftext|>" Are you two the people who will do their skill test? "<|endoftext|>

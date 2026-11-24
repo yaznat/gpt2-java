@@ -1,0 +1,11 @@
+Give me a recipe for stew.<|endoftext|>Amish Stewed Crackers
+
+Ingredients:
+• Butter
+• Milk
+• Ritz crackers
+
+Steps:
+1. Brown butter in a pan, then add milk
+2. When hot, pour over crackers & let milk soak inches
+3. Serve with eggs for breakfast<|endoftext|>

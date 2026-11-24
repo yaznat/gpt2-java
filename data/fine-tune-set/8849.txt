@@ -1,0 +1,1 @@
+Make the sentence grammatical: Therefore, it should be better if we develop reactors that can generate hydrogen fuel rather than ones that can only generate electricity.<|endoftext|>Therefore, it would be better if we develop reactors that can generate hydrogen fuel rather than ones that can only generate electricity.<|endoftext|>

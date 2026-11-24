@@ -1,0 +1,20 @@
+Can you give me a pizza recipe?<|endoftext|>Absolutely Yummy Vegetable Pizza
+
+Ingredients:
+• Prepared pizza crust
+• Cauliflower
+• Broccoli
+• Carrot
+• Red bell pepper
+• Mushroom
+• Mozzarella cheese
+• Cream cheese
+• Ranch salad dressing
+• Sour cream
+
+Steps:
+1. In a bowl, mix the sour cream, ranch dressing, and cream cheese together until mixture is smooth
+2. Spread mixture evenly on top of pizza crust
+3. Spread vegetables evenly across pizza
+4. Cover pizza with cheese
+5. Bake at 500 degrees for five minutes or follow your pizza crust instructions<|endoftext|>

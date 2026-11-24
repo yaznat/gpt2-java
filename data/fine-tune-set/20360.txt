@@ -1,0 +1,18 @@
+Generate a recipe for a casserole.<|endoftext|>1 2 3 4 Tater Tot Casserole
+
+Ingredients:
+• Extra lean ground beef
+• Cream of mushroom soup
+• Cheddar cheese
+• Frozen tater tots
+
+Steps:
+1. Preheat oven to 350f
+2. Brown ground beef until all pink is gone
+3. Drain any grease
+4. Put ground beef in the bottom of a greased 13x9x2-inch pan
+5. Spread cream of mushroom soup on top of ground beef
+6. Cover with grated cheese
+7. Top with tater tots
+8. Cover with foil and bake covered 45 minutes
+9. Uncover and bake for 15 more minutes<|endoftext|>
